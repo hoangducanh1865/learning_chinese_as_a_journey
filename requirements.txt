@@ -1,0 +1,17 @@
+numpy==2.0.2
+soundfile==0.13.1
+piper-tts==1.4.2
+onnxruntime==1.19.2
+
+jieba==0.42.1
+pypinyin==0.55.0
+
+requests==2.32.5
+
+paddlepaddle==2.6.2
+paddleocr==2.7.0.0
+opencv-python==4.13.0.92
+
+PyMuPDF==1.26.5
+openpyxl==3.1.5
+pandas==2.3.3

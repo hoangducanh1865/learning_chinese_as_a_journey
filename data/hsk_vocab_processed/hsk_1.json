@@ -1,0 +1,5185 @@
+{
+    "爱": {
+        "id": 1,
+        "pinyin": "ài",
+        "vietnamese": [
+            "yêu"
+        ],
+        "english": [
+            "love, like"
+        ]
+    },
+    "爱好": {
+        "id": 2,
+        "pinyin": "àihào",
+        "vietnamese": [
+            "sở thích"
+        ],
+        "english": [
+            "hobby"
+        ]
+    },
+    "八": {
+        "id": 3,
+        "pinyin": "bā",
+        "vietnamese": [
+            "số 8"
+        ],
+        "english": [
+            "eight"
+        ]
+    },
+    "爸爸": {
+        "id": 4,
+        "pinyin": "bàba",
+        "vietnamese": [
+            "bố, ba, cha"
+        ],
+        "english": [
+            "father, dad"
+        ]
+    },
+    "爸": {
+        "id": 5,
+        "pinyin": "bà",
+        "vietnamese": [
+            "bố, ba, cha"
+        ],
+        "english": [
+            "father, dad"
+        ]
+    },
+    "吧": {
+        "id": 6,
+        "pinyin": "ba",
+        "vietnamese": [
+            "nào, nhé, chứ, đi (trợ từ)"
+        ],
+        "english": [
+            "used at the end of an imperative sentence to indicate a suggestion; turn a declarative sentence into an interrogative sentence to indicate that one is sure about his or her conjecture"
+        ]
+    },
+    "白": {
+        "id": 7,
+        "pinyin": "bái",
+        "vietnamese": [
+            "trắng"
+        ],
+        "english": [
+            "white"
+        ]
+    },
+    "白天": {
+        "id": 8,
+        "pinyin": "báitiān",
+        "vietnamese": [
+            "ban ngày"
+        ],
+        "english": [
+            "day, daytime"
+        ]
+    },
+    "百": {
+        "id": 9,
+        "pinyin": "bǎi",
+        "vietnamese": [
+            "một trăm"
+        ],
+        "english": [
+            "hundred"
+        ]
+    },
+    "班": {
+        "id": 10,
+        "pinyin": "bān",
+        "vietnamese": [
+            "lớp (học)"
+        ],
+        "english": [
+            "(n) class"
+        ]
+    },
+    "半": {
+        "id": 11,
+        "pinyin": "bàn",
+        "vietnamese": [
+            "một nửa"
+        ],
+        "english": [
+            "half"
+        ]
+    },
+    "半年": {
+        "id": 12,
+        "pinyin": "bànnián",
+        "vietnamese": [
+            "nửa năm"
+        ],
+        "english": [
+            "half a year"
+        ]
+    },
+    "半天": {
+        "id": 13,
+        "pinyin": "bàntiān",
+        "vietnamese": [
+            "nửa ngày"
+        ],
+        "english": [
+            "half a day; quite a white"
+        ]
+    },
+    "帮": {
+        "id": 14,
+        "pinyin": "bāng",
+        "vietnamese": [
+            "giúp đỡ"
+        ],
+        "english": [
+            "help"
+        ]
+    },
+    "帮忙": {
+        "id": 15,
+        "pinyin": "bāngmáng",
+        "vietnamese": [
+            "giúp đỡ"
+        ],
+        "english": [
+            "help, give a hand, do somebody a favor"
+        ]
+    },
+    "包": {
+        "id": 16,
+        "pinyin": "bāo",
+        "vietnamese": [
+            "bao, cái túi; gói, bọc"
+        ],
+        "english": [
+            "(n) bag",
+            "(m) a measure word for packaged things",
+            "(v) parcel up, wrap"
+        ]
+    },
+    "包子": {
+        "id": 17,
+        "pinyin": "bāozi",
+        "vietnamese": [
+            "bánh bao"
+        ],
+        "english": [
+            "steamed stuffed bun"
+        ]
+    },
+    "杯": {
+        "id": 18,
+        "pinyin": "bēi",
+        "vietnamese": [
+            "cốc, ly"
+        ],
+        "english": [
+            "a measure word for cups"
+        ]
+    },
+    "杯子": {
+        "id": 19,
+        "pinyin": "bēizi",
+        "vietnamese": [
+            "cốc, chén, ly"
+        ],
+        "english": [
+            "cup"
+        ]
+    },
+    "北": {
+        "id": 20,
+        "pinyin": "běi",
+        "vietnamese": [
+            "bắc"
+        ],
+        "english": [
+            "north"
+        ]
+    },
+    "北边": {
+        "id": 21,
+        "pinyin": "běibian",
+        "vietnamese": [
+            "phía bắc"
+        ],
+        "english": [
+            "north (side)"
+        ]
+    },
+    "北京": {
+        "id": 22,
+        "pinyin": "Běijīng",
+        "vietnamese": [
+            "Bắc Kinh"
+        ],
+        "english": [
+            "Beijing"
+        ]
+    },
+    "本": {
+        "id": 23,
+        "pinyin": "běn",
+        "vietnamese": [
+            "cuốn, quyển, tập"
+        ],
+        "english": [
+            "a measure word for books"
+        ]
+    },
+    "本子": {
+        "id": 24,
+        "pinyin": "běnzi",
+        "vietnamese": [
+            "vở, cuốn vở"
+        ],
+        "english": [
+            "notebook"
+        ]
+    },
+    "比": {
+        "id": 25,
+        "pinyin": "bǐ",
+        "vietnamese": [
+            "so, so với"
+        ],
+        "english": [
+            "(prep) than",
+            "(v) compare"
+        ]
+    },
+    "别": {
+        "id": 26,
+        "pinyin": "bié",
+        "vietnamese": [
+            "đừng, không được"
+        ],
+        "english": [
+            "don't"
+        ]
+    },
+    "别的": {
+        "id": 27,
+        "pinyin": "bié de",
+        "vietnamese": [
+            "cái khác"
+        ],
+        "english": [
+            "other"
+        ]
+    },
+    "别人": {
+        "id": 28,
+        "pinyin": "biérén",
+        "vietnamese": [
+            "người khác, người ta"
+        ],
+        "english": [
+            "others"
+        ]
+    },
+    "病": {
+        "id": 29,
+        "pinyin": "bìng",
+        "vietnamese": [
+            "bệnh"
+        ],
+        "english": [
+            "disease"
+        ]
+    },
+    "病人": {
+        "id": 30,
+        "pinyin": "bìngrén",
+        "vietnamese": [
+            "bệnh nhân"
+        ],
+        "english": [
+            "patient"
+        ]
+    },
+    "不大": {
+        "id": 31,
+        "pinyin": "bù dà",
+        "vietnamese": [
+            "nhỏ, không lớn"
+        ],
+        "english": [
+            "not very"
+        ]
+    },
+    "不对": {
+        "id": 32,
+        "pinyin": "bùduì",
+        "vietnamese": [
+            "không đúng"
+        ],
+        "english": [
+            "wrong"
+        ]
+    },
+    "不客气": {
+        "id": 33,
+        "pinyin": "bù kèqi",
+        "vietnamese": [
+            "không có gì"
+        ],
+        "english": [
+            "You’re welcome"
+        ]
+    },
+    "不用": {
+        "id": 34,
+        "pinyin": "bùyòng",
+        "vietnamese": [
+            "không cần"
+        ],
+        "english": [
+            "don't have to"
+        ]
+    },
+    "不": {
+        "id": 35,
+        "pinyin": "bù",
+        "vietnamese": [
+            "không"
+        ],
+        "english": [
+            "Not"
+        ]
+    },
+    "菜": {
+        "id": 36,
+        "pinyin": "cài",
+        "vietnamese": [
+            "đồ ăn, món ăn"
+        ],
+        "english": [
+            "dish"
+        ]
+    },
+    "茶": {
+        "id": 37,
+        "pinyin": "chá",
+        "vietnamese": [
+            "trà"
+        ],
+        "english": [
+            "tea"
+        ]
+    },
+    "差": {
+        "id": 38,
+        "pinyin": "chà",
+        "vietnamese": [
+            "thiếu, kém"
+        ],
+        "english": [
+            "(v) be less than; (adj) poor, not up to standard"
+        ]
+    },
+    "常": {
+        "id": 39,
+        "pinyin": "cháng",
+        "vietnamese": [
+            "thường"
+        ],
+        "english": [
+            "often"
+        ]
+    },
+    "常常": {
+        "id": 40,
+        "pinyin": "chángcháng",
+        "vietnamese": [
+            "thường thường"
+        ],
+        "english": [
+            "often"
+        ]
+    },
+    "唱": {
+        "id": 41,
+        "pinyin": "chàng",
+        "vietnamese": [
+            "hát"
+        ],
+        "english": [
+            "sing"
+        ]
+    },
+    "唱歌": {
+        "id": 42,
+        "pinyin": "chànggē",
+        "vietnamese": [
+            "hát, ca hát"
+        ],
+        "english": [
+            "sing a song"
+        ]
+    },
+    "车": {
+        "id": 43,
+        "pinyin": "chē",
+        "vietnamese": [
+            "xe"
+        ],
+        "english": [
+            "vehicle"
+        ]
+    },
+    "车票": {
+        "id": 44,
+        "pinyin": "chēpiào",
+        "vietnamese": [
+            "vé xe"
+        ],
+        "english": [
+            "ticket"
+        ]
+    },
+    "车上": {
+        "id": 45,
+        "pinyin": "chē shàng",
+        "vietnamese": [
+            "trên xe"
+        ],
+        "english": [
+            "in the car, on a bus, etc"
+        ]
+    },
+    "车站": {
+        "id": 46,
+        "pinyin": "chēzhàn",
+        "vietnamese": [
+            "bến xe"
+        ],
+        "english": [
+            "station, stop"
+        ]
+    },
+    "吃": {
+        "id": 47,
+        "pinyin": "chī",
+        "vietnamese": [
+            "ăn"
+        ],
+        "english": [
+            "eat"
+        ]
+    },
+    "吃饭": {
+        "id": 48,
+        "pinyin": "chīfàn",
+        "vietnamese": [
+            "ăn cơm"
+        ],
+        "english": [
+            "have a meal"
+        ]
+    },
+    "出": {
+        "id": 49,
+        "pinyin": "chū",
+        "vietnamese": [
+            "ra, xuất"
+        ],
+        "english": [
+            "go/ come out"
+        ]
+    },
+    "出来": {
+        "id": 50,
+        "pinyin": "chūlái",
+        "vietnamese": [
+            "xuất hiện, đi ra"
+        ],
+        "english": [
+            "come out"
+        ]
+    },
+    "出去": {
+        "id": 51,
+        "pinyin": "chūqù",
+        "vietnamese": [
+            "ra, ra ngoài"
+        ],
+        "english": [
+            "go out"
+        ]
+    },
+    "穿": {
+        "id": 52,
+        "pinyin": "chuān",
+        "vietnamese": [
+            "mặc"
+        ],
+        "english": [
+            "wear"
+        ]
+    },
+    "床": {
+        "id": 53,
+        "pinyin": "chuáng",
+        "vietnamese": [
+            "giường, đệm"
+        ],
+        "english": [
+            "bed"
+        ]
+    },
+    "次": {
+        "id": 54,
+        "pinyin": "cì",
+        "vietnamese": [
+            "lần"
+        ],
+        "english": [
+            "(measure word for times, frequency)"
+        ]
+    },
+    "从": {
+        "id": 55,
+        "pinyin": "cóng",
+        "vietnamese": [
+            "từ, qua, theo"
+        ],
+        "english": [
+            "from"
+        ]
+    },
+    "错": {
+        "id": 56,
+        "pinyin": "cuò",
+        "vietnamese": [
+            "sai"
+        ],
+        "english": [
+            "(adj) wrong; (n) mistake"
+        ]
+    },
+    "打": {
+        "id": 57,
+        "pinyin": "dǎ",
+        "vietnamese": [
+            "đánh, bắt"
+        ],
+        "english": [
+            "hit, take"
+        ]
+    },
+    "打车": {
+        "id": 58,
+        "pinyin": "dǎchē",
+        "vietnamese": [
+            "bắt xe"
+        ],
+        "english": [
+            "take a taxi"
+        ]
+    },
+    "打电话": {
+        "id": 59,
+        "pinyin": "dǎ diànhuà",
+        "vietnamese": [
+            "gọi điện"
+        ],
+        "english": [
+            "make a phone call"
+        ]
+    },
+    "打开": {
+        "id": 60,
+        "pinyin": "dǎkāi",
+        "vietnamese": [
+            "mở, mở ra"
+        ],
+        "english": [
+            "turn on; open"
+        ]
+    },
+    "打球": {
+        "id": 61,
+        "pinyin": "dǎqiú",
+        "vietnamese": [
+            "chơi bóng"
+        ],
+        "english": [
+            "play ball"
+        ]
+    },
+    "大": {
+        "id": 62,
+        "pinyin": "dà",
+        "vietnamese": [
+            "to, lớn"
+        ],
+        "english": [
+            "large, big"
+        ]
+    },
+    "大学": {
+        "id": 63,
+        "pinyin": "dàxué",
+        "vietnamese": [
+            "đại học"
+        ],
+        "english": [
+            "university"
+        ]
+    },
+    "大学生": {
+        "id": 64,
+        "pinyin": "dàxuéshēng",
+        "vietnamese": [
+            "sinh viên đại học"
+        ],
+        "english": [
+            "university student, college student"
+        ]
+    },
+    "到": {
+        "id": 65,
+        "pinyin": "dào",
+        "vietnamese": [
+            "đến, tới"
+        ],
+        "english": [
+            "arrive, get to"
+        ]
+    },
+    "得到": {
+        "id": 66,
+        "pinyin": "dédào",
+        "vietnamese": [
+            "đạt được, nhận được"
+        ],
+        "english": [
+            "get, receive, gain, obtain"
+        ]
+    },
+    "地": {
+        "id": 67,
+        "pinyin": "de",
+        "vietnamese": [
+            "đất, lục địa; trái đất"
+        ],
+        "english": [
+            "a structural particle used after an adverbial"
+        ]
+    },
+    "的": {
+        "id": 68,
+        "pinyin": "de",
+        "vietnamese": [
+            "của (biểu thị sự sở hữu)"
+        ],
+        "english": [
+            "a structural particle placed between the attributive and the word attributive modifies"
+        ]
+    },
+    "等": {
+        "id": 69,
+        "pinyin": "děng",
+        "vietnamese": [
+            "đợi, chờ"
+        ],
+        "english": [
+            "wait"
+        ]
+    },
+    "地点": {
+        "id": 70,
+        "pinyin": "dìdiǎn",
+        "vietnamese": [
+            "địa điểm, nơi chốn"
+        ],
+        "english": [
+            "site, place, venue"
+        ]
+    },
+    "地方": {
+        "id": 71,
+        "pinyin": "dìfāng",
+        "vietnamese": [
+            "nơi, địa phương"
+        ],
+        "english": [
+            "place, space, room"
+        ]
+    },
+    "地上": {
+        "id": 72,
+        "pinyin": "dìshàng",
+        "vietnamese": [
+            "trên mặt đất"
+        ],
+        "english": [
+            "on the ground"
+        ]
+    },
+    "地图": {
+        "id": 73,
+        "pinyin": "dìtú",
+        "vietnamese": [
+            "bản đồ"
+        ],
+        "english": [
+            "map"
+        ]
+    },
+    "弟弟": {
+        "id": 74,
+        "pinyin": "dìdi",
+        "vietnamese": [
+            "em trai"
+        ],
+        "english": [
+            "younger brother"
+        ]
+    },
+    "弟": {
+        "id": 75,
+        "pinyin": "dì",
+        "vietnamese": [
+            "em trai"
+        ],
+        "english": [
+            "younger brother"
+        ]
+    },
+    "第": {
+        "id": 76,
+        "pinyin": "dì",
+        "vietnamese": [
+            "thứ … (số thứ tự)"
+        ],
+        "english": [
+            "auxiliary word for ordinal numbers (second )"
+        ]
+    },
+    "点": {
+        "id": 77,
+        "pinyin": "diǎn",
+        "vietnamese": [
+            "ít, chút, hơi"
+        ],
+        "english": [
+            "(m) a little, a bit; o'clock; (n) stain, spot"
+        ]
+    },
+    "电": {
+        "id": 78,
+        "pinyin": "diàn",
+        "vietnamese": [
+            "điện, pin"
+        ],
+        "english": [
+            "electricity"
+        ]
+    },
+    "电话": {
+        "id": 79,
+        "pinyin": "diànhuà",
+        "vietnamese": [
+            "điện thoại"
+        ],
+        "english": [
+            "phone, phone call"
+        ]
+    },
+    "电脑": {
+        "id": 80,
+        "pinyin": "diànnǎo",
+        "vietnamese": [
+            "máy tính"
+        ],
+        "english": [
+            "Computer"
+        ]
+    },
+    "电视": {
+        "id": 81,
+        "pinyin": "diànshì",
+        "vietnamese": [
+            "truyền hình; TV"
+        ],
+        "english": [
+            "television"
+        ]
+    },
+    "电视机": {
+        "id": 82,
+        "pinyin": "diànshì jī",
+        "vietnamese": [
+            "(chiếc) TV"
+        ],
+        "english": [
+            "television"
+        ]
+    },
+    "电影": {
+        "id": 83,
+        "pinyin": "diànyǐng",
+        "vietnamese": [
+            "điện ảnh, phim"
+        ],
+        "english": [
+            "movie"
+        ]
+    },
+    "电影院": {
+        "id": 84,
+        "pinyin": "diànyǐngyuàn",
+        "vietnamese": [
+            "rạp chiếu phim"
+        ],
+        "english": [
+            "cinema; movie theater"
+        ]
+    },
+    "东": {
+        "id": 85,
+        "pinyin": "dōng",
+        "vietnamese": [
+            "đông"
+        ],
+        "english": [
+            "east"
+        ]
+    },
+    "东边": {
+        "id": 86,
+        "pinyin": "dōngbian",
+        "vietnamese": [
+            "phía đông"
+        ],
+        "english": [
+            "east (side)"
+        ]
+    },
+    "东西": {
+        "id": 87,
+        "pinyin": "dōngxi",
+        "vietnamese": [
+            "đồ đạc, đồ, vật"
+        ],
+        "english": [
+            "thing"
+        ]
+    },
+    "动": {
+        "id": 88,
+        "pinyin": "dòng",
+        "vietnamese": [
+            "động, chạm"
+        ],
+        "english": [
+            "move, act; use"
+        ]
+    },
+    "动作": {
+        "id": 89,
+        "pinyin": "dòngzuò",
+        "vietnamese": [
+            "động tác, hoạt động"
+        ],
+        "english": [
+            "action"
+        ]
+    },
+    "都": {
+        "id": 90,
+        "pinyin": "dōu",
+        "vietnamese": [
+            "đều"
+        ],
+        "english": [
+            "all, both"
+        ]
+    },
+    "读": {
+        "id": 91,
+        "pinyin": "dú",
+        "vietnamese": [
+            "đọc"
+        ],
+        "english": [
+            "read"
+        ]
+    },
+    "读书": {
+        "id": 92,
+        "pinyin": "dúshū",
+        "vietnamese": [
+            "đọc sách"
+        ],
+        "english": [
+            "reading; study"
+        ]
+    },
+    "对": {
+        "id": 93,
+        "pinyin": "duì",
+        "vietnamese": [
+            "đúng"
+        ],
+        "english": [
+            "right"
+        ]
+    },
+    "对不起": {
+        "id": 94,
+        "pinyin": "duìbuqǐ",
+        "vietnamese": [
+            "xin lỗi"
+        ],
+        "english": [
+            "sorry"
+        ]
+    },
+    "多": {
+        "id": 95,
+        "pinyin": "duō",
+        "vietnamese": [
+            "nhiều (đại từ nghi vấn) bao"
+        ],
+        "english": [
+            "many, much, more"
+        ]
+    },
+    "多少": {
+        "id": 96,
+        "pinyin": "duōshao",
+        "vietnamese": [
+            "bao nhiêu"
+        ],
+        "english": [
+            "how much, how many"
+        ]
+    },
+    "饿": {
+        "id": 97,
+        "pinyin": "è",
+        "vietnamese": [
+            "đói"
+        ],
+        "english": [
+            "hungry"
+        ]
+    },
+    "儿子": {
+        "id": 98,
+        "pinyin": "érzi",
+        "vietnamese": [
+            "con trai"
+        ],
+        "english": [
+            "Son"
+        ]
+    },
+    "二": {
+        "id": 99,
+        "pinyin": "èr",
+        "vietnamese": [
+            "số 2"
+        ],
+        "english": [
+            "two"
+        ]
+    },
+    "饭": {
+        "id": 100,
+        "pinyin": "fàn",
+        "vietnamese": [
+            "cơm"
+        ],
+        "english": [
+            "rice; meal"
+        ]
+    },
+    "饭店": {
+        "id": 101,
+        "pinyin": "fàndiàn",
+        "vietnamese": [
+            "quán ăn, nhà hàng"
+        ],
+        "english": [
+            "restaurant"
+        ]
+    },
+    "房间": {
+        "id": 102,
+        "pinyin": "fángjiān",
+        "vietnamese": [
+            "căn phòng"
+        ],
+        "english": [
+            "Room"
+        ]
+    },
+    "房子": {
+        "id": 103,
+        "pinyin": "fángzi",
+        "vietnamese": [
+            "căn nhà, căn hộ"
+        ],
+        "english": [
+            "house; building"
+        ]
+    },
+    "放": {
+        "id": 104,
+        "pinyin": "fàng",
+        "vietnamese": [
+            "thả, đặt, để"
+        ],
+        "english": [
+            "put"
+        ]
+    },
+    "放假": {
+        "id": 105,
+        "pinyin": "fàngjià",
+        "vietnamese": [
+            "nghỉ, nghỉ định kỳ"
+        ],
+        "english": [
+            "holiday; have a holiday"
+        ]
+    },
+    "放学": {
+        "id": 106,
+        "pinyin": "fàngxué",
+        "vietnamese": [
+            "tan học"
+        ],
+        "english": [
+            "off school"
+        ]
+    },
+    "飞": {
+        "id": 107,
+        "pinyin": "fēi",
+        "vietnamese": [
+            "bay"
+        ],
+        "english": [
+            "fly"
+        ]
+    },
+    "飞机": {
+        "id": 108,
+        "pinyin": "fēijī",
+        "vietnamese": [
+            "máy bay"
+        ],
+        "english": [
+            "plane"
+        ]
+    },
+    "非常": {
+        "id": 109,
+        "pinyin": "fēicháng",
+        "vietnamese": [
+            "vô cùng, hết sức, rất"
+        ],
+        "english": [
+            "very"
+        ]
+    },
+    "分": {
+        "id": 110,
+        "pinyin": "fēn",
+        "vietnamese": [
+            "phút"
+        ],
+        "english": [
+            "(m) minute; (n) point, score"
+        ]
+    },
+    "风": {
+        "id": 111,
+        "pinyin": "fēng",
+        "vietnamese": [
+            "gió"
+        ],
+        "english": [
+            "wind"
+        ]
+    },
+    "干": {
+        "id": 112,
+        "pinyin": "gān",
+        "vietnamese": [
+            "khô"
+        ],
+        "english": [
+            "dry"
+        ]
+    },
+    "干净": {
+        "id": 113,
+        "pinyin": "gānjìng",
+        "vietnamese": [
+            "sạch sẽ"
+        ],
+        "english": [
+            "clean"
+        ]
+    },
+    "干什么": {
+        "id": 114,
+        "pinyin": "gànshénme",
+        "vietnamese": [
+            "làm gì đó"
+        ],
+        "english": [
+            "What to do"
+        ]
+    },
+    "高": {
+        "id": 115,
+        "pinyin": "gāo",
+        "vietnamese": [
+            "cao"
+        ],
+        "english": [
+            "high, tall"
+        ]
+    },
+    "高兴": {
+        "id": 116,
+        "pinyin": "gāoxìng",
+        "vietnamese": [
+            "vui vẻ, vui mừng"
+        ],
+        "english": [
+            "happy"
+        ]
+    },
+    "告诉": {
+        "id": 117,
+        "pinyin": "gàosù",
+        "vietnamese": [
+            "nói, kể lại"
+        ],
+        "english": [
+            "tell"
+        ]
+    },
+    "哥哥": {
+        "id": 118,
+        "pinyin": "gēge",
+        "vietnamese": [
+            "anh trai"
+        ],
+        "english": [
+            "elder brother"
+        ]
+    },
+    "哥": {
+        "id": 119,
+        "pinyin": "gē",
+        "vietnamese": [
+            "anh trai"
+        ],
+        "english": [
+            "elder brother"
+        ]
+    },
+    "歌": {
+        "id": 120,
+        "pinyin": "gē",
+        "vietnamese": [
+            "bài hát"
+        ],
+        "english": [
+            "song"
+        ]
+    },
+    "个": {
+        "id": 121,
+        "pinyin": "gè",
+        "vietnamese": [
+            "cái"
+        ],
+        "english": [
+            "the most commonly used measure word"
+        ]
+    },
+    "给": {
+        "id": 122,
+        "pinyin": "gěi",
+        "vietnamese": [
+            "cho"
+        ],
+        "english": [
+            "(v) give; (prep) for, no"
+        ]
+    },
+    "跟": {
+        "id": 123,
+        "pinyin": "gēn",
+        "vietnamese": [
+            "và, cùng"
+        ],
+        "english": [
+            "(prep) with; (conj) and; (v) follow"
+        ]
+    },
+    "工人": {
+        "id": 124,
+        "pinyin": "gōngrén",
+        "vietnamese": [
+            "công nhân"
+        ],
+        "english": [
+            "Worker"
+        ]
+    },
+    "工作": {
+        "id": 125,
+        "pinyin": "gōngzuò",
+        "vietnamese": [
+            "công việc"
+        ],
+        "english": [
+            "work"
+        ]
+    },
+    "关": {
+        "id": 126,
+        "pinyin": "guān",
+        "vietnamese": [
+            "đóng"
+        ],
+        "english": [
+            "shut; close; turn off"
+        ]
+    },
+    "关上": {
+        "id": 127,
+        "pinyin": "guānshàng",
+        "vietnamese": [
+            "khép vào"
+        ],
+        "english": [
+            "close; turn off"
+        ]
+    },
+    "贵": {
+        "id": 128,
+        "pinyin": "guì",
+        "vietnamese": [
+            "đắt"
+        ],
+        "english": [
+            "expensive"
+        ]
+    },
+    "国": {
+        "id": 129,
+        "pinyin": "guó",
+        "vietnamese": [
+            "đất nước, nước nhà, Tổ"
+        ],
+        "english": [
+            "country; state; nation"
+        ]
+    },
+    "国家": {
+        "id": 130,
+        "pinyin": "guójiā",
+        "vietnamese": [
+            "đất nước, Quốc Gia"
+        ],
+        "english": [
+            "Country"
+        ]
+    },
+    "国外": {
+        "id": 131,
+        "pinyin": "guówài",
+        "vietnamese": [
+            "nước ngoài"
+        ],
+        "english": [
+            "foreign; oversea; abroad"
+        ]
+    },
+    "过": {
+        "id": 132,
+        "pinyin": "guò",
+        "vietnamese": [
+            "(đi) qua, (bước) qua"
+        ],
+        "english": [
+            "pass, cross; spend (time)"
+        ]
+    },
+    "还": {
+        "id": 154,
+        "pinyin": "huán",
+        "vietnamese": [
+            "trả lại"
+        ],
+        "english": [
+            "return"
+        ]
+    },
+    "还是": {
+        "id": 134,
+        "pinyin": "háishì",
+        "vietnamese": [
+            "hay là"
+        ],
+        "english": [
+            "(adv) still; (conj) or"
+        ]
+    },
+    "还有": {
+        "id": 135,
+        "pinyin": "hái yǒu",
+        "vietnamese": [
+            "còn có, còn nữa là"
+        ],
+        "english": [
+            "also; in addition; besides"
+        ]
+    },
+    "孩子": {
+        "id": 136,
+        "pinyin": "háizi",
+        "vietnamese": [
+            "đứa trẻ, con (tôi)"
+        ],
+        "english": [
+            "Child"
+        ]
+    },
+    "汉语": {
+        "id": 137,
+        "pinyin": "Hànyǔ",
+        "vietnamese": [
+            "(ngôn ngữ) tiếng Trung"
+        ],
+        "english": [
+            "Chinese"
+        ]
+    },
+    "汉字": {
+        "id": 138,
+        "pinyin": "Hànzì",
+        "vietnamese": [
+            "chữ Hán"
+        ],
+        "english": [
+            "Chinese character"
+        ]
+    },
+    "好": {
+        "id": 139,
+        "pinyin": "hǎo",
+        "vietnamese": [
+            "tốt, đẹp"
+        ],
+        "english": [
+            "good"
+        ]
+    },
+    "好吃": {
+        "id": 140,
+        "pinyin": "hǎo chī",
+        "vietnamese": [
+            "ngon"
+        ],
+        "english": [
+            "yummy"
+        ]
+    },
+    "好看": {
+        "id": 141,
+        "pinyin": "hǎokàn",
+        "vietnamese": [
+            "đẹp, xinh, hay"
+        ],
+        "english": [
+            "good looking; interesting"
+        ]
+    },
+    "好听": {
+        "id": 142,
+        "pinyin": "hǎotīng",
+        "vietnamese": [
+            "êm tai, du dương, dễ nghe"
+        ],
+        "english": [
+            "pleasant to hear"
+        ]
+    },
+    "好玩儿": {
+        "id": 143,
+        "pinyin": "hǎo wánr",
+        "vietnamese": [
+            "(chơi) vui"
+        ],
+        "english": [
+            "fun; interesting"
+        ]
+    },
+    "号": {
+        "id": 144,
+        "pinyin": "hào",
+        "vietnamese": [
+            "ngày"
+        ],
+        "english": [
+            "Number/date"
+        ]
+    },
+    "喝": {
+        "id": 145,
+        "pinyin": "hē",
+        "vietnamese": [
+            "uống"
+        ],
+        "english": [
+            "drink"
+        ]
+    },
+    "和": {
+        "id": 146,
+        "pinyin": "hé",
+        "vietnamese": [
+            "và"
+        ],
+        "english": [
+            "and"
+        ]
+    },
+    "很": {
+        "id": 147,
+        "pinyin": "hěn",
+        "vietnamese": [
+            "rất"
+        ],
+        "english": [
+            "very"
+        ]
+    },
+    "后": {
+        "id": 148,
+        "pinyin": "hòu",
+        "vietnamese": [
+            "sau"
+        ],
+        "english": [
+            "back; behind; after; later"
+        ]
+    },
+    "后边": {
+        "id": 149,
+        "pinyin": "hòubian",
+        "vietnamese": [
+            "phía sau"
+        ],
+        "english": [
+            "behind; back"
+        ]
+    },
+    "后天": {
+        "id": 150,
+        "pinyin": "hòutiān",
+        "vietnamese": [
+            "ngày kia"
+        ],
+        "english": [
+            "day after tomorrow"
+        ]
+    },
+    "花": {
+        "id": 151,
+        "pinyin": "huā",
+        "vietnamese": [
+            "đóa hoa"
+        ],
+        "english": [
+            "flower"
+        ]
+    },
+    "话": {
+        "id": 152,
+        "pinyin": "huà",
+        "vietnamese": [
+            "lời nói"
+        ],
+        "english": [
+            "word, talk"
+        ]
+    },
+    "坏": {
+        "id": 153,
+        "pinyin": "huài",
+        "vietnamese": [
+            "xấu, hỏng"
+        ],
+        "english": [
+            "bad, broken, rotten"
+        ]
+    },
+    "回": {
+        "id": 155,
+        "pinyin": "huí",
+        "vietnamese": [
+            "quay lại, về"
+        ],
+        "english": [
+            "return; pay back"
+        ]
+    },
+    "回答": {
+        "id": 156,
+        "pinyin": "huídá",
+        "vietnamese": [
+            "trả lời"
+        ],
+        "english": [
+            "answer"
+        ]
+    },
+    "回到": {
+        "id": 157,
+        "pinyin": "huí dào",
+        "vietnamese": [
+            "trở về"
+        ],
+        "english": [
+            "go back to"
+        ]
+    },
+    "回家": {
+        "id": 158,
+        "pinyin": "huí jiā",
+        "vietnamese": [
+            "quay về"
+        ],
+        "english": [
+            "go home"
+        ]
+    },
+    "回来": {
+        "id": 159,
+        "pinyin": "huílái",
+        "vietnamese": [
+            "về, quay về (hướng về người nói)"
+        ],
+        "english": [
+            "go home; return home"
+        ]
+    },
+    "回去": {
+        "id": 160,
+        "pinyin": "huíqù",
+        "vietnamese": [
+            "về, quay về (hướng xa người nói)"
+        ],
+        "english": [
+            "go back"
+        ]
+    },
+    "会": {
+        "id": 161,
+        "pinyin": "huì",
+        "vietnamese": [
+            "sẽ, biết làm"
+        ],
+        "english": [
+            "can; be able to; be likely to, be sure to"
+        ]
+    },
+    "火车": {
+        "id": 162,
+        "pinyin": "huǒchē",
+        "vietnamese": [
+            "xe lửa"
+        ],
+        "english": [
+            "train"
+        ]
+    },
+    "机场": {
+        "id": 163,
+        "pinyin": "jīchǎng",
+        "vietnamese": [
+            "sân bay"
+        ],
+        "english": [
+            "airport"
+        ]
+    },
+    "机票": {
+        "id": 164,
+        "pinyin": "jīpiào",
+        "vietnamese": [
+            "vé máy bay"
+        ],
+        "english": [
+            "air ticket"
+        ]
+    },
+    "鸡蛋": {
+        "id": 165,
+        "pinyin": "jīdàn",
+        "vietnamese": [
+            "trứng gà"
+        ],
+        "english": [
+            "egg"
+        ]
+    },
+    "几": {
+        "id": 166,
+        "pinyin": "jǐ",
+        "vietnamese": [
+            "mấy, vài"
+        ],
+        "english": [
+            "several"
+        ]
+    },
+    "记": {
+        "id": 167,
+        "pinyin": "jì",
+        "vietnamese": [
+            "nhớ"
+        ],
+        "english": [
+            "remember; write down"
+        ]
+    },
+    "记得": {
+        "id": 168,
+        "pinyin": "jìde",
+        "vietnamese": [
+            "ghi nhớ"
+        ],
+        "english": [
+            "remember"
+        ]
+    },
+    "记住": {
+        "id": 169,
+        "pinyin": "jì zhù",
+        "vietnamese": [
+            "nhớ kĩ"
+        ],
+        "english": [
+            "memorize, remember"
+        ]
+    },
+    "家": {
+        "id": 170,
+        "pinyin": "jiā",
+        "vietnamese": [
+            "nhà"
+        ],
+        "english": [
+            "home"
+        ]
+    },
+    "家里": {
+        "id": 171,
+        "pinyin": "jiālǐ",
+        "vietnamese": [
+            "trong nhà"
+        ],
+        "english": [
+            "at home"
+        ]
+    },
+    "家人": {
+        "id": 172,
+        "pinyin": "jiārén",
+        "vietnamese": [
+            "người nhà, người trong đình"
+        ],
+        "english": [
+            "family"
+        ]
+    },
+    "间": {
+        "id": 173,
+        "pinyin": "jiān",
+        "vietnamese": [
+            "giữa"
+        ],
+        "english": [
+            "between; measure word for rooms"
+        ]
+    },
+    "见": {
+        "id": 174,
+        "pinyin": "jiàn",
+        "vietnamese": [
+            "gặp, thấy"
+        ],
+        "english": [
+            "see; meet"
+        ]
+    },
+    "见面": {
+        "id": 175,
+        "pinyin": "jiànmiàn",
+        "vietnamese": [
+            "gặp mặt"
+        ],
+        "english": [
+            "meet"
+        ]
+    },
+    "教": {
+        "id": 176,
+        "pinyin": "jiāo",
+        "vietnamese": [
+            "dạy"
+        ],
+        "english": [
+            "teach"
+        ]
+    },
+    "叫": {
+        "id": 177,
+        "pinyin": "jiào",
+        "vietnamese": [
+            "gọi, kêu"
+        ],
+        "english": [
+            "call; asked"
+        ]
+    },
+    "教学楼": {
+        "id": 178,
+        "pinyin": "jiàoxué lóu",
+        "vietnamese": [
+            "khu nhà dạy học"
+        ],
+        "english": [
+            "teaching building"
+        ]
+    },
+    "姐姐": {
+        "id": 179,
+        "pinyin": "jiějie",
+        "vietnamese": [
+            "chị gái"
+        ],
+        "english": [
+            "elder sister"
+        ]
+    },
+    "姐": {
+        "id": 180,
+        "pinyin": "jiě",
+        "vietnamese": [
+            "chị gái"
+        ],
+        "english": [
+            "elder sister"
+        ]
+    },
+    "介绍": {
+        "id": 181,
+        "pinyin": "jièshào",
+        "vietnamese": [
+            "giới thiệu"
+        ],
+        "english": [
+            "introduce"
+        ]
+    },
+    "今年": {
+        "id": 182,
+        "pinyin": "jīnnián",
+        "vietnamese": [
+            "năm nay"
+        ],
+        "english": [
+            "this year"
+        ]
+    },
+    "今天": {
+        "id": 183,
+        "pinyin": "jīn tiān",
+        "vietnamese": [
+            "ngày hôm nay"
+        ],
+        "english": [
+            "Today"
+        ]
+    },
+    "进": {
+        "id": 184,
+        "pinyin": "jìn",
+        "vietnamese": [
+            "vào"
+        ],
+        "english": [
+            "enter"
+        ]
+    },
+    "进来": {
+        "id": 185,
+        "pinyin": "jìn lái",
+        "vietnamese": [
+            "bước vào (lại gần người nói)"
+        ],
+        "english": [
+            "come in"
+        ]
+    },
+    "进去": {
+        "id": 186,
+        "pinyin": "jìnqù",
+        "vietnamese": [
+            "bước vào (đi xa người nói)"
+        ],
+        "english": [
+            "go in"
+        ]
+    },
+    "九": {
+        "id": 187,
+        "pinyin": "jiǔ",
+        "vietnamese": [
+            "số 9"
+        ],
+        "english": [
+            "nine"
+        ]
+    },
+    "就": {
+        "id": 188,
+        "pinyin": "jiù",
+        "vietnamese": [
+            "đã; lập tức, ngay"
+        ],
+        "english": [
+            "as soon as; right away; then"
+        ]
+    },
+    "觉得": {
+        "id": 189,
+        "pinyin": "juéde",
+        "vietnamese": [
+            "cảm thấy"
+        ],
+        "english": [
+            "think; feel"
+        ]
+    },
+    "开": {
+        "id": 190,
+        "pinyin": "kāi",
+        "vietnamese": [
+            "mở"
+        ],
+        "english": [
+            "open"
+        ]
+    },
+    "开车": {
+        "id": 191,
+        "pinyin": "kāichē",
+        "vietnamese": [
+            "lái xe"
+        ],
+        "english": [
+            "drive"
+        ]
+    },
+    "开会": {
+        "id": 192,
+        "pinyin": "kāihuì",
+        "vietnamese": [
+            "mở họp, họp"
+        ],
+        "english": [
+            "have a meeting"
+        ]
+    },
+    "开玩笑": {
+        "id": 193,
+        "pinyin": "kāiwánxiào",
+        "vietnamese": [
+            "nói đùa"
+        ],
+        "english": [
+            "make fun of"
+        ]
+    },
+    "看": {
+        "id": 194,
+        "pinyin": "kàn",
+        "vietnamese": [
+            "nhìn, xem, ngắm"
+        ],
+        "english": [
+            "see, look, watch"
+        ]
+    },
+    "看病": {
+        "id": 195,
+        "pinyin": "kànbìng",
+        "vietnamese": [
+            "khám bệnh"
+        ],
+        "english": [
+            "see a doctor"
+        ]
+    },
+    "看到": {
+        "id": 196,
+        "pinyin": "kàn dào",
+        "vietnamese": [
+            "nhìn thấy"
+        ],
+        "english": [
+            "see, catch sight of"
+        ]
+    },
+    "看见": {
+        "id": 197,
+        "pinyin": "kànjiàn",
+        "vietnamese": [
+            "nhìn thấy"
+        ],
+        "english": [
+            "see, catch sight of"
+        ]
+    },
+    "考": {
+        "id": 198,
+        "pinyin": "kǎo",
+        "vietnamese": [
+            "thi"
+        ],
+        "english": [
+            "take an examination, a test or a quiz"
+        ]
+    },
+    "考试": {
+        "id": 199,
+        "pinyin": "kǎoshì",
+        "vietnamese": [
+            "kì thi"
+        ],
+        "english": [
+            "take an examination"
+        ]
+    },
+    "渴": {
+        "id": 200,
+        "pinyin": "kě",
+        "vietnamese": [
+            "khát (nước)"
+        ],
+        "english": [
+            "thirsty"
+        ]
+    },
+    "课": {
+        "id": 201,
+        "pinyin": "kè",
+        "vietnamese": [
+            "tiết (học)"
+        ],
+        "english": [
+            "lesson; class"
+        ]
+    },
+    "课本": {
+        "id": 202,
+        "pinyin": "kèběn",
+        "vietnamese": [
+            "sách giáo khoa"
+        ],
+        "english": [
+            "textbook"
+        ]
+    },
+    "课文": {
+        "id": 203,
+        "pinyin": "kèwén",
+        "vietnamese": [
+            "bài khóa, bài đọc"
+        ],
+        "english": [
+            "text"
+        ]
+    },
+    "口": {
+        "id": 204,
+        "pinyin": "kǒu",
+        "vietnamese": [
+            "lượng từ chỉ người trong gia đình"
+        ],
+        "english": [
+            "mouth"
+        ]
+    },
+    "块": {
+        "id": 205,
+        "pinyin": "kuài",
+        "vietnamese": [
+            "tệ (đơn vị tiền tệ)"
+        ],
+        "english": [
+            "piece, lump"
+        ]
+    },
+    "快": {
+        "id": 206,
+        "pinyin": "kuài",
+        "vietnamese": [
+            "nhanh"
+        ],
+        "english": [
+            "fast"
+        ]
+    },
+    "来": {
+        "id": 207,
+        "pinyin": "lái",
+        "vietnamese": [
+            "đến, tới"
+        ],
+        "english": [
+            "come"
+        ]
+    },
+    "来到": {
+        "id": 208,
+        "pinyin": "lái dào",
+        "vietnamese": [
+            "đến"
+        ],
+        "english": [
+            "come to; arrive"
+        ]
+    },
+    "老": {
+        "id": 209,
+        "pinyin": "lǎo",
+        "vietnamese": [
+            "già, cũ, cổ"
+        ],
+        "english": [
+            "old; aged"
+        ]
+    },
+    "老人": {
+        "id": 210,
+        "pinyin": "lǎorén",
+        "vietnamese": [
+            "người già"
+        ],
+        "english": [
+            "old people; the aged"
+        ]
+    },
+    "老师": {
+        "id": 211,
+        "pinyin": "lǎoshī",
+        "vietnamese": [
+            "thầy, cô giáo"
+        ],
+        "english": [
+            "teacher"
+        ]
+    },
+    "了": {
+        "id": 212,
+        "pinyin": "le",
+        "vietnamese": [
+            "rồi, trợ từ biểu thị sự thay đổi"
+        ],
+        "english": [
+            "pt. an aspect particle used after a verb to indicate completion, a modal particle placed at the end of a sentence to express an affirmative tone of a change in a situation"
+        ]
+    },
+    "累": {
+        "id": 213,
+        "pinyin": "lèi",
+        "vietnamese": [
+            "mệt mỏi"
+        ],
+        "english": [
+            "tired"
+        ]
+    },
+    "冷": {
+        "id": 214,
+        "pinyin": "lěng",
+        "vietnamese": [
+            "lạnh"
+        ],
+        "english": [
+            "cold"
+        ]
+    },
+    "里": {
+        "id": 215,
+        "pinyin": "lǐ",
+        "vietnamese": [
+            "trong, bên trong"
+        ],
+        "english": [
+            "in"
+        ]
+    },
+    "里边": {
+        "id": 216,
+        "pinyin": "lǐbian",
+        "vietnamese": [
+            "phía trong"
+        ],
+        "english": [
+            "inside"
+        ]
+    },
+    "两": {
+        "id": 217,
+        "pinyin": "liǎng",
+        "vietnamese": [
+            "hai"
+        ],
+        "english": [
+            "two"
+        ]
+    },
+    "零": {
+        "id": 218,
+        "pinyin": "líng",
+        "vietnamese": [
+            "số 0"
+        ],
+        "english": [
+            "zero"
+        ]
+    },
+    "六": {
+        "id": 219,
+        "pinyin": "liù",
+        "vietnamese": [
+            "số 6"
+        ],
+        "english": [
+            "Six"
+        ]
+    },
+    "楼": {
+        "id": 220,
+        "pinyin": "lóu",
+        "vietnamese": [
+            "tầng, lầu"
+        ],
+        "english": [
+            "floor"
+        ]
+    },
+    "楼上": {
+        "id": 221,
+        "pinyin": "lóu shàng",
+        "vietnamese": [
+            "tầng trên"
+        ],
+        "english": [
+            "upstairs"
+        ]
+    },
+    "楼下": {
+        "id": 222,
+        "pinyin": "lóu xià",
+        "vietnamese": [
+            "tầng dưới"
+        ],
+        "english": [
+            "downstairs"
+        ]
+    },
+    "路": {
+        "id": 223,
+        "pinyin": "lù",
+        "vietnamese": [
+            "đường xá"
+        ],
+        "english": [
+            "road"
+        ]
+    },
+    "路口": {
+        "id": 224,
+        "pinyin": "lùkǒu",
+        "vietnamese": [
+            "giao lộ, đường giao ba đường"
+        ],
+        "english": [
+            "intersection; crossing"
+        ]
+    },
+    "路上": {
+        "id": 225,
+        "pinyin": "lùshàng",
+        "vietnamese": [
+            "trên đường"
+        ],
+        "english": [
+            "on the road"
+        ]
+    },
+    "妈妈": {
+        "id": 226,
+        "pinyin": "māma",
+        "vietnamese": [
+            "mẹ"
+        ],
+        "english": [
+            "mom; mother"
+        ]
+    },
+    "妈": {
+        "id": 227,
+        "pinyin": "mā",
+        "vietnamese": [
+            "mẹ"
+        ],
+        "english": [
+            "mom; mother"
+        ]
+    },
+    "马路": {
+        "id": 228,
+        "pinyin": "mǎlù",
+        "vietnamese": [
+            "đường cái, đường quốc"
+        ],
+        "english": [
+            "road; street"
+        ]
+    },
+    "马上": {
+        "id": 229,
+        "pinyin": "mǎshàng",
+        "vietnamese": [
+            "lập tức, ngay"
+        ],
+        "english": [
+            "right now, immediately"
+        ]
+    },
+    "吗": {
+        "id": 230,
+        "pinyin": "ma",
+        "vietnamese": [
+            "ư, không (từ để hỏi)"
+        ],
+        "english": [
+            "pt. used at the end of a sentence to turn a declarative sentence into a yes-or-no interrogative sentence"
+        ]
+    },
+    "买": {
+        "id": 231,
+        "pinyin": "mǎi",
+        "vietnamese": [
+            "mua"
+        ],
+        "english": [
+            "buy"
+        ]
+    },
+    "慢": {
+        "id": 232,
+        "pinyin": "màn",
+        "vietnamese": [
+            "chậm, từ từ"
+        ],
+        "english": [
+            "slow"
+        ]
+    },
+    "忙": {
+        "id": 233,
+        "pinyin": "máng",
+        "vietnamese": [
+            "bận, bận rộn"
+        ],
+        "english": [
+            "busy"
+        ]
+    },
+    "毛": {
+        "id": 234,
+        "pinyin": "máo",
+        "vietnamese": [
+            "lượng từ"
+        ],
+        "english": [
+            "unit of money, equal to a tenth of a yuan"
+        ]
+    },
+    "没": {
+        "id": 235,
+        "pinyin": "méi",
+        "vietnamese": [
+            "không"
+        ],
+        "english": [
+            "not"
+        ]
+    },
+    "没关系": {
+        "id": 236,
+        "pinyin": "méi guānxi",
+        "vietnamese": [
+            "không sao"
+        ],
+        "english": [
+            "It doesn't matter. / That's all right."
+        ]
+    },
+    "没什么": {
+        "id": 237,
+        "pinyin": "méi shénme",
+        "vietnamese": [
+            "không có gì"
+        ],
+        "english": [
+            "never mind"
+        ]
+    },
+    "没事儿": {
+        "id": 238,
+        "pinyin": "méishìr",
+        "vietnamese": [
+            "không có việc gì"
+        ],
+        "english": [
+            "that's all right"
+        ]
+    },
+    "没有": {
+        "id": 239,
+        "pinyin": "méiyǒu",
+        "vietnamese": [
+            "không có"
+        ],
+        "english": [
+            "not have"
+        ]
+    },
+    "妹妹": {
+        "id": 240,
+        "pinyin": "mèimei",
+        "vietnamese": [
+            "em gái"
+        ],
+        "english": [
+            "younger sister"
+        ]
+    },
+    "妹": {
+        "id": 241,
+        "pinyin": "mèi",
+        "vietnamese": [
+            "em gái"
+        ],
+        "english": [
+            "younger sister"
+        ]
+    },
+    "门": {
+        "id": 242,
+        "pinyin": "mén",
+        "vietnamese": [
+            "cửa"
+        ],
+        "english": [
+            "door"
+        ]
+    },
+    "门口": {
+        "id": 243,
+        "pinyin": "ménkǒu",
+        "vietnamese": [
+            "cửa, cổng"
+        ],
+        "english": [
+            "doorway"
+        ]
+    },
+    "门票": {
+        "id": 244,
+        "pinyin": "ménpiào",
+        "vietnamese": [
+            "vé vào cửa"
+        ],
+        "english": [
+            "ticket"
+        ]
+    },
+    "们": {
+        "id": 245,
+        "pinyin": "men",
+        "vietnamese": [
+            "từ chỉ số nhiều"
+        ],
+        "english": [
+            "used to form a plural number when added to a personal pronoun or a noun referring to a person"
+        ]
+    },
+    "米饭": {
+        "id": 246,
+        "pinyin": "mǐfàn",
+        "vietnamese": [
+            "cơm"
+        ],
+        "english": [
+            "cooked Rice"
+        ]
+    },
+    "面包": {
+        "id": 247,
+        "pinyin": "miànbāo",
+        "vietnamese": [
+            "bánh mì"
+        ],
+        "english": [
+            "bread"
+        ]
+    },
+    "面条儿": {
+        "id": 248,
+        "pinyin": "miàntiáor",
+        "vietnamese": [
+            "mì sợi"
+        ],
+        "english": [
+            "noodles"
+        ]
+    },
+    "名字": {
+        "id": 249,
+        "pinyin": "míngzì",
+        "vietnamese": [
+            "tên"
+        ],
+        "english": [
+            "name"
+        ]
+    },
+    "明白": {
+        "id": 250,
+        "pinyin": "míngbai",
+        "vietnamese": [
+            "biết, hiểu"
+        ],
+        "english": [
+            "(adj) clear; (v)understand, know"
+        ]
+    },
+    "明年": {
+        "id": 251,
+        "pinyin": "míngnián",
+        "vietnamese": [
+            "năm sau, năm tới"
+        ],
+        "english": [
+            "next year"
+        ]
+    },
+    "明天": {
+        "id": 252,
+        "pinyin": "míngtiān",
+        "vietnamese": [
+            "ngày mai"
+        ],
+        "english": [
+            "tomorrow"
+        ]
+    },
+    "拿": {
+        "id": 253,
+        "pinyin": "ná",
+        "vietnamese": [
+            "lấy, cầm"
+        ],
+        "english": [
+            "take, get"
+        ]
+    },
+    "哪": {
+        "id": 254,
+        "pinyin": "nǎ",
+        "vietnamese": [
+            "nào"
+        ],
+        "english": [
+            "which"
+        ]
+    },
+    "哪里": {
+        "id": 255,
+        "pinyin": "nǎlǐ",
+        "vietnamese": [
+            "đâu, ở đâu, ở chỗ nào"
+        ],
+        "english": [
+            "where"
+        ]
+    },
+    "哪儿": {
+        "id": 256,
+        "pinyin": "nǎr",
+        "vietnamese": [
+            "đâu, ở đâu"
+        ],
+        "english": [
+            "where"
+        ]
+    },
+    "哪些": {
+        "id": 257,
+        "pinyin": "nǎxiē",
+        "vietnamese": [
+            "những … nào"
+        ],
+        "english": [
+            "which"
+        ]
+    },
+    "那": {
+        "id": 258,
+        "pinyin": "nà",
+        "vietnamese": [
+            "kia, ấy, vậy, vậy thì"
+        ],
+        "english": [
+            "that"
+        ]
+    },
+    "那边": {
+        "id": 259,
+        "pinyin": "nà biān",
+        "vietnamese": [
+            "bên kia"
+        ],
+        "english": [
+            "over there"
+        ]
+    },
+    "那里": {
+        "id": 260,
+        "pinyin": "nàlǐ",
+        "vietnamese": [
+            "ở đó, nơi đó"
+        ],
+        "english": [
+            "there, that place"
+        ]
+    },
+    "那儿": {
+        "id": 261,
+        "pinyin": "nàr",
+        "vietnamese": [
+            "ở đó, nơi đó"
+        ],
+        "english": [
+            "there, that place"
+        ]
+    },
+    "那些": {
+        "id": 262,
+        "pinyin": "nàxiē",
+        "vietnamese": [
+            "những … ấy, những"
+        ],
+        "english": [
+            "those"
+        ]
+    },
+    "奶": {
+        "id": 263,
+        "pinyin": "nǎi",
+        "vietnamese": [
+            "sữa"
+        ],
+        "english": [
+            "milk"
+        ]
+    },
+    "奶奶": {
+        "id": 264,
+        "pinyin": "nǎinai",
+        "vietnamese": [
+            "bà nội, bà"
+        ],
+        "english": [
+            "grandma"
+        ]
+    },
+    "男": {
+        "id": 265,
+        "pinyin": "nán",
+        "vietnamese": [
+            "nam (giới tính nam)"
+        ],
+        "english": [
+            "man, male"
+        ]
+    },
+    "男孩儿": {
+        "id": 266,
+        "pinyin": "nánháir",
+        "vietnamese": [
+            "bé trai"
+        ],
+        "english": [
+            "boy"
+        ]
+    },
+    "男朋友": {
+        "id": 267,
+        "pinyin": "nán péngyǒu",
+        "vietnamese": [
+            "bạn trai"
+        ],
+        "english": [
+            "boy friend"
+        ]
+    },
+    "男人": {
+        "id": 268,
+        "pinyin": "nánrén",
+        "vietnamese": [
+            "con trai, đàn ông"
+        ],
+        "english": [
+            "man"
+        ]
+    },
+    "男生": {
+        "id": 269,
+        "pinyin": "nánshēng",
+        "vietnamese": [
+            "nam sinh, học sinh nam"
+        ],
+        "english": [
+            "boy student"
+        ]
+    },
+    "南": {
+        "id": 270,
+        "pinyin": "nán",
+        "vietnamese": [
+            "nam"
+        ],
+        "english": [
+            "south"
+        ]
+    },
+    "南边": {
+        "id": 271,
+        "pinyin": "nánbian",
+        "vietnamese": [
+            "phía nam"
+        ],
+        "english": [
+            "south (side)"
+        ]
+    },
+    "难": {
+        "id": 272,
+        "pinyin": "nán",
+        "vietnamese": [
+            "khó"
+        ],
+        "english": [
+            "hard, difficult"
+        ]
+    },
+    "呢": {
+        "id": 273,
+        "pinyin": "ne",
+        "vietnamese": [
+            "đâu, thế, nhỉ, vậy…"
+        ],
+        "english": [
+            "pt. used at the end of an interrogative sentence, used at the end of a declarative sentence to indicate a behavior or action in progress"
+        ]
+    },
+    "能": {
+        "id": 274,
+        "pinyin": "néng",
+        "vietnamese": [
+            "có thể"
+        ],
+        "english": [
+            "can"
+        ]
+    },
+    "你": {
+        "id": 275,
+        "pinyin": "nǐ",
+        "vietnamese": [
+            "anh, chị, bạn, …"
+        ],
+        "english": [
+            "you"
+        ]
+    },
+    "你们": {
+        "id": 276,
+        "pinyin": "nǐmen",
+        "vietnamese": [
+            "các anh, các chị, các bạn"
+        ],
+        "english": [
+            "(plural form) you"
+        ]
+    },
+    "年": {
+        "id": 277,
+        "pinyin": "nián",
+        "vietnamese": [
+            "năm"
+        ],
+        "english": [
+            "a measure word for years"
+        ]
+    },
+    "您": {
+        "id": 278,
+        "pinyin": "nín",
+        "vietnamese": [
+            "ngài, ông, bà (thể hiệntrọng)"
+        ],
+        "english": [
+            "(term of respect) you"
+        ]
+    },
+    "牛奶": {
+        "id": 279,
+        "pinyin": "niúnǎi",
+        "vietnamese": [
+            "sữa bò"
+        ],
+        "english": [
+            "milk"
+        ]
+    },
+    "女": {
+        "id": 280,
+        "pinyin": "nǚ",
+        "vietnamese": [
+            "nữ (giới tính nữ)"
+        ],
+        "english": [
+            "woman"
+        ]
+    },
+    "女儿": {
+        "id": 281,
+        "pinyin": "nǚ'ér",
+        "vietnamese": [
+            "con gái"
+        ],
+        "english": [
+            "daughter"
+        ]
+    },
+    "女孩儿": {
+        "id": 282,
+        "pinyin": "nǚháir",
+        "vietnamese": [
+            "cô bé"
+        ],
+        "english": [
+            "girl"
+        ]
+    },
+    "女朋友": {
+        "id": 283,
+        "pinyin": "nǚ péngyǒu",
+        "vietnamese": [
+            "bạn gái"
+        ],
+        "english": [
+            "girlfriend"
+        ]
+    },
+    "女人": {
+        "id": 284,
+        "pinyin": "nǚrén",
+        "vietnamese": [
+            "con gái, phụ nữ"
+        ],
+        "english": [
+            "women"
+        ]
+    },
+    "女生": {
+        "id": 285,
+        "pinyin": "nǚshēng",
+        "vietnamese": [
+            "nữ sinh, học sinh nữ"
+        ],
+        "english": [
+            "girl student"
+        ]
+    },
+    "旁边": {
+        "id": 286,
+        "pinyin": "pángbiān",
+        "vietnamese": [
+            "bên cạnh"
+        ],
+        "english": [
+            "side"
+        ]
+    },
+    "跑": {
+        "id": 287,
+        "pinyin": "pǎo",
+        "vietnamese": [
+            "chạy"
+        ],
+        "english": [
+            "run"
+        ]
+    },
+    "朋友": {
+        "id": 288,
+        "pinyin": "péngyou",
+        "vietnamese": [
+            "bạn, bạn bè"
+        ],
+        "english": [
+            "Friend"
+        ]
+    },
+    "票": {
+        "id": 289,
+        "pinyin": "piào",
+        "vietnamese": [
+            "vé, phiếu"
+        ],
+        "english": [
+            "ticket"
+        ]
+    },
+    "七": {
+        "id": 290,
+        "pinyin": "qī",
+        "vietnamese": [
+            "số 7"
+        ],
+        "english": [
+            "Seven"
+        ]
+    },
+    "起": {
+        "id": 291,
+        "pinyin": "qǐ",
+        "vietnamese": [
+            "dậy"
+        ],
+        "english": [
+            "get up; start; rise"
+        ]
+    },
+    "起床": {
+        "id": 292,
+        "pinyin": "qǐchuáng",
+        "vietnamese": [
+            "thức dậy, ngủ dậy"
+        ],
+        "english": [
+            "get up"
+        ]
+    },
+    "起来": {
+        "id": 293,
+        "pinyin": "qǐlái",
+        "vietnamese": [
+            "ngồi dậy, đứng đậy, thức"
+        ],
+        "english": [
+            "get up, stand up"
+        ]
+    },
+    "汽车": {
+        "id": 294,
+        "pinyin": "qìchē",
+        "vietnamese": [
+            "ôtô, xe hơi"
+        ],
+        "english": [
+            "car"
+        ]
+    },
+    "前": {
+        "id": 295,
+        "pinyin": "qián",
+        "vietnamese": [
+            "trước"
+        ],
+        "english": [
+            "front; past, former times"
+        ]
+    },
+    "前边": {
+        "id": 296,
+        "pinyin": "qiánbian",
+        "vietnamese": [
+            "phía trước"
+        ],
+        "english": [
+            "front"
+        ]
+    },
+    "前天": {
+        "id": 297,
+        "pinyin": "qiántiān",
+        "vietnamese": [
+            "hai hôm trước"
+        ],
+        "english": [
+            "the day before yesterday"
+        ]
+    },
+    "钱": {
+        "id": 298,
+        "pinyin": "qián",
+        "vietnamese": [
+            "tiền"
+        ],
+        "english": [
+            "money"
+        ]
+    },
+    "钱包": {
+        "id": 299,
+        "pinyin": "qiánbāo",
+        "vietnamese": [
+            "ví tiền"
+        ],
+        "english": [
+            "wallet"
+        ]
+    },
+    "请": {
+        "id": 300,
+        "pinyin": "qǐng",
+        "vietnamese": [
+            "mời"
+        ],
+        "english": [
+            "please"
+        ]
+    },
+    "请假": {
+        "id": 301,
+        "pinyin": "qǐngjià",
+        "vietnamese": [
+            "xin nghỉ phép"
+        ],
+        "english": [
+            "ask for leave"
+        ]
+    },
+    "请进": {
+        "id": 302,
+        "pinyin": "qǐng jìn",
+        "vietnamese": [
+            "mời vào"
+        ],
+        "english": [
+            "please come in"
+        ]
+    },
+    "请问": {
+        "id": 303,
+        "pinyin": "qǐngwèn",
+        "vietnamese": [
+            "xin hỏi"
+        ],
+        "english": [
+            "excuse me, please"
+        ]
+    },
+    "请坐": {
+        "id": 304,
+        "pinyin": "qǐng zuò",
+        "vietnamese": [
+            "mời ngồi"
+        ],
+        "english": [
+            "please have a seat"
+        ]
+    },
+    "球": {
+        "id": 305,
+        "pinyin": "qiú",
+        "vietnamese": [
+            "quả bóng"
+        ],
+        "english": [
+            "ball"
+        ]
+    },
+    "去": {
+        "id": 306,
+        "pinyin": "qù",
+        "vietnamese": [
+            "đi"
+        ],
+        "english": [
+            "go"
+        ]
+    },
+    "去年": {
+        "id": 307,
+        "pinyin": "qùnián",
+        "vietnamese": [
+            "năm ngoái, năm"
+        ],
+        "english": [
+            "last year"
+        ]
+    },
+    "热": {
+        "id": 308,
+        "pinyin": "rè",
+        "vietnamese": [
+            "nóng"
+        ],
+        "english": [
+            "(adj) hot; (v) heat"
+        ]
+    },
+    "人": {
+        "id": 309,
+        "pinyin": "rén",
+        "vietnamese": [
+            "người"
+        ],
+        "english": [
+            "person"
+        ]
+    },
+    "认识": {
+        "id": 310,
+        "pinyin": "rènshi",
+        "vietnamese": [
+            "biết, quen"
+        ],
+        "english": [
+            "(v) recognize, know; (n) understanding, knowledge"
+        ]
+    },
+    "认真": {
+        "id": 311,
+        "pinyin": "rènzhēn",
+        "vietnamese": [
+            "nghiêm túc, chăm"
+        ],
+        "english": [
+            "conscientious, careful"
+        ]
+    },
+    "日": {
+        "id": 312,
+        "pinyin": "rì",
+        "vietnamese": [
+            "ngày"
+        ],
+        "english": [
+            "day"
+        ]
+    },
+    "日期": {
+        "id": 313,
+        "pinyin": "rìqī",
+        "vietnamese": [
+            "ngày (xác định)"
+        ],
+        "english": [
+            "date"
+        ]
+    },
+    "肉": {
+        "id": 314,
+        "pinyin": "ròu",
+        "vietnamese": [
+            "thịt"
+        ],
+        "english": [
+            "meat"
+        ]
+    },
+    "三": {
+        "id": 315,
+        "pinyin": "sān",
+        "vietnamese": [
+            "số 3"
+        ],
+        "english": [
+            "three"
+        ]
+    },
+    "山": {
+        "id": 316,
+        "pinyin": "shān",
+        "vietnamese": [
+            "núi"
+        ],
+        "english": [
+            "mountain"
+        ]
+    },
+    "商场": {
+        "id": 317,
+        "pinyin": "shāngchǎng",
+        "vietnamese": [
+            "trung tâm thương mại"
+        ],
+        "english": [
+            "mall; shopping mall"
+        ]
+    },
+    "商店": {
+        "id": 318,
+        "pinyin": "shāngdiàn",
+        "vietnamese": [
+            "tiệm tạp hóa, cửa hàng"
+        ],
+        "english": [
+            "Shop, store"
+        ]
+    },
+    "上": {
+        "id": 319,
+        "pinyin": "shàng",
+        "vietnamese": [
+            "trên"
+        ],
+        "english": [
+            "(n) up, on; previous; (v) get on; go; begin a certain activity"
+        ]
+    },
+    "上班": {
+        "id": 320,
+        "pinyin": "shàngbān",
+        "vietnamese": [
+            "đi làm"
+        ],
+        "english": [
+            "go to work"
+        ]
+    },
+    "上边": {
+        "id": 321,
+        "pinyin": "shàngbian",
+        "vietnamese": [
+            "bên trên"
+        ],
+        "english": [
+            "above; on"
+        ]
+    },
+    "上车": {
+        "id": 322,
+        "pinyin": "shàng chē",
+        "vietnamese": [
+            "lên xe"
+        ],
+        "english": [
+            "get on"
+        ]
+    },
+    "上次": {
+        "id": 323,
+        "pinyin": "shàng cì",
+        "vietnamese": [
+            "lần trước"
+        ],
+        "english": [
+            "last time"
+        ]
+    },
+    "上课": {
+        "id": 324,
+        "pinyin": "shàngkè",
+        "vietnamese": [
+            "vào lớp, đi học"
+        ],
+        "english": [
+            "attend class; have a class"
+        ]
+    },
+    "上网": {
+        "id": 325,
+        "pinyin": "shàngwǎng",
+        "vietnamese": [
+            "lên mạng"
+        ],
+        "english": [
+            "surf the Internet"
+        ]
+    },
+    "上午": {
+        "id": 326,
+        "pinyin": "shàngwǔ",
+        "vietnamese": [
+            "buổi sáng"
+        ],
+        "english": [
+            "morning"
+        ]
+    },
+    "上学": {
+        "id": 327,
+        "pinyin": "shàngxué",
+        "vietnamese": [
+            "(đang) đi học"
+        ],
+        "english": [
+            "go to school"
+        ]
+    },
+    "少": {
+        "id": 328,
+        "pinyin": "shǎo",
+        "vietnamese": [
+            "ít, thiếu"
+        ],
+        "english": [
+            "(adj) few, little: (v) lose, be missing"
+        ]
+    },
+    "谁": {
+        "id": 329,
+        "pinyin": "shéi",
+        "vietnamese": [
+            "ai"
+        ],
+        "english": [
+            "who"
+        ]
+    },
+    "身上": {
+        "id": 330,
+        "pinyin": "shēnshang",
+        "vietnamese": [
+            "trên người"
+        ],
+        "english": [
+            "on one’s body, (carry something) with one"
+        ]
+    },
+    "身体": {
+        "id": 331,
+        "pinyin": "shēntǐ",
+        "vietnamese": [
+            "cơ thể, sức khỏe"
+        ],
+        "english": [
+            "body"
+        ]
+    },
+    "什么": {
+        "id": 332,
+        "pinyin": "shén me",
+        "vietnamese": [
+            "cái gì"
+        ],
+        "english": [
+            "What"
+        ]
+    },
+    "生病": {
+        "id": 333,
+        "pinyin": "shēngbìng",
+        "vietnamese": [
+            "đổ bệnh, bị ốm"
+        ],
+        "english": [
+            "sick"
+        ]
+    },
+    "生气": {
+        "id": 334,
+        "pinyin": "shēngqì",
+        "vietnamese": [
+            "tức giận"
+        ],
+        "english": [
+            "get angry"
+        ]
+    },
+    "生日": {
+        "id": 335,
+        "pinyin": "shēngrì",
+        "vietnamese": [
+            "ngày sinh nhật"
+        ],
+        "english": [
+            "Birthday"
+        ]
+    },
+    "十": {
+        "id": 336,
+        "pinyin": "shí",
+        "vietnamese": [
+            "số 10"
+        ],
+        "english": [
+            "ten"
+        ]
+    },
+    "时候": {
+        "id": 337,
+        "pinyin": "shíhòu",
+        "vietnamese": [
+            "thời gian, lúc"
+        ],
+        "english": [
+            "(a point in) time, moment"
+        ]
+    },
+    "时间": {
+        "id": 338,
+        "pinyin": "shíjiān",
+        "vietnamese": [
+            "thời gian"
+        ],
+        "english": [
+            "time"
+        ]
+    },
+    "事": {
+        "id": 339,
+        "pinyin": "shì",
+        "vietnamese": [
+            "chuyện, việc"
+        ],
+        "english": [
+            "thing"
+        ]
+    },
+    "试": {
+        "id": 340,
+        "pinyin": "shì",
+        "vietnamese": [
+            "thử"
+        ],
+        "english": [
+            "try"
+        ]
+    },
+    "是": {
+        "id": 341,
+        "pinyin": "shì",
+        "vietnamese": [
+            "thì, là"
+        ],
+        "english": [
+            "be"
+        ]
+    },
+    "是不是": {
+        "id": 342,
+        "pinyin": "shì bùshì",
+        "vietnamese": [
+            "có phải hay không"
+        ],
+        "english": [
+            "whether or not"
+        ]
+    },
+    "手": {
+        "id": 343,
+        "pinyin": "shǒu",
+        "vietnamese": [
+            "tay"
+        ],
+        "english": [
+            "hand"
+        ]
+    },
+    "手机": {
+        "id": 344,
+        "pinyin": "shǒujī",
+        "vietnamese": [
+            "điện thoại di động"
+        ],
+        "english": [
+            "Mobile phone"
+        ]
+    },
+    "书": {
+        "id": 345,
+        "pinyin": "shū",
+        "vietnamese": [
+            "sách"
+        ],
+        "english": [
+            "book"
+        ]
+    },
+    "书包": {
+        "id": 346,
+        "pinyin": "shūbāo",
+        "vietnamese": [
+            "cặp sách"
+        ],
+        "english": [
+            "school bag"
+        ]
+    },
+    "书店": {
+        "id": 347,
+        "pinyin": "shūdiàn",
+        "vietnamese": [
+            "cửa hàng sách, tiệm"
+        ],
+        "english": [
+            "bookstore"
+        ]
+    },
+    "树": {
+        "id": 348,
+        "pinyin": "shù",
+        "vietnamese": [
+            "cây"
+        ],
+        "english": [
+            "tree"
+        ]
+    },
+    "水": {
+        "id": 349,
+        "pinyin": "shuǐ",
+        "vietnamese": [
+            "nước"
+        ],
+        "english": [
+            "water"
+        ]
+    },
+    "水果": {
+        "id": 350,
+        "pinyin": "shuǐguǒ",
+        "vietnamese": [
+            "hoa quả"
+        ],
+        "english": [
+            "Fruits"
+        ]
+    },
+    "睡": {
+        "id": 351,
+        "pinyin": "shuì",
+        "vietnamese": [
+            "ngủ"
+        ],
+        "english": [
+            "sleep"
+        ]
+    },
+    "睡觉": {
+        "id": 352,
+        "pinyin": "shuìjiào",
+        "vietnamese": [
+            "ngủ"
+        ],
+        "english": [
+            "go to bed"
+        ]
+    },
+    "说": {
+        "id": 353,
+        "pinyin": "shuō",
+        "vietnamese": [
+            "nói"
+        ],
+        "english": [
+            "speak"
+        ]
+    },
+    "说话": {
+        "id": 354,
+        "pinyin": "shuōhuà",
+        "vietnamese": [
+            "nói, trò chuyện"
+        ],
+        "english": [
+            "talk"
+        ]
+    },
+    "四": {
+        "id": 355,
+        "pinyin": "sì",
+        "vietnamese": [
+            "số 4"
+        ],
+        "english": [
+            "Four"
+        ]
+    },
+    "送": {
+        "id": 356,
+        "pinyin": "sòng",
+        "vietnamese": [
+            "tặng, đưa cho"
+        ],
+        "english": [
+            "give"
+        ]
+    },
+    "岁": {
+        "id": 357,
+        "pinyin": "suì",
+        "vietnamese": [
+            "tuổi"
+        ],
+        "english": [
+            "year, age"
+        ]
+    },
+    "他": {
+        "id": 358,
+        "pinyin": "tā",
+        "vietnamese": [
+            "anh ấy, ông ấy (ngôi 3nam)"
+        ],
+        "english": [
+            "he, him"
+        ]
+    },
+    "他们": {
+        "id": 359,
+        "pinyin": "tāmen",
+        "vietnamese": [
+            "các anh ấy, bọn họ (nam)"
+        ],
+        "english": [
+            "they, them"
+        ]
+    },
+    "她": {
+        "id": 360,
+        "pinyin": "tā",
+        "vietnamese": [
+            "cô ấy, bà ấy (ngôi 3"
+        ],
+        "english": [
+            "she, her"
+        ]
+    },
+    "她们": {
+        "id": 361,
+        "pinyin": "tāmen",
+        "vietnamese": [
+            "các cô ấy"
+        ],
+        "english": [
+            "they, them"
+        ]
+    },
+    "太": {
+        "id": 362,
+        "pinyin": "tài",
+        "vietnamese": [
+            "quá"
+        ],
+        "english": [
+            "too"
+        ]
+    },
+    "天": {
+        "id": 363,
+        "pinyin": "tiān",
+        "vietnamese": [
+            "trời"
+        ],
+        "english": [
+            "(n) day; sky; weather; (m) used to caculate days"
+        ]
+    },
+    "天气": {
+        "id": 364,
+        "pinyin": "tiānqì",
+        "vietnamese": [
+            "thời tiết"
+        ],
+        "english": [
+            "weather"
+        ]
+    },
+    "听": {
+        "id": 365,
+        "pinyin": "tīng",
+        "vietnamese": [
+            "nghe"
+        ],
+        "english": [
+            "listen; obey"
+        ]
+    },
+    "听到": {
+        "id": 366,
+        "pinyin": "tīng dào",
+        "vietnamese": [
+            "nghe thấy"
+        ],
+        "english": [
+            "hear"
+        ]
+    },
+    "听见": {
+        "id": 367,
+        "pinyin": "tīngjiàn",
+        "vietnamese": [
+            "nghe thấy"
+        ],
+        "english": [
+            "hear"
+        ]
+    },
+    "听写": {
+        "id": 368,
+        "pinyin": "tīngxiě",
+        "vietnamese": [
+            "nghe viết"
+        ],
+        "english": [
+            "dictation; dictate"
+        ]
+    },
+    "同学": {
+        "id": 369,
+        "pinyin": "tóngxué",
+        "vietnamese": [
+            "bạn học"
+        ],
+        "english": [
+            "Classmate"
+        ]
+    },
+    "图书馆": {
+        "id": 370,
+        "pinyin": "túshū guǎn",
+        "vietnamese": [
+            "thư viện"
+        ],
+        "english": [
+            "Library"
+        ]
+    },
+    "外": {
+        "id": 371,
+        "pinyin": "wài",
+        "vietnamese": [
+            "ngoài"
+        ],
+        "english": [
+            "out, outside"
+        ]
+    },
+    "外边": {
+        "id": 372,
+        "pinyin": "wàibian",
+        "vietnamese": [
+            "bên ngoài"
+        ],
+        "english": [
+            "out, outside"
+        ]
+    },
+    "外国": {
+        "id": 373,
+        "pinyin": "wàiguó",
+        "vietnamese": [
+            "nước ngoài"
+        ],
+        "english": [
+            "foreign country"
+        ]
+    },
+    "外语": {
+        "id": 374,
+        "pinyin": "wàiyǔ",
+        "vietnamese": [
+            "tiếng nước ngoài, ngoại ngữ"
+        ],
+        "english": [
+            "foreign language"
+        ]
+    },
+    "玩儿": {
+        "id": 375,
+        "pinyin": "wánr",
+        "vietnamese": [
+            "chơi"
+        ],
+        "english": [
+            "play"
+        ]
+    },
+    "晚": {
+        "id": 376,
+        "pinyin": "wǎn",
+        "vietnamese": [
+            "buổi tối, muộn"
+        ],
+        "english": [
+            "(adj) late; (n) evening, night"
+        ]
+    },
+    "晚饭": {
+        "id": 377,
+        "pinyin": "wǎnfàn",
+        "vietnamese": [
+            "cơm tối, bữa tối"
+        ],
+        "english": [
+            "dinner, supper"
+        ]
+    },
+    "晚上": {
+        "id": 378,
+        "pinyin": "wǎnshàng",
+        "vietnamese": [
+            "buổi tối"
+        ],
+        "english": [
+            "evening"
+        ]
+    },
+    "网上": {
+        "id": 379,
+        "pinyin": "wǎngshàng",
+        "vietnamese": [
+            "trên mạng"
+        ],
+        "english": [
+            "online"
+        ]
+    },
+    "网友": {
+        "id": 380,
+        "pinyin": "wǎngyǒu",
+        "vietnamese": [
+            "bạn trên mạng"
+        ],
+        "english": [
+            "net friend"
+        ]
+    },
+    "忘": {
+        "id": 381,
+        "pinyin": "wàng",
+        "vietnamese": [
+            "quên"
+        ],
+        "english": [
+            "forget"
+        ]
+    },
+    "忘记": {
+        "id": 382,
+        "pinyin": "wàngjì",
+        "vietnamese": [
+            "quên, quên mất"
+        ],
+        "english": [
+            "forget"
+        ]
+    },
+    "问": {
+        "id": 383,
+        "pinyin": "wèn",
+        "vietnamese": [
+            "hỏi"
+        ],
+        "english": [
+            "ask, inquire"
+        ]
+    },
+    "我": {
+        "id": 384,
+        "pinyin": "wǒ",
+        "vietnamese": [
+            "tôi, tao, tớ (ngôi thứ nhất)"
+        ],
+        "english": [
+            "I, me"
+        ]
+    },
+    "我们": {
+        "id": 385,
+        "pinyin": "wǒmen",
+        "vietnamese": [
+            "chúng ta (nhiều người)"
+        ],
+        "english": [
+            "We, us"
+        ]
+    },
+    "五": {
+        "id": 386,
+        "pinyin": "wǔ",
+        "vietnamese": [
+            "số 5"
+        ],
+        "english": [
+            "Five"
+        ]
+    },
+    "午饭": {
+        "id": 387,
+        "pinyin": "wǔfàn",
+        "vietnamese": [
+            "bữa trưa"
+        ],
+        "english": [
+            "lunch"
+        ]
+    },
+    "西": {
+        "id": 388,
+        "pinyin": "xī",
+        "vietnamese": [
+            "tây"
+        ],
+        "english": [
+            "west"
+        ]
+    },
+    "西边": {
+        "id": 389,
+        "pinyin": "xībian",
+        "vietnamese": [
+            "phía tây"
+        ],
+        "english": [
+            "west (side)"
+        ]
+    },
+    "洗": {
+        "id": 390,
+        "pinyin": "xǐ",
+        "vietnamese": [
+            "rửa"
+        ],
+        "english": [
+            "wash"
+        ]
+    },
+    "洗手间": {
+        "id": 391,
+        "pinyin": "xǐshǒujiān",
+        "vietnamese": [
+            "nhà vệ sinh"
+        ],
+        "english": [
+            "restroom"
+        ]
+    },
+    "喜欢": {
+        "id": 392,
+        "pinyin": "xǐhuɑn",
+        "vietnamese": [
+            "thích, được yêu thích"
+        ],
+        "english": [
+            "like, be fond of"
+        ]
+    },
+    "下": {
+        "id": 393,
+        "pinyin": "xià",
+        "vietnamese": [
+            "xuống dưới bên dưới"
+        ],
+        "english": [
+            "(n) below; next; (v) finish; get off ; fall"
+        ]
+    },
+    "下班": {
+        "id": 394,
+        "pinyin": "xiàbān",
+        "vietnamese": [
+            "tan làm"
+        ],
+        "english": [
+            "get off work"
+        ]
+    },
+    "下边": {
+        "id": 395,
+        "pinyin": "xiàbian",
+        "vietnamese": [
+            "bên dưới"
+        ],
+        "english": [
+            "below; under"
+        ]
+    },
+    "下车": {
+        "id": 396,
+        "pinyin": "xià chē",
+        "vietnamese": [
+            "xuống xe"
+        ],
+        "english": [
+            "get off (a bus, train, etc.)"
+        ]
+    },
+    "下次": {
+        "id": 397,
+        "pinyin": "xià cì",
+        "vietnamese": [
+            "lần kế tiếp, lần sau"
+        ],
+        "english": [
+            "next time"
+        ]
+    },
+    "下课": {
+        "id": 398,
+        "pinyin": "xiàkè",
+        "vietnamese": [
+            "tan học"
+        ],
+        "english": [
+            "finish class"
+        ]
+    },
+    "下午": {
+        "id": 399,
+        "pinyin": "xiàwǔ",
+        "vietnamese": [
+            "buổi chiều"
+        ],
+        "english": [
+            "Afternoon"
+        ]
+    },
+    "下雨": {
+        "id": 400,
+        "pinyin": "xià yǔ",
+        "vietnamese": [
+            "đổ mưa"
+        ],
+        "english": [
+            "rain"
+        ]
+    },
+    "先": {
+        "id": 401,
+        "pinyin": "xiān",
+        "vietnamese": [
+            "trước"
+        ],
+        "english": [
+            "first"
+        ]
+    },
+    "先生": {
+        "id": 402,
+        "pinyin": "xiānshēng",
+        "vietnamese": [
+            "quý ông (gọi tôn kính)"
+        ],
+        "english": [
+            "Sir; husband"
+        ]
+    },
+    "现在": {
+        "id": 403,
+        "pinyin": "xiànzài",
+        "vietnamese": [
+            "hiện tại, bây giờ"
+        ],
+        "english": [
+            "Now"
+        ]
+    },
+    "想": {
+        "id": 404,
+        "pinyin": "xiǎng",
+        "vietnamese": [
+            "muốn, nhớ"
+        ],
+        "english": [
+            "think; miss; want"
+        ]
+    },
+    "小": {
+        "id": 405,
+        "pinyin": "xiǎo",
+        "vietnamese": [
+            "nhỏ, bé"
+        ],
+        "english": [
+            "Small"
+        ]
+    },
+    "小孩儿": {
+        "id": 406,
+        "pinyin": "xiǎoháir",
+        "vietnamese": [
+            "trẻ em"
+        ],
+        "english": [
+            "kid"
+        ]
+    },
+    "小姐": {
+        "id": 407,
+        "pinyin": "xiǎojiě",
+        "vietnamese": [
+            "tiểu thư, cô, em"
+        ],
+        "english": [
+            "Miss, young lady"
+        ]
+    },
+    "小朋友": {
+        "id": 408,
+        "pinyin": "xiǎopéngyǒu",
+        "vietnamese": [
+            "trẻ em, bạn nhỏ"
+        ],
+        "english": [
+            "child"
+        ]
+    },
+    "小时": {
+        "id": 409,
+        "pinyin": "xiǎoshí",
+        "vietnamese": [
+            "tiếng, giờ đồng hồ"
+        ],
+        "english": [
+            "hour"
+        ]
+    },
+    "小学": {
+        "id": 410,
+        "pinyin": "xiǎoxué",
+        "vietnamese": [
+            "bậc tiểu học"
+        ],
+        "english": [
+            "primary school"
+        ]
+    },
+    "小学生": {
+        "id": 411,
+        "pinyin": "xiǎoxuéshēng",
+        "vietnamese": [
+            "học sinh tiểu học"
+        ],
+        "english": [
+            "primary school student"
+        ]
+    },
+    "笑": {
+        "id": 412,
+        "pinyin": "xiào",
+        "vietnamese": [
+            "cười"
+        ],
+        "english": [
+            "laugh, smile; laugh at"
+        ]
+    },
+    "写": {
+        "id": 413,
+        "pinyin": "xiě",
+        "vietnamese": [
+            "viết"
+        ],
+        "english": [
+            "write"
+        ]
+    },
+    "谢谢": {
+        "id": 414,
+        "pinyin": "xièxie",
+        "vietnamese": [
+            "cảm ơn"
+        ],
+        "english": [
+            "thank"
+        ]
+    },
+    "新": {
+        "id": 415,
+        "pinyin": "xīn",
+        "vietnamese": [
+            "mới"
+        ],
+        "english": [
+            "new"
+        ]
+    },
+    "新年": {
+        "id": 416,
+        "pinyin": "xīnnián",
+        "vietnamese": [
+            "năm mới"
+        ],
+        "english": [
+            "New Year"
+        ]
+    },
+    "星期": {
+        "id": 417,
+        "pinyin": "xīngqī",
+        "vietnamese": [
+            "tuần, thứ"
+        ],
+        "english": [
+            "week"
+        ]
+    },
+    "星期日": {
+        "id": 418,
+        "pinyin": "xīngqīrì",
+        "vietnamese": [
+            "chủ nhật"
+        ],
+        "english": [
+            "Sunday"
+        ]
+    },
+    "星期天": {
+        "id": 419,
+        "pinyin": "xīngqī tiān",
+        "vietnamese": [
+            "chủ nhật"
+        ],
+        "english": [
+            "Sunday"
+        ]
+    },
+    "行": {
+        "id": 420,
+        "pinyin": "xíng",
+        "vietnamese": [
+            "được, ổn"
+        ],
+        "english": [
+            "(v) That’s ok; (adj) capable"
+        ]
+    },
+    "休息": {
+        "id": 421,
+        "pinyin": "xiūxi",
+        "vietnamese": [
+            "nghỉ ngơi"
+        ],
+        "english": [
+            "Rest"
+        ]
+    },
+    "学": {
+        "id": 422,
+        "pinyin": "xué",
+        "vietnamese": [
+            "học"
+        ],
+        "english": [
+            "learn; study"
+        ]
+    },
+    "学生": {
+        "id": 423,
+        "pinyin": "xué sheng",
+        "vietnamese": [
+            "học sinh, sinh viên"
+        ],
+        "english": [
+            "Student"
+        ]
+    },
+    "学习": {
+        "id": 424,
+        "pinyin": "xuéxí",
+        "vietnamese": [
+            "học tập"
+        ],
+        "english": [
+            "Study"
+        ]
+    },
+    "学校": {
+        "id": 425,
+        "pinyin": "xuéxiào",
+        "vietnamese": [
+            "trường học"
+        ],
+        "english": [
+            "School"
+        ]
+    },
+    "学院": {
+        "id": 426,
+        "pinyin": "xuéyuàn",
+        "vietnamese": [
+            "học viện"
+        ],
+        "english": [
+            "college; academy"
+        ]
+    },
+    "要": {
+        "id": 427,
+        "pinyin": "yào",
+        "vietnamese": [
+            "muốn, cần, phải"
+        ],
+        "english": [
+            "want; ask; be going to"
+        ]
+    },
+    "爷爷": {
+        "id": 428,
+        "pinyin": "yéye",
+        "vietnamese": [
+            "ông nội, ông"
+        ],
+        "english": [
+            "grandpa"
+        ]
+    },
+    "也": {
+        "id": 429,
+        "pinyin": "yě",
+        "vietnamese": [
+            "cũng"
+        ],
+        "english": [
+            "also, too"
+        ]
+    },
+    "页": {
+        "id": 430,
+        "pinyin": "yè",
+        "vietnamese": [
+            "trang"
+        ],
+        "english": [
+            "page"
+        ]
+    },
+    "一": {
+        "id": 431,
+        "pinyin": "yī",
+        "vietnamese": [
+            "số 1"
+        ],
+        "english": [
+            "one"
+        ]
+    },
+    "衣服": {
+        "id": 432,
+        "pinyin": "yīfu",
+        "vietnamese": [
+            "quần áo"
+        ],
+        "english": [
+            "clothes"
+        ]
+    },
+    "医生": {
+        "id": 433,
+        "pinyin": "yīshēng",
+        "vietnamese": [
+            "bác sĩ"
+        ],
+        "english": [
+            "Doctor"
+        ]
+    },
+    "医院": {
+        "id": 434,
+        "pinyin": "yīyuàn",
+        "vietnamese": [
+            "bệnh viện"
+        ],
+        "english": [
+            "Hospital"
+        ]
+    },
+    "一半": {
+        "id": 435,
+        "pinyin": "yībàn",
+        "vietnamese": [
+            "một nửa"
+        ],
+        "english": [
+            "half"
+        ]
+    },
+    "一会儿": {
+        "id": 436,
+        "pinyin": "yíhuìr",
+        "vietnamese": [
+            "một chốc, một lát"
+        ],
+        "english": [
+            "A while"
+        ]
+    },
+    "一块儿": {
+        "id": 437,
+        "pinyin": "yíkuàir",
+        "vietnamese": [
+            "cùng nơi, cùng chỗ, cùng"
+        ],
+        "english": [
+            "together"
+        ]
+    },
+    "一下儿": {
+        "id": 438,
+        "pinyin": "yīxiàr",
+        "vietnamese": [
+            "một lát, một lúc"
+        ],
+        "english": [
+            "one time, once"
+        ]
+    },
+    "一样": {
+        "id": 439,
+        "pinyin": "yīyàng",
+        "vietnamese": [
+            "giống nhau, như nhau"
+        ],
+        "english": [
+            "equally"
+        ]
+    },
+    "一边": {
+        "id": 440,
+        "pinyin": "yībiān",
+        "vietnamese": [
+            "một bên, một mặt"
+        ],
+        "english": [
+            "(n) One side; (adv) simultaneously"
+        ]
+    },
+    "一点儿": {
+        "id": 441,
+        "pinyin": "yīdiǎnr",
+        "vietnamese": [
+            "một chút"
+        ],
+        "english": [
+            "a little, a bit"
+        ]
+    },
+    "一起": {
+        "id": 442,
+        "pinyin": "yīqǐ",
+        "vietnamese": [
+            "cùng"
+        ],
+        "english": [
+            "(adv) together; (n) in the same place"
+        ]
+    },
+    "一些": {
+        "id": 443,
+        "pinyin": "yīxiē",
+        "vietnamese": [
+            "một ít, một chút"
+        ],
+        "english": [
+            "some"
+        ]
+    },
+    "用": {
+        "id": 444,
+        "pinyin": "yòng",
+        "vietnamese": [
+            "dùng, sử dụng"
+        ],
+        "english": [
+            "(v) use; need; (prep) with"
+        ]
+    },
+    "有": {
+        "id": 445,
+        "pinyin": "yǒu",
+        "vietnamese": [
+            "có"
+        ],
+        "english": [
+            "have"
+        ]
+    },
+    "有的": {
+        "id": 446,
+        "pinyin": "yǒu de",
+        "vietnamese": [
+            "có"
+        ],
+        "english": [
+            "some"
+        ]
+    },
+    "有名": {
+        "id": 447,
+        "pinyin": "yǒumíng",
+        "vietnamese": [
+            "nổi tiếng"
+        ],
+        "english": [
+            "Famous"
+        ]
+    },
+    "有时候": {
+        "id": 448,
+        "pinyin": "yǒu shíhòu",
+        "vietnamese": [
+            "có lúc"
+        ],
+        "english": [
+            "sometimes"
+        ]
+    },
+    "有时": {
+        "id": 449,
+        "pinyin": "yǒushí",
+        "vietnamese": [
+            "có lúc"
+        ],
+        "english": [
+            "sometimes"
+        ]
+    },
+    "有些": {
+        "id": 450,
+        "pinyin": "yǒuxiē",
+        "vietnamese": [
+            "có một tí"
+        ],
+        "english": [
+            "some"
+        ]
+    },
+    "有用": {
+        "id": 451,
+        "pinyin": "yǒuyòng",
+        "vietnamese": [
+            "có ích, có tác dụng"
+        ],
+        "english": [
+            "useful"
+        ]
+    },
+    "右": {
+        "id": 452,
+        "pinyin": "yòu",
+        "vietnamese": [
+            "bên phải"
+        ],
+        "english": [
+            "right"
+        ]
+    },
+    "右边": {
+        "id": 453,
+        "pinyin": "yòubiān",
+        "vietnamese": [
+            "phía bên phải"
+        ],
+        "english": [
+            "Right (side)"
+        ]
+    },
+    "雨": {
+        "id": 454,
+        "pinyin": "yǔ",
+        "vietnamese": [
+            "mưa"
+        ],
+        "english": [
+            "rain"
+        ]
+    },
+    "元": {
+        "id": 455,
+        "pinyin": "yuán",
+        "vietnamese": [
+            "đồng (đơn vị tiền tệ)"
+        ],
+        "english": [
+            "a standard monetary unit in China"
+        ]
+    },
+    "远": {
+        "id": 456,
+        "pinyin": "yuǎn",
+        "vietnamese": [
+            "xa"
+        ],
+        "english": [
+            "far"
+        ]
+    },
+    "月": {
+        "id": 457,
+        "pinyin": "yuè",
+        "vietnamese": [
+            "mặt trăng, tháng"
+        ],
+        "english": [
+            "month"
+        ]
+    },
+    "再": {
+        "id": 458,
+        "pinyin": "zài",
+        "vietnamese": [
+            "lại (chưa xảy ra)"
+        ],
+        "english": [
+            "again"
+        ]
+    },
+    "再见": {
+        "id": 459,
+        "pinyin": "zàijiàn",
+        "vietnamese": [
+            "hẹn gặp lại"
+        ],
+        "english": [
+            "bye"
+        ]
+    },
+    "在": {
+        "id": 460,
+        "pinyin": "zài",
+        "vietnamese": [
+            "đang, ở tại"
+        ],
+        "english": [
+            "(v) be at a place; (prep) in, at, on; (adv) indicating an action in progress"
+        ]
+    },
+    "在家": {
+        "id": 461,
+        "pinyin": "zàijiā",
+        "vietnamese": [
+            "ở nhà"
+        ],
+        "english": [
+            "at home"
+        ]
+    },
+    "早": {
+        "id": 462,
+        "pinyin": "zǎo",
+        "vietnamese": [
+            "sớm"
+        ],
+        "english": [
+            "early"
+        ]
+    },
+    "早饭": {
+        "id": 463,
+        "pinyin": "zǎofàn",
+        "vietnamese": [
+            "bữa sáng"
+        ],
+        "english": [
+            "breakfast"
+        ]
+    },
+    "早上": {
+        "id": 464,
+        "pinyin": "zǎoshang",
+        "vietnamese": [
+            "buổi sáng"
+        ],
+        "english": [
+            "Morning"
+        ]
+    },
+    "怎么": {
+        "id": 465,
+        "pinyin": "zěnme",
+        "vietnamese": [
+            "làm sao, thế nào"
+        ],
+        "english": [
+            "How, why"
+        ]
+    },
+    "站": {
+        "id": 466,
+        "pinyin": "zhàn",
+        "vietnamese": [
+            "bến, trạm"
+        ],
+        "english": [
+            "station, stop"
+        ]
+    },
+    "找": {
+        "id": 467,
+        "pinyin": "zhǎo",
+        "vietnamese": [
+            "tìm"
+        ],
+        "english": [
+            "look for; give change"
+        ]
+    },
+    "找到": {
+        "id": 468,
+        "pinyin": "zhǎodào",
+        "vietnamese": [
+            "tìm thấy"
+        ],
+        "english": [
+            "find"
+        ]
+    },
+    "这": {
+        "id": 469,
+        "pinyin": "zhè",
+        "vietnamese": [
+            "này, đây"
+        ],
+        "english": [
+            "this"
+        ]
+    },
+    "这边": {
+        "id": 470,
+        "pinyin": "zhè biān",
+        "vietnamese": [
+            "bên này"
+        ],
+        "english": [
+            "this side"
+        ]
+    },
+    "这里": {
+        "id": 471,
+        "pinyin": "zhèlǐ",
+        "vietnamese": [
+            "nơi đây"
+        ],
+        "english": [
+            "here"
+        ]
+    },
+    "这儿": {
+        "id": 472,
+        "pinyin": "zhèr",
+        "vietnamese": [
+            "nơi đây"
+        ],
+        "english": [
+            "here"
+        ]
+    },
+    "这些": {
+        "id": 473,
+        "pinyin": "zhèxiē",
+        "vietnamese": [
+            "những cái này"
+        ],
+        "english": [
+            "these"
+        ]
+    },
+    "着": {
+        "id": 474,
+        "pinyin": "zhe",
+        "vietnamese": [
+            "trợ từ động thái"
+        ],
+        "english": [
+            "used to indicate the continuation of a state or an action"
+        ]
+    },
+    "真": {
+        "id": 475,
+        "pinyin": "zhēn",
+        "vietnamese": [
+            "thật là"
+        ],
+        "english": [
+            "(adv) really, truly; (adj) real, true"
+        ]
+    },
+    "真的": {
+        "id": 476,
+        "pinyin": "zhēn de",
+        "vietnamese": [
+            "Thật ư"
+        ],
+        "english": [
+            "really"
+        ]
+    },
+    "正": {
+        "id": 477,
+        "pinyin": "zhèng",
+        "vietnamese": [
+            "đang"
+        ],
+        "english": [
+            "in the process of"
+        ]
+    },
+    "正在": {
+        "id": 478,
+        "pinyin": "zhèngzài",
+        "vietnamese": [
+            "đang"
+        ],
+        "english": [
+            "in the process of"
+        ]
+    },
+    "知道": {
+        "id": 479,
+        "pinyin": "zhīdào",
+        "vietnamese": [
+            "biết"
+        ],
+        "english": [
+            "know"
+        ]
+    },
+    "知识": {
+        "id": 480,
+        "pinyin": "zhīshi",
+        "vietnamese": [
+            "kiến thức"
+        ],
+        "english": [
+            "knowledge"
+        ]
+    },
+    "中": {
+        "id": 481,
+        "pinyin": "zhōng",
+        "vietnamese": [
+            "giữa"
+        ],
+        "english": [
+            "middle; in"
+        ]
+    },
+    "中国": {
+        "id": 482,
+        "pinyin": "zhōngguó",
+        "vietnamese": [
+            "nước Trung Quốc"
+        ],
+        "english": [
+            "China"
+        ]
+    },
+    "中间": {
+        "id": 483,
+        "pinyin": "zhōngjiān",
+        "vietnamese": [
+            "giữa, ở giữa"
+        ],
+        "english": [
+            "middle"
+        ]
+    },
+    "中文": {
+        "id": 484,
+        "pinyin": "zhōngwén",
+        "vietnamese": [
+            "(văn tự) Tiếng Trung"
+        ],
+        "english": [
+            "Chinese (language)"
+        ]
+    },
+    "中午": {
+        "id": 485,
+        "pinyin": "zhōngwǔ",
+        "vietnamese": [
+            "buổi trưa"
+        ],
+        "english": [
+            "Noon"
+        ]
+    },
+    "中学": {
+        "id": 486,
+        "pinyin": "zhōngxué",
+        "vietnamese": [
+            "cấp trung học"
+        ],
+        "english": [
+            "middle school"
+        ]
+    },
+    "中学生": {
+        "id": 487,
+        "pinyin": "zhōngxuéshēng",
+        "vietnamese": [
+            "học sinh trung học"
+        ],
+        "english": [
+            "middle School student"
+        ]
+    },
+    "重": {
+        "id": 488,
+        "pinyin": "zhòng",
+        "vietnamese": [
+            "nặng"
+        ],
+        "english": [
+            "heavy"
+        ]
+    },
+    "重要": {
+        "id": 489,
+        "pinyin": "zhòngyào",
+        "vietnamese": [
+            "quan trọng"
+        ],
+        "english": [
+            "important"
+        ]
+    },
+    "住": {
+        "id": 490,
+        "pinyin": "zhù",
+        "vietnamese": [
+            "ở tại"
+        ],
+        "english": [
+            "live"
+        ]
+    },
+    "准备": {
+        "id": 491,
+        "pinyin": "zhǔnbèi",
+        "vietnamese": [
+            "chuẩn bị"
+        ],
+        "english": [
+            "Get ready"
+        ]
+    },
+    "桌子": {
+        "id": 492,
+        "pinyin": "zhuōzi",
+        "vietnamese": [
+            "cái bàn"
+        ],
+        "english": [
+            "Table"
+        ]
+    },
+    "字": {
+        "id": 493,
+        "pinyin": "zì",
+        "vietnamese": [
+            "chữ, chữ viết, văn tự"
+        ],
+        "english": [
+            "word, character"
+        ]
+    },
+    "子": {
+        "id": 494,
+        "pinyin": "zi",
+        "vietnamese": [
+            "hậu tố"
+        ],
+        "english": [
+            "noun suffix (table)"
+        ]
+    },
+    "走": {
+        "id": 495,
+        "pinyin": "zǒu",
+        "vietnamese": [
+            "đi"
+        ],
+        "english": [
+            "go, walk"
+        ]
+    },
+    "走路": {
+        "id": 496,
+        "pinyin": "zǒulù",
+        "vietnamese": [
+            "đi đường, đi bộ"
+        ],
+        "english": [
+            "walk"
+        ]
+    },
+    "最": {
+        "id": 497,
+        "pinyin": "zuì",
+        "vietnamese": [
+            "nhất, số một"
+        ],
+        "english": [
+            "most"
+        ]
+    },
+    "最好": {
+        "id": 498,
+        "pinyin": "zuì hǎo",
+        "vietnamese": [
+            "tốt nhất"
+        ],
+        "english": [
+            "had better"
+        ]
+    },
+    "最后": {
+        "id": 499,
+        "pinyin": "zuìhòu",
+        "vietnamese": [
+            "cuối cùng, sau cùng"
+        ],
+        "english": [
+            "Last"
+        ]
+    },
+    "昨天": {
+        "id": 500,
+        "pinyin": "zuótiān",
+        "vietnamese": [
+            "hôm qua"
+        ],
+        "english": [
+            "Yesterday"
+        ]
+    },
+    "左": {
+        "id": 501,
+        "pinyin": "zuǒ",
+        "vietnamese": [
+            "bên trái"
+        ],
+        "english": [
+            "left"
+        ]
+    },
+    "左边": {
+        "id": 502,
+        "pinyin": "zuǒbiān",
+        "vietnamese": [
+            "bên trái"
+        ],
+        "english": [
+            "left (side)"
+        ]
+    },
+    "坐": {
+        "id": 503,
+        "pinyin": "zuò",
+        "vietnamese": [
+            "ngồi"
+        ],
+        "english": [
+            "sit"
+        ]
+    },
+    "坐下": {
+        "id": 504,
+        "pinyin": "zuò xià",
+        "vietnamese": [
+            "ngồi xuống"
+        ],
+        "english": [
+            "sit down"
+        ]
+    },
+    "做": {
+        "id": 505,
+        "pinyin": "zuò",
+        "vietnamese": [
+            "làm"
+        ],
+        "english": [
+            "do"
+        ]
+    },
+    "出租车": {
+        "id": 506,
+        "pinyin": "chūzū chē",
+        "vietnamese": [
+            "xe taxi"
+        ],
+        "english": [
+            "taxi"
+        ]
+    },
+    "饭馆": {
+        "id": 507,
+        "pinyin": "fànguǎn",
+        "vietnamese": [
+            "nhà hàng"
+        ],
+        "english": [
+            "restaurant"
+        ]
+    },
+    "分钟": {
+        "id": 508,
+        "pinyin": "fēnzhōng",
+        "vietnamese": [
+            "phút"
+        ],
+        "english": [
+            "minute"
+        ]
+    },
+    "狗": {
+        "id": 509,
+        "pinyin": "gǒu",
+        "vietnamese": [
+            "con chó"
+        ],
+        "english": [
+            "dog"
+        ]
+    },
+    "后面": {
+        "id": 510,
+        "pinyin": "hòumiàn",
+        "vietnamese": [
+            "phía sau"
+        ],
+        "english": [
+            "later"
+        ]
+    },
+    "火车站": {
+        "id": 511,
+        "pinyin": "huǒchē zhàn",
+        "vietnamese": [
+            "trạm xe lửa"
+        ],
+        "english": [
+            "train station"
+        ]
+    },
+    "猫": {
+        "id": 512,
+        "pinyin": "māo",
+        "vietnamese": [
+            "mèo"
+        ],
+        "english": [
+            "cat"
+        ]
+    },
+    "漂亮": {
+        "id": 513,
+        "pinyin": "piàoliang",
+        "vietnamese": [
+            "xinh đẹp"
+        ],
+        "english": [
+            "pretty"
+        ]
+    },
+    "苹果": {
+        "id": 514,
+        "pinyin": "píngguǒ",
+        "vietnamese": [
+            "quả táo"
+        ],
+        "english": [
+            "apple"
+        ]
+    },
+    "前面": {
+        "id": 515,
+        "pinyin": "qiánmiàn",
+        "vietnamese": [
+            "phía trước"
+        ],
+        "english": [
+            "Front"
+        ]
+    },
+    "喂": {
+        "id": 516,
+        "pinyin": "wèi",
+        "vietnamese": [
+            "alo"
+        ],
+        "english": [
+            "Hello"
+        ]
+    },
+    "些": {
+        "id": 517,
+        "pinyin": "xiē",
+        "vietnamese": [
+            "chút, vài"
+        ],
+        "english": [
+            "some"
+        ]
+    },
+    "椅子": {
+        "id": 518,
+        "pinyin": "yǐzi",
+        "vietnamese": [
+            "ghế"
+        ],
+        "english": [
+            "chair"
+        ]
+    },
+    "怎么样": {
+        "id": 519,
+        "pinyin": "zěnme yàng",
+        "vietnamese": [
+            "như thế nào"
+        ],
+        "english": [
+            "how"
+        ]
+    }
+}
