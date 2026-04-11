@@ -260,15 +260,17 @@ Return ONLY JSON:
         return eg_list
 
     # =======================
-    def run_pipeline(self):
-        doc_type = input("Enter type (podcast/audiobook/paper): ").strip().lower()
-        idx = input("Enter file number: ").strip()
+    def run_pipeline(self, doc_type=None, idx=None):
+        if doc_type is None:
+            doc_type = input("Enter type (podcast/audiobook/paper): ").strip().lower()
+        if idx is None:
+            idx = input("Enter file number: ").strip()
 
-        if not idx.isdigit():
+        if str(idx).isdigit():
+            idx = int(idx)
+        else:
             print("❌ Invalid number")
-            return
-
-        idx = int(idx)
+            return None, None
 
         raw_dir = os.path.join(self.base_raw, doc_type)
         raw_path = os.path.join(raw_dir, f"{doc_type}_{idx}.txt")
@@ -338,6 +340,7 @@ Return ONLY JSON:
             json.dump(final_output, f, ensure_ascii=False, indent=4)
 
         print(f"\n✅ Saved to {out_path}")
+        return doc_type, idx
 
 
 def test():
@@ -347,3 +350,4 @@ def test():
 
 if __name__ == "__main__":
     test()
+    pass

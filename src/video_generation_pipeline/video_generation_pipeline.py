@@ -155,4 +155,5 @@ def test():
         print("Required files for video generation test not found.")
 
 if __name__ == "__main__":
-    test()
+    # test()
+    pass
