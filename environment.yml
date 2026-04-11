@@ -1,0 +1,6 @@
+name: learning_chinese_as_a_journey
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
