@@ -15,12 +15,14 @@ SAMPLE_RATE = 22050
 
 SPEAKER_CONFIG = {
     "vivos": os.path.join(VN_BASE, "vi_VN-vivos-x_low.onnx"),
+    "ngochuyen": os.path.join(VN_BASE, "ngochuyennew.onnx"),
+    "minhquang": os.path.join(VN_BASE, "minhquang.onnx"),
     "chaowen": os.path.join(PIPER_BASE, "chaowen/zh_CN-chaowen-medium.onnx"),
     "huayan": os.path.join(PIPER_BASE, "huayan/zh_CN-huayan-medium.onnx"),
 }
 
 class VietnameseSpeaker:
-    def __init__(self, model_key="vivos"):
+    def __init__(self, model_key="minhquang"):
         self.model_path = SPEAKER_CONFIG.get(model_key)
         self.voice = PiperVoice.load(self.model_path) if os.path.exists(self.model_path) else None
 
@@ -34,7 +36,17 @@ class VietnameseSpeaker:
     def speak(self, text):
         if not self.voice: return None
         text = self.clean_text(text)
-        audio_chunks = [chunk.audio_int16_array for chunk in self.voice.synthesize(text) if hasattr(chunk, 'audio_int16_array')]
+        
+        # Try synthesize with length_scale (if supported), otherwise fallback
+        try:
+            # We must iterate inside a list comprehension or just use it directly
+            audio_generator = self.voice.synthesize(text, length_scale=1.05)
+            audio_chunks = [chunk.audio_int16_array for chunk in audio_generator if hasattr(chunk, 'audio_int16_array')]
+        except TypeError:
+            # If length_scale is unknown, use default synthesis
+            audio_generator = self.voice.synthesize(text)
+            audio_chunks = [chunk.audio_int16_array for chunk in audio_generator if hasattr(chunk, 'audio_int16_array')]
+            
         if not audio_chunks: return None
         return np.concatenate(audio_chunks)
 
@@ -56,7 +68,7 @@ class ChineseSpeaker:
 
 class TTS:
     def __init__(self):
-        self.vn_speaker = VietnameseSpeaker("vivos")
+        self.vn_speaker = VietnameseSpeaker("minhquang")
         self.cn_male = ChineseSpeaker("chaowen")
         self.cn_female = ChineseSpeaker("huayan")
 
