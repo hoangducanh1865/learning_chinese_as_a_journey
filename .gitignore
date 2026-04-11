@@ -211,3 +211,4 @@ debug/
 bak/
 
 *.onnx
+*.wav
