@@ -7,6 +7,13 @@
         ],
         "english": [
             "love, like"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱你",
+                "eg_pinyin": "Aihu",
+                "eg_vietnamese": "Aihu"
+            }
         ]
     },
     "爱好": {
@@ -17,6 +24,13 @@
         ],
         "english": [
             "hobby"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他对音乐有着浓厚的爱好",
+                "eg_pinyin": "wǒ men gěi zuò yào hào yào zuò wǔ mǔ shí",
+                "eg_vietnamese": "Tài gē hào hào hào làu táo yào zuò wǔ mǔ shí"
+            }
         ]
     },
     "八": {
@@ -27,6 +41,13 @@
         ],
         "english": [
             "eight"
+        ],
+        "eg": [
+            {
+                "eg_english": "Number 8",
+                "eg_chinese": "八",
+                "eg_vietnamese": "8"
+            }
         ]
     },
     "爸爸": {
@@ -37,6 +58,13 @@
         ],
         "english": [
             "father, dad"
+        ],
+        "eg": [
+            {
+                "eg_english": "father",
+                "eg_chinese": "bàba",
+                "eg_vietnamese": "bố, ba, cha"
+            }
         ]
     },
     "爸": {
@@ -47,6 +75,14 @@
         ],
         "english": [
             "father, dad"
+        ],
+        "eg": [
+            {
+                "eg_english": "My father",
+                "eg_chinese": "爸",
+                "eg_pinyin": "pinyin: ba",
+                "eg_vietnamese": "父亲"
+            }
         ]
     },
     "吧": {
@@ -57,6 +93,13 @@
         ],
         "english": [
             "used at the end of an imperative sentence to indicate a suggestion; turn a declarative sentence into an interrogative sentence to indicate that one is sure about his or her conjecture"
+        ],
+        "eg": [
+            {
+                "eg_english": "What about going out for a drink?",
+                "eg_chinese": "呗，好吧，反正，走吧",
+                "eg_vietnamese": "Tại sao đi quan đi?"
+            }
         ]
     },
     "白": {
@@ -67,6 +110,13 @@
         ],
         "english": [
             "white"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "white",
+                "eg_pinyin": "bái",
+                "eg_vietnamese": "trắng"
+            }
         ]
     },
     "白天": {
@@ -77,6 +127,13 @@
         ],
         "english": [
             "day, daytime"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "白天 (báitiān)",
+                "eg_pinyin": "Báijiān",
+                "eg_vietnamese": "Ban ngày"
+            }
         ]
     },
     "百": {
@@ -87,6 +144,13 @@
         ],
         "english": [
             "hundred"
+        ],
+        "eg": [
+            {
+                "eg_english": "A hundred",
+                "eg_chinese": "一百",
+                "eg_vietnamese": "Cái trăm"
+            }
         ]
     },
     "班": {
@@ -97,6 +161,14 @@
         ],
         "english": [
             "(n) class"
+        ],
+        "eg": [
+            {
+                "eg_english": "Class",
+                "eg_chinese": "班",
+                "eg_pinyin": "bān",
+                "eg_vietnamese": "Class"
+            }
         ]
     },
     "半": {
@@ -107,6 +179,13 @@
         ],
         "english": [
             "half"
+        ],
+        "eg": [
+            {
+                "eg_english": "Half",
+                "eg_chinese": "A half",
+                "eg_vietnamese": "Từ một nửa"
+            }
         ]
     },
     "半年": {
@@ -117,6 +196,14 @@
         ],
         "english": [
             "half a year"
+        ],
+        "eg": [
+            {
+                "eg_english": "Half a year",
+                "eg_chinese": "半年",
+                "eg_pinyin": "zhá yuán",
+                "eg_vietnamese": "Hàng yuán"
+            }
         ]
     },
     "半天": {
@@ -127,6 +214,14 @@
         ],
         "english": [
             "half a day; quite a white"
+        ],
+        "eg": [
+            {
+                "eg_english": "Half a day",
+                "eg_chinese": "Half a day",
+                "eg_pinyin": "Pinyin: nán yuè",
+                "eg_vietnamese": "Năm yuè"
+            }
         ]
     },
     "帮": {
@@ -137,6 +232,13 @@
         ],
         "english": [
             "help"
+        ],
+        "eg": [
+            {
+                "eg_english": "Help",
+                "eg_chinese": "帮我",
+                "eg_vietnamese": "Gửi giúp đỡ"
+            }
         ]
     },
     "帮忙": {
@@ -147,6 +249,14 @@
         ],
         "english": [
             "help, give a hand, do somebody a favor"
+        ],
+        "eg": [
+            {
+                "eg_english": "Help",
+                "eg_chinese": "帮我",
+                "eg_pinyin": "Bān gěi",
+                "eg_vietnamese": "Hèn gěi"
+            }
         ]
     },
     "包": {
@@ -159,6 +269,13 @@
             "(n) bag",
             "(m) a measure word for packaged things",
             "(v) parcel up, wrap"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我买了一个书包。",
+                "eg_pinyin": "Wǒ mǎile yīgè shūbāo.",
+                "eg_vietnamese": "Tôi đã mua một cái ba lô."
+            }
         ]
     },
     "包子": {
@@ -169,6 +286,13 @@
         ],
         "english": [
             "steamed stuffed bun"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天晚餐吃了两个包子。",
+                "eg_pinyin": "Wǒ jīntiān wǎncān chīle liǎng gè bāozi.",
+                "eg_vietnamese": "Hôm nay tôi đã ăn hai chiếc bánh bao cho bữa tối."
+            }
         ]
     },
     "杯": {
@@ -179,6 +303,13 @@
         ],
         "english": [
             "a measure word for cups"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想喝水，请给我一个杯子。",
+                "eg_pinyin": "Wǒ xiǎng hē shuǐ, qǐng gěi wǒ yīgè bēizi.",
+                "eg_vietnamese": "Tôi muốn uống nước, xin cho tôi một cái cốc."
+            }
         ]
     },
     "杯子": {
@@ -189,6 +320,13 @@
         ],
         "english": [
             "cup"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天买了一个新杯子。",
+                "eg_pinyin": "Wǒ jīntiān mǎile yīgè xīn bēizi.",
+                "eg_vietnamese": "Hôm nay tôi đã mua một cái cốc mới."
+            }
         ]
     },
     "北": {
@@ -199,6 +337,13 @@
         ],
         "english": [
             "north"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们要去北方旅游。",
+                "eg_pinyin": "wǒ men yào qù běi fāng lǚ yóu.",
+                "eg_vietnamese": "Chúng ta sẽ đi du lịch ở phía Bắc."
+            }
         ]
     },
     "北边": {
@@ -209,6 +354,13 @@
         ],
         "english": [
             "north (side)"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "学校在公园的北边。",
+                "eg_pinyin": "Xuéxiào zài gōngyuán de běibian.",
+                "eg_vietnamese": "Trường học ở phía bắc công viên."
+            }
         ]
     },
     "北京": {
@@ -219,6 +371,13 @@
         ],
         "english": [
             "Beijing"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我明年要去北京旅游。",
+                "eg_pinyin": "Wǒ míngnián yào qù Běijīng lǚyóu.",
+                "eg_vietnamese": "Tôi sẽ đi du lịch Bắc Kinh vào năm tới."
+            }
         ]
     },
     "本": {
@@ -229,6 +388,13 @@
         ],
         "english": [
             "a measure word for books"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在图书馆借了一本书。",
+                "eg_pinyin": "Wǒ zài túshūguǎn jièle yī běn shū.",
+                "eg_vietnamese": "Tôi đã mượn một cuốn sách ở thư viện."
+            }
         ]
     },
     "本子": {
@@ -239,6 +405,13 @@
         ],
         "english": [
             "notebook"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我需要买一个新本子。",
+                "eg_pinyin": "Wǒ xūyào mǎi yīgè xīn běnzi.",
+                "eg_vietnamese": "Tôi cần mua một cuốn vở mới."
+            }
         ]
     },
     "比": {
@@ -250,6 +423,13 @@
         "english": [
             "(prep) than",
             "(v) compare"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "苹果比橙子贵。",
+                "eg_pinyin": "Píngguǒ bǐ chéngzi guì.",
+                "eg_vietnamese": "Táo thì đắt hơn cam."
+            }
         ]
     },
     "别": {
@@ -260,6 +440,13 @@
         ],
         "english": [
             "don't"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "别说话。",
+                "eg_pinyin": "Bié shuōhuà.",
+                "eg_vietnamese": "Đừng nói."
+            }
         ]
     },
     "别的": {
@@ -270,6 +457,13 @@
         ],
         "english": [
             "other"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想要别的颜色。",
+                "eg_pinyin": "Wǒ xiǎng yào bié de yánsè.",
+                "eg_vietnamese": "Tôi muốn màu khác."
+            }
         ]
     },
     "别人": {
@@ -280,6 +474,13 @@
         ],
         "english": [
             "others"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "别人都很喜欢这个地方。",
+                "eg_pinyin": "Biérén dōu hěn xǐhuān zhège dìfāng.",
+                "eg_vietnamese": "Người khác đều rất thích nơi này."
+            }
         ]
     },
     "病": {
@@ -290,6 +491,13 @@
         ],
         "english": [
             "disease"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天有点儿病。",
+                "eg_pinyin": "Wǒ jīntiān yǒudiǎn er bìng.",
+                "eg_vietnamese": "Hôm nay tôi hơi bị bệnh."
+            }
         ]
     },
     "病人": {
@@ -300,6 +508,13 @@
         ],
         "english": [
             "patient"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "病人需要按时服药。",
+                "eg_pinyin": "bìngrén xūyào ànshí fú yào.",
+                "eg_vietnamese": "Bệnh nhân cần uống thuốc đúng giờ."
+            }
         ]
     },
     "不大": {
@@ -310,6 +525,13 @@
         ],
         "english": [
             "not very"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他的房间不大。",
+                "eg_pinyin": "tā de fángjiān bù dà.",
+                "eg_vietnamese": "Căn phòng của anh ấy không lớn."
+            }
         ]
     },
     "不对": {
@@ -320,6 +542,13 @@
         ],
         "english": [
             "wrong"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你的答案不对。",
+                "eg_pinyin": "nǐ de dá'àn bùduì.",
+                "eg_vietnamese": "Câu trả lời của bạn không đúng."
+            }
         ]
     },
     "不客气": {
@@ -330,6 +559,13 @@
         ],
         "english": [
             "You’re welcome"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "谢谢你的帮助！",
+                "eg_pinyin": "Xièxiè nǐ de bāngzhù!",
+                "eg_vietnamese": "Cảm ơn sự giúp đỡ của bạn! Không có gì."
+            }
         ]
     },
     "不用": {
@@ -340,6 +576,13 @@
         ],
         "english": [
             "don't have to"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你不用担心太多。",
+                "eg_pinyin": "nǐ bùyòng dān xīn tài duō.",
+                "eg_vietnamese": "Bạn không cần lo lắng quá nhiều."
+            }
         ]
     },
     "不": {
@@ -350,6 +593,13 @@
         ],
         "english": [
             "Not"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我不喜欢这个电影。",
+                "eg_pinyin": "wǒ bù xǐ huān zhè ge diàn yǐng.",
+                "eg_vietnamese": "Tôi không thích bộ phim này."
+            }
         ]
     },
     "菜": {
@@ -360,6 +610,13 @@
         ],
         "english": [
             "dish"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天做了很多好吃的菜。",
+                "eg_pinyin": "Wǒ jīntiān zuòle hěn duō hǎochī de cài.",
+                "eg_vietnamese": "Hôm nay tôi đã nấu nhiều món ăn ngon."
+            }
         ]
     },
     "茶": {
@@ -370,6 +627,13 @@
         ],
         "english": [
             "tea"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都喝茶。",
+                "eg_pinyin": "Wǒ měitiān dū hē chá.",
+                "eg_vietnamese": "Mỗi ngày tôi đều uống trà."
+            }
         ]
     },
     "差": {
@@ -380,6 +644,13 @@
         ],
         "english": [
             "(v) be less than; (adj) poor, not up to standard"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他的汉语水平差，常常说错话。",
+                "eg_pinyin": "tā de hànyǔ shuǐpíng chà, chángcháng shuō cuòhuà.",
+                "eg_vietnamese": "Trình độ tiếng Trung của anh ấy kém, thường xuyên nói sai."
+            }
         ]
     },
     "常": {
@@ -390,6 +661,13 @@
         ],
         "english": [
             "often"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我常去那个公园散步。",
+                "eg_pinyin": "Wǒ cháng qù nàgè gōngyuán sànbù.",
+                "eg_vietnamese": "Tôi thường đi bộ ở công viên đó."
+            }
         ]
     },
     "常常": {
@@ -400,6 +678,13 @@
         ],
         "english": [
             "often"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我常常去公园散步。",
+                "eg_pinyin": "Wǒ chángcháng qù gōngyuán sànbù.",
+                "eg_vietnamese": "Tôi thường thường đi dạo ở công viên."
+            }
         ]
     },
     "唱": {
@@ -410,6 +695,13 @@
         ],
         "english": [
             "sing"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "她每天唱歌。",
+                "eg_pinyin": "Tā měitiān chànggē.",
+                "eg_vietnamese": "Cô ấy hát mỗi ngày."
+            }
         ]
     },
     "唱歌": {
@@ -420,6 +712,13 @@
         ],
         "english": [
             "sing a song"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "她喜欢在家里唱歌。",
+                "eg_pinyin": "Tā xǐhuān zài jiālǐ chànggē.",
+                "eg_vietnamese": "Cô ấy thích hát ở nhà."
+            }
         ]
     },
     "车": {
@@ -430,6 +729,13 @@
         ],
         "english": [
             "vehicle"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天开车上班。",
+                "eg_pinyin": "Wǒ měitiān kāi chē shàngbān.",
+                "eg_vietnamese": "Tôi lái xe đi làm mỗi ngày."
+            }
         ]
     },
     "车票": {
@@ -440,6 +746,13 @@
         ],
         "english": [
             "ticket"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我买了一张去北京的车票。",
+                "eg_pinyin": "Wǒ mǎile yī zhāng qù Běijīng de chēpiào.",
+                "eg_vietnamese": "Tôi đã mua một vé xe đi Bắc Kinh."
+            }
         ]
     },
     "车上": {
@@ -450,6 +763,13 @@
         ],
         "english": [
             "in the car, on a bus, etc"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在车上听音乐。",
+                "eg_pinyin": "Wǒ zài chē shàng tīng yīnyuè.",
+                "eg_vietnamese": "Tôi đang nghe nhạc trên xe."
+            }
         ]
     },
     "车站": {
@@ -460,6 +780,13 @@
         ],
         "english": [
             "station, stop"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在车站等我的朋友。",
+                "eg_pinyin": "Wǒ zài chēzhàn děng wǒ de péngyǒu.",
+                "eg_vietnamese": "Tôi đang chờ bạn tôi ở bến xe."
+            }
         ]
     },
     "吃": {
@@ -470,6 +797,13 @@
         ],
         "english": [
             "eat"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢吃水果。",
+                "eg_pinyin": "Wǒ xǐhuān chī shuǐguǒ.",
+                "eg_vietnamese": "Tôi thích ăn trái cây."
+            }
         ]
     },
     "吃饭": {
@@ -480,6 +814,13 @@
         ],
         "english": [
             "have a meal"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们现在去吃饭吧。",
+                "eg_pinyin": "Wǒmen xiànzài qù chīfàn ba.",
+                "eg_vietnamese": "Chúng ta đi ăn cơm bây giờ nhé."
+            }
         ]
     },
     "出": {
@@ -490,6 +831,13 @@
         ],
         "english": [
             "go/ come out"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他出门了。",
+                "eg_pinyin": "Tā chūmén le.",
+                "eg_vietnamese": "Anh ấy đã ra ngoài."
+            }
         ]
     },
     "出来": {
@@ -500,6 +848,13 @@
         ],
         "english": [
             "come out"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他从房间里出来了。",
+                "eg_pinyin": "tā cóng fángjiān lǐ chūlái le.",
+                "eg_vietnamese": "Anh ấy đã đi ra từ trong phòng."
+            }
         ]
     },
     "出去": {
@@ -510,6 +865,13 @@
         ],
         "english": [
             "go out"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天要出去散步。",
+                "eg_pinyin": "Wǒ jīntiān yào chūqù sànbù.",
+                "eg_vietnamese": "Hôm nay tôi muốn ra ngoài đi dạo."
+            }
         ]
     },
     "穿": {
@@ -520,6 +882,13 @@
         ],
         "english": [
             "wear"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天我穿了一件新衣服。",
+                "eg_pinyin": "jīntiān wǒ chuānle yī jiàn xīn yīfú.",
+                "eg_vietnamese": "Hôm nay tôi mặc một bộ quần áo mới."
+            }
         ]
     },
     "床": {
@@ -530,6 +899,13 @@
         ],
         "english": [
             "bed"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我晚上在床上睡觉。",
+                "eg_pinyin": "Wǒ wǎnshàng zài chuáng shàng shuìjiào.",
+                "eg_vietnamese": "Tôi ngủ trên giường vào buổi tối."
+            }
         ]
     },
     "次": {
@@ -540,6 +916,13 @@
         ],
         "english": [
             "(measure word for times, frequency)"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我去过中国三次。",
+                "eg_pinyin": "Wǒ qùguò Zhōngguó sān cì.",
+                "eg_vietnamese": "Tôi đã đi Trung Quốc ba lần."
+            }
         ]
     },
     "从": {
@@ -550,6 +933,13 @@
         ],
         "english": [
             "from"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "从这里往左走。",
+                "eg_pinyin": "cóng zhèlǐ wǎng zuǒ zǒu.",
+                "eg_vietnamese": "Đi từ đây rẽ trái."
+            }
         ]
     },
     "错": {
@@ -560,6 +950,13 @@
         ],
         "english": [
             "(adj) wrong; (n) mistake"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我错了。",
+                "eg_pinyin": "Wǒ cuòle.",
+                "eg_vietnamese": "Tôi sai rồi."
+            }
         ]
     },
     "打": {
@@ -570,6 +967,13 @@
         ],
         "english": [
             "hit, take"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他用球拍打了球。",
+                "eg_pinyin": "Tā yòng qiúpāi dǎle qiú.",
+                "eg_vietnamese": "Anh ấy đã đánh bóng bằng vợt."
+            }
         ]
     },
     "打车": {
@@ -580,6 +984,13 @@
         ],
         "english": [
             "take a taxi"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我现在打车去学校。",
+                "eg_pinyin": "Wǒ xiànzài dǎchē qù xuéxiào.",
+                "eg_vietnamese": "Bây giờ tôi bắt xe đến trường."
+            }
         ]
     },
     "打电话": {
@@ -590,6 +1001,13 @@
         ],
         "english": [
             "make a phone call"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想给你打电话。",
+                "eg_pinyin": "Wǒ xiǎng gěi nǐ dǎ diànhuà.",
+                "eg_vietnamese": "Tôi muốn gọi điện cho bạn."
+            }
         ]
     },
     "打开": {
@@ -600,6 +1018,13 @@
         ],
         "english": [
             "turn on; open"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请你打开窗户。",
+                "eg_pinyin": "qǐng nǐ dǎkāi chuānghù.",
+                "eg_vietnamese": "Xin hãy mở cửa sổ."
+            }
         ]
     },
     "打球": {
@@ -610,6 +1035,13 @@
         ],
         "english": [
             "play ball"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们今天下午去打球吧。",
+                "eg_pinyin": "Wǒmen jīntiān xiàwǔ qù dǎqiú ba.",
+                "eg_vietnamese": "Chúng ta đi chơi bóng vào chiều nay nhé."
+            }
         ]
     },
     "大": {
@@ -620,6 +1052,13 @@
         ],
         "english": [
             "large, big"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个苹果很大。",
+                "eg_pinyin": "zhè ge píng guǒ hěn dà.",
+                "eg_vietnamese": "Quả táo này rất lớn."
+            }
         ]
     },
     "大学": {
@@ -630,6 +1069,13 @@
         ],
         "english": [
             "university"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在大学学习中文。",
+                "eg_pinyin": "Wǒ zài dàxué xuéxí zhōngwén.",
+                "eg_vietnamese": "Tôi học tiếng Trung tại đại học."
+            }
         ]
     },
     "大学生": {
@@ -640,6 +1086,13 @@
         ],
         "english": [
             "university student, college student"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他是一名大学生，正在学习计算机科学。",
+                "eg_pinyin": "tā shì yī míng dàxuéshēng, zhèngzài xuéxí jìsuànjī kēxué.",
+                "eg_vietnamese": "Anh ấy là một sinh viên đại học, đang học khoa học máy tính."
+            }
         ]
     },
     "到": {
@@ -650,6 +1103,13 @@
         ],
         "english": [
             "arrive, get to"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我已经到学校了。",
+                "eg_pinyin": "Wǒ yǐjīng dào xuéxiào le.",
+                "eg_vietnamese": "Tôi đã đến trường rồi."
+            }
         ]
     },
     "得到": {
@@ -660,6 +1120,13 @@
         ],
         "english": [
             "get, receive, gain, obtain"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我终于得到了这个奖项。",
+                "eg_pinyin": "Wǒ zhōngyú dédàole zhège jiǎngxiàng.",
+                "eg_vietnamese": "Tôi cuối cùng đã đạt được giải thưởng này."
+            }
         ]
     },
     "地": {
@@ -670,6 +1137,13 @@
         ],
         "english": [
             "a structural particle used after an adverbial"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这片土地非常肥沃。",
+                "eg_pinyin": "Zhè piàn tǔdì fēicháng féiwò.",
+                "eg_vietnamese": "Mảnh đất này rất màu mỡ."
+            }
         ]
     },
     "的": {
@@ -680,6 +1154,13 @@
         ],
         "english": [
             "a structural particle placed between the attributive and the word attributive modifies"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这是我的书。",
+                "eg_pinyin": "Zhè shì wǒ de shū.",
+                "eg_vietnamese": "Đây là cuốn sách của tôi."
+            }
         ]
     },
     "等": {
@@ -690,6 +1171,13 @@
         ],
         "english": [
             "wait"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在等你。",
+                "eg_pinyin": "Wǒ zài děng nǐ.",
+                "eg_vietnamese": "Tôi đang đợi bạn."
+            }
         ]
     },
     "地点": {
@@ -700,6 +1188,13 @@
         ],
         "english": [
             "site, place, venue"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个地点非常适合拍照。",
+                "eg_pinyin": "Zhège dìdiǎn fēicháng shìhé pāizhào.",
+                "eg_vietnamese": "Địa điểm này rất thích hợp để chụp ảnh."
+            }
         ]
     },
     "地方": {
@@ -710,6 +1205,13 @@
         ],
         "english": [
             "place, space, room"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个地方很美。",
+                "eg_pinyin": "zhège dìfāng hěn měi.",
+                "eg_vietnamese": "Nơi này rất đẹp."
+            }
         ]
     },
     "地上": {
@@ -720,6 +1222,13 @@
         ],
         "english": [
             "on the ground"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "小猫在地上玩耍。",
+                "eg_pinyin": "xiǎo māo zài dìshàng wánshuǎ.",
+                "eg_vietnamese": "Con mèo đang chơi trên mặt đất."
+            }
         ]
     },
     "地图": {
@@ -730,6 +1239,13 @@
         ],
         "english": [
             "map"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我需要一张地图来找到这个地方。",
+                "eg_pinyin": "Wǒ xūyào yī zhāng dìtú lái zhǎodào zhège dìfāng.",
+                "eg_vietnamese": "Tôi cần một bản đồ để tìm đến nơi này."
+            }
         ]
     },
     "弟弟": {
@@ -740,6 +1256,13 @@
         ],
         "english": [
             "younger brother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的弟弟喜欢打篮球。",
+                "eg_pinyin": "wǒ de dìdi xǐhuān dǎ lánqiú.",
+                "eg_vietnamese": "Em trai tôi thích chơi bóng rổ."
+            }
         ]
     },
     "弟": {
@@ -750,6 +1273,13 @@
         ],
         "english": [
             "younger brother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的弟弟很聪明。",
+                "eg_pinyin": "wǒ de dìdì hěn cōngmíng.",
+                "eg_vietnamese": "Em trai của tôi rất thông minh."
+            }
         ]
     },
     "第": {
@@ -760,6 +1290,13 @@
         ],
         "english": [
             "auxiliary word for ordinal numbers (second )"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这是我的第一本书。",
+                "eg_pinyin": "Zhè shì wǒ de dì yī běn shū.",
+                "eg_vietnamese": "Đây là cuốn sách thứ nhất của tôi."
+            }
         ]
     },
     "点": {
@@ -770,6 +1307,13 @@
         ],
         "english": [
             "(m) a little, a bit; o'clock; (n) stain, spot"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我只需要一点时间。",
+                "eg_pinyin": "Wǒ zhǐ xūyào yī diǎn shíjiān.",
+                "eg_vietnamese": "Tôi chỉ cần một chút thời gian."
+            }
         ]
     },
     "电": {
@@ -780,6 +1324,13 @@
         ],
         "english": [
             "electricity"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个电池没有电了。",
+                "eg_pinyin": "Zhège diànchǐ méiyǒu diànle.",
+                "eg_vietnamese": "Cái pin này hết điện rồi."
+            }
         ]
     },
     "电话": {
@@ -790,6 +1341,13 @@
         ],
         "english": [
             "phone, phone call"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我正在打电话给我的朋友。",
+                "eg_pinyin": "Wǒ zhèngzài dǎ diànhuà gěi wǒ de péngyǒu.",
+                "eg_vietnamese": "Tôi đang điện thoại cho người bạn của mình."
+            }
         ]
     },
     "电脑": {
@@ -800,6 +1358,13 @@
         ],
         "english": [
             "Computer"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的电脑坏了。",
+                "eg_pinyin": "Wǒ de diànnǎo huài le.",
+                "eg_vietnamese": "Máy tính của tôi bị hỏng."
+            }
         ]
     },
     "电视": {
@@ -810,6 +1375,13 @@
         ],
         "english": [
             "television"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我晚上喜欢看电视。",
+                "eg_pinyin": "Wǒ wǎnshàng xǐhuān kàn diànshì.",
+                "eg_vietnamese": "Tôi thích xem truyền hình vào buổi tối."
+            }
         ]
     },
     "电视机": {
@@ -820,6 +1392,13 @@
         ],
         "english": [
             "television"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天晚上都看电视机。",
+                "eg_pinyin": "Wǒ měitiān wǎnshàng dōu kàn diànshì jī.",
+                "eg_vietnamese": "Mỗi tối tôi đều xem tivi."
+            }
         ]
     },
     "电影": {
@@ -830,6 +1409,13 @@
         ],
         "english": [
             "movie"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢看电影。",
+                "eg_pinyin": "Wǒ xǐhuān kàn diànyǐng.",
+                "eg_vietnamese": "Tôi thích xem phim."
+            }
         ]
     },
     "电影院": {
@@ -840,6 +1426,13 @@
         ],
         "english": [
             "cinema; movie theater"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们今天晚上去电影院看电影。",
+                "eg_pinyin": "Wǒmen jīntiān wǎnshàng qù diànyǐngyuàn kàn diànyǐng.",
+                "eg_vietnamese": "Tối nay chúng ta đi rạp chiếu phim xem phim."
+            }
         ]
     },
     "东": {
@@ -850,6 +1443,13 @@
         ],
         "english": [
             "east"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "现在是冬天，外面很冷。",
+                "eg_pinyin": "Xiànzài shì dōngtiān, wàimiàn hěn lěng.",
+                "eg_vietnamese": "Bây giờ là mùa đông, bên ngoài rất lạnh."
+            }
         ]
     },
     "东边": {
@@ -860,6 +1460,13 @@
         ],
         "english": [
             "east (side)"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "学校在东边，一条街对面。",
+                "eg_pinyin": "xuéxiào zài dōngbian, yītiáo jiē duìmiàn.",
+                "eg_vietnamese": "Trường học ở phía đông, đối diện bên đường."
+            }
         ]
     },
     "东西": {
@@ -870,6 +1477,13 @@
         ],
         "english": [
             "thing"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的房间里有很多东西。",
+                "eg_pinyin": "wǒ de fángjiān lǐ yǒu hěn duō dōngxi.",
+                "eg_vietnamese": "Trong phòng của tôi có nhiều đồ đạc."
+            }
         ]
     },
     "动": {
@@ -880,6 +1494,13 @@
         ],
         "english": [
             "move, act; use"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请不要动我的东西。",
+                "eg_pinyin": "Qǐng bùyào dòng wǒ de dōngxi.",
+                "eg_vietnamese": "Xin đừng động vào đồ của tôi."
+            }
         ]
     },
     "动作": {
@@ -890,6 +1511,13 @@
         ],
         "english": [
             "action"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个动作很简单。",
+                "eg_pinyin": "Zhège dòngzuò hěn jiǎndān.",
+                "eg_vietnamese": "Động tác này rất đơn giản."
+            }
         ]
     },
     "都": {
@@ -900,6 +1528,13 @@
         ],
         "english": [
             "all, both"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他们都来了。",
+                "eg_pinyin": "Tāmen dōu lái le.",
+                "eg_vietnamese": "Họ đều đến hết."
+            }
         ]
     },
     "读": {
@@ -910,6 +1545,13 @@
         ],
         "english": [
             "read"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都读书。",
+                "eg_pinyin": "Wǒ měitiān dū shū.",
+                "eg_vietnamese": "Tôi hàng ngày đều đọc sách."
+            }
         ]
     },
     "读书": {
@@ -920,6 +1562,13 @@
         ],
         "english": [
             "reading; study"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都会读书。",
+                "eg_pinyin": "Wǒ měitiān dōu huì dúshū.",
+                "eg_vietnamese": "Tôi mỗi ngày đều đọc sách."
+            }
         ]
     },
     "对": {
@@ -930,6 +1579,13 @@
         ],
         "english": [
             "right"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你的答案对。",
+                "eg_pinyin": "Nǐ de dá'àn duì.",
+                "eg_vietnamese": "Đáp án của bạn đúng."
+            }
         ]
     },
     "对不起": {
@@ -940,6 +1596,13 @@
         ],
         "english": [
             "sorry"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "对不起，我迟到了。",
+                "eg_pinyin": "duìbuqǐ, wǒ chídào le.",
+                "eg_vietnamese": "Xin lỗi, tôi đến muộn."
+            }
         ]
     },
     "多": {
@@ -950,6 +1613,13 @@
         ],
         "english": [
             "many, much, more"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你有多少书？",
+                "eg_pinyin": "nǐ yǒu duō shǎo shū?",
+                "eg_vietnamese": "Bạn có bao nhiêu cuốn sách?"
+            }
         ]
     },
     "多少": {
@@ -960,6 +1630,13 @@
         ],
         "english": [
             "how much, how many"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这本书多少钱？",
+                "eg_pinyin": "Zhè běn shū duōshao qián?",
+                "eg_vietnamese": "Cuốn sách này giá bao nhiêu?"
+            }
         ]
     },
     "饿": {
@@ -970,6 +1647,13 @@
         ],
         "english": [
             "hungry"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我饿了。",
+                "eg_pinyin": "Wǒ è le.",
+                "eg_vietnamese": "Tôi đói rồi."
+            }
         ]
     },
     "儿子": {
@@ -980,6 +1664,13 @@
         ],
         "english": [
             "Son"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的儿子很聪明。",
+                "eg_pinyin": "wǒ de érzi hěn cōngmíng.",
+                "eg_vietnamese": "Con trai của tôi rất thông minh."
+            }
         ]
     },
     "二": {
@@ -990,6 +1681,13 @@
         ],
         "english": [
             "two"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我有两个苹果。",
+                "eg_pinyin": "Wǒ yǒu liǎng gè píngguǒ.",
+                "eg_vietnamese": "Tôi có hai quả táo."
+            }
         ]
     },
     "饭": {
@@ -1000,6 +1698,13 @@
         ],
         "english": [
             "rice; meal"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都吃米饭。",
+                "eg_pinyin": "Wǒ měi tiān dū chī mǐ fàn。",
+                "eg_vietnamese": "Mỗi ngày tôi đều ăn cơm."
+            }
         ]
     },
     "饭店": {
@@ -1010,6 +1715,13 @@
         ],
         "english": [
             "restaurant"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们今晚去饭店吃饭吧。",
+                "eg_pinyin": "Wǒmen jīn wǎn qù fàndiàn chī fàn ba.",
+                "eg_vietnamese": "Chúng ta đi quán ăn tối nay nhé."
+            }
         ]
     },
     "房间": {
@@ -1020,6 +1732,13 @@
         ],
         "english": [
             "Room"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的房间很干净。",
+                "eg_pinyin": "wǒ de fángjiān hěn gānjìng.",
+                "eg_vietnamese": "Căn phòng của tôi rất sạch sẽ."
+            }
         ]
     },
     "房子": {
@@ -1030,6 +1749,13 @@
         ],
         "english": [
             "house; building"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这房子很大。",
+                "eg_pinyin": "Zhè fángzi hěn dà.",
+                "eg_vietnamese": "Căn nhà này rất lớn."
+            }
         ]
     },
     "放": {
@@ -1040,6 +1766,13 @@
         ],
         "english": [
             "put"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请把书放在桌子上。",
+                "eg_pinyin": "Qǐng bǎ shū fàng zài zhuōzi shàng.",
+                "eg_vietnamese": "Xin hãy đặt quyển sách lên bàn."
+            }
         ]
     },
     "放假": {
@@ -1050,6 +1783,13 @@
         ],
         "english": [
             "holiday; have a holiday"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们下个月放假去旅行。",
+                "eg_pinyin": "Wǒmen xià gè yuè fàngjià qù lǚxíng.",
+                "eg_vietnamese": "Chúng tôi sẽ nghỉ đi du lịch vào tháng sau."
+            }
         ]
     },
     "放学": {
@@ -1060,6 +1800,13 @@
         ],
         "english": [
             "off school"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "放学后我们一起去公园玩。",
+                "eg_pinyin": "fàngxué hòu wǒmen yīqǐ qù gōngyuán wán.",
+                "eg_vietnamese": "Tan học xong chúng ta cùng đi chơi ở công viên."
+            }
         ]
     },
     "飞": {
@@ -1070,6 +1817,13 @@
         ],
         "english": [
             "fly"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "鸟儿在天空中飞翔。",
+                "eg_pinyin": "Niǎo er zài tiānkōng zhōng fēi xiáng.",
+                "eg_vietnamese": "Chim bay lượn trên bầu trời."
+            }
         ]
     },
     "飞机": {
@@ -1080,6 +1834,13 @@
         ],
         "english": [
             "plane"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我坐飞机去北京。",
+                "eg_pinyin": "Wǒ zuò fēijī qù Běijīng.",
+                "eg_vietnamese": "Tôi đi máy bay đến Bắc Kinh."
+            }
         ]
     },
     "非常": {
@@ -1090,6 +1851,13 @@
         ],
         "english": [
             "very"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这道菜非常好吃。",
+                "eg_pinyin": "Zhè dào cài fēicháng hǎochī.",
+                "eg_vietnamese": "Món ăn này vô cùng ngon."
+            }
         ]
     },
     "分": {
@@ -1100,6 +1868,13 @@
         ],
         "english": [
             "(m) minute; (n) point, score"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们将在五分钟后开始会议。",
+                "eg_pinyin": "Wǒmen jiāng zài wǔ fēn zhōng hòu kāishǐ huìyì.",
+                "eg_vietnamese": "Chúng ta sẽ bắt đầu cuộc họp sau năm phút."
+            }
         ]
     },
     "风": {
@@ -1110,6 +1885,13 @@
         ],
         "english": [
             "wind"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天风很大。",
+                "eg_pinyin": "Jīntiān fēng hěn dà.",
+                "eg_vietnamese": "Hôm nay gió rất lớn."
+            }
         ]
     },
     "干": {
@@ -1120,6 +1902,13 @@
         ],
         "english": [
             "dry"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个地方的空气很干。",
+                "eg_pinyin": "Zhège dìfāng de kōngqì hěn gān.",
+                "eg_vietnamese": "Không khí ở đây rất khô."
+            }
         ]
     },
     "干净": {
@@ -1130,6 +1919,13 @@
         ],
         "english": [
             "clean"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个房间非常干净。",
+                "eg_pinyin": "zhège fángjiān fēicháng gānjìng.",
+                "eg_vietnamese": "Căn phòng này rất sạch sẽ."
+            }
         ]
     },
     "干什么": {
@@ -1140,6 +1936,13 @@
         ],
         "english": [
             "What to do"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你今天晚上想干什么？",
+                "eg_pinyin": "Nǐ jīntiān wǎnshàng xiǎng gànshénme?",
+                "eg_vietnamese": "Tối nay bạn muốn làm gì?"
+            }
         ]
     },
     "高": {
@@ -1150,6 +1953,13 @@
         ],
         "english": [
             "high, tall"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这棵树很高。",
+                "eg_pinyin": "Zhè kē shù hěn gāo.",
+                "eg_vietnamese": "Cái cây này cao."
+            }
         ]
     },
     "高兴": {
@@ -1160,6 +1970,13 @@
         ],
         "english": [
             "happy"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天非常高兴。",
+                "eg_pinyin": "Wǒ jīntiān fēicháng gāoxìng.",
+                "eg_vietnamese": "Hôm nay tôi rất vui vẻ."
+            }
         ]
     },
     "告诉": {
@@ -1170,6 +1987,13 @@
         ],
         "english": [
             "tell"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请告诉我你的计划。",
+                "eg_pinyin": "qǐng gàosù wǒ nǐ de jìhuà.",
+                "eg_vietnamese": "Xin hãy nói cho tôi về kế hoạch của bạn."
+            }
         ]
     },
     "哥哥": {
@@ -1180,6 +2004,13 @@
         ],
         "english": [
             "elder brother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的哥哥喜欢打篮球。",
+                "eg_pinyin": "Wǒ de gēge xǐhuān dǎ lánqiú.",
+                "eg_vietnamese": "Anh trai của tôi thích chơi bóng rổ."
+            }
         ]
     },
     "哥": {
@@ -1190,6 +2021,13 @@
         ],
         "english": [
             "elder brother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的哥哥很高。",
+                "eg_pinyin": "Wǒ de gēge hěn gāo.",
+                "eg_vietnamese": "Anh trai tôi rất cao."
+            }
         ]
     },
     "歌": {
@@ -1200,6 +2038,13 @@
         ],
         "english": [
             "song"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢这首歌。",
+                "eg_pinyin": "Wǒ xǐhuān zhè shǒu gē.",
+                "eg_vietnamese": "Tôi thích bài hát này."
+            }
         ]
     },
     "个": {
@@ -1210,6 +2055,13 @@
         ],
         "english": [
             "the most commonly used measure word"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我有一个苹果。",
+                "eg_pinyin": "Wǒ yǒu yī gè píngguǒ.",
+                "eg_vietnamese": "Tôi có một cái táo."
+            }
         ]
     },
     "给": {
@@ -1220,6 +2072,13 @@
         ],
         "english": [
             "(v) give; (prep) for, no"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请把书给我。",
+                "eg_pinyin": "Qǐng bǎ shū gěi wǒ.",
+                "eg_vietnamese": "Xin đưa quyển sách cho tôi."
+            }
         ]
     },
     "跟": {
@@ -1230,6 +2089,13 @@
         ],
         "english": [
             "(prep) with; (conj) and; (v) follow"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我跟你一起去商店。",
+                "eg_pinyin": "Wǒ gēn nǐ yīqǐ qù shāngdiàn.",
+                "eg_vietnamese": "Tôi cùng bạn đi đến cửa hàng."
+            }
         ]
     },
     "工人": {
@@ -1240,6 +2106,13 @@
         ],
         "english": [
             "Worker"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "工人每天都要按时上班。",
+                "eg_pinyin": "gōngrén měitiān dōu yào ànshí shàngbān.",
+                "eg_vietnamese": "Công nhân hàng ngày đều phải đi làm đúng giờ."
+            }
         ]
     },
     "工作": {
@@ -1250,6 +2123,13 @@
         ],
         "english": [
             "work"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都去工作。",
+                "eg_pinyin": "Wǒ měitiān dū qù gōngzuò.",
+                "eg_vietnamese": "Tôi đi làm mỗi ngày."
+            }
         ]
     },
     "关": {
@@ -1260,6 +2140,13 @@
         ],
         "english": [
             "shut; close; turn off"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请把门关上。",
+                "eg_pinyin": "Qǐng bǎ mén guān shàng.",
+                "eg_vietnamese": "Xin đóng cửa lại."
+            }
         ]
     },
     "关上": {
@@ -1270,6 +2157,13 @@
         ],
         "english": [
             "close; turn off"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请把门关上。",
+                "eg_pinyin": "qǐng bǎ mén guānshàng.",
+                "eg_vietnamese": "Xin hãy khép cửa lại."
+            }
         ]
     },
     "贵": {
@@ -1280,6 +2174,13 @@
         ],
         "english": [
             "expensive"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这件衣服太贵了。",
+                "eg_pinyin": "Zhè jiàn yīfú tài guì le.",
+                "eg_vietnamese": "Cái áo này quá đắt."
+            }
         ]
     },
     "国": {
@@ -1290,6 +2191,13 @@
         ],
         "english": [
             "country; state; nation"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱我的国家。",
+                "eg_pinyin": "Wǒ ài wǒ de guójiā.",
+                "eg_vietnamese": "Tôi yêu đất nước của tôi."
+            }
         ]
     },
     "国家": {
@@ -1300,6 +2208,13 @@
         ],
         "english": [
             "Country"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱我的国家。",
+                "eg_pinyin": "Wǒ ài wǒ de guójiā.",
+                "eg_vietnamese": "Tôi yêu đất nước của mình."
+            }
         ]
     },
     "国外": {
@@ -1310,6 +2225,13 @@
         ],
         "english": [
             "foreign; oversea; abroad"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想去国外旅行。",
+                "eg_pinyin": "Wǒ xiǎng qù guówài lǚxíng.",
+                "eg_vietnamese": "Tôi muốn đi du lịch nước ngoài."
+            }
         ]
     },
     "过": {
@@ -1320,6 +2242,13 @@
         ],
         "english": [
             "pass, cross; spend (time)"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都要过这条街。",
+                "eg_pinyin": "Wǒ měitiān dōu yào guò zhè tiáo jiē.",
+                "eg_vietnamese": "Tôi phải qua con phố này mỗi ngày."
+            }
         ]
     },
     "还": {
@@ -1330,6 +2259,13 @@
         ],
         "english": [
             "return"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我把书还给你了。",
+                "eg_pinyin": "Wǒ bǎ shū huán gěi nǐ le.",
+                "eg_vietnamese": "Tôi đã trả lại sách cho bạn."
+            }
         ]
     },
     "还是": {
@@ -1340,6 +2276,13 @@
         ],
         "english": [
             "(adv) still; (conj) or"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你想吃苹果还是香蕉？",
+                "eg_pinyin": "Nǐ xiǎng chī píngguǒ háishì xiāngjiāo?",
+                "eg_vietnamese": "Bạn muốn ăn táo hay là chuối?"
+            }
         ]
     },
     "还有": {
@@ -1350,6 +2293,13 @@
         ],
         "english": [
             "also; in addition; besides"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我还有很多事情要做。",
+                "eg_pinyin": "Wǒ hái yǒu hěn duō shìqíng yào zuò.",
+                "eg_vietnamese": "Tôi còn có nhiều việc phải làm."
+            }
         ]
     },
     "孩子": {
@@ -1360,6 +2310,13 @@
         ],
         "english": [
             "Child"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的孩子很聪明。",
+                "eg_pinyin": "Wǒ de háizi hěn cōngmíng.",
+                "eg_vietnamese": "Đứa trẻ của tôi rất thông minh."
+            }
         ]
     },
     "汉语": {
@@ -1370,6 +2327,13 @@
         ],
         "english": [
             "Chinese"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我正在学习汉语。",
+                "eg_pinyin": "Wǒ zhèngzài xuéxí Hànyǔ.",
+                "eg_vietnamese": "Tôi đang học tiếng Trung."
+            }
         ]
     },
     "汉字": {
@@ -1380,6 +2344,13 @@
         ],
         "english": [
             "Chinese character"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我正在学习汉字。",
+                "eg_pinyin": "Wǒ zhèngzài xuéxí hànzì.",
+                "eg_vietnamese": "Tôi đang học chữ Hán."
+            }
         ]
     },
     "好": {
@@ -1390,6 +2361,13 @@
         ],
         "english": [
             "good"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个菜很好吃。",
+                "eg_pinyin": "zhège cài hěn hǎo chī.",
+                "eg_vietnamese": "Món này rất ngon."
+            }
         ]
     },
     "好吃": {
@@ -1400,6 +2378,13 @@
         ],
         "english": [
             "yummy"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个蛋糕很好吃。",
+                "eg_pinyin": "zhè ge dàn gāo hěn hǎo chī.",
+                "eg_vietnamese": "Bánh gato này ngon quá."
+            }
         ]
     },
     "好看": {
@@ -1410,6 +2395,13 @@
         ],
         "english": [
             "good looking; interesting"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这件衣服真好看！",
+                "eg_pinyin": "zhè jiàn yīfu zhēn hǎokàn!",
+                "eg_vietnamese": "Cái áo này thật đẹp!"
+            }
         ]
     },
     "好听": {
@@ -1420,6 +2412,13 @@
         ],
         "english": [
             "pleasant to hear"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这首歌很好听。",
+                "eg_pinyin": "zhè shǒu gē hěn hǎotīng.",
+                "eg_vietnamese": "Bài hát này rất êm tai."
+            }
         ]
     },
     "好玩儿": {
@@ -1430,6 +2429,13 @@
         ],
         "english": [
             "fun; interesting"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个游戏很好玩儿！",
+                "eg_pinyin": "zhège yóuxì hěn hǎo wánr!",
+                "eg_vietnamese": "Trò chơi này rất vui!"
+            }
         ]
     },
     "号": {
@@ -1440,6 +2446,13 @@
         ],
         "english": [
             "Number/date"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天是十月三号。",
+                "eg_pinyin": "Jīntiān shì shíyuè sān hào.",
+                "eg_vietnamese": "Hôm nay là ngày 3 tháng 10."
+            }
         ]
     },
     "喝": {
@@ -1450,6 +2463,13 @@
         ],
         "english": [
             "drink"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都喝水。",
+                "eg_pinyin": "Wǒ měitiān dōu hē shuǐ.",
+                "eg_vietnamese": "Tôi uống nước mỗi ngày."
+            }
         ]
     },
     "和": {
@@ -1460,6 +2480,13 @@
         ],
         "english": [
             "and"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢苹果和香蕉。",
+                "eg_pinyin": "Wǒ xǐhuān píngguǒ hé xiāngjiāo.",
+                "eg_vietnamese": "Tôi thích táo và chuối."
+            }
         ]
     },
     "很": {
@@ -1470,6 +2497,13 @@
         ],
         "english": [
             "very"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这本书很有趣。",
+                "eg_pinyin": "Zhè běn shū hěn yǒuqù.",
+                "eg_vietnamese": "Cuốn sách này rất thú vị."
+            }
         ]
     },
     "后": {
@@ -1480,6 +2514,13 @@
         ],
         "english": [
             "back; behind; after; later"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我吃完饭后去散步。",
+                "eg_pinyin": "Wǒ chī wán fàn hòu qù sàn bù.",
+                "eg_vietnamese": "Sau khi ăn xong, tôi đi dạo."
+            }
         ]
     },
     "后边": {
@@ -1490,6 +2531,13 @@
         ],
         "english": [
             "behind; back"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "书架后边有一个箱子。",
+                "eg_pinyin": "shūjià hòubian yǒu yīgè xiāngzi.",
+                "eg_vietnamese": "Phía sau kệ sách có một cái hộp."
+            }
         ]
     },
     "后天": {
@@ -1500,6 +2548,13 @@
         ],
         "english": [
             "day after tomorrow"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "后天我们去爬山。",
+                "eg_pinyin": "Hòutiān wǒmen qù páshān.",
+                "eg_vietnamese": "Ngày kia chúng ta sẽ đi leo núi."
+            }
         ]
     },
     "花": {
@@ -1510,6 +2565,13 @@
         ],
         "english": [
             "flower"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "花儿在阳光下绽放。",
+                "eg_pinyin": "Huā ér zài yángguāng xià zhànfàng.",
+                "eg_vietnamese": "Đóa hoa nở dưới ánh nắng."
+            }
         ]
     },
     "话": {
@@ -1520,6 +2582,13 @@
         ],
         "english": [
             "word, talk"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他说的话我都听懂了。",
+                "eg_pinyin": "tā shuō de huà wǒ dōu tīng dǒng le.",
+                "eg_vietnamese": "Lời nói của anh ấy tôi đều hiểu."
+            }
         ]
     },
     "坏": {
@@ -1530,6 +2599,13 @@
         ],
         "english": [
             "bad, broken, rotten"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个苹果坏了。",
+                "eg_pinyin": "Zhège píngguǒ huài le.",
+                "eg_vietnamese": "Quả táo này hỏng."
+            }
         ]
     },
     "回": {
@@ -1540,6 +2616,13 @@
         ],
         "english": [
             "return; pay back"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我回家了。",
+                "eg_pinyin": "Wǒ huí jiā le.",
+                "eg_vietnamese": "Tôi đã về nhà."
+            }
         ]
     },
     "回答": {
@@ -1550,6 +2633,13 @@
         ],
         "english": [
             "answer"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他给了我一个详细的回答。",
+                "eg_pinyin": "Tā gěi le wǒ yīgè xiángxì de huídá.",
+                "eg_vietnamese": "Anh ấy đã đưa cho tôi một câu trả lời chi tiết."
+            }
         ]
     },
     "回到": {
@@ -1560,6 +2650,13 @@
         ],
         "english": [
             "go back to"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想回到家。",
+                "eg_pinyin": "Wǒ xiǎng huí dào jiā.",
+                "eg_vietnamese": "Tôi muốn trở về nhà."
+            }
         ]
     },
     "回家": {
@@ -1570,6 +2667,13 @@
         ],
         "english": [
             "go home"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今晚想回家。",
+                "eg_pinyin": "Wǒ jīn wǎn xiǎng huí jiā.",
+                "eg_vietnamese": "Tối nay tôi muốn quay về."
+            }
         ]
     },
     "回来": {
@@ -1580,6 +2684,13 @@
         ],
         "english": [
             "go home; return home"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你什么时候回来？",
+                "eg_pinyin": "Nǐ shénme shíhòu huílái?",
+                "eg_vietnamese": "Khi nào bạn sẽ về?"
+            }
         ]
     },
     "回去": {
@@ -1590,6 +2701,13 @@
         ],
         "english": [
             "go back"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天晚上要回去。",
+                "eg_pinyin": "Wǒ jīntiān wǎnshàng yào huíqù.",
+                "eg_vietnamese": "Tối nay tôi sẽ về."
+            }
         ]
     },
     "会": {
@@ -1600,6 +2718,13 @@
         ],
         "english": [
             "can; be able to; be likely to, be sure to"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我会说中文。",
+                "eg_pinyin": "Wǒ huì shuō zhōngwén.",
+                "eg_vietnamese": "Tôi sẽ nói tiếng Trung."
+            }
         ]
     },
     "火车": {
@@ -1610,6 +2735,13 @@
         ],
         "english": [
             "train"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我明天要乘火车去北京。",
+                "eg_pinyin": "Wǒ míngtiān yào chéng huǒchē qù Běijīng.",
+                "eg_vietnamese": "Ngày mai tôi sẽ đi xe lửa đến Bắc Kinh."
+            }
         ]
     },
     "机场": {
@@ -1620,6 +2752,13 @@
         ],
         "english": [
             "airport"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天要去机场接我的朋友。",
+                "eg_pinyin": "Wǒ jīntiān yào qù jīchǎng jiē wǒ de péngyǒu.",
+                "eg_vietnamese": "Hôm nay tôi phải đến sân bay đón bạn tôi."
+            }
         ]
     },
     "机票": {
@@ -1630,6 +2769,13 @@
         ],
         "english": [
             "air ticket"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我帮你订了一张去北京的机票。",
+                "eg_pinyin": "Wǒ bāng nǐ dìngle yī zhāng qù Běijīng de jīpiào.",
+                "eg_vietnamese": "Mình đã đặt cho bạn một vé máy bay đi Bắc Kinh."
+            }
         ]
     },
     "鸡蛋": {
@@ -1640,6 +2786,13 @@
         ],
         "english": [
             "egg"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天早餐都吃一个鸡蛋。",
+                "eg_pinyin": "Wǒ měi tiān zǎocān dōu chī yī gè jīdàn.",
+                "eg_vietnamese": "Mỗi sáng tôi đều ăn một quả trứng gà."
+            }
         ]
     },
     "几": {
@@ -1650,6 +2803,13 @@
         ],
         "english": [
             "several"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你有几本书？",
+                "eg_pinyin": "Nǐ yǒu jǐ běn shū?",
+                "eg_vietnamese": "Bạn có mấy quyển sách?"
+            }
         ]
     },
     "记": {
@@ -1660,6 +2820,13 @@
         ],
         "english": [
             "remember; write down"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我记得他的名字。",
+                "eg_pinyin": "Wǒ jìdé tā de míngzì.",
+                "eg_vietnamese": "Tôi nhớ tên anh ấy."
+            }
         ]
     },
     "记得": {
@@ -1670,6 +2837,13 @@
         ],
         "english": [
             "remember"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请记得带上你的书。",
+                "eg_pinyin": "Qǐng jìde dài shàng nǐ de shū.",
+                "eg_vietnamese": "Xin hãy ghi nhớ mang theo sách của bạn."
+            }
         ]
     },
     "记住": {
@@ -1680,6 +2854,13 @@
         ],
         "english": [
             "memorize, remember"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请记住这个公式。",
+                "eg_pinyin": "Qǐng jì zhù zhège gōngshì.",
+                "eg_vietnamese": "Xin nhớ kĩ công thức này."
+            }
         ]
     },
     "家": {
@@ -1690,6 +2871,13 @@
         ],
         "english": [
             "home"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在家里读书。",
+                "eg_pinyin": "Wǒ zài jiālǐ dúshū.",
+                "eg_vietnamese": "Tôi đọc sách ở nhà."
+            }
         ]
     },
     "家里": {
@@ -1700,6 +2888,13 @@
         ],
         "english": [
             "at home"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "家里很安静。",
+                "eg_pinyin": "jiālǐ hěn ānjìng.",
+                "eg_vietnamese": "Trong nhà rất yên tĩnh."
+            }
         ]
     },
     "家人": {
@@ -1710,6 +2905,13 @@
         ],
         "english": [
             "family"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱我的家人。",
+                "eg_pinyin": "Wǒ ài wǒ de jiārén.",
+                "eg_vietnamese": "Tôi yêu người nhà của tôi."
+            }
         ]
     },
     "间": {
@@ -1720,6 +2922,13 @@
         ],
         "english": [
             "between; measure word for rooms"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "书架和桌子之间有一个小空间。",
+                "eg_pinyin": "Shūjià hé zhuōzi zhī jiān yǒu yī gè xiǎo kōngjiān.",
+                "eg_vietnamese": "Có một khoảng trống nhỏ giữa giá sách và bàn."
+            }
         ]
     },
     "见": {
@@ -1730,6 +2939,13 @@
         ],
         "english": [
             "see; meet"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天见到了我的朋友。",
+                "eg_pinyin": "Wǒ jīntiān jiàn dào le wǒ de péngyǒu.",
+                "eg_vietnamese": "Hôm nay tôi đã gặp bạn của mình."
+            }
         ]
     },
     "见面": {
@@ -1740,6 +2956,13 @@
         ],
         "english": [
             "meet"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们下周见面吧。",
+                "eg_pinyin": "Wǒmen xià zhōu jiànmiàn ba.",
+                "eg_vietnamese": "Chúng ta gặp mặt vào tuần sau nhé."
+            }
         ]
     },
     "教": {
@@ -1750,6 +2973,13 @@
         ],
         "english": [
             "teach"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "老师教我们汉字。",
+                "eg_pinyin": "Lǎoshī jiāo wǒmen hànzì.",
+                "eg_vietnamese": "Thầy giáo dạy chúng tôi chữ Hán."
+            }
         ]
     },
     "叫": {
@@ -1760,6 +2990,13 @@
         ],
         "english": [
             "call; asked"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他在叫我。",
+                "eg_pinyin": "Tā zài jiào wǒ.",
+                "eg_vietnamese": "Anh ấy đang gọi tôi."
+            }
         ]
     },
     "教学楼": {
@@ -1770,6 +3007,13 @@
         ],
         "english": [
             "teaching building"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们的教学楼很大，有很多教室。",
+                "eg_pinyin": "Wǒmen de jiàoxué lóu hěn dà, yǒu hěn duō jiàoshì.",
+                "eg_vietnamese": "Tòa nhà dạy học của chúng tôi rất lớn, có nhiều phòng học."
+            }
         ]
     },
     "姐姐": {
@@ -1780,6 +3024,13 @@
         ],
         "english": [
             "elder sister"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的姐姐很漂亮。",
+                "eg_pinyin": "Wǒ de jiějie hěn piàoliang.",
+                "eg_vietnamese": "Chị gái của tôi rất xinh đẹp."
+            }
         ]
     },
     "姐": {
@@ -1790,6 +3041,13 @@
         ],
         "english": [
             "elder sister"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我有一个姐姐。",
+                "eg_pinyin": "Wǒ yǒu yí gè jiějie.",
+                "eg_vietnamese": "Mình có một chị gái."
+            }
         ]
     },
     "介绍": {
@@ -1800,6 +3058,13 @@
         ],
         "english": [
             "introduce"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我来介绍一下我的朋友。",
+                "eg_pinyin": "Wǒ lái jièshào yīxià wǒ de péngyǒu.",
+                "eg_vietnamese": "Tôi sẽ giới thiệu một chút về người bạn của tôi."
+            }
         ]
     },
     "今年": {
@@ -1810,6 +3075,13 @@
         ],
         "english": [
             "this year"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今年我打算去旅行。",
+                "eg_pinyin": "jīnnián wǒ dǎsuàn qù lǚxíng.",
+                "eg_vietnamese": "Năm nay tôi dự định đi du lịch."
+            }
         ]
     },
     "今天": {
@@ -1820,6 +3092,13 @@
         ],
         "english": [
             "Today"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天是个好天气。",
+                "eg_pinyin": "jīn tiān shì gè hǎo tiān qì.",
+                "eg_vietnamese": "Hôm nay là một ngày thời tiết đẹp."
+            }
         ]
     },
     "进": {
@@ -1830,6 +3109,13 @@
         ],
         "english": [
             "enter"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请进，里面有很多好吃的。",
+                "eg_pinyin": "qǐng jìn，lǐmiàn yǒu hěnduō hǎochī de.",
+                "eg_vietnamese": "Mời vào, bên trong có nhiều đồ ăn ngon."
+            }
         ]
     },
     "进来": {
@@ -1840,6 +3126,13 @@
         ],
         "english": [
             "come in"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请你进来，我们一起讨论这个问题。",
+                "eg_pinyin": "Qǐng nǐ jìn lái, wǒmen yīqǐ tǎolùn zhège wèntí.",
+                "eg_vietnamese": "Xin mời bạn bước vào, chúng ta cùng thảo luận vấn đề này."
+            }
         ]
     },
     "进去": {
@@ -1850,6 +3143,13 @@
         ],
         "english": [
             "go in"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请你进去，里面很舒服。",
+                "eg_pinyin": "Qǐng nǐ jìnqù, lǐmiàn hěn shūfu.",
+                "eg_vietnamese": "Xin bạn bước vào, bên trong rất thoải mái."
+            }
         ]
     },
     "九": {
@@ -1860,6 +3160,13 @@
         ],
         "english": [
             "nine"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我家有九只猫。",
+                "eg_pinyin": "wǒ jiā yǒu jiǔ zhī māo.",
+                "eg_vietnamese": "Nhà tôi có 9 con mèo."
+            }
         ]
     },
     "就": {
@@ -1870,6 +3177,13 @@
         ],
         "english": [
             "as soon as; right away; then"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他一听到这个消息，就立刻来找我。",
+                "eg_pinyin": "tā yī tīng dào zhè ge xiāo xī, jiù lì kè lái zhǎo wǒ.",
+                "eg_vietnamese": "Anh ấy vừa nghe tin này, lập tức đến tìm tôi."
+            }
         ]
     },
     "觉得": {
@@ -1880,6 +3194,13 @@
         ],
         "english": [
             "think; feel"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我觉得今天的天气很好。",
+                "eg_pinyin": "Wǒ juéde jīntiān de tiānqì hěn hǎo.",
+                "eg_vietnamese": "Tôi cảm thấy thời tiết hôm nay rất tốt."
+            }
         ]
     },
     "开": {
@@ -1890,6 +3211,13 @@
         ],
         "english": [
             "open"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请开门。",
+                "eg_pinyin": "Qǐng kāi mén.",
+                "eg_vietnamese": "Xin mở cửa."
+            }
         ]
     },
     "开车": {
@@ -1900,6 +3228,13 @@
         ],
         "english": [
             "drive"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我每天都开车上班。",
+                "eg_pinyin": "Wǒ měitiān dōu kāichē shàngbān.",
+                "eg_vietnamese": "Tôi lái xe đi làm mỗi ngày."
+            }
         ]
     },
     "开会": {
@@ -1910,6 +3245,13 @@
         ],
         "english": [
             "have a meeting"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们今天下午要开会。",
+                "eg_pinyin": "Wǒmen jīntiān xiàwǔ yào kāihuì.",
+                "eg_vietnamese": "Chúng ta sẽ họp vào chiều nay."
+            }
         ]
     },
     "开玩笑": {
@@ -1920,6 +3262,13 @@
         ],
         "english": [
             "make fun of"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他只是开玩笑，不要当真。",
+                "eg_pinyin": "Tā zhǐ shì kāiwánxiào, bùyào dàngzhēn.",
+                "eg_vietnamese": "Anh ấy chỉ đang nói đùa, đừng nghĩ nghiêm túc."
+            }
         ]
     },
     "看": {
@@ -1930,6 +3279,13 @@
         ],
         "english": [
             "see, look, watch"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢看电影。",
+                "eg_pinyin": "Wǒ xǐhuān kàn diànyǐng.",
+                "eg_vietnamese": "Tôi thích xem phim."
+            }
         ]
     },
     "看病": {
@@ -1940,6 +3296,13 @@
         ],
         "english": [
             "see a doctor"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他今天去医院看病。",
+                "eg_pinyin": "Tā jīntiān qù yīyuàn kànbìng.",
+                "eg_vietnamese": "Hôm nay anh ấy đi bệnh viện khám bệnh."
+            }
         ]
     },
     "看到": {
@@ -1950,6 +3313,13 @@
         ],
         "english": [
             "see, catch sight of"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在公园里看到了一只漂亮的鸟。",
+                "eg_pinyin": "Wǒ zài gōngyuán lǐ kàn dào le yī zhī piàoliang de niǎo.",
+                "eg_vietnamese": "Tôi đã nhìn thấy một con chim xinh đẹp ở công viên."
+            }
         ]
     },
     "看见": {
@@ -1960,6 +3330,13 @@
         ],
         "english": [
             "see, catch sight of"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在公园里看见了一只小狗。",
+                "eg_pinyin": "Wǒ zài gōngyuán lǐ kànjiànle yī zhī xiǎo gǒu.",
+                "eg_vietnamese": "Tôi đã nhìn thấy một con chó con ở công viên."
+            }
         ]
     },
     "考": {
@@ -1970,6 +3347,13 @@
         ],
         "english": [
             "take an examination, a test or a quiz"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我下周要参加一个重要的考试。",
+                "eg_pinyin": "Wǒ xià zhōu yào cānjiā yīgè zhòngyào de kǎoshì.",
+                "eg_vietnamese": "Tuần sau tôi sẽ tham gia một kỳ thi quan trọng."
+            }
         ]
     },
     "考试": {
@@ -1980,6 +3364,13 @@
         ],
         "english": [
             "take an examination"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我下个月有一个重要的考试。",
+                "eg_pinyin": "wǒ xià gè yuè yǒu yí gè zhòng yào de kǎoshì.",
+                "eg_vietnamese": "Tôi có một kỳ thi quan trọng vào tháng tới."
+            }
         ]
     },
     "渴": {
@@ -1990,6 +3381,13 @@
         ],
         "english": [
             "thirsty"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我渴了，想喝水。",
+                "eg_pinyin": "Wǒ kě le, xiǎng hē shuǐ.",
+                "eg_vietnamese": "Tôi khát, muốn uống nước."
+            }
         ]
     },
     "课": {
@@ -2000,6 +3398,13 @@
         ],
         "english": [
             "lesson; class"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天有三节课。",
+                "eg_pinyin": "Jīntiān yǒu sān jié kè.",
+                "eg_vietnamese": "Hôm nay có ba tiết học."
+            }
         ]
     },
     "课本": {
@@ -2010,6 +3415,13 @@
         ],
         "english": [
             "textbook"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的课本在桌子上。",
+                "eg_pinyin": "wǒ de kèběn zài zhuōzi shàng.",
+                "eg_vietnamese": "Sách giáo khoa của tôi ở trên bàn."
+            }
         ]
     },
     "课文": {
@@ -2020,6 +3432,13 @@
         ],
         "english": [
             "text"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天我们来学习课文。",
+                "eg_pinyin": "Jīntiān wǒmen lái xuéxí kèwén.",
+                "eg_vietnamese": "Hôm nay chúng ta sẽ học bài đọc."
+            }
         ]
     },
     "口": {
@@ -2030,6 +3449,13 @@
         ],
         "english": [
             "mouth"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我家有三口人。",
+                "eg_pinyin": "Wǒ jiā yǒu sān kǒu rén.",
+                "eg_vietnamese": "Nhà tôi có ba người."
+            }
         ]
     },
     "块": {
@@ -2040,6 +3466,13 @@
         ],
         "english": [
             "piece, lump"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这张钱是五块的。",
+                "eg_pinyin": "Zhè zhāng qián shì wǔ kuài de.",
+                "eg_vietnamese": "Tờ tiền này là năm tệ."
+            }
         ]
     },
     "快": {
@@ -2050,6 +3483,13 @@
         ],
         "english": [
             "fast"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他走得很快。",
+                "eg_pinyin": "Tā zǒu de hěn kuài.",
+                "eg_vietnamese": "Anh ấy đi rất nhanh."
+            }
         ]
     },
     "来": {
@@ -2060,6 +3500,13 @@
         ],
         "english": [
             "come"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请你来这里。",
+                "eg_pinyin": "Qǐng nǐ lái zhèlǐ.",
+                "eg_vietnamese": "Xin bạn đến đây."
+            }
         ]
     },
     "来到": {
@@ -2070,6 +3517,13 @@
         ],
         "english": [
             "come to; arrive"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天下午来到学校。",
+                "eg_pinyin": "Wǒ jīntiān xiàwǔ lái dào xuéxiào.",
+                "eg_vietnamese": "Hôm nay buổi chiều tôi đến trường."
+            }
         ]
     },
     "老": {
@@ -2080,6 +3534,13 @@
         ],
         "english": [
             "old; aged"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这栋房子很老了。",
+                "eg_pinyin": "Zhè dòng fángzi hěn lǎo le.",
+                "eg_vietnamese": "Căn nhà này đã rất cũ."
+            }
         ]
     },
     "老人": {
@@ -2090,6 +3551,13 @@
         ],
         "english": [
             "old people; the aged"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "公园里有很多老人。",
+                "eg_pinyin": "Gōngyuán lǐ yǒu hěn duō lǎorén.",
+                "eg_vietnamese": "Trong công viên có rất nhiều người già."
+            }
         ]
     },
     "老师": {
@@ -2100,6 +3568,13 @@
         ],
         "english": [
             "teacher"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的老师很严格。",
+                "eg_pinyin": "wǒ de lǎoshī hěn yángé.",
+                "eg_vietnamese": "Giáo viên của tôi rất nghiêm khắc."
+            }
         ]
     },
     "了": {
@@ -2110,6 +3585,13 @@
         ],
         "english": [
             "pt. an aspect particle used after a verb to indicate completion, a modal particle placed at the end of a sentence to express an affirmative tone of a change in a situation"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我吃了午饭。",
+                "eg_pinyin": "Wǒ chī le wǔfàn.",
+                "eg_vietnamese": "Tôi đã ăn trưa rồi."
+            }
         ]
     },
     "累": {
@@ -2120,6 +3602,13 @@
         ],
         "english": [
             "tired"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天工作很累。",
+                "eg_pinyin": "Wǒ jīntiān gōngzuò hěn lèi.",
+                "eg_vietnamese": "Hôm nay tôi làm việc rất mệt."
+            }
         ]
     },
     "冷": {
@@ -2130,6 +3619,13 @@
         ],
         "english": [
             "cold"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天很冷，所以我穿了厚衣服。",
+                "eg_pinyin": "jīntiān hěn lěng, suǒyǐ wǒ chuānle hòu yīfú.",
+                "eg_vietnamese": "Hôm nay rất lạnh, nên tôi mặc áo ấm."
+            }
         ]
     },
     "里": {
@@ -2140,6 +3636,13 @@
         ],
         "english": [
             "in"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "书包里有一本书。",
+                "eg_pinyin": "Shūbāo lǐ yǒu yī běn shū.",
+                "eg_vietnamese": "Trong ba lô có một quyển sách."
+            }
         ]
     },
     "里边": {
@@ -2150,6 +3653,13 @@
         ],
         "english": [
             "inside"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "书包里边有一本书。",
+                "eg_pinyin": "shūbāo lǐbian yǒu yī běn shū.",
+                "eg_vietnamese": "Trong ba lô có một cuốn sách."
+            }
         ]
     },
     "两": {
@@ -2160,6 +3670,13 @@
         ],
         "english": [
             "two"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我有两本书。",
+                "eg_pinyin": "Wǒ yǒu liǎng běn shū.",
+                "eg_vietnamese": "Tôi có hai quyển sách."
+            }
         ]
     },
     "零": {
@@ -2170,6 +3687,13 @@
         ],
         "english": [
             "zero"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他的房间里没有零件。",
+                "eg_pinyin": "Tā de fángjiān lǐ méiyǒu língjiàn.",
+                "eg_vietnamese": "Phòng của anh ấy không có linh kiện số 0."
+            }
         ]
     },
     "六": {
@@ -2180,6 +3704,13 @@
         ],
         "english": [
             "Six"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "今天是六号。",
+                "eg_pinyin": "Jīntiān shì liù hào.",
+                "eg_vietnamese": "Hôm nay là ngày 6."
+            }
         ]
     },
     "楼": {
@@ -2190,6 +3721,13 @@
         ],
         "english": [
             "floor"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我家住在三楼。",
+                "eg_pinyin": "Wǒ jiā zhù zài sān lóu.",
+                "eg_vietnamese": "Nhà tôi ở tầng ba."
+            }
         ]
     },
     "楼上": {
@@ -2200,6 +3738,13 @@
         ],
         "english": [
             "upstairs"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在楼上等你。",
+                "eg_pinyin": "Wǒ zài lóu shàng děng nǐ.",
+                "eg_vietnamese": "Tôi đang đợi bạn ở tầng trên."
+            }
         ]
     },
     "楼下": {
@@ -2210,6 +3755,13 @@
         ],
         "english": [
             "downstairs"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的书在楼下。",
+                "eg_pinyin": "wǒ de shū zài lóu xià.",
+                "eg_vietnamese": "Cuốn sách của tôi ở tầng dưới."
+            }
         ]
     },
     "路": {
@@ -2220,6 +3772,13 @@
         ],
         "english": [
             "road"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这条路非常宽阔。",
+                "eg_pinyin": "Zhè tiáo lù fēicháng kuānkuò.",
+                "eg_vietnamese": "Con đường này rất rộng rãi."
+            }
         ]
     },
     "路口": {
@@ -2230,6 +3789,13 @@
         ],
         "english": [
             "intersection; crossing"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "在路口左转，你就能看到那个商店。",
+                "eg_pinyin": "Zài lùkǒu zuǒ zhuǎn, nǐ jiù néng kàn dào nàgè shāngdiàn.",
+                "eg_vietnamese": "Tại giao lộ rẽ trái, bạn sẽ thấy cửa hàng đó."
+            }
         ]
     },
     "路上": {
@@ -2240,6 +3806,13 @@
         ],
         "english": [
             "on the road"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我在路上遇到了老朋友。",
+                "eg_pinyin": "Wǒ zài lùshàng yùdàole lǎo péngyǒu.",
+                "eg_vietnamese": "Tôi gặp lại người bạn cũ trên đường."
+            }
         ]
     },
     "妈妈": {
@@ -2250,6 +3823,13 @@
         ],
         "english": [
             "mom; mother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱妈妈。",
+                "eg_pinyin": "Wǒ ài māma.",
+                "eg_vietnamese": "Con yêu mẹ."
+            }
         ]
     },
     "妈": {
@@ -2260,6 +3840,13 @@
         ],
         "english": [
             "mom; mother"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我爱我的妈。",
+                "eg_pinyin": "Wǒ ài wǒ de mā.",
+                "eg_vietnamese": "Tôi yêu mẹ."
+            }
         ]
     },
     "马路": {
@@ -2270,6 +3857,13 @@
         ],
         "english": [
             "road; street"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "马路上车来车往，非常热闹。",
+                "eg_pinyin": "Mǎlù shàng chē lái chē wǎng, fēicháng rènào.",
+                "eg_vietnamese": "Trên đường cái, xe cộ qua lại rất nhộn nhịp."
+            }
         ]
     },
     "马上": {
@@ -2280,6 +3874,13 @@
         ],
         "english": [
             "right now, immediately"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我马上就来。",
+                "eg_pinyin": "Wǒ mǎshàng jiù lái.",
+                "eg_vietnamese": "Tôi lập tức sẽ đến."
+            }
         ]
     },
     "吗": {
@@ -2290,6 +3891,13 @@
         ],
         "english": [
             "pt. used at the end of a sentence to turn a declarative sentence into a yes-or-no interrogative sentence"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你好吗？",
+                "eg_pinyin": "Nǐ hǎo ma?",
+                "eg_vietnamese": "Bạn có khỏe không?"
+            }
         ]
     },
     "买": {
@@ -2300,6 +3908,13 @@
         ],
         "english": [
             "buy"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我想买一本书。",
+                "eg_pinyin": "Wǒ xiǎng mǎi yī běn shū.",
+                "eg_vietnamese": "Tôi muốn mua một cuốn sách."
+            }
         ]
     },
     "慢": {
@@ -2310,6 +3925,13 @@
         ],
         "english": [
             "slow"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请慢一点说。",
+                "eg_pinyin": "Qǐng màn yīdiǎn shuō.",
+                "eg_vietnamese": "Xin hãy nói chậm lại một chút."
+            }
         ]
     },
     "忙": {
@@ -2320,6 +3942,13 @@
         ],
         "english": [
             "busy"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天很忙。",
+                "eg_pinyin": "Wǒ jīntiān hěn máng.",
+                "eg_vietnamese": "Hôm nay tôi rất bận."
+            }
         ]
     },
     "毛": {
@@ -2330,6 +3959,13 @@
         ],
         "english": [
             "unit of money, equal to a tenth of a yuan"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "一毛钱都没有。",
+                "eg_pinyin": "yī máo qián dōu méi yǒu.",
+                "eg_vietnamese": "Không có một xu nào."
+            }
         ]
     },
     "没": {
@@ -2340,6 +3976,13 @@
         ],
         "english": [
             "not"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我没去学校。",
+                "eg_pinyin": "Wǒ méi qù xuéxiào.",
+                "eg_vietnamese": "Tôi không đi đến trường."
+            }
         ]
     },
     "没关系": {
@@ -2350,6 +3993,13 @@
         ],
         "english": [
             "It doesn't matter. / That's all right."
+        ],
+        "eg": [
+            {
+                "eg_chinese": "对不起，打扰你了。",
+                "eg_pinyin": "Duìbùqǐ, dǎrǎo nǐle.",
+                "eg_vietnamese": "Xin lỗi, đã làm phiền bạn."
+            }
         ]
     },
     "没什么": {
@@ -2360,6 +4010,13 @@
         ],
         "english": [
             "never mind"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "没什么特别的事情。",
+                "eg_pinyin": "méi shénme tèbié de shìqíng.",
+                "eg_vietnamese": "Không có gì đặc biệt."
+            }
         ]
     },
     "没事儿": {
@@ -2370,6 +4027,13 @@
         ],
         "english": [
             "that's all right"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你今天晚上有空吗？没事儿的话，我们可以去看电影。",
+                "eg_pinyin": "Nǐ jīntiān wǎnshàng yǒu kòng ma? Méishìr dehuà, wǒmen kěyǐ qù kàn diànyǐng.",
+                "eg_vietnamese": "Tối nay bạn có rảnh không? Nếu không có việc gì, chúng ta có thể đi xem phim."
+            }
         ]
     },
     "没有": {
@@ -2380,6 +4044,13 @@
         ],
         "english": [
             "not have"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我没有时间。",
+                "eg_pinyin": "Wǒ méiyǒu shíjiān.",
+                "eg_vietnamese": "Tôi không có thời gian."
+            }
         ]
     },
     "妹妹": {
@@ -2390,6 +4061,13 @@
         ],
         "english": [
             "younger sister"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我有一个妹妹。",
+                "eg_pinyin": "Wǒ yǒu yī gè mèimei.",
+                "eg_vietnamese": "Tôi có một em gái."
+            }
         ]
     },
     "妹": {
@@ -2400,6 +4078,13 @@
         ],
         "english": [
             "younger sister"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的妹非常喜欢画画。",
+                "eg_pinyin": "Wǒ de mèi fēicháng xǐhuān huàhuà.",
+                "eg_vietnamese": "Em gái của tôi rất thích vẽ."
+            }
         ]
     },
     "门": {
@@ -2410,6 +4095,13 @@
         ],
         "english": [
             "door"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请把门关上。",
+                "eg_pinyin": "Qǐng bǎmén guān shàng.",
+                "eg_vietnamese": "Xin hãy đóng cửa."
+            }
         ]
     },
     "门口": {
@@ -2420,6 +4112,13 @@
         ],
         "english": [
             "doorway"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他在门口等我。",
+                "eg_pinyin": "tā zài ménkǒu děng wǒ.",
+                "eg_vietnamese": "Anh ấy đang đợi tôi ở cửa."
+            }
         ]
     },
     "门票": {
@@ -2430,6 +4129,13 @@
         ],
         "english": [
             "ticket"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我买了一张博物馆的门票。",
+                "eg_pinyin": "wǒ mǎi le yī zhāng bówùguǎn de ménpiào.",
+                "eg_vietnamese": "Tôi đã mua một vé vào cửa cho bảo tàng."
+            }
         ]
     },
     "们": {
@@ -2440,6 +4146,13 @@
         ],
         "english": [
             "used to form a plural number when added to a personal pronoun or a noun referring to a person"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我们一起去公园。",
+                "eg_pinyin": "Wǒmen yīqǐ qù gōngyuán.",
+                "eg_vietnamese": "Chúng ta cùng đi đến công viên."
+            }
         ]
     },
     "米饭": {
@@ -2450,6 +4163,13 @@
         ],
         "english": [
             "cooked Rice"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢吃米饭。",
+                "eg_pinyin": "Wǒ xǐhuān chī mǐfàn.",
+                "eg_vietnamese": "Tôi thích ăn cơm."
+            }
         ]
     },
     "面包": {
@@ -2460,6 +4180,13 @@
         ],
         "english": [
             "bread"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我早餐喜欢吃面包。",
+                "eg_pinyin": "Wǒ zǎocān xǐhuān chī miànbāo.",
+                "eg_vietnamese": "Tôi thích ăn bánh mì cho bữa sáng."
+            }
         ]
     },
     "面条儿": {
@@ -2470,6 +4197,13 @@
         ],
         "english": [
             "noodles"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我今天晚上想吃面条儿。",
+                "eg_pinyin": "Wǒ jīntiān wǎnshàng xiǎng chī miàntiáor.",
+                "eg_vietnamese": "Hôm nay tôi muốn ăn mì sợi."
+            }
         ]
     },
     "名字": {
@@ -2480,6 +4214,13 @@
         ],
         "english": [
             "name"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你可以告诉我你的名字吗？",
+                "eg_pinyin": "Nǐ kěyǐ gàosù wǒ nǐ de míngzì ma?",
+                "eg_vietnamese": "Bạn có thể cho tôi biết tên của bạn không?"
+            }
         ]
     },
     "明白": {
@@ -2490,6 +4231,13 @@
         ],
         "english": [
             "(adj) clear; (v)understand, know"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我明白你的意思。",
+                "eg_pinyin": "Wǒ míngbai nǐ de yìsi.",
+                "eg_vietnamese": "Tôi hiểu ý bạn."
+            }
         ]
     },
     "明年": {
@@ -2500,6 +4248,13 @@
         ],
         "english": [
             "next year"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "明年我打算去旅行。",
+                "eg_pinyin": "míngnián wǒ dǎsuàn qù lǚxíng.",
+                "eg_vietnamese": "Năm sau, tôi dự định đi du lịch."
+            }
         ]
     },
     "明天": {
@@ -2510,6 +4265,13 @@
         ],
         "english": [
             "tomorrow"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "明天我们去公园。",
+                "eg_pinyin": "míngtiān wǒmen qù gōngyuán.",
+                "eg_vietnamese": "Ngày mai chúng ta đi công viên."
+            }
         ]
     },
     "拿": {
@@ -2520,6 +4282,13 @@
         ],
         "english": [
             "take, get"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "请你把书拿给我。",
+                "eg_pinyin": "Qǐng nǐ bǎ shū ná gěi wǒ.",
+                "eg_vietnamese": "Xin bạn đưa cho tôi cuốn sách."
+            }
         ]
     },
     "哪": {
@@ -2530,6 +4299,13 @@
         ],
         "english": [
             "which"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你想吃哪个苹果？",
+                "eg_pinyin": "nǐ xiǎng chī nǎ ge píngguǒ?",
+                "eg_vietnamese": "Bạn muốn ăn quả táo nào?"
+            }
         ]
     },
     "哪里": {
@@ -2540,6 +4316,13 @@
         ],
         "english": [
             "where"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你要去哪里？",
+                "eg_pinyin": "Nǐ yào qù nǎlǐ?",
+                "eg_vietnamese": "Bạn đi đâu?"
+            }
         ]
     },
     "哪儿": {
@@ -2550,6 +4333,13 @@
         ],
         "english": [
             "where"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你要去哪儿？",
+                "eg_pinyin": "nǐ yào qù nǎr?",
+                "eg_vietnamese": "Bạn định đi đâu?"
+            }
         ]
     },
     "哪些": {
@@ -2560,6 +4350,13 @@
         ],
         "english": [
             "which"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "你喜欢哪些水果？",
+                "eg_pinyin": "Nǐ xǐhuān nǎxiē shuǐguǒ?",
+                "eg_vietnamese": "Bạn thích những trái cây nào?"
+            }
         ]
     },
     "那": {
@@ -2570,6 +4367,13 @@
         ],
         "english": [
             "that"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那我们就去吧。",
+                "eg_pinyin": "nà wǒmen jiù qù ba.",
+                "eg_vietnamese": "Vậy thì chúng ta đi thôi."
+            }
         ]
     },
     "那边": {
@@ -2580,6 +4384,13 @@
         ],
         "english": [
             "over there"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那边有一个公园。",
+                "eg_pinyin": "nà biān yǒu yī gè gōngyuán.",
+                "eg_vietnamese": "Bên kia có một công viên."
+            }
         ]
     },
     "那里": {
@@ -2590,6 +4401,13 @@
         ],
         "english": [
             "there, that place"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那里有一个漂亮的公园。",
+                "eg_pinyin": "nàlǐ yǒu yī gè piàoliang de gōngyuán.",
+                "eg_vietnamese": "Ở đó có một công viên đẹp."
+            }
         ]
     },
     "那儿": {
@@ -2600,6 +4418,13 @@
         ],
         "english": [
             "there, that place"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我去那儿找你。",
+                "eg_pinyin": "Wǒ qù nàr zhǎo nǐ.",
+                "eg_vietnamese": "Tôi đến đó tìm bạn."
+            }
         ]
     },
     "那些": {
@@ -2610,6 +4435,13 @@
         ],
         "english": [
             "those"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那些书很有趣。",
+                "eg_pinyin": "nàxiē shū hěn yǒuqù.",
+                "eg_vietnamese": "Những cuốn sách ấy rất thú vị."
+            }
         ]
     },
     "奶": {
@@ -2620,6 +4452,13 @@
         ],
         "english": [
             "milk"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我喜欢喝牛奶。",
+                "eg_pinyin": "Wǒ xǐhuān hē niúnǎi.",
+                "eg_vietnamese": "Tôi thích uống sữa bò."
+            }
         ]
     },
     "奶奶": {
@@ -2630,6 +4469,13 @@
         ],
         "english": [
             "grandma"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的奶奶总是给我讲故事。",
+                "eg_pinyin": "wǒ de nǎinai zǒng shì gěi wǒ jiǎng gùshì.",
+                "eg_vietnamese": "Bà nội của tôi luôn kể chuyện cho tôi nghe."
+            }
         ]
     },
     "男": {
@@ -2640,6 +4486,13 @@
         ],
         "english": [
             "man, male"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "他是一个聪明的男孩。",
+                "eg_pinyin": "Tā shì yī gè cōngmíng de nán hái.",
+                "eg_vietnamese": "Anh ấy là một cậu bé thông minh."
+            }
         ]
     },
     "男孩儿": {
@@ -2650,6 +4503,13 @@
         ],
         "english": [
             "boy"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那个男孩儿在公园里玩球。",
+                "eg_pinyin": "Nàgè nánháir zài gōngyuán lǐ wán qiú.",
+                "eg_vietnamese": "Cậu bé đó đang chơi bóng ở công viên."
+            }
         ]
     },
     "男朋友": {
@@ -2660,6 +4520,13 @@
         ],
         "english": [
             "boy friend"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "我的男朋友很帅。",
+                "eg_pinyin": "Wǒ de nán péngyǒu hěn shuài.",
+                "eg_vietnamese": "Bạn trai của tôi rất đẹp trai."
+            }
         ]
     },
     "男人": {
@@ -2670,6 +4537,13 @@
         ],
         "english": [
             "man"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "那个男人在公园里散步。",
+                "eg_pinyin": "nàge nánrén zài gōngyuán lǐ sànbù.",
+                "eg_vietnamese": "Người đàn ông đó đang đi dạo trong công viên."
+            }
         ]
     },
     "男生": {
@@ -2680,6 +4554,13 @@
         ],
         "english": [
             "boy student"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个男生非常聪明。",
+                "eg_pinyin": "Zhège nánshēng fēicháng cōngmíng.",
+                "eg_vietnamese": "Cậu nam sinh này rất thông minh."
+            }
         ]
     },
     "南": {
@@ -2690,6 +4571,13 @@
         ],
         "english": [
             "south"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "中国位于南半球的一部分。",
+                "eg_pinyin": "Zhōngguó wèiyú nán bànqiú de yī bùfèn.",
+                "eg_vietnamese": "Trung Quốc nằm ở một phần của bán cầu nam."
+            }
         ]
     },
     "南边": {
@@ -2700,6 +4588,13 @@
         ],
         "english": [
             "south (side)"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "学校在南边。",
+                "eg_pinyin": "Xuéxiào zài nánbian.",
+                "eg_vietnamese": "Trường học ở phía nam."
+            }
         ]
     },
     "难": {
@@ -2710,6 +4605,13 @@
         ],
         "english": [
             "hard, difficult"
+        ],
+        "eg": [
+            {
+                "eg_chinese": "这个问题太难了，我回答不上来。",
+                "eg_pinyin": "Zhège wèntí tà nánle, wǒ huídá bù shànglái.",
+                "eg_vietnamese": "Câu hỏi này khó quá, tôi không trả lời được."
+            }
         ]
     },
     "呢": {
@@ -2720,6 +4622,14 @@
         ],
         "english": [
             "pt. used at the end of an interrogative sentence, used at the end of a declarative sentence to indicate a behavior or action in progress"
+        ],
+        "eg": [
+            {
+                "meaning": "đâu, thế, nhỉ, vậy…",
+                "eg_chinese": "你今天怎么样呢？",
+                "eg_pinyin": "Nǐ jīntiān zěnme yàng ne?",
+                "eg_vietnamese": "Hôm nay bạn thế nào nhỉ?"
+            }
         ]
     },
     "能": {
@@ -2730,6 +4640,14 @@
         ],
         "english": [
             "can"
+        ],
+        "eg": [
+            {
+                "meaning": "có thể",
+                "eg_chinese": "我能来吗？",
+                "eg_pinyin": "Wǒ néng lái ma?",
+                "eg_vietnamese": "Tôi có thể đến không?"
+            }
         ]
     },
     "你": {
@@ -2740,6 +4658,14 @@
         ],
         "english": [
             "you"
+        ],
+        "eg": [
+            {
+                "meaning": "anh, chị, bạn, …",
+                "eg_chinese": "你喜欢这个吗？",
+                "eg_pinyin": "Nǐ xǐhuān zhège ma?",
+                "eg_vietnamese": "Bạn có thích cái này không?"
+            }
         ]
     },
     "你们": {
@@ -2750,6 +4676,14 @@
         ],
         "english": [
             "(plural form) you"
+        ],
+        "eg": [
+            {
+                "meaning": "các anh, các chị, các bạn",
+                "eg_chinese": "你们今天要去哪里？",
+                "eg_pinyin": "Nǐmen jīntiān yào qù nǎlǐ?",
+                "eg_vietnamese": "Các bạn hôm nay muốn đi đâu?"
+            }
         ]
     },
     "年": {
@@ -2760,6 +4694,14 @@
         ],
         "english": [
             "a measure word for years"
+        ],
+        "eg": [
+            {
+                "meaning": "năm",
+                "eg_chinese": "今年是2023年。",
+                "eg_pinyin": "Jīnnián shì 2023 nián.",
+                "eg_vietnamese": "Năm nay là năm 2023."
+            }
         ]
     },
     "您": {
@@ -2770,6 +4712,14 @@
         ],
         "english": [
             "(term of respect) you"
+        ],
+        "eg": [
+            {
+                "meaning": "ngài, ông, bà (thể hiện trọng)",
+                "eg_chinese": "您好，很高兴见到您。",
+                "eg_pinyin": "Nín hǎo, hěn gāoxìng jiàn dào nín.",
+                "eg_vietnamese": "Ngài khỏe không, rất vui được gặp ngài."
+            }
         ]
     },
     "牛奶": {
@@ -2780,6 +4730,14 @@
         ],
         "english": [
             "milk"
+        ],
+        "eg": [
+            {
+                "meaning": "sữa bò",
+                "eg_chinese": "我每天喝牛奶。",
+                "eg_pinyin": "Wǒ měitiān hē niúnǎi.",
+                "eg_vietnamese": "Tôi uống sữa bò mỗi ngày."
+            }
         ]
     },
     "女": {
@@ -2790,6 +4748,14 @@
         ],
         "english": [
             "woman"
+        ],
+        "eg": [
+            {
+                "meaning": "nữ (giới tính nữ)",
+                "eg_chinese": "她是女的。",
+                "eg_pinyin": "Tā shì nǚ de.",
+                "eg_vietnamese": "Cô ấy là nữ."
+            }
         ]
     },
     "女儿": {
@@ -2800,6 +4766,14 @@
         ],
         "english": [
             "daughter"
+        ],
+        "eg": [
+            {
+                "meaning": "con gái",
+                "eg_chinese": "我有一个女儿。",
+                "eg_pinyin": "Wǒ yǒu yīgè nǚ'ér.",
+                "eg_vietnamese": "Tôi có một cô con gái."
+            }
         ]
     },
     "女孩儿": {
@@ -2810,6 +4784,14 @@
         ],
         "english": [
             "girl"
+        ],
+        "eg": [
+            {
+                "meaning": "cô bé",
+                "eg_chinese": "那个女孩儿很可爱。",
+                "eg_pinyin": "nàge nǚháir hěn kě'ài.",
+                "eg_vietnamese": "Cô bé đó rất dễ thương."
+            }
         ]
     },
     "女朋友": {
@@ -2820,6 +4802,14 @@
         ],
         "english": [
             "girlfriend"
+        ],
+        "eg": [
+            {
+                "meaning": "bạn gái",
+                "eg_chinese": "我有一个女朋友。",
+                "eg_pinyin": "wǒ yǒu yīgè nǚ péngyǒu.",
+                "eg_vietnamese": "Tôi có một bạn gái."
+            }
         ]
     },
     "女人": {
@@ -2830,6 +4820,20 @@
         ],
         "english": [
             "women"
+        ],
+        "eg": [
+            {
+                "meaning": "con gái",
+                "eg_chinese": "那个女人真漂亮。",
+                "eg_pinyin": "nàge nǚrén zhēn piàoliang.",
+                "eg_vietnamese": "Người con gái đó thật đẹp."
+            },
+            {
+                "meaning": "phụ nữ",
+                "eg_chinese": "尊重所有的女人。",
+                "eg_pinyin": "zūnzhòng suǒyǒu de nǚrén.",
+                "eg_vietnamese": "Tôn trọng tất cả phụ nữ."
+            }
         ]
     },
     "女生": {
@@ -2840,6 +4844,20 @@
         ],
         "english": [
             "girl student"
+        ],
+        "eg": [
+            {
+                "meaning": "nữ sinh",
+                "eg_chinese": "她是班里的女生。",
+                "eg_pinyin": "tā shì bān lǐ de nǚshēng.",
+                "eg_vietnamese": "Cô ấy là nữ sinh trong lớp."
+            },
+            {
+                "meaning": "học sinh nữ",
+                "eg_chinese": "这个女生很聪明。",
+                "eg_pinyin": "zhège nǚshēng hěn cōngmíng.",
+                "eg_vietnamese": "Học sinh nữ này rất thông minh."
+            }
         ]
     },
     "旁边": {
@@ -2850,6 +4868,14 @@
         ],
         "english": [
             "side"
+        ],
+        "eg": [
+            {
+                "meaning": "bên cạnh",
+                "eg_chinese": "他坐在我旁边。",
+                "eg_pinyin": "tā zuò zài wǒ pángbiān.",
+                "eg_vietnamese": "Anh ấy ngồi bên cạnh tôi."
+            }
         ]
     },
     "跑": {
@@ -2860,6 +4886,14 @@
         ],
         "english": [
             "run"
+        ],
+        "eg": [
+            {
+                "meaning": "chạy",
+                "eg_chinese": "他们一起去跑步。",
+                "eg_pinyin": "tāmen yīqǐ qù pǎobù.",
+                "eg_vietnamese": "Họ cùng nhau đi chạy."
+            }
         ]
     },
     "朋友": {
@@ -2870,6 +4904,20 @@
         ],
         "english": [
             "Friend"
+        ],
+        "eg": [
+            {
+                "meaning": "bạn",
+                "eg_chinese": "他是我的朋友。",
+                "eg_pinyin": "tā shì wǒ de péngyou.",
+                "eg_vietnamese": "Anh ấy là bạn của tôi."
+            },
+            {
+                "meaning": "bạn bè",
+                "eg_chinese": "我有很多朋友。",
+                "eg_pinyin": "wǒ yǒu hěn duō péngyou.",
+                "eg_vietnamese": "Tôi có nhiều bạn bè."
+            }
         ]
     },
     "票": {
@@ -2880,6 +4928,20 @@
         ],
         "english": [
             "ticket"
+        ],
+        "eg": [
+            {
+                "meaning": "vé",
+                "eg_chinese": "我买了一张票。",
+                "eg_pinyin": "wǒ mǎile yī zhāng piào.",
+                "eg_vietnamese": "Tôi đã mua một vé."
+            },
+            {
+                "meaning": "phiếu",
+                "eg_chinese": "这是我的抽奖票。",
+                "eg_pinyin": "zhè shì wǒ de chōujiǎng piào.",
+                "eg_vietnamese": "Đây là phiếu bốc thăm của tôi."
+            }
         ]
     },
     "七": {
@@ -2890,6 +4952,14 @@
         ],
         "english": [
             "Seven"
+        ],
+        "eg": [
+            {
+                "meaning": "số 7",
+                "eg_chinese": "我有七本书。",
+                "eg_pinyin": "wǒ yǒu qī běn shū.",
+                "eg_vietnamese": "Tôi có bảy quyển sách."
+            }
         ]
     },
     "起": {
@@ -2900,6 +4970,14 @@
         ],
         "english": [
             "get up; start; rise"
+        ],
+        "eg": [
+            {
+                "meaning": "dậy",
+                "eg_chinese": "我早上六点起床。",
+                "eg_pinyin": "wǒ zǎoshang liù diǎn qǐchuáng.",
+                "eg_vietnamese": "Tôi dậy lúc 6 giờ sáng."
+            }
         ]
     },
     "起床": {
@@ -2910,6 +4988,20 @@
         ],
         "english": [
             "get up"
+        ],
+        "eg": [
+            {
+                "meaning": "thức dậy",
+                "eg_chinese": "我每天六点起床。",
+                "eg_pinyin": "Wǒ měitiān liù diǎn qǐchuáng.",
+                "eg_vietnamese": "Tôi dậy lúc sáu giờ mỗi ngày."
+            },
+            {
+                "meaning": "ngủ dậy",
+                "eg_chinese": "他还没睡醒，仍在床上。",
+                "eg_pinyin": "Tā hái méi shuì xǐng, réng zài chuáng shàng.",
+                "eg_vietnamese": "Anh ấy vẫn chưa ngủ dậy, vẫn trên giường."
+            }
         ]
     },
     "起来": {
@@ -2920,6 +5012,26 @@
         ],
         "english": [
             "get up, stand up"
+        ],
+        "eg": [
+            {
+                "meaning": "ngồi dậy",
+                "eg_chinese": "她慢慢坐起来。",
+                "eg_pinyin": "Tā màn màn zuò qǐlái.",
+                "eg_vietnamese": "Cô ấy từ từ ngồi dậy."
+            },
+            {
+                "meaning": "đứng đậy",
+                "eg_chinese": "他立刻站起来。",
+                "eg_pinyin": "Tā lìkè zhàn qǐlái.",
+                "eg_vietnamese": "Anh ấy lập tức đứng dậy."
+            },
+            {
+                "meaning": "thức",
+                "eg_chinese": "我早上六点就醒了。",
+                "eg_pinyin": "Wǒ zǎoshang liù diǎn jiù xǐngle.",
+                "eg_vietnamese": "Tôi đã thức dậy lúc sáu giờ sáng."
+            }
         ]
     },
     "汽车": {
@@ -2930,6 +5042,20 @@
         ],
         "english": [
             "car"
+        ],
+        "eg": [
+            {
+                "meaning": "ôtô",
+                "eg_chinese": "我的汽车是红色的。",
+                "eg_pinyin": "Wǒ de qìchē shì hóngsè de.",
+                "eg_vietnamese": "Ôtô của tôi màu đỏ."
+            },
+            {
+                "meaning": "xe hơi",
+                "eg_chinese": "我们需要一个租的汽车。",
+                "eg_pinyin": "Wǒmen xūyào yīgè zū de qìchē.",
+                "eg_vietnamese": "Chúng tôi cần một xe hơi thuê."
+            }
         ]
     },
     "前": {
@@ -2940,6 +5066,14 @@
         ],
         "english": [
             "front; past, former times"
+        ],
+        "eg": [
+            {
+                "meaning": "trước",
+                "eg_chinese": "请在我前面排队。",
+                "eg_pinyin": "Qǐng zài wǒ qiánmiàn páiduì.",
+                "eg_vietnamese": "Xin hãy xếp hàng trước tôi."
+            }
         ]
     },
     "前边": {
@@ -2950,6 +5084,14 @@
         ],
         "english": [
             "front"
+        ],
+        "eg": [
+            {
+                "meaning": "phía trước",
+                "eg_chinese": "前边有一个公园。",
+                "eg_pinyin": "Qiánbian yǒu yīgè gōngyuán.",
+                "eg_vietnamese": "Phía trước có một công viên."
+            }
         ]
     },
     "前天": {
@@ -2960,6 +5102,14 @@
         ],
         "english": [
             "the day before yesterday"
+        ],
+        "eg": [
+            {
+                "meaning": "hai hôm trước",
+                "eg_chinese": "前天我去看电影。",
+                "eg_pinyin": "Qiántiān wǒ qù kàn diànyǐng.",
+                "eg_vietnamese": "Hai hôm trước tôi đã đi xem phim."
+            }
         ]
     },
     "钱": {
@@ -2970,6 +5120,14 @@
         ],
         "english": [
             "money"
+        ],
+        "eg": [
+            {
+                "meaning": "tiền",
+                "eg_chinese": "我没有足够的钱。",
+                "eg_pinyin": "Wǒ méiyǒu zúgòu de qián.",
+                "eg_vietnamese": "Tôi không có đủ tiền."
+            }
         ]
     },
     "钱包": {
@@ -2980,6 +5138,14 @@
         ],
         "english": [
             "wallet"
+        ],
+        "eg": [
+            {
+                "meaning": "ví tiền",
+                "eg_chinese": "我的钱包丢了。",
+                "eg_pinyin": "Wǒ de qiánbāo diūle.",
+                "eg_vietnamese": "Ví tiền của tôi bị mất."
+            }
         ]
     },
     "请": {
@@ -2990,6 +5156,14 @@
         ],
         "english": [
             "please"
+        ],
+        "eg": [
+            {
+                "meaning": "mời",
+                "eg_chinese": "请你吃饭。",
+                "eg_pinyin": "Qǐng nǐ chīfàn.",
+                "eg_vietnamese": "Mời bạn ăn cơm."
+            }
         ]
     },
     "请假": {
@@ -3000,6 +5174,14 @@
         ],
         "english": [
             "ask for leave"
+        ],
+        "eg": [
+            {
+                "meaning": "xin nghỉ phép",
+                "eg_chinese": "他要请假三天。",
+                "eg_pinyin": "Tā yào qǐngjià sān tiān.",
+                "eg_vietnamese": "Anh ấy muốn xin nghỉ phép ba ngày."
+            }
         ]
     },
     "请进": {
@@ -3010,6 +5192,14 @@
         ],
         "english": [
             "please come in"
+        ],
+        "eg": [
+            {
+                "meaning": "mời vào",
+                "eg_chinese": "请进，如果你没事的话。",
+                "eg_pinyin": "qǐng jìn, rúguǒ nǐ méi shì de huà.",
+                "eg_vietnamese": "Mời vào, nếu bạn không bận."
+            }
         ]
     },
     "请问": {
@@ -3020,6 +5210,14 @@
         ],
         "english": [
             "excuse me, please"
+        ],
+        "eg": [
+            {
+                "meaning": "xin hỏi",
+                "eg_chinese": "请问，厕所在哪里？",
+                "eg_pinyin": "qǐngwèn, cèsuǒ zài nǎlǐ?",
+                "eg_vietnamese": "Xin hỏi, nhà vệ sinh ở đâu?"
+            }
         ]
     },
     "请坐": {
@@ -3030,6 +5228,14 @@
         ],
         "english": [
             "please have a seat"
+        ],
+        "eg": [
+            {
+                "meaning": "mời ngồi",
+                "eg_chinese": "请坐，这里很舒服。",
+                "eg_pinyin": "qǐng zuò, zhèlǐ hěn shūfú.",
+                "eg_vietnamese": "Mời ngồi, chỗ này rất thoải mái."
+            }
         ]
     },
     "球": {
@@ -3040,6 +5246,14 @@
         ],
         "english": [
             "ball"
+        ],
+        "eg": [
+            {
+                "meaning": "quả bóng",
+                "eg_chinese": "我在公园踢球。",
+                "eg_pinyin": "wǒ zài gōngyuán tī qiú.",
+                "eg_vietnamese": "Tôi đang đá bóng ở công viên."
+            }
         ]
     },
     "去": {
@@ -3050,6 +5264,14 @@
         ],
         "english": [
             "go"
+        ],
+        "eg": [
+            {
+                "meaning": "đi",
+                "eg_chinese": "我去商店买东西。",
+                "eg_pinyin": "wǒ qù shāngdiàn mǎi dōngxī.",
+                "eg_vietnamese": "Tôi đi cửa hàng mua đồ."
+            }
         ]
     },
     "去年": {
@@ -3060,6 +5282,20 @@
         ],
         "english": [
             "last year"
+        ],
+        "eg": [
+            {
+                "meaning": "năm ngoái",
+                "eg_chinese": "去年我去了北京。",
+                "eg_pinyin": "qùnián wǒ qùle běijīng.",
+                "eg_vietnamese": "Năm ngoái tôi đã đến Bắc Kinh."
+            },
+            {
+                "meaning": "năm",
+                "eg_chinese": "今年和去年都很热。",
+                "eg_pinyin": "jīnnián hé qùnián dōu hěn rè.",
+                "eg_vietnamese": "Năm nay và năm ngoái đều rất nóng."
+            }
         ]
     },
     "热": {
@@ -3070,6 +5306,14 @@
         ],
         "english": [
             "(adj) hot; (v) heat"
+        ],
+        "eg": [
+            {
+                "meaning": "nóng",
+                "eg_chinese": "今天外面很热。",
+                "eg_pinyin": "jīntiān wàimiàn hěn rè.",
+                "eg_vietnamese": "Hôm nay bên ngoài rất nóng."
+            }
         ]
     },
     "人": {
@@ -3080,6 +5324,14 @@
         ],
         "english": [
             "person"
+        ],
+        "eg": [
+            {
+                "meaning": "người",
+                "eg_chinese": "这里有很多人。",
+                "eg_pinyin": "zhèlǐ yǒu hěn duō rén.",
+                "eg_vietnamese": "Ở đây có nhiều người."
+            }
         ]
     },
     "认识": {
@@ -3090,6 +5342,20 @@
         ],
         "english": [
             "(v) recognize, know; (n) understanding, knowledge"
+        ],
+        "eg": [
+            {
+                "meaning": "biết",
+                "eg_chinese": "我认识她的朋友。",
+                "eg_pinyin": "wǒ rènshi tā de péngyǒu.",
+                "eg_vietnamese": "Tôi biết bạn của cô ấy."
+            },
+            {
+                "meaning": "quen",
+                "eg_chinese": "我们已经认识很久了。",
+                "eg_pinyin": "wǒmen yǐjīng rènshi hěn jiǔ le.",
+                "eg_vietnamese": "Chúng ta đã quen nhau lâu rồi."
+            }
         ]
     },
     "认真": {
@@ -3100,6 +5366,20 @@
         ],
         "english": [
             "conscientious, careful"
+        ],
+        "eg": [
+            {
+                "meaning": "nghiêm túc",
+                "eg_chinese": "他工作很认真。",
+                "eg_pinyin": "tā gōngzuò hěn rènzhēn.",
+                "eg_vietnamese": "Anh ấy làm việc rất nghiêm túc."
+            },
+            {
+                "meaning": "chăm",
+                "eg_chinese": "她学习很认真。",
+                "eg_pinyin": "tā xuéxí hěn rènzhēn.",
+                "eg_vietnamese": "Cô ấy học rất chăm."
+            }
         ]
     },
     "日": {
@@ -3110,6 +5390,14 @@
         ],
         "english": [
             "day"
+        ],
+        "eg": [
+            {
+                "meaning": "ngày",
+                "eg_chinese": "今天是星期五。",
+                "eg_pinyin": "jīntiān shì xīngqī wǔ.",
+                "eg_vietnamese": "Hôm nay là thứ sáu."
+            }
         ]
     },
     "日期": {
@@ -3120,6 +5408,14 @@
         ],
         "english": [
             "date"
+        ],
+        "eg": [
+            {
+                "meaning": "ngày (xác định)",
+                "eg_chinese": "请告诉我会议的日期。",
+                "eg_pinyin": "qǐng gàosu wǒ huìyì de rìqī.",
+                "eg_vietnamese": "Xin cho tôi biết ngày của cuộc họp."
+            }
         ]
     },
     "肉": {
@@ -3130,6 +5426,14 @@
         ],
         "english": [
             "meat"
+        ],
+        "eg": [
+            {
+                "meaning": "thịt",
+                "eg_chinese": "我喜欢吃猪肉。",
+                "eg_pinyin": "wǒ xǐhuān chī zhūròu.",
+                "eg_vietnamese": "Tôi thích ăn thịt heo."
+            }
         ]
     },
     "三": {
@@ -3140,6 +5444,14 @@
         ],
         "english": [
             "three"
+        ],
+        "eg": [
+            {
+                "meaning": "số 3",
+                "eg_chinese": "我有三个苹果。",
+                "eg_pinyin": "wǒ yǒu sān gè píngguǒ.",
+                "eg_vietnamese": "Tôi có ba quả táo."
+            }
         ]
     },
     "山": {
@@ -3150,6 +5462,14 @@
         ],
         "english": [
             "mountain"
+        ],
+        "eg": [
+            {
+                "meaning": "núi",
+                "eg_chinese": "那座山很高。",
+                "eg_pinyin": "nà zuò shān hěn gāo.",
+                "eg_vietnamese": "Ngọn núi đó rất cao."
+            }
         ]
     },
     "商场": {
@@ -3160,6 +5480,14 @@
         ],
         "english": [
             "mall; shopping mall"
+        ],
+        "eg": [
+            {
+                "meaning": "trung tâm thương mại",
+                "eg_chinese": "我去商场买东西。",
+                "eg_pinyin": "wǒ qù shāngchǎng mǎi dōngxī.",
+                "eg_vietnamese": "Tôi đi tới trung tâm thương mại để mua sắm."
+            }
         ]
     },
     "商店": {
@@ -3170,6 +5498,20 @@
         ],
         "english": [
             "Shop, store"
+        ],
+        "eg": [
+            {
+                "meaning": "tiệm tạp hóa",
+                "eg_chinese": "商店里有很多食物。",
+                "eg_pinyin": "shāngdiàn lǐ yǒu hěn duō shíwù.",
+                "eg_vietnamese": "Trong tiệm tạp hóa có nhiều thực phẩm."
+            },
+            {
+                "meaning": "cửa hàng",
+                "eg_chinese": "这家商店很便宜。",
+                "eg_pinyin": "zhè jiā shāngdiàn hěn piányí.",
+                "eg_vietnamese": "Cửa hàng này rất rẻ."
+            }
         ]
     },
     "上": {
@@ -3180,6 +5522,14 @@
         ],
         "english": [
             "(n) up, on; previous; (v) get on; go; begin a certain activity"
+        ],
+        "eg": [
+            {
+                "meaning": "trên",
+                "eg_chinese": "书在桌子上。",
+                "eg_pinyin": "shū zài zhuōzi shàng.",
+                "eg_vietnamese": "Sách ở trên bàn."
+            }
         ]
     },
     "上班": {
@@ -3190,6 +5540,14 @@
         ],
         "english": [
             "go to work"
+        ],
+        "eg": [
+            {
+                "meaning": "đi làm",
+                "eg_chinese": "我八点上班。",
+                "eg_pinyin": "wǒ bā diǎn shàngbān.",
+                "eg_vietnamese": "Tôi đi làm lúc tám giờ."
+            }
         ]
     },
     "上边": {
@@ -3200,6 +5558,14 @@
         ],
         "english": [
             "above; on"
+        ],
+        "eg": [
+            {
+                "meaning": "bên trên",
+                "eg_chinese": "箱子上边有一个标记。",
+                "eg_pinyin": "xiāngzi shàngbian yǒu yīgè biāojì.",
+                "eg_vietnamese": "Phía trên hộp có một dấu hiệu."
+            }
         ]
     },
     "上车": {
@@ -3210,6 +5576,14 @@
         ],
         "english": [
             "get on"
+        ],
+        "eg": [
+            {
+                "meaning": "lên xe",
+                "eg_chinese": "请上车。",
+                "eg_pinyin": "Qǐng shàng chē.",
+                "eg_vietnamese": "Xin mời lên xe."
+            }
         ]
     },
     "上次": {
@@ -3220,6 +5594,14 @@
         ],
         "english": [
             "last time"
+        ],
+        "eg": [
+            {
+                "meaning": "lần trước",
+                "eg_chinese": "上次我去了北京。",
+                "eg_pinyin": "Shàng cì wǒ qùle Běijīng.",
+                "eg_vietnamese": "Lần trước tôi đã đến Bắc Kinh."
+            }
         ]
     },
     "上课": {
@@ -3230,6 +5612,20 @@
         ],
         "english": [
             "attend class; have a class"
+        ],
+        "eg": [
+            {
+                "meaning": "vào lớp",
+                "eg_chinese": "我们快上课了。",
+                "eg_pinyin": "Wǒmen kuài shàng kèle.",
+                "eg_vietnamese": "Chúng ta sắp vào lớp rồi."
+            },
+            {
+                "meaning": "đi học",
+                "eg_chinese": "我每天都上课。",
+                "eg_pinyin": "Wǒ měitiān dū shàng kè.",
+                "eg_vietnamese": "Tôi đi học mỗi ngày."
+            }
         ]
     },
     "上网": {
@@ -3240,6 +5636,14 @@
         ],
         "english": [
             "surf the Internet"
+        ],
+        "eg": [
+            {
+                "meaning": "lên mạng",
+                "eg_chinese": "我喜欢上网看视频。",
+                "eg_pinyin": "Wǒ xǐhuān shàngwǎng kàn shìpín.",
+                "eg_vietnamese": "Tôi thích lên mạng xem video."
+            }
         ]
     },
     "上午": {
@@ -3250,6 +5654,14 @@
         ],
         "english": [
             "morning"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi sáng",
+                "eg_chinese": "我上午有一个会议。",
+                "eg_pinyin": "Wǒ shàngwǔ yǒu yīgè huìyì.",
+                "eg_vietnamese": "Tôi có một cuộc họp vào buổi sáng."
+            }
         ]
     },
     "上学": {
@@ -3260,6 +5672,14 @@
         ],
         "english": [
             "go to school"
+        ],
+        "eg": [
+            {
+                "meaning": "(đang) đi học",
+                "eg_chinese": "他现在上学。",
+                "eg_pinyin": "Tā xiànzài shàngxué.",
+                "eg_vietnamese": "Anh ấy đang đi học."
+            }
         ]
     },
     "少": {
@@ -3270,6 +5690,20 @@
         ],
         "english": [
             "(adj) few, little: (v) lose, be missing"
+        ],
+        "eg": [
+            {
+                "meaning": "ít",
+                "eg_chinese": "我有少量钱。",
+                "eg_pinyin": "Wǒ yǒu shǎoliàng qián.",
+                "eg_vietnamese": "Tôi có ít tiền."
+            },
+            {
+                "meaning": "thiếu",
+                "eg_chinese": "他缺少经验。",
+                "eg_pinyin": "Tā quēshǎo jīngyàn.",
+                "eg_vietnamese": "Anh ấy thiếu kinh nghiệm."
+            }
         ]
     },
     "谁": {
@@ -3280,6 +5714,14 @@
         ],
         "english": [
             "who"
+        ],
+        "eg": [
+            {
+                "meaning": "ai",
+                "eg_chinese": "谁在门口？",
+                "eg_pinyin": "Shéi zài ménkǒu?",
+                "eg_vietnamese": "Ai ở cửa vậy?"
+            }
         ]
     },
     "身上": {
@@ -3290,6 +5732,14 @@
         ],
         "english": [
             "on one’s body, (carry something) with one"
+        ],
+        "eg": [
+            {
+                "meaning": "trên người",
+                "eg_chinese": "我身上有很多书。",
+                "eg_pinyin": "Wǒ shēnshang yǒu hěn duō shū.",
+                "eg_vietnamese": "Trên người tôi có rất nhiều sách."
+            }
         ]
     },
     "身体": {
@@ -3300,6 +5750,20 @@
         ],
         "english": [
             "body"
+        ],
+        "eg": [
+            {
+                "meaning": "cơ thể",
+                "eg_chinese": "我的身体很健康。",
+                "eg_pinyin": "Wǒ de shēntǐ hěn jiànkāng.",
+                "eg_vietnamese": "Cơ thể tôi rất khỏe mạnh."
+            },
+            {
+                "meaning": "sức khỏe",
+                "eg_chinese": "保持身体健康很重要。",
+                "eg_pinyin": "Bǎochí shēntǐ jiànkāng hěn zhòngyào.",
+                "eg_vietnamese": "Giữ sức khỏe là rất quan trọng."
+            }
         ]
     },
     "什么": {
@@ -3310,6 +5774,14 @@
         ],
         "english": [
             "What"
+        ],
+        "eg": [
+            {
+                "meaning": "cái gì",
+                "eg_chinese": "你在找什么？",
+                "eg_pinyin": "Nǐ zài zhǎo shén me?",
+                "eg_vietnamese": "Bạn đang tìm cái gì?"
+            }
         ]
     },
     "生病": {
@@ -3320,6 +5792,20 @@
         ],
         "english": [
             "sick"
+        ],
+        "eg": [
+            {
+                "meaning": "đổ bệnh",
+                "eg_chinese": "他昨天生病了。",
+                "eg_pinyin": "Tā zuótiān shēngbìngle.",
+                "eg_vietnamese": "Anh ấy đã đổ bệnh hôm qua."
+            },
+            {
+                "meaning": "bị ốm",
+                "eg_chinese": "她总是被人担心生病。",
+                "eg_pinyin": "Tā zǒng shì bèi rén dān xīn shēngbìng.",
+                "eg_vietnamese": "Cô ấy luôn khiến mọi người lo lắng vì bị ốm."
+            }
         ]
     },
     "生气": {
@@ -3330,6 +5816,14 @@
         ],
         "english": [
             "get angry"
+        ],
+        "eg": [
+            {
+                "meaning": "tức giận",
+                "eg_chinese": "他生气了。",
+                "eg_pinyin": "Tā shēngqìle.",
+                "eg_vietnamese": "Anh ấy đã tức giận."
+            }
         ]
     },
     "生日": {
@@ -3340,6 +5834,14 @@
         ],
         "english": [
             "Birthday"
+        ],
+        "eg": [
+            {
+                "meaning": "ngày sinh nhật",
+                "eg_chinese": "今天是我的生日。",
+                "eg_pinyin": "Jīntiān shì wǒ de shēngrì.",
+                "eg_vietnamese": "Hôm nay là ngày sinh nhật của tôi."
+            }
         ]
     },
     "十": {
@@ -3350,6 +5852,14 @@
         ],
         "english": [
             "ten"
+        ],
+        "eg": [
+            {
+                "meaning": "số 10",
+                "eg_chinese": "她有十本书。",
+                "eg_pinyin": "Tā yǒu shí běn shū.",
+                "eg_vietnamese": "Cô ấy có mười cuốn sách."
+            }
         ]
     },
     "时候": {
@@ -3360,6 +5870,20 @@
         ],
         "english": [
             "(a point in) time, moment"
+        ],
+        "eg": [
+            {
+                "meaning": "thời gian",
+                "eg_chinese": "请告诉我什么时候。",
+                "eg_pinyin": "Qǐng gàosù wǒ shénme shíhòu.",
+                "eg_vietnamese": "Xin hãy cho tôi biết thời gian nào."
+            },
+            {
+                "meaning": "lúc",
+                "eg_chinese": "那个时候我很忙。",
+                "eg_pinyin": "Nàgè shíhòu wǒ hěn máng.",
+                "eg_vietnamese": "Lúc đó tôi rất bận."
+            }
         ]
     },
     "时间": {
@@ -3370,6 +5894,14 @@
         ],
         "english": [
             "time"
+        ],
+        "eg": [
+            {
+                "meaning": "thời gian",
+                "eg_chinese": "时间过得真快。",
+                "eg_pinyin": "Shíjiān guò de zhēn kuài.",
+                "eg_vietnamese": "Thời gian trôi qua thật nhanh."
+            }
         ]
     },
     "事": {
@@ -3380,6 +5912,20 @@
         ],
         "english": [
             "thing"
+        ],
+        "eg": [
+            {
+                "meaning": "chuyện",
+                "eg_chinese": "我们有很多事要谈。",
+                "eg_pinyin": "Wǒmen yǒu hěn duō shì yào tán.",
+                "eg_vietnamese": "Chúng ta có nhiều chuyện để nói."
+            },
+            {
+                "meaning": "việc",
+                "eg_chinese": "他在忙他的事。",
+                "eg_pinyin": "Tā zài máng tā de shì.",
+                "eg_vietnamese": "Anh ấy đang bận việc của mình."
+            }
         ]
     },
     "试": {
@@ -3390,6 +5936,14 @@
         ],
         "english": [
             "try"
+        ],
+        "eg": [
+            {
+                "meaning": "thử",
+                "eg_chinese": "我想试一下这个。",
+                "eg_pinyin": "Wǒ xiǎng shì yīxià zhège.",
+                "eg_vietnamese": "Tôi muốn thử một chút cái này."
+            }
         ]
     },
     "是": {
@@ -3400,6 +5954,20 @@
         ],
         "english": [
             "be"
+        ],
+        "eg": [
+            {
+                "meaning": "thì",
+                "eg_chinese": "这就是我想要的。",
+                "eg_pinyin": "Zhè jiùshì wǒ xiǎng yào de.",
+                "eg_vietnamese": "Đây chính là điều tôi muốn."
+            },
+            {
+                "meaning": "là",
+                "eg_chinese": "他是一个好老师。",
+                "eg_pinyin": "Tā shì yīgè hǎo lǎoshī.",
+                "eg_vietnamese": "Ông ấy là một giáo viên tốt."
+            }
         ]
     },
     "是不是": {
@@ -3410,6 +5978,14 @@
         ],
         "english": [
             "whether or not"
+        ],
+        "eg": [
+            {
+                "meaning": "có phải hay không",
+                "eg_chinese": "你是不是喜欢这个？",
+                "eg_pinyin": "nǐ shì bùshì xǐ huān zhè ge?",
+                "eg_vietnamese": "Bạn có phải thích cái này không?"
+            }
         ]
     },
     "手": {
@@ -3420,6 +5996,14 @@
         ],
         "english": [
             "hand"
+        ],
+        "eg": [
+            {
+                "meaning": "tay",
+                "eg_chinese": "我的手很冷。",
+                "eg_pinyin": "wǒ de shǒu hěn lěng.",
+                "eg_vietnamese": "Tay tôi rất lạnh."
+            }
         ]
     },
     "手机": {
@@ -3430,6 +6014,14 @@
         ],
         "english": [
             "Mobile phone"
+        ],
+        "eg": [
+            {
+                "meaning": "điện thoại di động",
+                "eg_chinese": "我需要一个新手机。",
+                "eg_pinyin": "wǒ xū yào yī gè xīn shǒu jī.",
+                "eg_vietnamese": "Tôi cần một chiếc điện thoại di động mới."
+            }
         ]
     },
     "书": {
@@ -3440,6 +6032,14 @@
         ],
         "english": [
             "book"
+        ],
+        "eg": [
+            {
+                "meaning": "sách",
+                "eg_chinese": "这本书很好。",
+                "eg_pinyin": "zhè běn shū hěn hǎo.",
+                "eg_vietnamese": "Cuốn sách này rất hay."
+            }
         ]
     },
     "书包": {
@@ -3450,6 +6050,14 @@
         ],
         "english": [
             "school bag"
+        ],
+        "eg": [
+            {
+                "meaning": "cặp sách",
+                "eg_chinese": "我的书包很重。",
+                "eg_pinyin": "wǒ de shū bāo hěn zhòng.",
+                "eg_vietnamese": "Cặp sách của tôi rất nặng."
+            }
         ]
     },
     "书店": {
@@ -3460,6 +6068,20 @@
         ],
         "english": [
             "bookstore"
+        ],
+        "eg": [
+            {
+                "meaning": "cửa hàng sách",
+                "eg_chinese": "我们去书店吧。",
+                "eg_pinyin": "wǒ men qù shū diàn ba.",
+                "eg_vietnamese": "Chúng ta đi đến cửa hàng sách nhé."
+            },
+            {
+                "meaning": "tiệm",
+                "eg_chinese": "那家书店很有名。",
+                "eg_pinyin": "nà jiā shū diàn hěn yǒu míng.",
+                "eg_vietnamese": "Tiệm sách đó rất nổi tiếng."
+            }
         ]
     },
     "树": {
@@ -3470,6 +6092,14 @@
         ],
         "english": [
             "tree"
+        ],
+        "eg": [
+            {
+                "meaning": "cây",
+                "eg_chinese": "这棵树很高。",
+                "eg_pinyin": "zhè kē shù hěn gāo.",
+                "eg_vietnamese": "Cây này rất cao."
+            }
         ]
     },
     "水": {
@@ -3480,6 +6110,14 @@
         ],
         "english": [
             "water"
+        ],
+        "eg": [
+            {
+                "meaning": "nước",
+                "eg_chinese": "请给我一杯水。",
+                "eg_pinyin": "qǐng gěi wǒ yī bēi shuǐ.",
+                "eg_vietnamese": "Xin hãy cho tôi một cốc nước."
+            }
         ]
     },
     "水果": {
@@ -3490,6 +6128,14 @@
         ],
         "english": [
             "Fruits"
+        ],
+        "eg": [
+            {
+                "meaning": "hoa quả",
+                "eg_chinese": "我喜欢吃水果。",
+                "eg_pinyin": "wǒ xǐ huān chī shuǐ guǒ.",
+                "eg_vietnamese": "Tôi thích ăn hoa quả."
+            }
         ]
     },
     "睡": {
@@ -3500,6 +6146,14 @@
         ],
         "english": [
             "sleep"
+        ],
+        "eg": [
+            {
+                "meaning": "ngủ",
+                "eg_chinese": "我想睡觉。",
+                "eg_pinyin": "wǒ xiǎng shuì jiào.",
+                "eg_vietnamese": "Tôi muốn ngủ."
+            }
         ]
     },
     "睡觉": {
@@ -3510,6 +6164,14 @@
         ],
         "english": [
             "go to bed"
+        ],
+        "eg": [
+            {
+                "meaning": "ngủ",
+                "eg_chinese": "我想去睡觉。",
+                "eg_pinyin": "Wǒ xiǎng qù shuìjiào.",
+                "eg_vietnamese": "Tôi muốn đi ngủ."
+            }
         ]
     },
     "说": {
@@ -3520,6 +6182,14 @@
         ],
         "english": [
             "speak"
+        ],
+        "eg": [
+            {
+                "meaning": "nói",
+                "eg_chinese": "他说他很忙。",
+                "eg_pinyin": "Tā shuō tā hěn máng.",
+                "eg_vietnamese": "Anh ấy nói anh ấy rất bận."
+            }
         ]
     },
     "说话": {
@@ -3530,6 +6200,20 @@
         ],
         "english": [
             "talk"
+        ],
+        "eg": [
+            {
+                "meaning": "nói",
+                "eg_chinese": "她说话很清楚。",
+                "eg_pinyin": "Tā shuōhuà hěn qīngchǔ.",
+                "eg_vietnamese": "Cô ấy nói rất rõ ràng."
+            },
+            {
+                "meaning": "trò chuyện",
+                "eg_chinese": "我们可以说话吗？",
+                "eg_pinyin": "Wǒmen kěyǐ shuōhuà ma?",
+                "eg_vietnamese": "Chúng ta có thể trò chuyện không?"
+            }
         ]
     },
     "四": {
@@ -3540,6 +6224,14 @@
         ],
         "english": [
             "Four"
+        ],
+        "eg": [
+            {
+                "meaning": "số 4",
+                "eg_chinese": "我的桌子有四个腿。",
+                "eg_pinyin": "Wǒ de zhuōzi yǒu sì gè tuǐ.",
+                "eg_vietnamese": "Bàn của tôi có bốn chân."
+            }
         ]
     },
     "送": {
@@ -3550,6 +6242,20 @@
         ],
         "english": [
             "give"
+        ],
+        "eg": [
+            {
+                "meaning": "tặng",
+                "eg_chinese": "我送他一本书。",
+                "eg_pinyin": "Wǒ sòng tā yī běn shū.",
+                "eg_vietnamese": "Tôi tặng anh ấy một quyển sách."
+            },
+            {
+                "meaning": "đưa cho",
+                "eg_chinese": "请把这个送给她。",
+                "eg_pinyin": "Qǐng bǎ zhège sòng gěi tā.",
+                "eg_vietnamese": "Xin hãy đưa cái này cho cô ấy."
+            }
         ]
     },
     "岁": {
@@ -3560,6 +6266,14 @@
         ],
         "english": [
             "year, age"
+        ],
+        "eg": [
+            {
+                "meaning": "tuổi",
+                "eg_chinese": "他今年五岁。",
+                "eg_pinyin": "Tā jīnnián wǔ suì.",
+                "eg_vietnamese": "Anh ấy năm nay năm tuổi."
+            }
         ]
     },
     "他": {
@@ -3570,6 +6284,20 @@
         ],
         "english": [
             "he, him"
+        ],
+        "eg": [
+            {
+                "meaning": "anh ấy",
+                "eg_chinese": "他在公园里。",
+                "eg_pinyin": "Tā zài gōngyuán lǐ.",
+                "eg_vietnamese": "Anh ấy ở trong công viên."
+            },
+            {
+                "meaning": "ông ấy (ngôi 3nam)",
+                "eg_chinese": "他是我的老师。",
+                "eg_pinyin": "Tā shì wǒ de lǎoshī.",
+                "eg_vietnamese": "Ông ấy là thầy giáo của tôi."
+            }
         ]
     },
     "他们": {
@@ -3580,6 +6308,20 @@
         ],
         "english": [
             "they, them"
+        ],
+        "eg": [
+            {
+                "meaning": "các anh ấy",
+                "eg_chinese": "他们正在打篮球。",
+                "eg_pinyin": "Tāmen zhèngzài dǎ lánqiú.",
+                "eg_vietnamese": "Các anh ấy đang chơi bóng rổ."
+            },
+            {
+                "meaning": "bọn họ (nam)",
+                "eg_chinese": "他们去旅行了。",
+                "eg_pinyin": "Tāmen qù lǚxíng le.",
+                "eg_vietnamese": "Bọn họ đã đi du lịch."
+            }
         ]
     },
     "她": {
@@ -3590,6 +6332,20 @@
         ],
         "english": [
             "she, her"
+        ],
+        "eg": [
+            {
+                "meaning": "cô ấy",
+                "eg_chinese": "她很喜欢唱歌。",
+                "eg_pinyin": "Tā hěn xǐhuān chànggē.",
+                "eg_vietnamese": "Cô ấy rất thích hát."
+            },
+            {
+                "meaning": "bà ấy (ngôi 3)",
+                "eg_chinese": "她是我的邻居。",
+                "eg_pinyin": "Tā shì wǒ de línjū.",
+                "eg_vietnamese": "Bà ấy là hàng xóm của tôi."
+            }
         ]
     },
     "她们": {
@@ -3600,6 +6356,14 @@
         ],
         "english": [
             "they, them"
+        ],
+        "eg": [
+            {
+                "meaning": "các cô ấy",
+                "eg_chinese": "她们在一起学习。",
+                "eg_pinyin": "Tāmen zài yīqǐ xuéxí.",
+                "eg_vietnamese": "Các cô ấy cùng nhau học."
+            }
         ]
     },
     "太": {
@@ -3610,6 +6374,14 @@
         ],
         "english": [
             "too"
+        ],
+        "eg": [
+            {
+                "meaning": "quá",
+                "eg_chinese": "这本书太有趣了。",
+                "eg_pinyin": "Zhè běn shū tài yǒuqùle.",
+                "eg_vietnamese": "Cuốn sách này quá thú vị."
+            }
         ]
     },
     "天": {
@@ -3620,6 +6392,14 @@
         ],
         "english": [
             "(n) day; sky; weather; (m) used to caculate days"
+        ],
+        "eg": [
+            {
+                "meaning": "trời",
+                "eg_chinese": "今天的天很蓝。",
+                "eg_pinyin": "Jīntiān de tiān hěn lán.",
+                "eg_vietnamese": "Trời hôm nay rất xanh."
+            }
         ]
     },
     "天气": {
@@ -3630,6 +6410,14 @@
         ],
         "english": [
             "weather"
+        ],
+        "eg": [
+            {
+                "meaning": "thời tiết",
+                "eg_chinese": "今天天气很好。",
+                "eg_pinyin": "Jīntiān tiānqì hěn hǎo.",
+                "eg_vietnamese": "Thời tiết hôm nay rất đẹp."
+            }
         ]
     },
     "听": {
@@ -3640,6 +6428,14 @@
         ],
         "english": [
             "listen; obey"
+        ],
+        "eg": [
+            {
+                "meaning": "nghe",
+                "eg_chinese": "我喜欢听音乐。",
+                "eg_pinyin": "Wǒ xǐhuān tīng yīnyuè.",
+                "eg_vietnamese": "Tôi thích nghe nhạc."
+            }
         ]
     },
     "听到": {
@@ -3650,6 +6446,14 @@
         ],
         "english": [
             "hear"
+        ],
+        "eg": [
+            {
+                "meaning": "nghe thấy",
+                "eg_chinese": "我听到有人在唱歌。",
+                "eg_pinyin": "Wǒ tīng dào yǒurén zài chàng gē.",
+                "eg_vietnamese": "Tôi nghe thấy ai đó đang hát."
+            }
         ]
     },
     "听见": {
@@ -3660,6 +6464,14 @@
         ],
         "english": [
             "hear"
+        ],
+        "eg": [
+            {
+                "meaning": "nghe thấy",
+                "eg_chinese": "我听见门响了。",
+                "eg_pinyin": "Wǒ tīngjiàn mén xiǎngle.",
+                "eg_vietnamese": "Tôi nghe thấy tiếng cửa kêu."
+            }
         ]
     },
     "听写": {
@@ -3670,6 +6482,14 @@
         ],
         "english": [
             "dictation; dictate"
+        ],
+        "eg": [
+            {
+                "meaning": "nghe viết",
+                "eg_chinese": "老师让我们听写生词。",
+                "eg_pinyin": "Lǎoshī ràng wǒmen tīngxiě shēngcí.",
+                "eg_vietnamese": "Giáo viên yêu cầu chúng tôi nghe viết từ mới."
+            }
         ]
     },
     "同学": {
@@ -3680,6 +6500,14 @@
         ],
         "english": [
             "Classmate"
+        ],
+        "eg": [
+            {
+                "meaning": "bạn học",
+                "eg_chinese": "我的同学很聪明。",
+                "eg_pinyin": "Wǒ de tóngxué hěn cōngmíng.",
+                "eg_vietnamese": "Bạn học của tôi rất thông minh."
+            }
         ]
     },
     "图书馆": {
@@ -3690,6 +6518,14 @@
         ],
         "english": [
             "Library"
+        ],
+        "eg": [
+            {
+                "meaning": "thư viện",
+                "eg_chinese": "我常去图书馆学习。",
+                "eg_pinyin": "Wǒ cháng qù túshū guǎn xuéxí.",
+                "eg_vietnamese": "Tôi thường đến thư viện học."
+            }
         ]
     },
     "外": {
@@ -3700,6 +6536,14 @@
         ],
         "english": [
             "out, outside"
+        ],
+        "eg": [
+            {
+                "meaning": "ngoài",
+                "eg_chinese": "我喜欢在外面散步。",
+                "eg_pinyin": "Wǒ xǐhuān zài wàimiàn sànbù.",
+                "eg_vietnamese": "Tôi thích đi dạo ngoài trời."
+            }
         ]
     },
     "外边": {
@@ -3710,6 +6554,14 @@
         ],
         "english": [
             "out, outside"
+        ],
+        "eg": [
+            {
+                "meaning": "bên ngoài",
+                "eg_chinese": "外边在下雨。",
+                "eg_pinyin": "Wàibiān zài xià yǔ.",
+                "eg_vietnamese": "Bên ngoài đang mưa."
+            }
         ]
     },
     "外国": {
@@ -3720,6 +6572,14 @@
         ],
         "english": [
             "foreign country"
+        ],
+        "eg": [
+            {
+                "meaning": "nước ngoài",
+                "eg_chinese": "我想去外国旅游。",
+                "eg_pinyin": "Wǒ xiǎng qù wàiguó lǚyóu.",
+                "eg_vietnamese": "Tôi muốn đi du lịch nước ngoài."
+            }
         ]
     },
     "外语": {
@@ -3730,6 +6590,20 @@
         ],
         "english": [
             "foreign language"
+        ],
+        "eg": [
+            {
+                "meaning": "tiếng nước ngoài",
+                "eg_chinese": "他学了三种外语。",
+                "eg_pinyin": "Tā xuéle sān zhǒng wàiyǔ.",
+                "eg_vietnamese": "Anh ấy học ba thứ tiếng nước ngoài."
+            },
+            {
+                "meaning": "ngoại ngữ",
+                "eg_chinese": "她喜欢外语课程。",
+                "eg_pinyin": "Tā xǐhuān wàiyǔ kèchéng.",
+                "eg_vietnamese": "Cô ấy thích các khóa học ngoại ngữ."
+            }
         ]
     },
     "玩儿": {
@@ -3740,6 +6614,14 @@
         ],
         "english": [
             "play"
+        ],
+        "eg": [
+            {
+                "meaning": "chơi",
+                "eg_chinese": "孩子们在公园玩儿。",
+                "eg_pinyin": "Háizimen zài gōngyuán wánr.",
+                "eg_vietnamese": "Bọn trẻ đang chơi ở công viên."
+            }
         ]
     },
     "晚": {
@@ -3750,6 +6632,20 @@
         ],
         "english": [
             "(adj) late; (n) evening, night"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi tối",
+                "eg_chinese": "今晚我们去看电影。",
+                "eg_pinyin": "Jīnwǎn wǒmen qù kàn diànyǐng.",
+                "eg_vietnamese": "Tối nay chúng ta đi xem phim."
+            },
+            {
+                "meaning": "muộn",
+                "eg_chinese": "他来得很晚。",
+                "eg_pinyin": "Tā lái de hěn wǎn.",
+                "eg_vietnamese": "Anh ấy đến rất muộn."
+            }
         ]
     },
     "晚饭": {
@@ -3760,6 +6656,20 @@
         ],
         "english": [
             "dinner, supper"
+        ],
+        "eg": [
+            {
+                "meaning": "cơm tối",
+                "eg_chinese": "我吃了晚饭。",
+                "eg_pinyin": "Wǒ chīle wǎnfàn.",
+                "eg_vietnamese": "Tôi đã ăn cơm tối."
+            },
+            {
+                "meaning": "bữa tối",
+                "eg_chinese": "晚饭准备好了。",
+                "eg_pinyin": "Wǎnfàn zhǔnbèi hǎole.",
+                "eg_vietnamese": "Bữa tối đã chuẩn bị xong."
+            }
         ]
     },
     "晚上": {
@@ -3770,6 +6680,14 @@
         ],
         "english": [
             "evening"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi tối",
+                "eg_chinese": "晚上很安静。",
+                "eg_pinyin": "Wǎnshàng hěn ānjìng.",
+                "eg_vietnamese": "Buổi tối rất yên tĩnh."
+            }
         ]
     },
     "网上": {
@@ -3780,6 +6698,14 @@
         ],
         "english": [
             "online"
+        ],
+        "eg": [
+            {
+                "meaning": "trên mạng",
+                "eg_chinese": "我在网上找资料。",
+                "eg_pinyin": "Wǒ zài wǎngshàng zhǎo zīliào.",
+                "eg_vietnamese": "Tôi đang tìm tài liệu trên mạng."
+            }
         ]
     },
     "网友": {
@@ -3790,6 +6716,14 @@
         ],
         "english": [
             "net friend"
+        ],
+        "eg": [
+            {
+                "meaning": "bạn trên mạng",
+                "eg_chinese": "我和网友聊得很开心。",
+                "eg_pinyin": "Wǒ hé wǎngyǒu liáo de hěn kāixīn.",
+                "eg_vietnamese": "Tôi nói chuyện với bạn trên mạng rất vui."
+            }
         ]
     },
     "忘": {
@@ -3800,6 +6734,14 @@
         ],
         "english": [
             "forget"
+        ],
+        "eg": [
+            {
+                "meaning": "quên",
+                "eg_chinese": "我忘了他的名字。",
+                "eg_pinyin": "Wǒ wàngle tā de míngzì.",
+                "eg_vietnamese": "Tôi quên tên của anh ấy."
+            }
         ]
     },
     "忘记": {
@@ -3810,6 +6752,20 @@
         ],
         "english": [
             "forget"
+        ],
+        "eg": [
+            {
+                "meaning": "quên",
+                "eg_chinese": "我忘记带钥匙了。",
+                "eg_pinyin": "Wǒ wàngjì dài yàoshi le.",
+                "eg_vietnamese": "Tôi quên mang chìa khóa."
+            },
+            {
+                "meaning": "quên mất",
+                "eg_chinese": "他忘记了我们的约会。",
+                "eg_pinyin": "Tā wàngjì le wǒmen de yuēhuì.",
+                "eg_vietnamese": "Anh ấy quên mất cuộc hẹn của chúng ta."
+            }
         ]
     },
     "问": {
@@ -3820,6 +6776,14 @@
         ],
         "english": [
             "ask, inquire"
+        ],
+        "eg": [
+            {
+                "meaning": "hỏi",
+                "eg_chinese": "我想问你一个问题。",
+                "eg_pinyin": "Wǒ xiǎng wèn nǐ yīgè wèntí.",
+                "eg_vietnamese": "Tôi muốn hỏi bạn một câu hỏi."
+            }
         ]
     },
     "我": {
@@ -3830,6 +6794,26 @@
         ],
         "english": [
             "I, me"
+        ],
+        "eg": [
+            {
+                "meaning": "tôi",
+                "eg_chinese": "我是学生。",
+                "eg_pinyin": "Wǒ shì xuéshēng.",
+                "eg_vietnamese": "Tôi là học sinh."
+            },
+            {
+                "meaning": "tao",
+                "eg_chinese": "这是我，别管我。",
+                "eg_pinyin": "Zhè shì wǒ, bié guǎn wǒ.",
+                "eg_vietnamese": "Đây là tao, đừng quan tâm đến tao."
+            },
+            {
+                "meaning": "tớ (ngôi thứ nhất)",
+                "eg_chinese": "我喜欢这个地方。",
+                "eg_pinyin": "Wǒ xǐhuān zhège dìfāng.",
+                "eg_vietnamese": "Tớ thích nơi này."
+            }
         ]
     },
     "我们": {
@@ -3840,6 +6824,14 @@
         ],
         "english": [
             "We, us"
+        ],
+        "eg": [
+            {
+                "meaning": "chúng ta (nhiều người)",
+                "eg_chinese": "我们一起去旅行。",
+                "eg_pinyin": "Wǒmen yīqǐ qù lǚxíng.",
+                "eg_vietnamese": "Chúng ta cùng đi du lịch."
+            }
         ]
     },
     "五": {
@@ -3850,6 +6842,14 @@
         ],
         "english": [
             "Five"
+        ],
+        "eg": [
+            {
+                "meaning": "số 5",
+                "eg_chinese": "我有五个苹果。",
+                "eg_pinyin": "Wǒ yǒu wǔ gè píngguǒ.",
+                "eg_vietnamese": "Tôi có năm quả táo."
+            }
         ]
     },
     "午饭": {
@@ -3860,6 +6860,14 @@
         ],
         "english": [
             "lunch"
+        ],
+        "eg": [
+            {
+                "meaning": "bữa trưa",
+                "eg_chinese": "我今天吃午饭。",
+                "eg_pinyin": "Wǒ jīntiān chī wǔfàn.",
+                "eg_vietnamese": "Hôm nay tôi ăn bữa trưa."
+            }
         ]
     },
     "西": {
@@ -3870,6 +6878,14 @@
         ],
         "english": [
             "west"
+        ],
+        "eg": [
+            {
+                "meaning": "tây",
+                "eg_chinese": "太阳在西边落下。",
+                "eg_pinyin": "Tàiyáng zài xībiān luòxià.",
+                "eg_vietnamese": "Mặt trời lặn ở phía tây."
+            }
         ]
     },
     "西边": {
@@ -3880,6 +6896,14 @@
         ],
         "english": [
             "west (side)"
+        ],
+        "eg": [
+            {
+                "meaning": "phía tây",
+                "eg_chinese": "学校在西边。",
+                "eg_pinyin": "Xuéxiào zài xībiān.",
+                "eg_vietnamese": "Trường học ở phía tây."
+            }
         ]
     },
     "洗": {
@@ -3890,6 +6914,14 @@
         ],
         "english": [
             "wash"
+        ],
+        "eg": [
+            {
+                "meaning": "rửa",
+                "eg_chinese": "我洗手了。",
+                "eg_pinyin": "Wǒ xǐ shǒu le.",
+                "eg_vietnamese": "Tôi đã rửa tay."
+            }
         ]
     },
     "洗手间": {
@@ -3900,6 +6932,14 @@
         ],
         "english": [
             "restroom"
+        ],
+        "eg": [
+            {
+                "meaning": "nhà vệ sinh",
+                "eg_chinese": "洗手间在哪里？",
+                "eg_pinyin": "Xǐshǒujiān zài nǎlǐ?",
+                "eg_vietnamese": "Nhà vệ sinh ở đâu?"
+            }
         ]
     },
     "喜欢": {
@@ -3910,6 +6950,20 @@
         ],
         "english": [
             "like, be fond of"
+        ],
+        "eg": [
+            {
+                "meaning": "thích",
+                "eg_chinese": "我喜欢这本书。",
+                "eg_pinyin": "Wǒ xǐhuān zhè běn shū.",
+                "eg_vietnamese": "Tôi thích quyển sách này."
+            },
+            {
+                "meaning": "được yêu thích",
+                "eg_chinese": "这部电影很受欢迎。",
+                "eg_pinyin": "Zhè bù diànyǐng hěn shòu huānyíng.",
+                "eg_vietnamese": "Bộ phim này được yêu thích."
+            }
         ]
     },
     "下": {
@@ -3920,6 +6974,14 @@
         ],
         "english": [
             "(n) below; next; (v) finish; get off ; fall"
+        ],
+        "eg": [
+            {
+                "meaning": "xuống dưới bên dưới",
+                "eg_chinese": "请往下走。",
+                "eg_pinyin": "Qǐng wǎng xià zǒu.",
+                "eg_vietnamese": "Xin hãy đi xuống dưới."
+            }
         ]
     },
     "下班": {
@@ -3930,6 +6992,14 @@
         ],
         "english": [
             "get off work"
+        ],
+        "eg": [
+            {
+                "meaning": "tan làm",
+                "eg_chinese": "我六点下班。",
+                "eg_pinyin": "Wǒ liù diǎn xiàbān.",
+                "eg_vietnamese": "Tôi tan làm lúc sáu giờ."
+            }
         ]
     },
     "下边": {
@@ -3940,6 +7010,14 @@
         ],
         "english": [
             "below; under"
+        ],
+        "eg": [
+            {
+                "meaning": "bên dưới",
+                "eg_chinese": "书在桌子的下边。",
+                "eg_pinyin": "Shū zài zhuōzi de xiàbiān.",
+                "eg_vietnamese": "Sách ở bên dưới bàn."
+            }
         ]
     },
     "下车": {
@@ -3950,6 +7028,14 @@
         ],
         "english": [
             "get off (a bus, train, etc.)"
+        ],
+        "eg": [
+            {
+                "meaning": "xuống xe",
+                "eg_chinese": "我们在下一站下车。",
+                "eg_pinyin": "Wǒmen zài xià yī zhàn xià chē.",
+                "eg_vietnamese": "Chúng tôi xuống xe ở trạm tiếp theo."
+            }
         ]
     },
     "下次": {
@@ -3960,6 +7046,20 @@
         ],
         "english": [
             "next time"
+        ],
+        "eg": [
+            {
+                "meaning": "lần kế tiếp",
+                "eg_chinese": "下次见。",
+                "eg_pinyin": "Xià cì jiàn.",
+                "eg_vietnamese": "Hẹn gặp lần kế tiếp."
+            },
+            {
+                "meaning": "lần sau",
+                "eg_chinese": "下次我会更努力。",
+                "eg_pinyin": "Xià cì wǒ huì gèng nǔlì.",
+                "eg_vietnamese": "Lần sau tôi sẽ cố gắng hơn."
+            }
         ]
     },
     "下课": {
@@ -3970,6 +7070,14 @@
         ],
         "english": [
             "finish class"
+        ],
+        "eg": [
+            {
+                "meaning": "tan học",
+                "eg_chinese": "今天我五点下课。",
+                "eg_pinyin": "Jīntiān wǒ wǔ diǎn xiàkè.",
+                "eg_vietnamese": "Hôm nay tôi tan học lúc năm giờ."
+            }
         ]
     },
     "下午": {
@@ -3980,6 +7088,14 @@
         ],
         "english": [
             "Afternoon"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi chiều",
+                "eg_chinese": "我们下午见。",
+                "eg_pinyin": "Wǒmen xiàwǔ jiàn.",
+                "eg_vietnamese": "Chúng ta gặp nhau vào buổi chiều."
+            }
         ]
     },
     "下雨": {
@@ -3990,6 +7106,14 @@
         ],
         "english": [
             "rain"
+        ],
+        "eg": [
+            {
+                "meaning": "đổ mưa",
+                "eg_chinese": "今天会下雨。",
+                "eg_pinyin": "Jīntiān huì xià yǔ.",
+                "eg_vietnamese": "Hôm nay sẽ đổ mưa."
+            }
         ]
     },
     "先": {
@@ -4000,6 +7124,14 @@
         ],
         "english": [
             "first"
+        ],
+        "eg": [
+            {
+                "meaning": "trước",
+                "eg_chinese": "我先去商店。",
+                "eg_pinyin": "Wǒ xiān qù shāngdiàn.",
+                "eg_vietnamese": "Tôi đi ra cửa hàng trước."
+            }
         ]
     },
     "先生": {
@@ -4010,6 +7142,14 @@
         ],
         "english": [
             "Sir; husband"
+        ],
+        "eg": [
+            {
+                "meaning": "quý ông (gọi tôn kính)",
+                "eg_chinese": "这位先生很有礼貌。",
+                "eg_pinyin": "Zhè wèi xiānshēng hěn yǒu lǐmào.",
+                "eg_vietnamese": "Quý ông này rất lễ phép."
+            }
         ]
     },
     "现在": {
@@ -4020,6 +7160,20 @@
         ],
         "english": [
             "Now"
+        ],
+        "eg": [
+            {
+                "meaning": "hiện tại",
+                "eg_chinese": "我现在很忙。",
+                "eg_pinyin": "Wǒ xiànzài hěn máng.",
+                "eg_vietnamese": "Tôi hiện tại rất bận."
+            },
+            {
+                "meaning": "bây giờ",
+                "eg_chinese": "我们可以去吃饭了，现在就出发吧。",
+                "eg_pinyin": "Wǒmen kěyǐ qù chīfàn le, xiànzài jiù chūfā ba.",
+                "eg_vietnamese": "Chúng ta có thể đi ăn, bây giờ xuất phát nhé."
+            }
         ]
     },
     "想": {
@@ -4030,6 +7184,20 @@
         ],
         "english": [
             "think; miss; want"
+        ],
+        "eg": [
+            {
+                "meaning": "muốn",
+                "eg_chinese": "我想喝水。",
+                "eg_pinyin": "Wǒ xiǎng hē shuǐ.",
+                "eg_vietnamese": "Tôi muốn uống nước."
+            },
+            {
+                "meaning": "nhớ",
+                "eg_chinese": "我想你了。",
+                "eg_pinyin": "Wǒ xiǎng nǐ le.",
+                "eg_vietnamese": "Tôi nhớ bạn rồi."
+            }
         ]
     },
     "小": {
@@ -4040,6 +7208,20 @@
         ],
         "english": [
             "Small"
+        ],
+        "eg": [
+            {
+                "meaning": "nhỏ",
+                "eg_chinese": "这个房间很小。",
+                "eg_pinyin": "Zhège fángjiān hěn xiǎo.",
+                "eg_vietnamese": "Căn phòng này rất nhỏ."
+            },
+            {
+                "meaning": "bé",
+                "eg_chinese": "这只狗很小。",
+                "eg_pinyin": "Zhè zhī gǒu hěn xiǎo.",
+                "eg_vietnamese": "Chú chó này rất bé."
+            }
         ]
     },
     "小孩儿": {
@@ -4050,6 +7232,14 @@
         ],
         "english": [
             "kid"
+        ],
+        "eg": [
+            {
+                "meaning": "trẻ em",
+                "eg_chinese": "小孩儿在公园玩。",
+                "eg_pinyin": "Xiǎoháir zài gōngyuán wán.",
+                "eg_vietnamese": "Trẻ em đang chơi ở công viên."
+            }
         ]
     },
     "小姐": {
@@ -4060,6 +7250,26 @@
         ],
         "english": [
             "Miss, young lady"
+        ],
+        "eg": [
+            {
+                "meaning": "tiểu thư",
+                "eg_chinese": "这位小姐很漂亮。",
+                "eg_pinyin": "Zhè wèi xiǎojiě hěn piàoliang.",
+                "eg_vietnamese": "Tiểu thư này rất xinh đẹp."
+            },
+            {
+                "meaning": "cô",
+                "eg_chinese": "这位小姐是我的朋友。",
+                "eg_pinyin": "Zhè wèi xiǎojiě shì wǒ de péngyǒu.",
+                "eg_vietnamese": "Cô này là bạn của tôi."
+            },
+            {
+                "meaning": "em",
+                "eg_chinese": "小姐，你要喝水吗？",
+                "eg_pinyin": "Xiǎojiě, nǐ yào hē shuǐ ma?",
+                "eg_vietnamese": "Em ơi, em có muốn uống nước không?"
+            }
         ]
     },
     "小朋友": {
@@ -4070,6 +7280,20 @@
         ],
         "english": [
             "child"
+        ],
+        "eg": [
+            {
+                "meaning": "trẻ em",
+                "eg_chinese": "小朋友们在唱歌。",
+                "eg_pinyin": "Xiǎopéngyǒumen zài chànggē.",
+                "eg_vietnamese": "Trẻ em đang hát."
+            },
+            {
+                "meaning": "bạn nhỏ",
+                "eg_chinese": "这位小朋友很聪明。",
+                "eg_pinyin": "Zhè wèi xiǎopéngyǒu hěn cōngmíng.",
+                "eg_vietnamese": "Bạn nhỏ này rất thông minh."
+            }
         ]
     },
     "小时": {
@@ -4080,6 +7304,20 @@
         ],
         "english": [
             "hour"
+        ],
+        "eg": [
+            {
+                "meaning": "tiếng",
+                "eg_chinese": "我学习了两个小时。",
+                "eg_pinyin": "Wǒ xuéxí le liǎng gè xiǎoshí.",
+                "eg_vietnamese": "Tôi đã học hai tiếng."
+            },
+            {
+                "meaning": "giờ đồng hồ",
+                "eg_chinese": "现在是三点小时。",
+                "eg_pinyin": "Xiànzài shì sān diǎn xiǎoshí.",
+                "eg_vietnamese": "Bây giờ là ba giờ."
+            }
         ]
     },
     "小学": {
@@ -4090,6 +7328,14 @@
         ],
         "english": [
             "primary school"
+        ],
+        "eg": [
+            {
+                "meaning": "bậc tiểu học",
+                "eg_chinese": "他上小学。",
+                "eg_pinyin": "Tā shàng xiǎoxué.",
+                "eg_vietnamese": "Cậu ấy học tiểu học."
+            }
         ]
     },
     "小学生": {
@@ -4100,6 +7346,14 @@
         ],
         "english": [
             "primary school student"
+        ],
+        "eg": [
+            {
+                "meaning": "học sinh tiểu học",
+                "eg_chinese": "小学生们在操场上玩。",
+                "eg_pinyin": "Xiǎoxuéshēngmen zài cāochǎng shàng wán.",
+                "eg_vietnamese": "Học sinh tiểu học đang chơi trên sân."
+            }
         ]
     },
     "笑": {
@@ -4110,6 +7364,14 @@
         ],
         "english": [
             "laugh, smile; laugh at"
+        ],
+        "eg": [
+            {
+                "meaning": "cười",
+                "eg_chinese": "她不停地笑。",
+                "eg_pinyin": "Tā bù tíng de xiào.",
+                "eg_vietnamese": "Cô ấy cười liên tục."
+            }
         ]
     },
     "写": {
@@ -4120,6 +7382,14 @@
         ],
         "english": [
             "write"
+        ],
+        "eg": [
+            {
+                "meaning": "viết",
+                "eg_chinese": "我在写信。",
+                "eg_pinyin": "Wǒ zài xiě xìn.",
+                "eg_vietnamese": "Tôi đang viết thư."
+            }
         ]
     },
     "谢谢": {
@@ -4130,6 +7400,14 @@
         ],
         "english": [
             "thank"
+        ],
+        "eg": [
+            {
+                "meaning": "cảm ơn",
+                "eg_chinese": "谢谢你的帮助。",
+                "eg_pinyin": "Xièxiè nǐ de bāngzhù.",
+                "eg_vietnamese": "Cảm ơn bạn đã giúp đỡ."
+            }
         ]
     },
     "新": {
@@ -4140,6 +7418,14 @@
         ],
         "english": [
             "new"
+        ],
+        "eg": [
+            {
+                "meaning": "mới",
+                "eg_chinese": "我买了一个新手机。",
+                "eg_pinyin": "Wǒ mǎile yīgè xīn shǒujī.",
+                "eg_vietnamese": "Tôi đã mua một chiếc điện thoại mới."
+            }
         ]
     },
     "新年": {
@@ -4150,6 +7436,14 @@
         ],
         "english": [
             "New Year"
+        ],
+        "eg": [
+            {
+                "meaning": "năm mới",
+                "eg_chinese": "新年快乐！",
+                "eg_pinyin": "Xīnnián kuàilè!",
+                "eg_vietnamese": "Chúc mừng năm mới!"
+            }
         ]
     },
     "星期": {
@@ -4160,6 +7454,20 @@
         ],
         "english": [
             "week"
+        ],
+        "eg": [
+            {
+                "meaning": "tuần",
+                "eg_chinese": "这个星期很忙。",
+                "eg_pinyin": "Zhège xīngqī hěn máng.",
+                "eg_vietnamese": "Tuần này rất bận."
+            },
+            {
+                "meaning": "thứ",
+                "eg_chinese": "今天是星期三。",
+                "eg_pinyin": "Jīntiān shì xīngqīsān.",
+                "eg_vietnamese": "Hôm nay là thứ Tư."
+            }
         ]
     },
     "星期日": {
@@ -4170,6 +7478,14 @@
         ],
         "english": [
             "Sunday"
+        ],
+        "eg": [
+            {
+                "meaning": "chủ nhật",
+                "eg_chinese": "我们星期日去旅行。",
+                "eg_pinyin": "Wǒmen xīngqīrì qù lǚxíng.",
+                "eg_vietnamese": "Chúng tôi đi du lịch vào chủ nhật."
+            }
         ]
     },
     "星期天": {
@@ -4180,6 +7496,14 @@
         ],
         "english": [
             "Sunday"
+        ],
+        "eg": [
+            {
+                "meaning": "chủ nhật",
+                "eg_chinese": "星期天我休息。",
+                "eg_pinyin": "Xīngqītiān wǒ xiūxī.",
+                "eg_vietnamese": "Chủ nhật tôi nghỉ ngơi."
+            }
         ]
     },
     "行": {
@@ -4190,6 +7514,20 @@
         ],
         "english": [
             "(v) That’s ok; (adj) capable"
+        ],
+        "eg": [
+            {
+                "meaning": "được",
+                "eg_chinese": "这个方案行。",
+                "eg_pinyin": "Zhège fāng'àn xíng.",
+                "eg_vietnamese": "Kế hoạch này được."
+            },
+            {
+                "meaning": "ổn",
+                "eg_chinese": "这个价格很行。",
+                "eg_pinyin": "Zhège jiàgé hěn xíng.",
+                "eg_vietnamese": "Giá cả này ổn."
+            }
         ]
     },
     "休息": {
@@ -4200,6 +7538,14 @@
         ],
         "english": [
             "Rest"
+        ],
+        "eg": [
+            {
+                "meaning": "nghỉ ngơi",
+                "eg_chinese": "我先休息一下。",
+                "eg_pinyin": "Wǒ xiān xiūxí yīxià.",
+                "eg_vietnamese": "Tôi sẽ nghỉ ngơi một chút."
+            }
         ]
     },
     "学": {
@@ -4210,6 +7556,14 @@
         ],
         "english": [
             "learn; study"
+        ],
+        "eg": [
+            {
+                "meaning": "học",
+                "eg_chinese": "我想学中文。",
+                "eg_pinyin": "Wǒ xiǎng xué zhōngwén.",
+                "eg_vietnamese": "Tôi muốn học tiếng Trung."
+            }
         ]
     },
     "学生": {
@@ -4220,6 +7574,20 @@
         ],
         "english": [
             "Student"
+        ],
+        "eg": [
+            {
+                "meaning": "học sinh",
+                "eg_chinese": "她是一个聪明的学生。",
+                "eg_pinyin": "Tā shì yīgè cōngmíng de xuéshēng.",
+                "eg_vietnamese": "Cô ấy là một học sinh thông minh."
+            },
+            {
+                "meaning": "sinh viên",
+                "eg_chinese": "我是大学的学生。",
+                "eg_pinyin": "Wǒ shì dàxué de xuéshēng.",
+                "eg_vietnamese": "Tôi là sinh viên đại học."
+            }
         ]
     },
     "学习": {
@@ -4230,6 +7598,14 @@
         ],
         "english": [
             "Study"
+        ],
+        "eg": [
+            {
+                "meaning": "học tập",
+                "eg_chinese": "我每天都学习两个小时。",
+                "eg_pinyin": "Wǒ měitiān dōu xuéxí liǎng gè xiǎoshí.",
+                "eg_vietnamese": "Tôi học tập hai giờ mỗi ngày."
+            }
         ]
     },
     "学校": {
@@ -4240,6 +7616,14 @@
         ],
         "english": [
             "School"
+        ],
+        "eg": [
+            {
+                "meaning": "trường học",
+                "eg_chinese": "学校里有很多书。",
+                "eg_pinyin": "Xuéxiào lǐ yǒu hěnduō shū.",
+                "eg_vietnamese": "Trong trường học có nhiều sách."
+            }
         ]
     },
     "学院": {
@@ -4250,6 +7634,14 @@
         ],
         "english": [
             "college; academy"
+        ],
+        "eg": [
+            {
+                "meaning": "học viện",
+                "eg_chinese": "他在艺术学院学习。",
+                "eg_pinyin": "Tā zài yìshù xuéyuàn xuéxí.",
+                "eg_vietnamese": "Anh ấy học tại học viện nghệ thuật."
+            }
         ]
     },
     "要": {
@@ -4260,6 +7652,26 @@
         ],
         "english": [
             "want; ask; be going to"
+        ],
+        "eg": [
+            {
+                "meaning": "muốn",
+                "eg_chinese": "我想要一个苹果。",
+                "eg_pinyin": "Wǒ xiǎng yào yīgè píngguǒ.",
+                "eg_vietnamese": "Tôi muốn một quả táo."
+            },
+            {
+                "meaning": "cần",
+                "eg_chinese": "我需要帮助。",
+                "eg_pinyin": "Wǒ xūyào bāngzhù.",
+                "eg_vietnamese": "Tôi cần sự giúp đỡ."
+            },
+            {
+                "meaning": "phải",
+                "eg_chinese": "你要去学校。",
+                "eg_pinyin": "Nǐ yào qù xuéxiào.",
+                "eg_vietnamese": "Bạn phải đi đến trường."
+            }
         ]
     },
     "爷爷": {
@@ -4270,6 +7682,20 @@
         ],
         "english": [
             "grandpa"
+        ],
+        "eg": [
+            {
+                "meaning": "ông nội",
+                "eg_chinese": "我喜欢我的爷爷。",
+                "eg_pinyin": "Wǒ xǐhuān wǒ de yéye.",
+                "eg_vietnamese": "Tôi thích ông nội của mình."
+            },
+            {
+                "meaning": "ông",
+                "eg_chinese": "他是我的爷爷。",
+                "eg_pinyin": "Tā shì wǒ de yéye.",
+                "eg_vietnamese": "Ông ấy là ông của tôi."
+            }
         ]
     },
     "也": {
@@ -4280,6 +7706,14 @@
         ],
         "english": [
             "also, too"
+        ],
+        "eg": [
+            {
+                "meaning": "cũng",
+                "eg_chinese": "我也喜欢这本书。",
+                "eg_pinyin": "Wǒ yě xǐhuān zhè běn shū.",
+                "eg_vietnamese": "Tôi cũng thích cuốn sách này."
+            }
         ]
     },
     "页": {
@@ -4290,6 +7724,14 @@
         ],
         "english": [
             "page"
+        ],
+        "eg": [
+            {
+                "meaning": "trang",
+                "eg_chinese": "请翻到下一页。",
+                "eg_pinyin": "Qǐng fān dào xià yè.",
+                "eg_vietnamese": "Xin vui lòng lật sang trang tiếp theo."
+            }
         ]
     },
     "一": {
@@ -4300,6 +7742,14 @@
         ],
         "english": [
             "one"
+        ],
+        "eg": [
+            {
+                "meaning": "số 1",
+                "eg_chinese": "这是一只猫。",
+                "eg_pinyin": "Zhè shì yī zhī māo.",
+                "eg_vietnamese": "Đây là một con mèo."
+            }
         ]
     },
     "衣服": {
@@ -4310,6 +7760,14 @@
         ],
         "english": [
             "clothes"
+        ],
+        "eg": [
+            {
+                "meaning": "quần áo",
+                "eg_chinese": "我买了一件新衣服。",
+                "eg_pinyin": "Wǒ mǎile yī jiàn xīn yīfu.",
+                "eg_vietnamese": "Tôi đã mua một bộ quần áo mới."
+            }
         ]
     },
     "医生": {
@@ -4320,6 +7778,14 @@
         ],
         "english": [
             "Doctor"
+        ],
+        "eg": [
+            {
+                "meaning": "bác sĩ",
+                "eg_chinese": "她是我们的医生。",
+                "eg_pinyin": "Tā shì wǒmen de yīshēng.",
+                "eg_vietnamese": "Cô ấy là bác sĩ của chúng tôi."
+            }
         ]
     },
     "医院": {
@@ -4330,6 +7796,14 @@
         ],
         "english": [
             "Hospital"
+        ],
+        "eg": [
+            {
+                "meaning": "bệnh viện",
+                "eg_chinese": "医院里有很多病人。",
+                "eg_pinyin": "Yīyuàn lǐ yǒu hěn duō bìngrén.",
+                "eg_vietnamese": "Trong bệnh viện có rất nhiều bệnh nhân."
+            }
         ]
     },
     "一半": {
@@ -4340,6 +7814,14 @@
         ],
         "english": [
             "half"
+        ],
+        "eg": [
+            {
+                "meaning": "một nửa",
+                "eg_chinese": "我们只吃了一半的蛋糕。",
+                "eg_pinyin": "Wǒmen zhǐ chīle yī bàn de dàngāo.",
+                "eg_vietnamese": "Chúng tôi chỉ ăn một nửa chiếc bánh."
+            }
         ]
     },
     "一会儿": {
@@ -4350,6 +7832,14 @@
         ],
         "english": [
             "A while"
+        ],
+        "eg": [
+            {
+                "meaning": "một chốc, một lát",
+                "eg_chinese": "我会等一会儿。",
+                "eg_pinyin": "Wǒ huì děng yī huìr.",
+                "eg_vietnamese": "Tôi sẽ đợi một lát."
+            }
         ]
     },
     "一块儿": {
@@ -4360,6 +7850,14 @@
         ],
         "english": [
             "together"
+        ],
+        "eg": [
+            {
+                "meaning": "cùng nơi, cùng chỗ, cùng",
+                "eg_chinese": "我们一起去玩，一块儿吃饭。",
+                "eg_pinyin": "Wǒmen yīqǐ qù wán, yī kuài er chīfàn.",
+                "eg_vietnamese": "Chúng ta cùng nhau đi chơi, cùng nhau ăn cơm."
+            }
         ]
     },
     "一下儿": {
@@ -4370,6 +7868,14 @@
         ],
         "english": [
             "one time, once"
+        ],
+        "eg": [
+            {
+                "meaning": "một lát, một lúc",
+                "eg_chinese": "请等我一下儿。",
+                "eg_pinyin": "Qǐng děng wǒ yī xiàr.",
+                "eg_vietnamese": "Xin hãy đợi tôi một lát."
+            }
         ]
     },
     "一样": {
@@ -4380,6 +7886,14 @@
         ],
         "english": [
             "equally"
+        ],
+        "eg": [
+            {
+                "meaning": "giống nhau, như nhau",
+                "eg_chinese": "你们的意见一样吗？",
+                "eg_pinyin": "Nǐmen de yìjiàn yīyàng ma?",
+                "eg_vietnamese": "Ý kiến của các bạn có giống nhau không?"
+            }
         ]
     },
     "一边": {
@@ -4390,6 +7904,14 @@
         ],
         "english": [
             "(n) One side; (adv) simultaneously"
+        ],
+        "eg": [
+            {
+                "meaning": "một bên, một mặt",
+                "eg_chinese": "她一边听音乐，一边做作业。",
+                "eg_pinyin": "Tā yībiān tīng yīnyuè, yībiān zuò zuòyè.",
+                "eg_vietnamese": "Cô ấy vừa nghe nhạc vừa làm bài tập."
+            }
         ]
     },
     "一点儿": {
@@ -4400,6 +7922,14 @@
         ],
         "english": [
             "a little, a bit"
+        ],
+        "eg": [
+            {
+                "meaning": "một chút",
+                "eg_chinese": "我只想要一点儿水。",
+                "eg_pinyin": "Wǒ zhǐ xiǎng yào yī diǎnr shuǐ.",
+                "eg_vietnamese": "Tôi chỉ muốn một chút nước."
+            }
         ]
     },
     "一起": {
@@ -4410,6 +7940,14 @@
         ],
         "english": [
             "(adv) together; (n) in the same place"
+        ],
+        "eg": [
+            {
+                "meaning": "cùng",
+                "eg_chinese": "我们一起去看电影。",
+                "eg_pinyin": "Wǒmen yīqǐ qù kàn diànyǐng.",
+                "eg_vietnamese": "Chúng tôi cùng đi xem phim."
+            }
         ]
     },
     "一些": {
@@ -4420,6 +7958,14 @@
         ],
         "english": [
             "some"
+        ],
+        "eg": [
+            {
+                "meaning": "một ít, một chút",
+                "eg_chinese": "我需要一些帮助。",
+                "eg_pinyin": "Wǒ xūyào yīxiē bāngzhù.",
+                "eg_vietnamese": "Tôi cần một ít giúp đỡ."
+            }
         ]
     },
     "用": {
@@ -4430,6 +7976,14 @@
         ],
         "english": [
             "(v) use; need; (prep) with"
+        ],
+        "eg": [
+            {
+                "meaning": "dùng, sử dụng",
+                "eg_chinese": "请你用中文回答。",
+                "eg_pinyin": "Qǐng nǐ yòng zhōngwén huídá.",
+                "eg_vietnamese": "Xin bạn hãy dùng tiếng Trung để trả lời."
+            }
         ]
     },
     "有": {
@@ -4440,6 +7994,14 @@
         ],
         "english": [
             "have"
+        ],
+        "eg": [
+            {
+                "meaning": "có",
+                "eg_chinese": "我有一本书。",
+                "eg_pinyin": "Wǒ yǒu yī běn shū.",
+                "eg_vietnamese": "Tôi có một quyển sách."
+            }
         ]
     },
     "有的": {
@@ -4450,6 +8012,14 @@
         ],
         "english": [
             "some"
+        ],
+        "eg": [
+            {
+                "meaning": "có",
+                "eg_chinese": "有的人喜欢咖啡。",
+                "eg_pinyin": "Yǒu de rén xǐhuān kāfēi.",
+                "eg_vietnamese": "Có người thích cà phê."
+            }
         ]
     },
     "有名": {
@@ -4460,6 +8030,14 @@
         ],
         "english": [
             "Famous"
+        ],
+        "eg": [
+            {
+                "meaning": "nổi tiếng",
+                "eg_chinese": "他是一个有名的演员。",
+                "eg_pinyin": "Tā shì yīgè yǒumíng de yǎnyuán.",
+                "eg_vietnamese": "Anh ấy là một diễn viên nổi tiếng."
+            }
         ]
     },
     "有时候": {
@@ -4470,6 +8048,14 @@
         ],
         "english": [
             "sometimes"
+        ],
+        "eg": [
+            {
+                "meaning": "có lúc",
+                "eg_chinese": "有时候我觉得很累。",
+                "eg_pinyin": "Yǒu shíhòu wǒ juédé hěn lèi.",
+                "eg_vietnamese": "Có lúc tôi cảm thấy rất mệt."
+            }
         ]
     },
     "有时": {
@@ -4480,6 +8066,14 @@
         ],
         "english": [
             "sometimes"
+        ],
+        "eg": [
+            {
+                "meaning": "có lúc",
+                "eg_chinese": "有时天气会很热。",
+                "eg_pinyin": "Yǒu shí tiānqì huì hěn rè.",
+                "eg_vietnamese": "Có lúc thời tiết sẽ rất nóng."
+            }
         ]
     },
     "有些": {
@@ -4490,6 +8084,14 @@
         ],
         "english": [
             "some"
+        ],
+        "eg": [
+            {
+                "meaning": "có một tí",
+                "eg_chinese": "我有些问题想问你。",
+                "eg_pinyin": "Wǒ yǒu xiē wèntí xiǎng wèn nǐ.",
+                "eg_vietnamese": "Tôi có một tí câu hỏi muốn hỏi bạn."
+            }
         ]
     },
     "有用": {
@@ -4500,6 +8102,14 @@
         ],
         "english": [
             "useful"
+        ],
+        "eg": [
+            {
+                "meaning": "có ích, có tác dụng",
+                "eg_chinese": "这个工具很有用。",
+                "eg_pinyin": "Zhège gōngjù hěn yǒuyòng.",
+                "eg_vietnamese": "Công cụ này rất có ích."
+            }
         ]
     },
     "右": {
@@ -4510,6 +8120,14 @@
         ],
         "english": [
             "right"
+        ],
+        "eg": [
+            {
+                "meaning": "bên phải",
+                "eg_chinese": "请向右转。",
+                "eg_pinyin": "Qǐng xiàng yòu zhuǎn.",
+                "eg_vietnamese": "Xin hãy rẽ phải."
+            }
         ]
     },
     "右边": {
@@ -4520,6 +8138,14 @@
         ],
         "english": [
             "Right (side)"
+        ],
+        "eg": [
+            {
+                "meaning": "phía bên phải",
+                "eg_chinese": "你的包在右边。",
+                "eg_pinyin": "Nǐ de bāo zài yòubiān.",
+                "eg_vietnamese": "Cái túi của bạn ở phía bên phải."
+            }
         ]
     },
     "雨": {
@@ -4530,6 +8156,14 @@
         ],
         "english": [
             "rain"
+        ],
+        "eg": [
+            {
+                "meaning": "mưa",
+                "eg_chinese": "今天会下雨。",
+                "eg_pinyin": "Jīntiān huì xià yǔ.",
+                "eg_vietnamese": "Hôm nay sẽ có mưa."
+            }
         ]
     },
     "元": {
@@ -4540,6 +8174,14 @@
         ],
         "english": [
             "a standard monetary unit in China"
+        ],
+        "eg": [
+            {
+                "meaning": "đồng (đơn vị tiền tệ)",
+                "eg_chinese": "这个东西要十元。",
+                "eg_pinyin": "Zhège dōngxī yào shí yuán.",
+                "eg_vietnamese": "Cái này giá mười đồng."
+            }
         ]
     },
     "远": {
@@ -4550,6 +8192,14 @@
         ],
         "english": [
             "far"
+        ],
+        "eg": [
+            {
+                "meaning": "xa",
+                "eg_chinese": "学校离这里很远。",
+                "eg_pinyin": "Xuéxiào lí zhèlǐ hěn yuǎn.",
+                "eg_vietnamese": "Trường học cách đây rất xa."
+            }
         ]
     },
     "月": {
@@ -4560,6 +8210,20 @@
         ],
         "english": [
             "month"
+        ],
+        "eg": [
+            {
+                "meaning": "mặt trăng, tháng",
+                "eg_chinese": "今天是十月。",
+                "eg_pinyin": "Jīntiān shì shí yuè.",
+                "eg_vietnamese": "Hôm nay là tháng Mười."
+            },
+            {
+                "meaning": "mặt trăng, tháng",
+                "eg_chinese": "月亮很漂亮。",
+                "eg_pinyin": "Yuèliàng hěn piàoliang.",
+                "eg_vietnamese": "Mặt trăng rất đẹp."
+            }
         ]
     },
     "再": {
@@ -4570,6 +8234,14 @@
         ],
         "english": [
             "again"
+        ],
+        "eg": [
+            {
+                "meaning": "lại (chưa xảy ra)",
+                "eg_chinese": "我再试一次。",
+                "eg_pinyin": "Wǒ zài shì yīcì.",
+                "eg_vietnamese": "Tôi sẽ thử lại một lần nữa."
+            }
         ]
     },
     "再见": {
@@ -4580,6 +8252,14 @@
         ],
         "english": [
             "bye"
+        ],
+        "eg": [
+            {
+                "meaning": "hẹn gặp lại",
+                "eg_chinese": "再见，朋友！",
+                "eg_pinyin": "Zàijiàn, péngyǒu!",
+                "eg_vietnamese": "Hẹn gặp lại, bạn bè!"
+            }
         ]
     },
     "在": {
@@ -4590,6 +8270,14 @@
         ],
         "english": [
             "(v) be at a place; (prep) in, at, on; (adv) indicating an action in progress"
+        ],
+        "eg": [
+            {
+                "meaning": "đang, ở tại",
+                "eg_chinese": "我在家。",
+                "eg_pinyin": "Wǒ zài jiā.",
+                "eg_vietnamese": "Tôi đang ở nhà."
+            }
         ]
     },
     "在家": {
@@ -4600,6 +8288,14 @@
         ],
         "english": [
             "at home"
+        ],
+        "eg": [
+            {
+                "meaning": "ở nhà",
+                "eg_chinese": "今天我在家。",
+                "eg_pinyin": "Jīntiān wǒ zài jiā.",
+                "eg_vietnamese": "Hôm nay tôi ở nhà."
+            }
         ]
     },
     "早": {
@@ -4610,6 +8306,14 @@
         ],
         "english": [
             "early"
+        ],
+        "eg": [
+            {
+                "meaning": "sớm",
+                "eg_chinese": "我今天早起了。",
+                "eg_pinyin": "Wǒ jīntiān zǎo qǐ le.",
+                "eg_vietnamese": "Hôm nay tôi dậy sớm."
+            }
         ]
     },
     "早饭": {
@@ -4620,6 +8324,14 @@
         ],
         "english": [
             "breakfast"
+        ],
+        "eg": [
+            {
+                "meaning": "bữa sáng",
+                "eg_chinese": "我吃了丰盛的早饭。",
+                "eg_pinyin": "Wǒ chī le fēngshèng de zǎofàn.",
+                "eg_vietnamese": "Tôi đã ăn một bữa sáng phong phú."
+            }
         ]
     },
     "早上": {
@@ -4630,6 +8342,14 @@
         ],
         "english": [
             "Morning"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi sáng",
+                "eg_chinese": "早上我喜欢跑步。",
+                "eg_pinyin": "Zǎoshang wǒ xǐhuān pǎobù.",
+                "eg_vietnamese": "Buổi sáng tôi thích chạy bộ."
+            }
         ]
     },
     "怎么": {
@@ -4640,6 +8360,14 @@
         ],
         "english": [
             "How, why"
+        ],
+        "eg": [
+            {
+                "meaning": "làm sao, thế nào",
+                "eg_chinese": "你怎么去学校？",
+                "eg_pinyin": "Nǐ zěnme qù xuéxiào?",
+                "eg_vietnamese": "Bạn đi đến trường thế nào?"
+            }
         ]
     },
     "站": {
@@ -4650,6 +8378,14 @@
         ],
         "english": [
             "station, stop"
+        ],
+        "eg": [
+            {
+                "meaning": "bến, trạm",
+                "eg_chinese": "这个站是终点站。",
+                "eg_pinyin": "Zhège zhàn shì zhōngdiǎn zhàn.",
+                "eg_vietnamese": "Trạm này là trạm cuối."
+            }
         ]
     },
     "找": {
@@ -4660,6 +8396,14 @@
         ],
         "english": [
             "look for; give change"
+        ],
+        "eg": [
+            {
+                "meaning": "tìm",
+                "eg_chinese": "我在找我的书。",
+                "eg_pinyin": "Wǒ zài zhǎo wǒ de shū.",
+                "eg_vietnamese": "Tôi đang tìm quyển sách của mình."
+            }
         ]
     },
     "找到": {
@@ -4670,6 +8414,14 @@
         ],
         "english": [
             "find"
+        ],
+        "eg": [
+            {
+                "meaning": "tìm thấy",
+                "eg_chinese": "我终于找到了我的钥匙。",
+                "eg_pinyin": "Wǒ zhōngyú zhǎodào le wǒ de yàoshi.",
+                "eg_vietnamese": "Cuối cùng tôi đã tìm thấy chìa khóa của mình."
+            }
         ]
     },
     "这": {
@@ -4680,6 +8432,14 @@
         ],
         "english": [
             "this"
+        ],
+        "eg": [
+            {
+                "meaning": "này, đây",
+                "eg_chinese": "这是我的朋友。",
+                "eg_pinyin": "Zhè shì wǒ de péngyǒu.",
+                "eg_vietnamese": "Đây là bạn của tôi."
+            }
         ]
     },
     "这边": {
@@ -4690,6 +8450,14 @@
         ],
         "english": [
             "this side"
+        ],
+        "eg": [
+            {
+                "meaning": "bên này",
+                "eg_chinese": "这边有很多商店。",
+                "eg_pinyin": "Zhè biān yǒu hěn duō shāngdiàn.",
+                "eg_vietnamese": "Bên này có nhiều cửa hàng."
+            }
         ]
     },
     "这里": {
@@ -4700,6 +8468,14 @@
         ],
         "english": [
             "here"
+        ],
+        "eg": [
+            {
+                "meaning": "nơi đây",
+                "eg_chinese": "这里很安静。",
+                "eg_pinyin": "Zhè lǐ hěn ānjìng.",
+                "eg_vietnamese": "Nơi đây rất yên tĩnh."
+            }
         ]
     },
     "这儿": {
@@ -4710,6 +8486,14 @@
         ],
         "english": [
             "here"
+        ],
+        "eg": [
+            {
+                "meaning": "nơi đây",
+                "eg_chinese": "这儿有很多人。",
+                "eg_pinyin": "zhèr yǒu hěn duō rén。",
+                "eg_vietnamese": "Nơi đây có rất nhiều người."
+            }
         ]
     },
     "这些": {
@@ -4720,6 +8504,14 @@
         ],
         "english": [
             "these"
+        ],
+        "eg": [
+            {
+                "meaning": "những cái này",
+                "eg_chinese": "这些书很有趣。",
+                "eg_pinyin": "zhèxiē shū hěn yǒuqù。",
+                "eg_vietnamese": "Những cái này rất thú vị."
+            }
         ]
     },
     "着": {
@@ -4730,6 +8522,14 @@
         ],
         "english": [
             "used to indicate the continuation of a state or an action"
+        ],
+        "eg": [
+            {
+                "meaning": "trợ từ động thái",
+                "eg_chinese": "她笑着和我说话。",
+                "eg_pinyin": "tā xiào zhe hé wǒ shuōhuà。",
+                "eg_vietnamese": "Cô ấy cười nói chuyện với tôi."
+            }
         ]
     },
     "真": {
@@ -4740,6 +8540,14 @@
         ],
         "english": [
             "(adv) really, truly; (adj) real, true"
+        ],
+        "eg": [
+            {
+                "meaning": "thật là",
+                "eg_chinese": "他真聪明。",
+                "eg_pinyin": "tā zhēn cōngmíng。",
+                "eg_vietnamese": "Anh ấy thật là thông minh."
+            }
         ]
     },
     "真的": {
@@ -4750,6 +8558,14 @@
         ],
         "english": [
             "really"
+        ],
+        "eg": [
+            {
+                "meaning": "Thật ư",
+                "eg_chinese": "你真的要去吗？",
+                "eg_pinyin": "nǐ zhēn de yào qù ma？",
+                "eg_vietnamese": "Bạn thật ư muốn đi sao?"
+            }
         ]
     },
     "正": {
@@ -4760,6 +8576,14 @@
         ],
         "english": [
             "in the process of"
+        ],
+        "eg": [
+            {
+                "meaning": "đang",
+                "eg_chinese": "我正吃饭。",
+                "eg_pinyin": "wǒ zhèng chīfàn。",
+                "eg_vietnamese": "Tôi đang ăn cơm."
+            }
         ]
     },
     "正在": {
@@ -4770,6 +8594,14 @@
         ],
         "english": [
             "in the process of"
+        ],
+        "eg": [
+            {
+                "meaning": "đang",
+                "eg_chinese": "他们正在学习中文。",
+                "eg_pinyin": "tāmen zhèngzài xuéxí zhōngwén。",
+                "eg_vietnamese": "Họ đang học tiếng Trung."
+            }
         ]
     },
     "知道": {
@@ -4780,6 +8612,14 @@
         ],
         "english": [
             "know"
+        ],
+        "eg": [
+            {
+                "meaning": "biết",
+                "eg_chinese": "我知道这个消息。",
+                "eg_pinyin": "wǒ zhīdào zhège xiāoxī。",
+                "eg_vietnamese": "Tôi biết tin tức này."
+            }
         ]
     },
     "知识": {
@@ -4790,6 +8630,14 @@
         ],
         "english": [
             "knowledge"
+        ],
+        "eg": [
+            {
+                "meaning": "kiến thức",
+                "eg_chinese": "知识就是力量。",
+                "eg_pinyin": "zhīshi jiù shì lìliàng。",
+                "eg_vietnamese": "Kiến thức chính là sức mạnh."
+            }
         ]
     },
     "中": {
@@ -4800,6 +8648,14 @@
         ],
         "english": [
             "middle; in"
+        ],
+        "eg": [
+            {
+                "meaning": "giữa",
+                "eg_chinese": "书在桌子中间。",
+                "eg_pinyin": "shū zài zhuōzi zhōngjiān。",
+                "eg_vietnamese": "Sách ở giữa bàn."
+            }
         ]
     },
     "中国": {
@@ -4810,6 +8666,14 @@
         ],
         "english": [
             "China"
+        ],
+        "eg": [
+            {
+                "meaning": "nước Trung Quốc",
+                "eg_chinese": "我来自中国。",
+                "eg_pinyin": "Wǒ láizì zhōngguó.",
+                "eg_vietnamese": "Tôi đến từ Trung Quốc."
+            }
         ]
     },
     "中间": {
@@ -4820,6 +8684,14 @@
         ],
         "english": [
             "middle"
+        ],
+        "eg": [
+            {
+                "meaning": "giữa, ở giữa",
+                "eg_chinese": "书在桌子的中间。",
+                "eg_pinyin": "Shū zài zhuōzi de zhōngjiān.",
+                "eg_vietnamese": "Sách ở giữa bàn."
+            }
         ]
     },
     "中文": {
@@ -4830,6 +8702,14 @@
         ],
         "english": [
             "Chinese (language)"
+        ],
+        "eg": [
+            {
+                "meaning": "(văn tự) Tiếng Trung",
+                "eg_chinese": "我正在学习中文。",
+                "eg_pinyin": "Wǒ zhèngzài xuéxí zhōngwén.",
+                "eg_vietnamese": "Tôi đang học tiếng Trung."
+            }
         ]
     },
     "中午": {
@@ -4840,6 +8720,14 @@
         ],
         "english": [
             "Noon"
+        ],
+        "eg": [
+            {
+                "meaning": "buổi trưa",
+                "eg_chinese": "我们中午吃饭。",
+                "eg_pinyin": "Wǒmen zhōngwǔ chīfàn.",
+                "eg_vietnamese": "Chúng tôi ăn cơm vào buổi trưa."
+            }
         ]
     },
     "中学": {
@@ -4850,6 +8738,14 @@
         ],
         "english": [
             "middle school"
+        ],
+        "eg": [
+            {
+                "meaning": "cấp trung học",
+                "eg_chinese": "他在中学学习。",
+                "eg_pinyin": "Tā zài zhōngxué xuéxí.",
+                "eg_vietnamese": "Anh ấy học ở cấp trung học."
+            }
         ]
     },
     "中学生": {
@@ -4860,6 +8756,14 @@
         ],
         "english": [
             "middle School student"
+        ],
+        "eg": [
+            {
+                "meaning": "học sinh trung học",
+                "eg_chinese": "她是中学生。",
+                "eg_pinyin": "Tā shì zhōngxuéshēng.",
+                "eg_vietnamese": "Cô ấy là học sinh trung học."
+            }
         ]
     },
     "重": {
@@ -4870,6 +8774,14 @@
         ],
         "english": [
             "heavy"
+        ],
+        "eg": [
+            {
+                "meaning": "nặng",
+                "eg_chinese": "这个箱子很重。",
+                "eg_pinyin": "Zhège xiāngzi hěn zhòng.",
+                "eg_vietnamese": "Cái hộp này rất nặng."
+            }
         ]
     },
     "重要": {
@@ -4880,6 +8792,14 @@
         ],
         "english": [
             "important"
+        ],
+        "eg": [
+            {
+                "meaning": "quan trọng",
+                "eg_chinese": "学习很重要。",
+                "eg_pinyin": "Xuéxí hěn zhòngyào.",
+                "eg_vietnamese": "Học tập là rất quan trọng."
+            }
         ]
     },
     "住": {
@@ -4890,6 +8810,14 @@
         ],
         "english": [
             "live"
+        ],
+        "eg": [
+            {
+                "meaning": "ở tại",
+                "eg_chinese": "我住在北京。",
+                "eg_pinyin": "Wǒ zhù zài Běijīng.",
+                "eg_vietnamese": "Tôi ở tại Bắc Kinh."
+            }
         ]
     },
     "准备": {
@@ -4900,6 +8828,14 @@
         ],
         "english": [
             "Get ready"
+        ],
+        "eg": [
+            {
+                "meaning": "chuẩn bị",
+                "eg_chinese": "我在准备晚餐。",
+                "eg_pinyin": "Wǒ zài zhǔnbèi wǎncān.",
+                "eg_vietnamese": "Tôi đang chuẩn bị bữa tối."
+            }
         ]
     },
     "桌子": {
@@ -4910,6 +8846,14 @@
         ],
         "english": [
             "Table"
+        ],
+        "eg": [
+            {
+                "meaning": "cái bàn",
+                "eg_chinese": "桌子在教室里。",
+                "eg_pinyin": "zhuōzi zài jiàoshì lǐ.",
+                "eg_vietnamese": "Cái bàn ở trong lớp học."
+            }
         ]
     },
     "字": {
@@ -4920,6 +8864,14 @@
         ],
         "english": [
             "word, character"
+        ],
+        "eg": [
+            {
+                "meaning": "chữ, chữ viết, văn tự",
+                "eg_chinese": "这个字很难写。",
+                "eg_pinyin": "zhège zì hěn nán xiě.",
+                "eg_vietnamese": "Chữ này rất khó viết."
+            }
         ]
     },
     "子": {
@@ -4930,6 +8882,14 @@
         ],
         "english": [
             "noun suffix (table)"
+        ],
+        "eg": [
+            {
+                "meaning": "hậu tố",
+                "eg_chinese": "这个字的子很重要。",
+                "eg_pinyin": "zhège zì de zi hěn zhòngyào.",
+                "eg_vietnamese": "Hậu tố của chữ này rất quan trọng."
+            }
         ]
     },
     "走": {
@@ -4940,6 +8900,14 @@
         ],
         "english": [
             "go, walk"
+        ],
+        "eg": [
+            {
+                "meaning": "đi",
+                "eg_chinese": "我们要走了。",
+                "eg_pinyin": "wǒmen yào zǒu le.",
+                "eg_vietnamese": "Chúng ta phải đi rồi."
+            }
         ]
     },
     "走路": {
@@ -4950,6 +8918,14 @@
         ],
         "english": [
             "walk"
+        ],
+        "eg": [
+            {
+                "meaning": "đi đường, đi bộ",
+                "eg_chinese": "我喜欢走路去公园。",
+                "eg_pinyin": "wǒ xǐhuān zǒulù qù gōngyuán.",
+                "eg_vietnamese": "Tôi thích đi bộ đến công viên."
+            }
         ]
     },
     "最": {
@@ -4960,6 +8936,14 @@
         ],
         "english": [
             "most"
+        ],
+        "eg": [
+            {
+                "meaning": "nhất, số một",
+                "eg_chinese": "这是我最喜欢的书。",
+                "eg_pinyin": "zhè shì wǒ zuì xǐhuān de shū.",
+                "eg_vietnamese": "Đây là cuốn sách tôi thích nhất."
+            }
         ]
     },
     "最好": {
@@ -4970,6 +8954,14 @@
         ],
         "english": [
             "had better"
+        ],
+        "eg": [
+            {
+                "meaning": "tốt nhất",
+                "eg_chinese": "你最好早点睡觉。",
+                "eg_pinyin": "nǐ zuì hǎo zǎodiǎn shuìjiào.",
+                "eg_vietnamese": "Bạn nên đi ngủ sớm nhất có thể."
+            }
         ]
     },
     "最后": {
@@ -4980,6 +8972,14 @@
         ],
         "english": [
             "Last"
+        ],
+        "eg": [
+            {
+                "meaning": "cuối cùng, sau cùng",
+                "eg_chinese": "最后我们会见面。",
+                "eg_pinyin": "zuìhòu wǒmen huì jiànmiàn.",
+                "eg_vietnamese": "Cuối cùng chúng ta sẽ gặp nhau."
+            }
         ]
     },
     "昨天": {
@@ -4990,6 +8990,14 @@
         ],
         "english": [
             "Yesterday"
+        ],
+        "eg": [
+            {
+                "meaning": "hôm qua",
+                "eg_chinese": "昨天我去了图书馆。",
+                "eg_pinyin": "zuótiān wǒ qùle túshūguǎn.",
+                "eg_vietnamese": "Hôm qua tôi đã đến thư viện."
+            }
         ]
     },
     "左": {
@@ -5000,6 +9008,14 @@
         ],
         "english": [
             "left"
+        ],
+        "eg": [
+            {
+                "meaning": "bên trái",
+                "eg_chinese": "左边是我的房间。",
+                "eg_pinyin": "zuǒbiān shì wǒ de fángjiān.",
+                "eg_vietnamese": "Bên trái là phòng của tôi."
+            }
         ]
     },
     "左边": {
@@ -5010,6 +9026,14 @@
         ],
         "english": [
             "left (side)"
+        ],
+        "eg": [
+            {
+                "meaning": "bên trái",
+                "eg_chinese": "他的书在左边。",
+                "eg_pinyin": "tā de shū zài zuǒbiān.",
+                "eg_vietnamese": "Sách của anh ấy ở bên trái."
+            }
         ]
     },
     "坐": {
@@ -5020,6 +9044,14 @@
         ],
         "english": [
             "sit"
+        ],
+        "eg": [
+            {
+                "meaning": "ngồi",
+                "eg_chinese": "请坐。",
+                "eg_pinyin": "qǐng zuò.",
+                "eg_vietnamese": "Xin mời ngồi."
+            }
         ]
     },
     "坐下": {
@@ -5030,6 +9062,14 @@
         ],
         "english": [
             "sit down"
+        ],
+        "eg": [
+            {
+                "meaning": "ngồi xuống",
+                "eg_chinese": "他慢慢坐下。",
+                "eg_pinyin": "tā màn màn zuò xià.",
+                "eg_vietnamese": "Anh ấy từ từ ngồi xuống."
+            }
         ]
     },
     "做": {
@@ -5040,6 +9080,14 @@
         ],
         "english": [
             "do"
+        ],
+        "eg": [
+            {
+                "meaning": "làm",
+                "eg_chinese": "我在做作业。",
+                "eg_pinyin": "wǒ zài zuò zuòyè.",
+                "eg_vietnamese": "Tôi đang làm bài tập."
+            }
         ]
     },
     "出租车": {
@@ -5050,6 +9098,14 @@
         ],
         "english": [
             "taxi"
+        ],
+        "eg": [
+            {
+                "meaning": "xe taxi",
+                "eg_chinese": "我们叫了一辆出租车。",
+                "eg_pinyin": "wǒmen jiào le yī liàng chūzū chē.",
+                "eg_vietnamese": "Chúng tôi đã gọi một chiếc taxi."
+            }
         ]
     },
     "饭馆": {
@@ -5060,6 +9116,14 @@
         ],
         "english": [
             "restaurant"
+        ],
+        "eg": [
+            {
+                "meaning": "nhà hàng",
+                "eg_chinese": "这个饭馆很好。",
+                "eg_pinyin": "zhège fànguǎn hěn hǎo.",
+                "eg_vietnamese": "Nhà hàng này rất tốt."
+            }
         ]
     },
     "分钟": {
@@ -5070,6 +9134,14 @@
         ],
         "english": [
             "minute"
+        ],
+        "eg": [
+            {
+                "meaning": "phút",
+                "eg_chinese": "等我五分钟。",
+                "eg_pinyin": "děng wǒ wǔ fēnzhōng.",
+                "eg_vietnamese": "Đợi tôi năm phút."
+            }
         ]
     },
     "狗": {
@@ -5080,6 +9152,14 @@
         ],
         "english": [
             "dog"
+        ],
+        "eg": [
+            {
+                "meaning": "con chó",
+                "eg_chinese": "我有一只狗。",
+                "eg_pinyin": "wǒ yǒu yī zhī gǒu.",
+                "eg_vietnamese": "Tôi có một con chó."
+            }
         ]
     },
     "后面": {
@@ -5090,6 +9170,14 @@
         ],
         "english": [
             "later"
+        ],
+        "eg": [
+            {
+                "meaning": "phía sau",
+                "eg_chinese": "他在后面。",
+                "eg_pinyin": "tā zài hòumiàn.",
+                "eg_vietnamese": "Anh ấy ở phía sau."
+            }
         ]
     },
     "火车站": {
@@ -5100,6 +9188,14 @@
         ],
         "english": [
             "train station"
+        ],
+        "eg": [
+            {
+                "meaning": "trạm xe lửa",
+                "eg_chinese": "火车站在城市中心。",
+                "eg_pinyin": "huǒchē zhàn zài chéngshì zhōngxīn.",
+                "eg_vietnamese": "Ga tàu hỏa ở trung tâm thành phố."
+            }
         ]
     },
     "猫": {
@@ -5110,6 +9206,14 @@
         ],
         "english": [
             "cat"
+        ],
+        "eg": [
+            {
+                "meaning": "mèo",
+                "eg_chinese": "我有一只猫。",
+                "eg_pinyin": "Wǒ yǒu yī zhī māo.",
+                "eg_vietnamese": "Tôi có một con mèo."
+            }
         ]
     },
     "漂亮": {
@@ -5120,6 +9224,14 @@
         ],
         "english": [
             "pretty"
+        ],
+        "eg": [
+            {
+                "meaning": "xinh đẹp",
+                "eg_chinese": "她真漂亮。",
+                "eg_pinyin": "Tā zhēn piàoliang.",
+                "eg_vietnamese": "Cô ấy thật xinh đẹp."
+            }
         ]
     },
     "苹果": {
@@ -5130,6 +9242,14 @@
         ],
         "english": [
             "apple"
+        ],
+        "eg": [
+            {
+                "meaning": "quả táo",
+                "eg_chinese": "我喜欢吃苹果。",
+                "eg_pinyin": "Wǒ xǐhuān chī píngguǒ.",
+                "eg_vietnamese": "Tôi thích ăn táo."
+            }
         ]
     },
     "前面": {
@@ -5140,6 +9260,14 @@
         ],
         "english": [
             "Front"
+        ],
+        "eg": [
+            {
+                "meaning": "phía trước",
+                "eg_chinese": "前面有一个学校。",
+                "eg_pinyin": "Qiánmiàn yǒu yī ge xuéxiào.",
+                "eg_vietnamese": "Phía trước có một trường học."
+            }
         ]
     },
     "喂": {
@@ -5150,6 +9278,14 @@
         ],
         "english": [
             "Hello"
+        ],
+        "eg": [
+            {
+                "meaning": "alo",
+                "eg_chinese": "喂，你在吗？",
+                "eg_pinyin": "Wèi, nǐ zài ma?",
+                "eg_vietnamese": "Alo, bạn đang ở đâu?"
+            }
         ]
     },
     "些": {
@@ -5160,6 +9296,14 @@
         ],
         "english": [
             "some"
+        ],
+        "eg": [
+            {
+                "meaning": "chút, vài",
+                "eg_chinese": "我需要一些时间。",
+                "eg_pinyin": "Wǒ xūyào yīxiē shíjiān.",
+                "eg_vietnamese": "Tôi cần một chút thời gian."
+            }
         ]
     },
     "椅子": {
@@ -5170,6 +9314,14 @@
         ],
         "english": [
             "chair"
+        ],
+        "eg": [
+            {
+                "meaning": "ghế",
+                "eg_chinese": "请坐在椅子上。",
+                "eg_pinyin": "Qǐng zuò zài yǐzi shàng.",
+                "eg_vietnamese": "Xin vui lòng ngồi lên ghế."
+            }
         ]
     },
     "怎么样": {
@@ -5180,6 +9332,14 @@
         ],
         "english": [
             "how"
+        ],
+        "eg": [
+            {
+                "meaning": "như thế nào",
+                "eg_chinese": "你觉得这件衣服怎么样？",
+                "eg_pinyin": "Nǐ juédé zhè jiàn yīfú zěnme yàng?",
+                "eg_vietnamese": "Bạn thấy bộ đồ này như thế nào?"
+            }
         ]
     }
 }
