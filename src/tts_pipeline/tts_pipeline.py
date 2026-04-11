@@ -68,8 +68,13 @@ class TTS:
             data = json.load(f)
 
         all_segments = []
-        pause_short = self.create_silence(0.6)
-        pause_long = self.create_silence(1.5)
+        timestamps = []
+        current_time = 0.0
+        
+        pause_short_val = 0.6
+        pause_long_val = 1.5
+        pause_short = self.create_silence(pause_short_val)
+        pause_long = self.create_silence(pause_long_val)
 
         print(f"Generating audio for: {json_path} (Limit: {limit})")
         
@@ -80,21 +85,29 @@ class TTS:
             
         # Process word by word
         for hanzi, info in items:
+            # Mark the start of a new word
+            timestamps.append(f"{current_time:.2f} - {hanzi}")
+            
             vi_word = info.get("vietnamese", [""])[0]
             egs = info.get("eg", [])
 
             # Audio Sequence logic
             sequence = [
-                (vi_word, self.vn_speaker, pause_short),
-                (hanzi, self.cn_male, pause_short),
-                (hanzi, self.cn_female, pause_long)
+                (vi_word, self.vn_speaker, pause_short_val),
+                (hanzi, self.cn_male, pause_short_val),
+                (hanzi, self.cn_female, pause_long_val)
             ]
 
-            for text, speaker, pause in sequence:
+            for text, speaker, pause_duration in sequence:
                 audio = speaker.speak(text)
                 if audio is not None:
                     all_segments.append(audio)
-                    if pause is not None: all_segments.append(pause)
+                    current_time += len(audio) / SAMPLE_RATE
+                    
+                    # Add pause
+                    pause_samples = int(pause_duration * SAMPLE_RATE)
+                    all_segments.append(np.zeros(pause_samples, dtype=np.int16))
+                    current_time += pause_duration
 
             # Examples
             for eg in egs:
@@ -102,15 +115,20 @@ class TTS:
                 eg_vi = eg.get("eg_vietnamese", "")
                 
                 eg_sequence = [
-                    (eg_vi, self.vn_speaker, pause_short),
-                    (eg_zh, self.cn_male, pause_short),
-                    (eg_zh, self.cn_female, pause_long)
+                    (eg_vi, self.vn_speaker, pause_short_val),
+                    (eg_zh, self.cn_male, pause_short_val),
+                    (eg_zh, self.cn_female, pause_long_val)
                 ]
-                for text, speaker, pause in eg_sequence:
+                for text, speaker, pause_duration in eg_sequence:
                     audio = speaker.speak(text)
                     if audio is not None:
                         all_segments.append(audio)
-                        if pause is not None: all_segments.append(pause)
+                        current_time += len(audio) / SAMPLE_RATE
+                        
+                        # Add pause
+                        pause_samples = int(pause_duration * SAMPLE_RATE)
+                        all_segments.append(np.zeros(pause_samples, dtype=np.int16))
+                        current_time += pause_duration
 
         if not all_segments:
             print("No audio segments generated.")
@@ -119,13 +137,20 @@ class TTS:
         final_audio = np.concatenate(all_segments)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
+        # Save Audio
         with wave.open(output_path, "wb") as f:
             f.setnchannels(1)
             f.setsampwidth(2)
             f.setframerate(SAMPLE_RATE)
             f.writeframes(final_audio.tobytes())
         
+        # Save Timestamps
+        ts_path = output_path.replace(".wav", ".txt")
+        with open(ts_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(timestamps))
+        
         print(f"✅ Success: {output_path}")
+        print(f"✅ Timestamps: {ts_path}")
 
 def test():
     # Example usage for testing
@@ -133,7 +158,7 @@ def test():
     wav_out = "./data/transcript_generated_vocab_audio/podcast/podcast_1.wav"
     
     # Process limit: "all" or specific number (e.g., 3)
-    limit = 3 
+    limit = 10
     
     if os.path.exists(json_in):
         pipeline = TTS()
