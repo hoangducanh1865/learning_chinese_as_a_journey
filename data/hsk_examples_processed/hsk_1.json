@@ -1,0 +1,5950 @@
+{
+    "爱": {
+        "id": 1,
+        "pinyin": "ài",
+        "vietnamese": [
+            "Yêu; thương; yêu quý"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "爸爸爱妈妈。",
+        "eg_pinyin": "Bàba ài māmā",
+        "eg_vietnamese": "Ba yêu mẹ."
+    },
+    "爱好": {
+        "id": 2,
+        "pinyin": "àihào",
+        "vietnamese": [
+            "Yêu thích; yêu chuộng",
+            "Sở thích"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我爱好打篮球。",
+        "eg_pinyin": "Wǒ àihào dǎ lánqiú",
+        "eg_vietnamese": "Tôi thích chơi bóng rổ."
+    },
+    "八": {
+        "id": 3,
+        "pinyin": " bā",
+        "vietnamese": [
+            "Số tám"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "他买了八个苹果。",
+        "eg_pinyin": "Tā mǎi le bā gè píngguǒ",
+        "eg_vietnamese": "Anh ấy đã mua tám quả táo."
+    },
+    "爸爸 | 爸": {
+        "id": 4,
+        "pinyin": "bàba",
+        "vietnamese": [
+            "Bố; ba"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他是我的爸爸。",
+        "eg_pinyin": "Tā shì wǒ de bàba",
+        "eg_vietnamese": "Ông ấy là ba của tôi."
+    },
+    "吧": {
+        "id": 5,
+        "pinyin": "ba",
+        "vietnamese": [
+            "Nhé; chứ; nào; thôi"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "我们去公园玩儿吧。",
+        "eg_pinyin": "Wǒmen qù gōngyuán wán er ba",
+        "eg_vietnamese": "Chúng mình đi công viên chơi nhé."
+    },
+    "白": {
+        "id": 6,
+        "pinyin": "bái",
+        "vietnamese": [
+            "Trắng, màu trắng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我姐姐的皮肤很白。",
+        "eg_pinyin": "Wǒ jiějiě de pífū hěn bái",
+        "eg_vietnamese": "Da của chị tôi rất trắng."
+    },
+    "白天": {
+        "id": 7,
+        "pinyin": "báitiān",
+        "vietnamese": [
+            "Ban ngày"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "早睡吧，你白天还要去上课。",
+        "eg_pinyin": "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè",
+        "eg_vietnamese": "Ngủ sớm đi, bạn ban ngày còn phải đi học."
+    },
+    "百": {
+        "id": 8,
+        "pinyin": "bǎi",
+        "vietnamese": [
+            "Một trăm; số 100"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我有一百块钱。",
+        "eg_pinyin": "Wǒ yǒu yībǎi kuài qián",
+        "eg_vietnamese": "Tôi có một trăm tệ."
+    },
+    "班": {
+        "id": 9,
+        "pinyin": "bān",
+        "vietnamese": [
+            "Lớp học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们班有四十五个学生。",
+        "eg_pinyin": "Wǒmen bān yǒu sìshíwǔ gè xuéshēng",
+        "eg_vietnamese": "Lớp của chúng tôi có 45 học sinh."
+    },
+    "半": {
+        "id": 10,
+        "pinyin": "bàn",
+        "vietnamese": [
+            "Một nửa",
+            "giữa; trung gian"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "现在六点半。\n\n我们在半路上遇到了他。",
+        "eg_pinyin": "Xiànzài liù diǎn bàn/\n\n/Wǒmen zài bàn lùshàng yù dàole tā",
+        "eg_vietnamese": "Bây giờ là 6 giờ rưỡi.\n\nChúng tôi đã gặp anh ấy giữa đường."
+    },
+    "半年": {
+        "id": 11,
+        "pinyin": "bànnián",
+        "vietnamese": [
+            "Nửa năm"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我来上海学习已经有半年了。",
+        "eg_pinyin": "Wǒ lái shànghǎi xuéxí yǐjīng yǒu bànnián le",
+        "eg_vietnamese": "Tôi đến Thượng Hải học đã được nửa năm."
+    },
+    "半天": {
+        "id": 12,
+        "pinyin": "bàntiān",
+        "vietnamese": [
+            "Nửa ngày",
+            "cả buổi; rất lâu"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我今天要工作半天。\n\n我在门口等了你半天。",
+        "eg_pinyin": "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān",
+        "eg_vietnamese": "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu."
+    },
+    "帮": {
+        "id": 13,
+        "pinyin": "bāng",
+        "vietnamese": [
+            "Giúp đỡ, trợ giúp"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他经常帮我做家务。",
+        "eg_pinyin": "Tā jīngcháng bāng wǒ zuò jiāwù",
+        "eg_vietnamese": "Anh ấy thường giúp tôi làm việc nhà."
+    },
+    "帮忙": {
+        "id": 14,
+        "pinyin": "bāngmáng",
+        "vietnamese": [
+            "Giúp, giúp đỡ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你可以来帮忙吗？",
+        "eg_pinyin": "Nǐ kěyǐ lái bāngmáng ma?",
+        "eg_vietnamese": "Bạn có thể lại giúp đỡ không?"
+    },
+    "包": {
+        "id": 15,
+        "pinyin": "bāo",
+        "vietnamese": [
+            "Bao; gói; bọc; quấn"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "妈妈在包饺子。",
+        "eg_pinyin": "Māma zài bāo jiǎozǐ",
+        "eg_vietnamese": "Mẹ đang gói sủi cảo."
+    },
+    "包子": {
+        "id": 16,
+        "pinyin": "bāozǐ",
+        "vietnamese": [
+            "Bánh bao"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我今天早上吃了两个包子。",
+        "eg_pinyin": "Wǒ jīntiān zǎoshang chī le liǎng gè bāozǐ",
+        "eg_vietnamese": "Sáng nay tôi đã ăn 2 cái bánh bao."
+    },
+    "杯": {
+        "id": 17,
+        "pinyin": "bēi",
+        "vietnamese": [
+            "Ly; cốc",
+            "cúp (giải thưởng)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喝了一杯奶茶。\n\n我们队赢得了冠军杯。",
+        "eg_pinyin": "Wǒ hēle yībēi nǎichá/\n\n/Wǒmen duì yíngdéle guànjūn bēi",
+        "eg_vietnamese": "Tôi đã uống 1 ly trà sữa.\n\nĐội chúng tôi đã giành được cúp vô địch."
+    },
+    "杯子": {
+        "id": 18,
+        "pinyin": "bēizi",
+        "vietnamese": [
+            "Ly; cốc; tách"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个杯子太小了。",
+        "eg_pinyin": "Zhège bēizǐ tài xiǎole",
+        "eg_vietnamese": "Cái ly này quá nhỏ."
+    },
+    "北": {
+        "id": 19,
+        "pinyin": "běi",
+        "vietnamese": [
+            "Bắc, phía bắc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们一直往北走吧。",
+        "eg_pinyin": "Wǒmen yīzhí wǎng běi zǒu ba",
+        "eg_vietnamese": "Chúng ta cứ đi về phía bắc đi."
+    },
+    "北边": {
+        "id": 20,
+        "pinyin": "běibian",
+        "vietnamese": [
+            "Phía bắc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "北边的天气很冷。",
+        "eg_pinyin": "Běibian de tiānqì hěn lěng",
+        "eg_vietnamese": "Thời tiết của phương bắc rất lạnh."
+    },
+    "北京": {
+        "id": 21,
+        "pinyin": "Běijīng",
+        "vietnamese": [
+            "Bắc kinh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "北京是中国的首都。",
+        "eg_pinyin": "Běijīng shì zhōngguó de shǒudū",
+        "eg_vietnamese": "Bắc Kinh là thủ đô của Trung Quốc."
+    },
+    "本": {
+        "id": 22,
+        "pinyin": "běn",
+        "vietnamese": [
+            "Cuốn; tập; vở"
+        ],
+        "english": [],
+        "type": "Lượng từ",
+        "eg_chinese": "你读过这本书了吗？",
+        "eg_pinyin": "Nǐ dúguò zhè běn shū le ma?",
+        "eg_vietnamese": "Bạn đã đọc cuốn sách này chưa?"
+    },
+    "本子": {
+        "id": 23,
+        "pinyin": "běnzǐ",
+        "vietnamese": [
+            "Cuốn; tập; vở",
+            "giấy phép; chứng chỉ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个歌剧的本子挺有意思的。\n\n在越南，满18周岁就可以考本子了。",
+        "eg_pinyin": "Zhège gējù de běnzi tǐng yǒuyìsi de/\n\n/Zài Yuènán, mǎn 18 zhōusuì jiù kěyǐ kǎo běnzǐ le",
+        "eg_vietnamese": "Bản nhạc kịch này thật thú vị.\n\nỞ Việt Nam, bạn đủ 18 tuổi đã có thể thi giấy phép lấy xe."
+    },
+    "比": {
+        "id": 24,
+        "pinyin": "bǐ",
+        "vietnamese": [
+            "Hơn, so, so với"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "我哥哥比我高。",
+        "eg_pinyin": "Wǒ gēge bǐ wǒ gāo",
+        "eg_vietnamese": "Anh trai tôi cao hơn tôi."
+    },
+    "别": {
+        "id": 25,
+        "pinyin": "bié",
+        "vietnamese": [
+            "Đừng; chớ",
+            "hẳn là; hay là; lẽ nào"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "在医院，大家别大声说话。\n\n他到现在还没来，别是忘了吗？",
+        "eg_pinyin": "Zài yīyuàn, dàjiā bié dàshēng shuōhuà/\n\n/Tā dào xiànzài hái méi lái, bié shì wàng le ma",
+        "eg_vietnamese": "Ở bệnh viện, mọi người đừng nói lớn tiếng.\n\nAnh ấy đến bây giờ vẫn chưa đến, lẽ nào anh ấy quên rồi sao?"
+    },
+    "别的": {
+        "id": 26,
+        "pinyin": "bié de",
+        "vietnamese": [
+            "Khác; cái khác"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "我不要别的，只要那支钢笔。",
+        "eg_pinyin": "Wǒ bùyào bié de, zhǐyào nà zhī gāngbǐ",
+        "eg_vietnamese": "Tôi không cần cái nào khác, chỉ cần cây bút đó."
+    },
+    "别人": {
+        "id": 27,
+        "pinyin": "biérén",
+        "vietnamese": [
+            "Người khác; người ta"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这本书可能是别人的。",
+        "eg_pinyin": "Chúle Xiǎo Lì yǐwài, biérén dōu bù yuànyì qù",
+        "eg_vietnamese": "Ngoại trừ Tiểu Lệ ra, những người khác đều không muốn đi."
+    },
+    "病": {
+        "id": 28,
+        "pinyin": "bìng",
+        "vietnamese": [
+            "Bệnh; ốm"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我生病了。",
+        "eg_pinyin": "Wǒ shēng bìng le",
+        "eg_vietnamese": "Tôi bị bệnh rồi."
+    },
+    "病人": {
+        "id": 29,
+        "pinyin": "bìngrén",
+        "vietnamese": [
+            "Bệnh nhân; người bệnh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "王医生每天都要看十到二十位病人。",
+        "eg_pinyin": "Wáng yīshēng měitiān dōu yào kàn shí dào èrshí wèi bìngrén",
+        "eg_vietnamese": "Bác sĩ Vương mỗi ngày đều phải khám từ 10 đến 20 bệnh nhân."
+    },
+    "不大": {
+        "id": 30,
+        "pinyin": "bù dà",
+        "vietnamese": [
+            "Không to; không lớn"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "这个房间不大。",
+        "eg_pinyin": "Zhège fángjiān bù dà",
+        "eg_vietnamese": "Căn phòng này không lớn."
+    },
+    "不对": {
+        "id": 31,
+        "pinyin": "bùduì",
+        "vietnamese": [
+            "Không đúng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "你的答案不对。",
+        "eg_pinyin": "Nǐ de dá'àn bù duì",
+        "eg_vietnamese": "Đáp án của bạn không đúng."
+    },
+    "不客气": {
+        "id": 32,
+        "pinyin": "búkèqi",
+        "vietnamese": [
+            "Không có gì; đừng khách sáo"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "A: 谢谢你！\nB: 不客气！",
+        "eg_pinyin": "A: /Xièxiè nǐ/\nB: /Búkèqi/",
+        "eg_vietnamese": "A: Cảm ơn bạn! \nB: Đừng khách sáo!"
+    },
+    "不用": {
+        "id": 33,
+        "pinyin": "búyòng",
+        "vietnamese": [
+            "Không cần; không phải"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "你不用担心。",
+        "eg_pinyin": "Nǐ búyòng dānxīn",
+        "eg_vietnamese": "Bạn không cần phải lo lắng."
+    },
+    "不": {
+        "id": 34,
+        "pinyin": "bù",
+        "vietnamese": [
+            "Không"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我不喜欢吃辣。",
+        "eg_pinyin": "Wǒ bù xǐhuān chī là",
+        "eg_vietnamese": "Tôi không thích ăn cay."
+    },
+    "菜": {
+        "id": 35,
+        "pinyin": "cài",
+        "vietnamese": [
+            "Món ăn; đồ ăn"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天的菜很好吃。",
+        "eg_pinyin": "Jīntiān de cài hěn hǎo chī",
+        "eg_vietnamese": "Món ăn của hôm nay rất ngon."
+    },
+    "茶": {
+        "id": 36,
+        "pinyin": "chá",
+        "vietnamese": [
+            "Trà (đồ uống)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢喝茶。",
+        "eg_pinyin": "Wǒ xǐhuān hē chá",
+        "eg_vietnamese": "Tôi thích uống trà."
+    },
+    "差": {
+        "id": 37,
+        "pinyin": "chà",
+        "vietnamese": [
+            "Kém; tệ; không đạt"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "他今天状态很差。",
+        "eg_pinyin": "Tā jīntiān zhuàngtài hěn chà",
+        "eg_vietnamese": "Trạng thái của anh hôm nay rất tệ."
+    },
+    "常": {
+        "id": 38,
+        "pinyin": "cháng",
+        "vietnamese": [
+            "Thường; thường xuyên"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我常去跑步。",
+        "eg_pinyin": "Wǒ cháng qù pǎobù",
+        "eg_vietnamese": "Tôi thường xuyên chạy bộ."
+    },
+    "尝尝": {
+        "id": 39,
+        "pinyin": "cháng cháng",
+        "vietnamese": [
+            "Nếm; thử (ăn, uống)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你尝尝这个菜。",
+        "eg_pinyin": "Nǐ cháng cháng zhège cài",
+        "eg_vietnamese": "Bạn hãy nếm thử món ăn này."
+    },
+    "唱": {
+        "id": 40,
+        "pinyin": "chàng",
+        "vietnamese": [
+            "Hát; ca"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "她唱太好了，大家都起立鼓掌。",
+        "eg_pinyin": "Tā chàng tài hǎo le, dàjiā dōu qǐlì gǔzhǎng",
+        "eg_vietnamese": "Cô ấy hát rất hay, mọi người đều đứng dậy vỗ tay."
+    },
+    "唱歌": {
+        "id": 41,
+        "pinyin": "chànggē",
+        "vietnamese": [
+            "Hát; ca hát"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我家邻居昨天一直不停地唱歌。",
+        "eg_pinyin": "Wǒjiā línjū zuótiān yīzhí bù tíng de chànggē",
+        "eg_vietnamese": "Ngày hôm qua hàng xóm của tôi ca hát không ngừng."
+    },
+    "车": {
+        "id": 42,
+        "pinyin": "chē",
+        "vietnamese": [
+            "Xe"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们开车去旅行。",
+        "eg_pinyin": "Wǒmen kāichē qù lǚxíng",
+        "eg_vietnamese": "Chúng tôi lái xe đi du lịch."
+    },
+    "车票": {
+        "id": 43,
+        "pinyin": "chēpiào",
+        "vietnamese": [
+            "Vé xe"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "快过年了，你买火车票了吗？",
+        "eg_pinyin": "Kuài guò nián le, nǐ mǎi huǒchē piào huí jiā le ma?",
+        "eg_vietnamese": "Tết sắp đến rồi, bạn đã mua vé tàu về nhà chưa?"
+    },
+    "车上": {
+        "id": 44,
+        "pinyin": "chē shàng",
+        "vietnamese": [
+            "Trên xe"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她在车上学英语。",
+        "eg_pinyin": "Tā zài chē shàng xué yīngyǔ",
+        "eg_vietnamese": "Cô ấy học tiếng Anh trên xe."
+    },
+    "车站": {
+        "id": 45,
+        "pinyin": "chēzhàn",
+        "vietnamese": [
+            "Trạm xe"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "车站离这里不远。",
+        "eg_pinyin": "Chēzhàn lí zhè lǐ bù yuǎn",
+        "eg_vietnamese": "Trạm xe cách đây không xa."
+    },
+    "吃": {
+        "id": 46,
+        "pinyin": "chī",
+        "vietnamese": [
+            "Ăn"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我喜欢吃苹果。",
+        "eg_pinyin": "Wǒ xǐhuan chī píngguǒ",
+        "eg_vietnamese": "Tôi thích ăn táo."
+    },
+    "吃饭": {
+        "id": 47,
+        "pinyin": "chīfàn",
+        "vietnamese": [
+            "Ăn cơm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们一起去吃饭吧。",
+        "eg_pinyin": "Wǒmen yīqǐ qù chīfàn ba",
+        "eg_vietnamese": "Chúng ta cùng nhau đi ăn cơm nhé."
+    },
+    "出": {
+        "id": 48,
+        "pinyin": "chū",
+        "vietnamese": [
+            "Đi; xuất phát"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他出去买东西了。",
+        "eg_pinyin": "Tā chū qù mǎi dōngxi le",
+        "eg_vietnamese": "Anh ấy ra ngoài mua đồ ăn rồi."
+    },
+    "出来": {
+        "id": 49,
+        "pinyin": "chūlái",
+        "vietnamese": [
+            "Ra; ra đây"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你出来，我跟你说句话。",
+        "eg_pinyin": "Nǐ chūlái，wǒ gēn nǐ shuō jù huà",
+        "eg_vietnamese": "Anh ra đây tôi nói chuyện với anh."
+    },
+    "出去": {
+        "id": 50,
+        "pinyin": "chūqù",
+        "vietnamese": [
+            "Ra; ra ngoài"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们一起出去玩儿吧。",
+        "eg_pinyin": "Wǒmen yīqǐ chūqù wánr ba",
+        "eg_vietnamese": "Chúng ta cùng nhau đi chơi đi."
+    },
+    "穿": {
+        "id": 51,
+        "pinyin": "chuān",
+        "vietnamese": [
+            "Mặc; đi; mang; đeo"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "今天我穿了件新衣服。",
+        "eg_pinyin": "Jīntiān wǒ chuān le jiàn xīn yīfu",
+        "eg_vietnamese": "Hôm nay tôi mặc quần áo mới."
+    },
+    "床": {
+        "id": 52,
+        "pinyin": "chuáng",
+        "vietnamese": [
+            "Giường"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我很累，想躺在床上。",
+        "eg_pinyin": "Wǒ hěn lèi, xiǎng tǎng zài chuáng shàng",
+        "eg_vietnamese": "Tôi rất mệt, muốn nằm trên giường."
+    },
+    "次": {
+        "id": 53,
+        "pinyin": "cì",
+        "vietnamese": [
+            "Lần; lượt; đợt"
+        ],
+        "english": [],
+        "type": "Lượng từ",
+        "eg_chinese": "这是我第一次来这里。",
+        "eg_pinyin": "Zhè shì wǒ dì yī cì lái zhè lǐ",
+        "eg_vietnamese": "Đây là lần đầu tiên tôi đến đây."
+    },
+    "从": {
+        "id": 54,
+        "pinyin": "cóng",
+        "vietnamese": [
+            "Từ; bắt đầu từ"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "我从家里走到学校。",
+        "eg_pinyin": "Wǒ cóng jiālǐ zǒu dào xuéxiào",
+        "eg_vietnamese": "Tôi đi bộ từ nhà đến trường."
+    },
+    "错": {
+        "id": 55,
+        "pinyin": "cuò",
+        "vietnamese": [
+            "Sai; nhầm; không đúng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "你做错了。",
+        "eg_pinyin": "Nǐ zuò cuò le",
+        "eg_vietnamese": "Bạn làm sai rồi."
+    },
+    "打": {
+        "id": 56,
+        "pinyin": "dǎ",
+        "vietnamese": [
+            "Gõ; đánh; đập;..."
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我弟弟在打篮球。",
+        "eg_pinyin": "Wǒ dìdi zài dǎqiú",
+        "eg_vietnamese": "Em trai tôi đang chơi bóng rổ."
+    },
+    "打车": {
+        "id": 57,
+        "pinyin": "dǎchē",
+        "vietnamese": [
+            "Bắt xe; gọi xe (taxi)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们打车去机场。",
+        "eg_pinyin": "Wǒmen dǎ chē qù jīchǎng",
+        "eg_vietnamese": "Chúng ta bắt xe đến sân bay."
+    },
+    "打电话": {
+        "id": 58,
+        "pinyin": "dǎ diànhuà",
+        "vietnamese": [
+            "Gọi điện thoại"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "等一下，我要打电话问问。",
+        "eg_pinyin": "Děng yīxià, wǒ yào dǎ diànhuà wèn wèn",
+        "eg_vietnamese": "Đợi chút nha, tôi cần gọi điện thoại hỏi thăm."
+    },
+    "打开": {
+        "id": 59,
+        "pinyin": "dǎkāi",
+        "vietnamese": [
+            "Mở ra"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请你把门打开。",
+        "eg_pinyin": "Qǐng nǐ bǎ mén dǎkāi",
+        "eg_vietnamese": "Xin bạn hãy mở cửa ra."
+    },
+    "打球": {
+        "id": 60,
+        "pinyin": "dǎqiú",
+        "vietnamese": [
+            "Đánh bóng; chơi bóng"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他们很喜欢打球。",
+        "eg_pinyin": "Tā xǐhuān dǎ lánqiú",
+        "eg_vietnamese": "Cậu ấy thích chơi bóng rổ."
+    },
+    "大": {
+        "id": 61,
+        "pinyin": "dà",
+        "vietnamese": [
+            "Lớn; to"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这个房子很大。",
+        "eg_pinyin": "Zhège fángzi hěn dà",
+        "eg_vietnamese": "Căn nhà này rất lớn."
+    },
+    "大学": {
+        "id": 62,
+        "pinyin": "dàxué",
+        "vietnamese": [
+            "Đại học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他在北京大学学习。",
+        "eg_pinyin": "Tā zài Běijīng dàxué xuéxí",
+        "eg_vietnamese": "Anh ấy học ở Đại học Bắc Kinh."
+    },
+    "大学生": {
+        "id": 63,
+        "pinyin": "dàxuéshēng",
+        "vietnamese": [
+            "Sinh viên đại học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我是大学生。",
+        "eg_pinyin": "Wǒ shì dàxuéshēng",
+        "eg_vietnamese": "Tôi là sinh viên đại học."
+    },
+    "到": {
+        "id": 64,
+        "pinyin": "dào",
+        "vietnamese": [
+            "Đến"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们到达了目的地。",
+        "eg_pinyin": "Wǒmen dàodá le mùdìdì",
+        "eg_vietnamese": "Chúng ta đã đến nơi."
+    },
+    "得到": {
+        "id": 65,
+        "pinyin": "dédào",
+        "vietnamese": [
+            "Đạt được; nhận được"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他得到了奖学金。",
+        "eg_pinyin": "Tā dédào le jiǎngxuéjīn",
+        "eg_vietnamese": "Anh ấy đã nhận được học bổng."
+    },
+    "地": {
+        "id": 69,
+        "pinyin": "dì",
+        "vietnamese": [
+            "Đất; trái đất"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "地球上有许多不同的生物。",
+        "eg_pinyin": "Dìqiú shàng yǒu xǔduō bùtóng de shēngwù",
+        "eg_vietnamese": "Trên Trái Đất có rất nhiều sinh vật khác nhau."
+    },
+    "的": {
+        "id": 67,
+        "pinyin": "de",
+        "vietnamese": [
+            "Của (chỉ sở hữu)"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "这是我的书。",
+        "eg_pinyin": "Zhè shì wǒ de shū",
+        "eg_vietnamese": "Đây là sách của tôi."
+    },
+    "等": {
+        "id": 68,
+        "pinyin": "děng",
+        "vietnamese": [
+            "Đợi; chờ; chờ đợi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我在等她的电话。",
+        "eg_pinyin": "Wǒ zài děng tā de diànhuà",
+        "eg_vietnamese": "Tôi đang đợi cuộc gọi của cô ấy."
+    },
+    "地点": {
+        "id": 70,
+        "pinyin": "dìdiǎn",
+        "vietnamese": [
+            "Địa điểm; nơi chốn"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "会议的地点已经确定了。",
+        "eg_pinyin": "Huìyì de dìdiǎn yǐjīng quèdìng le",
+        "eg_vietnamese": "Địa điểm cuộc họp đã được xác định."
+    },
+    "地方": {
+        "id": 71,
+        "pinyin": "dìfāng",
+        "vietnamese": [
+            "Bản xứ, bản địa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他是这个地方的人。",
+        "eg_pinyin": "Tā shì zhège dìfāng de rén",
+        "eg_vietnamese": "Anh ấy là người bản địa."
+    },
+    "地上": {
+        "id": 72,
+        "pinyin": "dìshàng",
+        "vietnamese": [
+            "Mặt đất; dưới đất"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "地上有很多树叶。",
+        "eg_pinyin": "Dìshàng yǒu hěnduō shùyè",
+        "eg_vietnamese": "Dưới đất có rất nhiều lá cây."
+    },
+    "地图": {
+        "id": 73,
+        "pinyin": "dìtú",
+        "vietnamese": [
+            "Bản đồ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这是世界地图。",
+        "eg_pinyin": "Zhè shì shìjiè dìtú",
+        "eg_vietnamese": "Đây là bản đồ thế giới."
+    },
+    "弟弟 |  弟": {
+        "id": 74,
+        "pinyin": "dìdi | dì",
+        "vietnamese": [
+            "Em trai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我有一个弟弟。",
+        "eg_pinyin": "Wǒ yǒu yīgè dìdi",
+        "eg_vietnamese": "Tôi có một người em trai."
+    },
+    "第 （第二）": {
+        "id": 75,
+        "pinyin": "dì (dì èr)",
+        "vietnamese": [
+            "Thứ tự; thứ hạng"
+        ],
+        "english": [],
+        "type": "Tiền tố",
+        "eg_chinese": "这是第一个问题。",
+        "eg_pinyin": "Zhè shì dì yī gè wèntí",
+        "eg_vietnamese": "Đây là câu hỏi đầu tiên."
+    },
+    "点": {
+        "id": 76,
+        "pinyin": "diǎn",
+        "vietnamese": [
+            "Nơi; chỗ; điểm"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们去那个点看看。",
+        "eg_pinyin": "Wǒmen qù nàgè diǎn kàn kàn",
+        "eg_vietnamese": "Chúng ta đi đến chỗ đó xem thử."
+    },
+    "电": {
+        "id": 77,
+        "pinyin": "diàn",
+        "vietnamese": [
+            "Điện; pin; điện năng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的手机没电了。",
+        "eg_pinyin": "Wǒ de shǒujī méi diàn le",
+        "eg_vietnamese": "Điện thoại tôi hết pin rồi."
+    },
+    "电话": {
+        "id": 78,
+        "pinyin": "diànhuà",
+        "vietnamese": [
+            "Điện thoại"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他正在打电话。",
+        "eg_pinyin": "Tā zhèngzài dǎ diànhuà",
+        "eg_vietnamese": "Anh ấy đang gọi điện thoại."
+    },
+    "电脑": {
+        "id": 79,
+        "pinyin": "diànnǎo",
+        "vietnamese": [
+            "Máy tính"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个电脑非常贵。",
+        "eg_pinyin": "Zhège diànnǎo fēicháng guì",
+        "eg_vietnamese": "Máy tính này rất đắt."
+    },
+    "电视 | 电视机": {
+        "id": 80,
+        "pinyin": "diànshì | diànshì jī",
+        "vietnamese": [
+            "Tivi"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "爸爸在看电视。",
+        "eg_pinyin": "Bàba zài kàn diànshì",
+        "eg_vietnamese": "Bố đang xem tivi."
+    },
+    "电影": {
+        "id": 82,
+        "pinyin": "diànyǐng",
+        "vietnamese": [
+            "Phim ảnh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "昨天我们看了一部电影。",
+        "eg_pinyin": "Zuótiān wǒmen kàn le yī bù diànyǐng",
+        "eg_vietnamese": "Hôm qua chúng tôi đã xem một bộ phim."
+    },
+    "电影院": {
+        "id": 83,
+        "pinyin": "diànyǐngyuàn",
+        "vietnamese": [
+            "Rạp chiếu phim"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们去电影院看电影。",
+        "eg_pinyin": "Wǒmen qù diànyǐngyuàn kàn diànyǐng",
+        "eg_vietnamese": "Chúng tôi đi rạp chiếu phim để xem phim."
+    },
+    "东": {
+        "id": 84,
+        "pinyin": "dōng",
+        "vietnamese": [
+            "Đông; hướng đông"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "学校在东边。",
+        "eg_pinyin": "Xuéxiào zài dōngbian",
+        "eg_vietnamese": "Trường học ở phía Đông."
+    },
+    "东边": {
+        "id": 85,
+        "pinyin": "dōngbian",
+        "vietnamese": [
+            "Phía đông, hướng đông"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "东西": {
+        "id": 86,
+        "pinyin": "dōngxi",
+        "vietnamese": [
+            "Đồ; vật; đồ ăn; đồ đạc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "吃东西的时候不要说话。",
+        "eg_pinyin": "Chī dōngxi de shíhòu bùyào shuōhuà",
+        "eg_vietnamese": "Không nên nói chuyện khi đang ăn."
+    },
+    "动": {
+        "id": 87,
+        "pinyin": "dòng",
+        "vietnamese": [
+            "Chuyển động; cử động"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "她的眼睛动了一下。",
+        "eg_pinyin": "Tā de yǎnjīng dòng le yīxià",
+        "eg_vietnamese": "Mắt của cô ấy nhúc nhích một cái."
+    },
+    "动作": {
+        "id": 88,
+        "pinyin": "dòngzuò",
+        "vietnamese": [
+            "Động tác; hành động"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "舞蹈的动作很优美。",
+        "eg_pinyin": "Wǔdǎo de dòngzuò hěn yōuměi",
+        "eg_vietnamese": "Động tác của điệu nhảy rất đẹp."
+    },
+    "都": {
+        "id": 89,
+        "pinyin": "dōu",
+        "vietnamese": [
+            "Đều, cả"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我们都很忙。",
+        "eg_pinyin": "Wǒmen dōu hěn máng",
+        "eg_vietnamese": "Chúng tôi đều rất bận."
+    },
+    "读": {
+        "id": 90,
+        "pinyin": "dú",
+        "vietnamese": [
+            "Đọc; xem"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我正在读书。",
+        "eg_pinyin": "Wǒ zhèngzài dú shū",
+        "eg_vietnamese": "Tôi đang đọc sách."
+    },
+    "读书": {
+        "id": 91,
+        "pinyin": "dúshū",
+        "vietnamese": [
+            "Học bài"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他很努力读书。",
+        "eg_pinyin": "Tā hěn nǔ lì dú shū",
+        "eg_vietnamese": "Anh ấy rất chăm chỉ học bài."
+    },
+    "对": {
+        "id": 92,
+        "pinyin": "duì",
+        "vietnamese": [
+            "Đúng; chính xác"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "你的答案是对的。",
+        "eg_pinyin": "Nǐ de dá'àn shì duì de",
+        "eg_vietnamese": "Câu trả lời của bạn là đúng."
+    },
+    "对不起": {
+        "id": 93,
+        "pinyin": "duìbuqǐ",
+        "vietnamese": [
+            "Xin lỗi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "对不起，我迟到了。",
+        "eg_pinyin": "Duìbuqǐ, wǒ chídào le",
+        "eg_vietnamese": "Xin lỗi, tôi đã đến muộn."
+    },
+    "多": {
+        "id": 94,
+        "pinyin": "duō",
+        "vietnamese": [
+            "Nhiều; rất nhiều",
+            "Dư ra; thừa ra"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "今天的作业不太多。",
+        "eg_pinyin": "Jīntiān de zuòyè bù tài duō",
+        "eg_vietnamese": "Bài tập hôm nay không nhiều lắm."
+    },
+    "多少": {
+        "id": 95,
+        "pinyin": "duōshǎo",
+        "vietnamese": [
+            "Bao nhiêu; mấy; mấy mươi"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "这个多少钱？",
+        "eg_pinyin": "Zhège duōshǎo qián?",
+        "eg_vietnamese": "Cái này bao nhiêu tiền?"
+    },
+    "饿": {
+        "id": 96,
+        "pinyin": "è",
+        "vietnamese": [
+            "Đói; bị đói"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我现在很饿。",
+        "eg_pinyin": "Wǒ xiànzài hěn è",
+        "eg_vietnamese": "Bây giờ tôi rất đói."
+    },
+    "儿子": {
+        "id": 97,
+        "pinyin": "érzi",
+        "vietnamese": [
+            "Con trai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我有一个儿子。",
+        "eg_pinyin": "Wǒ yǒu yí gè érzi",
+        "eg_vietnamese": "Tôi có một cậu con trai."
+    },
+    "二": {
+        "id": 98,
+        "pinyin": "èr",
+        "vietnamese": [
+            "Số hai"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我们班有二十人。",
+        "eg_pinyin": "Wǒmen bān yǒu èrshí rén",
+        "eg_vietnamese": "Lớp chúng ta có 20 người."
+    },
+    "饭": {
+        "id": 99,
+        "pinyin": "fàn",
+        "vietnamese": [
+            "Cơm; bữa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我还没吃晚饭呢。\n\n他每天都吃三顿饭。",
+        "eg_pinyin": "Wǒ hái méi chī wǎnfàn ne/\n\n/Tā měitiān dōu chī sān dùn fàn",
+        "eg_vietnamese": "Tôi vẫn chưa ăn cơm tối. \n\nMỗi ngày anh ấy đều ăn ba bữa."
+    },
+    "饭店": {
+        "id": 100,
+        "pinyin": "fàndiàn",
+        "vietnamese": [
+            "Quán cơm; nhà hàng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这家饭店的菜很好吃。",
+        "eg_pinyin": "Zhè jiā fàndiàn de cài hěn hǎochī",
+        "eg_vietnamese": "Đồ ăn của nhà hàng này rất ngon."
+    },
+    "房间": {
+        "id": 101,
+        "pinyin": "fángjiān",
+        "vietnamese": [
+            "Căn phòng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这是我的房间。",
+        "eg_pinyin": "Zhè shì wǒ de fángjiān",
+        "eg_vietnamese": "Đây là phòng của tôi."
+    },
+    "房子": {
+        "id": 102,
+        "pinyin": "fángzi",
+        "vietnamese": [
+            "Căn nhà; nhà"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他们买了一套新房子。",
+        "eg_pinyin": "Tāmen mǎi le yī tào xīn fángzi",
+        "eg_vietnamese": "Họ đã mua một căn nhà mới."
+    },
+    "放": {
+        "id": 103,
+        "pinyin": "fàng",
+        "vietnamese": [
+            "Đặt; để"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请把书放在桌子上。",
+        "eg_pinyin": "Qǐng bǎ shū fàng zài zhuōzi shàng",
+        "eg_vietnamese": "Vui lòng đặt quyển sách lên bàn."
+    },
+    "放假": {
+        "id": 104,
+        "pinyin": "fàngjià",
+        "vietnamese": [
+            "Nghỉ, nghỉ lễ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "放假了，我们一起去玩吧。",
+        "eg_pinyin": "Fàngjià le, wǒmen yīqǐ qù wán ba",
+        "eg_vietnamese": "Nghỉ lễ rồi, chúng ta cùng đi chơi nhé."
+    },
+    "放学": {
+        "id": 105,
+        "pinyin": "fàngxué",
+        "vietnamese": [
+            "Tan học"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们下午四点半放学。",
+        "eg_pinyin": "Wǒmen xiàwǔ sì diǎn bàn fàngxué",
+        "eg_vietnamese": "Chúng tôi tan học lúc 4 giờ 30 chiều."
+    },
+    "飞": {
+        "id": 106,
+        "pinyin": "fēi",
+        "vietnamese": [
+            "Bay"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "小鸟在天上飞得很快。",
+        "eg_pinyin": "Xiǎo niǎo zài tiān shàng fēi de hěn kuài",
+        "eg_vietnamese": "Con chim nhỏ bay rất nhanh trên trời."
+    },
+    "飞机": {
+        "id": 107,
+        "pinyin": "fēijī",
+        "vietnamese": [
+            "Máy bay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我第一次坐飞机时特别开心。",
+        "eg_pinyin": "Wǒ dì yī cì zuò fēijī shí tèbié kāixīn",
+        "eg_vietnamese": "Lần đầu tiên tôi đi máy bay, tôi rất vui mừng."
+    },
+    "非常": {
+        "id": 108,
+        "pinyin": "fēicháng",
+        "vietnamese": [
+            "Đặc biệt; rất; vô cùng"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "这个地方非常漂亮。",
+        "eg_pinyin": "Zhège dìfāng fēicháng piàoliang",
+        "eg_vietnamese": "Nơi này cực kỳ đẹp."
+    },
+    "分": {
+        "id": 109,
+        "pinyin": "fēn",
+        "vietnamese": [
+            "Điểm số",
+            "Phần",
+            "phút"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这次考试我考了100分。",
+        "eg_pinyin": "Zhè cì kǎoshì wǒ kǎole 100 fēn",
+        "eg_vietnamese": "Kỳ thi lần này tôi thi được 100 điểm."
+    },
+    "风": {
+        "id": 110,
+        "pinyin": "fēng",
+        "vietnamese": [
+            "Gió"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天的风很大，不要出去。",
+        "eg_pinyin": "Jīntiān de fēng hěn dà, bù yào chūqù",
+        "eg_vietnamese": "Hôm nay gió lớn, đừng ra ngoài."
+    },
+    "干": {
+        "id": 113,
+        "pinyin": "gàn",
+        "vietnamese": [
+            "Quấy rầy; làm loạn",
+            "uống cạn; uống sạch"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
+        "eg_pinyin": "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba",
+        "eg_vietnamese": "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này."
+    },
+    "干净": {
+        "id": 112,
+        "pinyin": "gānjìng",
+        "vietnamese": [
+            "Sạch sẽ, gọn gàng"
+        ],
+        "english": [],
+        "type": "",
+        "eg_chinese": "你的房间很干净。",
+        "eg_pinyin": "Nǐ de fángjiān hěn gānjìng",
+        "eg_vietnamese": "Phòng của bạn rất sạch sẽ."
+    },
+    "干什么": {
+        "id": 114,
+        "pinyin": "gàn shénme",
+        "vietnamese": [
+            "Làm gì thế; tại sao"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你干什么不早说呀?",
+        "eg_pinyin": "Nǐ gànshénme bù zǎo shuō ya",
+        "eg_vietnamese": "Tại sao bạn không nói sớm?"
+    },
+    "高": {
+        "id": 115,
+        "pinyin": "gāo",
+        "vietnamese": [
+            "Cao"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "你比我高一点儿。",
+        "eg_pinyin": "Nǐ bǐ wǒ gāo yìdiǎnr",
+        "eg_vietnamese": "Bạn cao hơn tôi một chút."
+    },
+    "高兴": {
+        "id": 116,
+        "pinyin": "gāoxìng",
+        "vietnamese": [
+            "Vui mừng; háo hức"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "今天我很高兴。",
+        "eg_pinyin": "Jīntiān wǒ hěn gāoxìng",
+        "eg_vietnamese": "Hôm nay tôi rất vui."
+    },
+    "告诉": {
+        "id": 117,
+        "pinyin": "gàosu",
+        "vietnamese": [
+            "Nói; bày tỏ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "妈妈告诉我早点回家。",
+        "eg_pinyin": "Māma gàosu wǒ zǎodiǎn huíjiā",
+        "eg_vietnamese": "Mẹ bảo tôi về nhà sớm."
+    },
+    "哥哥  | 哥": {
+        "id": 118,
+        "pinyin": "gēge/  |  /gē",
+        "vietnamese": [
+            "Anh trai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的哥哥比我大五岁。",
+        "eg_pinyin": "Wǒ de gēge bǐ wǒ dà wǔ suì",
+        "eg_vietnamese": "Anh trai tôi lớn hơn tôi năm tuổi."
+    },
+    "歌": {
+        "id": 119,
+        "pinyin": "gē",
+        "vietnamese": [
+            "Hát; ca"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "这首歌很好听。",
+        "eg_pinyin": "Zhè shǒu gē hěn hǎotīng",
+        "eg_vietnamese": "Bài hát này rất hay."
+    },
+    "个": {
+        "id": 120,
+        "pinyin": "gè",
+        "vietnamese": [
+            "Cái này"
+        ],
+        "english": [],
+        "type": "Lượng từ",
+        "eg_chinese": "我买了一个新手机。",
+        "eg_pinyin": "Wǒ mǎi le yī gè xīn shǒujī",
+        "eg_vietnamese": "Tôi đã mua một chiếc điện thoại mới."
+    },
+    "给": {
+        "id": 121,
+        "pinyin": "gěi",
+        "vietnamese": [
+            "Đưa"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "妈妈给我买了一本书。",
+        "eg_pinyin": "Māma gěi wǒ mǎi le yī běn shū",
+        "eg_vietnamese": "Mẹ đã mua cho tôi một quyển sách."
+    },
+    "跟": {
+        "id": 122,
+        "pinyin": "gēn",
+        "vietnamese": [
+            "Cùng; với"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "我跟朋友一起去旅行。",
+        "eg_pinyin": "Wǒ gēn péngyǒu yīqǐ qù lǚxíng",
+        "eg_vietnamese": "Tôi đi du lịch cùng bạn bè."
+    },
+    "工人": {
+        "id": 123,
+        "pinyin": "gōngrén",
+        "vietnamese": [
+            "Công nhân"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "工人们每天都努力工作。",
+        "eg_pinyin": "Gōngrénmen měitiān dōu nǔlì gōngzuò",
+        "eg_vietnamese": "Những công nhân làm việc chăm chỉ mỗi ngày."
+    },
+    "工作": {
+        "id": 124,
+        "pinyin": "gōngzuò",
+        "vietnamese": [
+            "Công việc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他的工作非常忙。",
+        "eg_pinyin": "Tā de gōngzuò fēicháng máng",
+        "eg_vietnamese": "Công việc của anh ấy rất bận."
+    },
+    "关": {
+        "id": 125,
+        "pinyin": "guān",
+        "vietnamese": [
+            "Đóng; tắt"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "睡觉前别忘了关灯。",
+        "eg_pinyin": "Shuìjiào qián bié wàngle guān dēng",
+        "eg_vietnamese": "Trước khi ngủ đừng quên tắt đèn."
+    },
+    "关上": {
+        "id": 126,
+        "pinyin": "guān shàng",
+        "vietnamese": [
+            "Đóng; đóng vào; đóng lại"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请关上门，谢谢你！",
+        "eg_pinyin": "Qǐng guānshàng mén, xièxiè nǐ",
+        "eg_vietnamese": "Hãy đóng cửa lại, cảm ơn bạn."
+    },
+    "贵": {
+        "id": 127,
+        "pinyin": "guì",
+        "vietnamese": [
+            "Đắt; mắc"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这件衣服太贵了。",
+        "eg_pinyin": "Zhè jiàn yīfu tài guì le",
+        "eg_vietnamese": "Bộ quần áo này quá đắt!"
+    },
+    "国": {
+        "id": 128,
+        "pinyin": "guó",
+        "vietnamese": [
+            "Nước; quốc gia"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "中国的美食非常有名。",
+        "eg_pinyin": "Zhōngguó de měishí fēicháng yǒumíng",
+        "eg_vietnamese": "Ẩm thực của Trung Quốc rất nổi tiếng."
+    },
+    "国家": {
+        "id": 129,
+        "pinyin": "guó jiā",
+        "vietnamese": [
+            "Quốc gia"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我爱我的国家。",
+        "eg_pinyin": "Wǒ ài wǒ de guójiā",
+        "eg_vietnamese": "Tôi yêu đất nước của tôi."
+    },
+    "国外": {
+        "id": 130,
+        "pinyin": "guó wài",
+        "vietnamese": [
+            "Nước ngoài"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他在国外上大学。",
+        "eg_pinyin": "Tā zài guówài shàng dàxué",
+        "eg_vietnamese": "Anh ấy học đại học ở nước ngoài."
+    },
+    "过": {
+        "id": 131,
+        "pinyin": "guò",
+        "vietnamese": [
+            "Qua; đi qua; vượt qua"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我去过中国三次。",
+        "eg_pinyin": "Wǒ qù guò Zhōngguó sān cì",
+        "eg_vietnamese": "Tôi đã đến Trung Quốc ba lần."
+    },
+    "还": {
+        "id": 153,
+        "pinyin": "huán",
+        "vietnamese": [
+            "Trả lại"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "她明天把书还给图书馆。",
+        "eg_pinyin": "Tā míngtiān bǎ shū huán gěi túshū guǎn",
+        "eg_vietnamese": "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện"
+    },
+    "还是": {
+        "id": 133,
+        "pinyin": "hái shì",
+        "vietnamese": [
+            "Vẫn; còn; vẫn còn"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "你想喝茶还是咖啡？",
+        "eg_pinyin": "Nǐ xiǎng hē chá háishì kāfēi?",
+        "eg_vietnamese": "Bạn muốn uống trà hay cà phê?"
+    },
+    "还有": {
+        "id": 134,
+        "pinyin": "hái yǒu",
+        "vietnamese": [
+            "Vẫn; còn; vẫn còn"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我家里还有两只猫。",
+        "eg_pinyin": "Wǒ jiālǐ hái yǒu liǎng zhī māo",
+        "eg_vietnamese": "Nhà tôi còn có hai con mèo."
+    },
+    "孩子": {
+        "id": 135,
+        "pinyin": "hái zi",
+        "vietnamese": [
+            "Con; bọn trẻ; trẻ em"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "孩子们在公园玩儿。",
+        "eg_pinyin": "Háizimen zài gōngyuán wánr",
+        "eg_vietnamese": "Mấy đứa trẻ đang chơi trong công viên."
+    },
+    "汉语": {
+        "id": 136,
+        "pinyin": "Hàn yǔ",
+        "vietnamese": [
+            "Tiếng hán; hán ngữ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他的汉语说得很好。",
+        "eg_pinyin": "Tā de Hànyǔ shuō de hěn hăo",
+        "eg_vietnamese": "Anh ấy nói tiếng Trung rất giỏi."
+    },
+    "汉字": {
+        "id": 137,
+        "pinyin": "Hàn zì",
+        "vietnamese": [
+            "Chữ hán"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我会写汉字。",
+        "eg_pinyin": "Wǒ huì xiě Hànzì",
+        "eg_vietnamese": "Tôi biết viết chữ Hán."
+    },
+    "好": {
+        "id": 138,
+        "pinyin": "hǎo",
+        "vietnamese": [
+            "Tốt; hay; ổn"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "你身体好吗？",
+        "eg_pinyin": "Nǐ shēntǐ hǎo ma",
+        "eg_vietnamese": "Bạn có khỏe không?"
+    },
+    "好吃": {
+        "id": 139,
+        "pinyin": "hǎo chī",
+        "vietnamese": [
+            "Ngon; ngon miệng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这家餐厅的菜非常好吃。",
+        "eg_pinyin": "Zhè jiā cāntīng de cài fēicháng hǎochī",
+        "eg_vietnamese": "Món ăn của nhà hàng này rất ngon."
+    },
+    "好看": {
+        "id": 140,
+        "pinyin": "hǎo kàn",
+        "vietnamese": [
+            "Đẹp; hay; thú vị"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这本书很好看，我喜欢。",
+        "eg_pinyin": "Zhè běn shū hěn hǎokàn, wǒ xǐhuān",
+        "eg_vietnamese": "Cuốn sách này rất hay, tôi thích."
+    },
+    "好听": {
+        "id": 141,
+        "pinyin": "hǎotīng",
+        "vietnamese": [
+            "Hay; dễ nghe; êm tai (âm thanh)"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这首歌很好听。",
+        "eg_pinyin": "Zhè shǒu gē hěn hǎotīng",
+        "eg_vietnamese": "Bài hát này rất hay."
+    },
+    "好玩儿": {
+        "id": 142,
+        "pinyin": "hǎowánr",
+        "vietnamese": [
+            "Hay; thú vị; thích thú"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这个游戏很好玩儿。",
+        "eg_pinyin": "Zhège yóuxì hěn hǎowánr",
+        "eg_vietnamese": "Trò chơi này rất vui."
+    },
+    "号": {
+        "id": 143,
+        "pinyin": "hào",
+        "vietnamese": [
+            "Số; số thứ tự"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你的房间号是多少？",
+        "eg_pinyin": "Nǐ de fángjiān hào shì duōshǎo",
+        "eg_vietnamese": "Số phòng của bạn là bao nhiêu?"
+    },
+    "喝": {
+        "id": 144,
+        "pinyin": "hē",
+        "vietnamese": [
+            "Uống"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我每天早上都喝咖啡。",
+        "eg_pinyin": "Wǒ měitiān zǎoshang dōu hē kāfēi",
+        "eg_vietnamese": "Mỗi sáng tôi đều uống cà phê."
+    },
+    "和": {
+        "id": 145,
+        "pinyin": "hé",
+        "vietnamese": [
+            "Và; với",
+            "Với; cùng"
+        ],
+        "english": [],
+        "type": "Liên từ",
+        "eg_chinese": "我买了一本书和一件衣服。",
+        "eg_pinyin": "Wǒ mǎile yī běn shū hé yī jiàn yīfú",
+        "eg_vietnamese": "Tôi đã mua 1 cuốn sách và 1 bộ quần áo."
+    },
+    "很": {
+        "id": 146,
+        "pinyin": "hěn",
+        "vietnamese": [
+            "Rất, nhiều"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "今天的课文很长， 生词很多。",
+        "eg_pinyin": "Jīntiān de kèwén hěn cháng, shēngcí hěnduō",
+        "eg_vietnamese": "Hôm nay bài khoá rất dài, nên từ mới rất nhiều."
+    },
+    "后 | 后边": {
+        "id": 147,
+        "pinyin": "hòu/ | /hòubian",
+        "vietnamese": [
+            "Sau; phía sau"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "书店在学校的后边。",
+        "eg_pinyin": "Shūdiàn zài xuéxiào de hòubian",
+        "eg_vietnamese": "Hiệu sách ở phía sau trường học."
+    },
+    "后天": {
+        "id": 149,
+        "pinyin": "hòutiān",
+        "vietnamese": [
+            "Ngày hôm sau"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们后天去北京。",
+        "eg_pinyin": "Wǒmen hòutiān qù Běijīng",
+        "eg_vietnamese": "Chúng tôi sẽ đi Bắc Kinh vào ngày kia."
+    },
+    "花": {
+        "id": 150,
+        "pinyin": "huā",
+        "vietnamese": [
+            "Hoa; bông hoa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "花园里有很多花。",
+        "eg_pinyin": "Huāyuán lǐ yǒu hěn duō huā",
+        "eg_vietnamese": "Trong vườn có rất nhiều hoa."
+    },
+    "话": {
+        "id": 151,
+        "pinyin": "huà",
+        "vietnamese": [
+            "Lời nói; ngôn từ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她的话让我很高兴。",
+        "eg_pinyin": "Tā de huà ràng wǒ hěn gāoxìng",
+        "eg_vietnamese": "Lời của cô ấy làm tôi rất vui."
+    },
+    "坏": {
+        "id": 152,
+        "pinyin": "huài",
+        "vietnamese": [
+            "Hư; hư hỏng; xấu"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我的手机坏了，不能用。",
+        "eg_pinyin": "Wǒ de shǒujī huài le, bù néng yòng",
+        "eg_vietnamese": "Điện thoại của tôi bị hỏng, không thể dùng."
+    },
+    "回": {
+        "id": 154,
+        "pinyin": "huí",
+        "vietnamese": [
+            "Quay lại; quay về"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我每天六点回家。",
+        "eg_pinyin": "Wǒ měitiān liù diǎn huí jiā",
+        "eg_vietnamese": "Tôi về nhà lúc 6 giờ mỗi ngày."
+    },
+    "回答": {
+        "id": 155,
+        "pinyin": "huídá",
+        "vietnamese": [
+            "Trả lời"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请回答我的问题。",
+        "eg_pinyin": "Qǐng huídá wǒ de wèntí",
+        "eg_vietnamese": "Hãy trả lời câu hỏi của tôi."
+    },
+    "回到": {
+        "id": 156,
+        "pinyin": "huídào",
+        "vietnamese": [
+            "Về đến; trở về"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他回到家了。",
+        "eg_pinyin": "Tā huídào jiā le",
+        "eg_vietnamese": "Anh ấy đã về đến nhà rồi."
+    },
+    "回家": {
+        "id": 157,
+        "pinyin": "huí jiā",
+        "vietnamese": [
+            "Về nhà; đến nhà"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "朋友们都回家了。",
+        "eg_pinyin": "Péngyǒumen dōu huí jiā le",
+        "eg_vietnamese": "Các bạn tôi đều đã về nhà rồi."
+    },
+    "回来": {
+        "id": 158,
+        "pinyin": "huí lái",
+        "vietnamese": [
+            "Trở lại"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他晚上七点回来。",
+        "eg_pinyin": "Tā wǎnshàng qī diǎn huí lái",
+        "eg_vietnamese": "Anh ấy sẽ quay lại lúc 7 giờ tối."
+    },
+    "回去": {
+        "id": 159,
+        "pinyin": "huí qù",
+        "vietnamese": [
+            "Về; trở lại; đi về"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们早点回去吧。",
+        "eg_pinyin": "Wǒmen zǎodiǎn huí qù ba",
+        "eg_vietnamese": "Chúng ta về sớm một chút đi."
+    },
+    "会": {
+        "id": 160,
+        "pinyin": "huì",
+        "vietnamese": [
+            "Sẽ; có; biết"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你会做中国菜吗？",
+        "eg_pinyin": "Nǐ huì zuò zhōngguó cài ma",
+        "eg_vietnamese": "Bạn biết nấu món Trung Quốc không?"
+    },
+    "火车": {
+        "id": 161,
+        "pinyin": "huǒchē",
+        "vietnamese": [
+            "Tàu hỏa; xe lửa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我坐火车去北京。",
+        "eg_pinyin": "Wǒ zuò huǒchē qù Běijīng",
+        "eg_vietnamese": "Tôi đi Bắc Kinh bằng tàu hỏa."
+    },
+    "机场": {
+        "id": 162,
+        "pinyin": "jīchǎng",
+        "vietnamese": [
+            "Sân bay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他去机场接朋友。",
+        "eg_pinyin": "Tā qù jīchǎng jiē péngyǒu",
+        "eg_vietnamese": "Anh ấy đến sân bay đón bạn."
+    },
+    "机票": {
+        "id": 163,
+        "pinyin": "jīpiào",
+        "vietnamese": [
+            "Vé máy bay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你买机票了吗？",
+        "eg_pinyin": "Nǐ mǎi jīpiào le ma",
+        "eg_vietnamese": "Bạn đã mua vé máy bay chưa?"
+    },
+    "鸡蛋": {
+        "id": 164,
+        "pinyin": "jīdàn",
+        "vietnamese": [
+            "Trứng gà"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我买了一些鸡蛋。",
+        "eg_pinyin": "Wǒ mǎi le yīxiē jīdàn",
+        "eg_vietnamese": "Tôi đã mua một vài quả trứng."
+    },
+    "几": {
+        "id": 165,
+        "pinyin": "jǐ",
+        "vietnamese": [
+            "Mấy; bao nhiêu"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "你有几个兄弟姐妹？",
+        "eg_pinyin": "Nǐ yǒu jǐ gè xiōngdì jiěmèi",
+        "eg_vietnamese": "Bạn có mấy anh chị em?"
+    },
+    "记": {
+        "id": 166,
+        "pinyin": "jì",
+        "vietnamese": [
+            "Nhớ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我记不住这个汉字。",
+        "eg_pinyin": "Wǒ jì bù zhù zhège hànzì",
+        "eg_vietnamese": "Tôi không nhớ được chữ Hán này."
+    },
+    "记得": {
+        "id": 167,
+        "pinyin": "jìde",
+        "vietnamese": [
+            "Ghi nhớ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你还记得他的生日吗？",
+        "eg_pinyin": "Nǐ hái jìdé tā de shēngrì ma",
+        "eg_vietnamese": "Bạn còn nhớ sinh nhật của anh ấy không?"
+    },
+    "记住": {
+        "id": 168,
+        "pinyin": "jìzhù",
+        "vietnamese": [
+            "Nhớ; ghi nhớ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请记住这个电话号码。",
+        "eg_pinyin": "Qǐng jìzhù zhège diànhuà hàomǎ",
+        "eg_vietnamese": "Hãy nhớ số điện thoại này."
+    },
+    "家": {
+        "id": 169,
+        "pinyin": "jiā",
+        "vietnamese": [
+            "Nhà"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家在上海。",
+        "eg_pinyin": "Wǒ jiā zài Shànghǎi",
+        "eg_vietnamese": "Nhà tôi ở Thượng Hải."
+    },
+    "家里": {
+        "id": 170,
+        "pinyin": "jiā lǐ",
+        "vietnamese": [
+            "Trong nhà"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家里有很多书。",
+        "eg_pinyin": "Wǒ jiālǐ yǒu hěn duō shū",
+        "eg_vietnamese": "Trong nhà tôi có rất nhiều sách."
+    },
+    "家人": {
+        "id": 171,
+        "pinyin": "jiārén",
+        "vietnamese": [
+            "Người nhà"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家人都喜欢吃中国菜。",
+        "eg_pinyin": "Wǒ jiārén dōu xǐhuan chī Zhōngguó cài",
+        "eg_vietnamese": "Cả nhà tôi đều thích ăn đồ ăn Trung Quốc."
+    },
+    "间": {
+        "id": 172,
+        "pinyin": "jiān",
+        "vietnamese": [
+            "Giữa, ở giữa",
+            "Gian, buồng, phòng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他们之间的感情很好。",
+        "eg_pinyin": "Tāmen zhījiān de gǎnqíng hěn hǎo",
+        "eg_vietnamese": "Tình cảm giữa họ rất tốt."
+    },
+    "见": {
+        "id": 173,
+        "pinyin": "jiàn",
+        "vietnamese": [
+            "Gặp"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我在公园见到朋友。",
+        "eg_pinyin": "Wǒ zài gōngyuán jiàn dào péngyǒu",
+        "eg_vietnamese": "Tôi gặp bạn ở công viên."
+    },
+    "见面": {
+        "id": 174,
+        "pinyin": "jiànmiàn",
+        "vietnamese": [
+            "Gặp mặt"
+        ],
+        "english": [],
+        "type": "Động từ ly hợp",
+        "eg_chinese": "我很高兴和你见面。",
+        "eg_pinyin": "Wǒ hěn gāoxìng hé nǐ jiànmiàn",
+        "eg_vietnamese": "Tôi rất vui khi gặp bạn."
+    },
+    "教": {
+        "id": 175,
+        "pinyin": "jiāo",
+        "vietnamese": [
+            "Dạy, chỉ dạy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "她教我们英语。",
+        "eg_pinyin": "Tā jiāo wǒmen Yīngyǔ",
+        "eg_vietnamese": "Cô ấy dạy chúng tôi tiếng Anh."
+    },
+    "叫": {
+        "id": 176,
+        "pinyin": "jiào",
+        "vietnamese": [
+            "Gọi, kêu"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "妈妈叫我回家。",
+        "eg_pinyin": "Māmā jiào wǒ huí jiā",
+        "eg_vietnamese": "Mẹ gọi tôi về nhà."
+    },
+    "教学楼": {
+        "id": 177,
+        "pinyin": "jiàoxuélóu",
+        "vietnamese": [
+            "Tòa nhà giảng đường"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "教学楼在图书馆东边。",
+        "eg_pinyin": "Jiàoxué lóu zài túshū guǎn dōngbian",
+        "eg_vietnamese": "Tòa nhà giảng dạy nằm ở phía đông của thư viện."
+    },
+    "姐姐": {
+        "id": 178,
+        "pinyin": "jiějie",
+        "vietnamese": [
+            "Chị gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她是我的姐姐。",
+        "eg_pinyin": "Tā shì wǒ de jiějie",
+        "eg_vietnamese": "Cô ấy là chị gái tôi."
+    },
+    "介绍": {
+        "id": 179,
+        "pinyin": "jièshào",
+        "vietnamese": [
+            "Giới thiệu"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我来介绍一下我的朋友。",
+        "eg_pinyin": "Wǒ lái jièshào yīxià wǒ de péngyou",
+        "eg_vietnamese": "Tôi giới thiệu chút về bạn của tôi."
+    },
+    "今年": {
+        "id": 180,
+        "pinyin": "jīnnián",
+        "vietnamese": [
+            "Năm nay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今年是2025年。",
+        "eg_pinyin": "Jīnnián shì 2025 nián",
+        "eg_vietnamese": "Năm nay là năm 2025."
+    },
+    "今天": {
+        "id": 181,
+        "pinyin": "jīntiān",
+        "vietnamese": [
+            "Hôm nay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天的天气很好。",
+        "eg_pinyin": "Jīntiān de tiānqì hěn hǎo",
+        "eg_vietnamese": "Thời tiết hôm nay rất đẹp."
+    },
+    "进": {
+        "id": 182,
+        "pinyin": "jìn",
+        "vietnamese": [
+            "Vào, tiến vào, đi vào"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请进！",
+        "eg_pinyin": "Qǐng jìn",
+        "eg_vietnamese": "Xin mời vào!"
+    },
+    "进来": {
+        "id": 183,
+        "pinyin": "jìn lái",
+        "vietnamese": [
+            "Đi vào (hướng về người nói)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他刚刚进来了。",
+        "eg_pinyin": "Tā gānggāng jìn lái le",
+        "eg_vietnamese": "Anh ấy vừa mới vào."
+    },
+    "进去": {
+        "id": 184,
+        "pinyin": "jìn qù",
+        "vietnamese": [
+            "Đi vào (hướng xa người nói)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你先进去，我马上来。",
+        "eg_pinyin": "Nǐ xiān jìn qù, wǒ mǎshàng lái",
+        "eg_vietnamese": "Bạn vào trước đi, tôi đến ngay."
+    },
+    "九": {
+        "id": 185,
+        "pinyin": "jiǔ",
+        "vietnamese": [
+            "Số chín"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "这个班有九个学生。",
+        "eg_pinyin": "Zhège bān yǒu jiǔ gè xuéshēng",
+        "eg_vietnamese": "Lớp này có chín học sinh."
+    },
+    "就": {
+        "id": 186,
+        "pinyin": "jiù",
+        "vietnamese": [
+            "Thì, liền, ngay lập tức"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "他下班后就回家了。",
+        "eg_pinyin": "Tā xiàbān hòu jiù huíjiā le",
+        "eg_vietnamese": "Anh ấy tan làm liền về nhà."
+    },
+    "觉得": {
+        "id": 187,
+        "pinyin": "juéde",
+        "vietnamese": [
+            "Cảm thấy, cho rằng"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我觉得这本书很好看。",
+        "eg_pinyin": "Wǒ juéde zhè běn shū hěn hǎokàn",
+        "eg_vietnamese": "Tôi cảm thấy cuốn sách này rất hay."
+    },
+    "开": {
+        "id": 188,
+        "pinyin": "kāi",
+        "vietnamese": [
+            "Mở, bật, lái"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他正在学开车。",
+        "eg_pinyin": "Tā zhèngzài xué kāichē",
+        "eg_vietnamese": "Anh ấy đang học lái xe."
+    },
+    "开车": {
+        "id": 189,
+        "pinyin": "kāi chē",
+        "vietnamese": [
+            "Lái xe"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "开会": {
+        "id": 190,
+        "pinyin": "kāi huì",
+        "vietnamese": [
+            "Họp, tổ chức cuộc họp"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我下午三点要开会。",
+        "eg_pinyin": "Wǒ xiàwǔ sān diǎn yào kāi huì",
+        "eg_vietnamese": "Tôi có cuộc họp lúc 3 giờ chiều."
+    },
+    "开玩笑": {
+        "id": 191,
+        "pinyin": "kāi wánxiào",
+        "vietnamese": [
+            "Đùa, nói đùa"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "别生气，我只是开玩笑。",
+        "eg_pinyin": "Bié shēngqì, wǒ zhǐshì kāi wánxiào",
+        "eg_vietnamese": "Đừng giận mà, tôi chỉ đùa thôi."
+    },
+    "看": {
+        "id": 192,
+        "pinyin": "kàn",
+        "vietnamese": [
+            "Nhìn, xem, đọc"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "这本书我看完了。",
+        "eg_pinyin": "Zhè běn shū wǒ kànwán le",
+        "eg_vietnamese": "Tôi đã đọc xong cuốn sách này."
+    },
+    "看病": {
+        "id": 193,
+        "pinyin": "kàn bìng",
+        "vietnamese": [
+            "Khám bệnh"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我今天去医院看病。",
+        "eg_pinyin": "Wǒ jīntiān qù yīyuàn kàn bìng",
+        "eg_vietnamese": "Hôm nay tôi đi bệnh viện khám bệnh."
+    },
+    "看到": {
+        "id": 194,
+        "pinyin": "kàndào",
+        "vietnamese": [
+            "Nhìn thấy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我在街上看到一只小猫。",
+        "eg_pinyin": "Wǒ zài jiē shàng kàndào yī zhī xiǎo māo",
+        "eg_vietnamese": "Tôi nhìn thấy một con mèo nhỏ trên đường."
+    },
+    "看见": {
+        "id": 195,
+        "pinyin": "kànjiàn",
+        "vietnamese": [
+            "Thấy, trông thấy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我看见一只小鸟在树上唱歌。",
+        "eg_pinyin": "Wǒ kànjiàn yī zhī xiǎo niǎo zài shù shàng chànggē",
+        "eg_vietnamese": "Tôi nhìn thấy một con chim đang hót trên cây."
+    },
+    "考": {
+        "id": 196,
+        "pinyin": "kǎo",
+        "vietnamese": [
+            "Thi, kiểm tra"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "这次考试很难。",
+        "eg_pinyin": "Zhè cì kǎoshì hěn nán",
+        "eg_vietnamese": "Kỳ thi lần này rất khó."
+    },
+    "考试": {
+        "id": 197,
+        "pinyin": "kǎoshì",
+        "vietnamese": [
+            "Kỳ thi, bài kiểm tra"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "渴": {
+        "id": 198,
+        "pinyin": "kě",
+        "vietnamese": [
+            "Khát"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我口渴了，想喝水。",
+        "eg_pinyin": "Wǒ kǒu kě le, xiǎng hē shuǐ",
+        "eg_vietnamese": "Tôi khát nước rồi, muốn uống nước."
+    },
+    "课": {
+        "id": 199,
+        "pinyin": "kè",
+        "vietnamese": [
+            "Tiết học, bài học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天的汉语课很有意思。",
+        "eg_pinyin": "Jīntiān de Hànyǔ kè hěn yǒuyìsi",
+        "eg_vietnamese": "Bài học tiếng Trung hôm nay rất thú vị."
+    },
+    "课本": {
+        "id": 200,
+        "pinyin": "kèběn",
+        "vietnamese": [
+            "Sách giáo khoa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你带课本了吗？",
+        "eg_pinyin": "Nǐ dài kèběn le ma",
+        "eg_vietnamese": "Bạn có mang sách giáo khoa không?"
+    },
+    "课文": {
+        "id": 201,
+        "pinyin": "kèwén",
+        "vietnamese": [
+            "Bài khóa (trong sách)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请大家朗读课文。",
+        "eg_pinyin": "Qǐng dàjiā lǎngdú kèwén",
+        "eg_vietnamese": "Mọi người vui lòng đọc to bài khóa."
+    },
+    "口": {
+        "id": 202,
+        "pinyin": "kǒu",
+        "vietnamese": [
+            "Miệng, mồm",
+            "cửa, cổng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我用盐水漱口。\n\n出口在左边，不要走错了。",
+        "eg_pinyin": "Wǒ yòng yánshuǐ shù kǒu/\n\n/Chūkǒu zài zuǒbiān, bùyào zǒu cuò le",
+        "eg_vietnamese": "Tôi dùng nước muối để súc miệng.\n\nCửa ra ở bên trái, đừng đi sai nhé."
+    },
+    "快": {
+        "id": 203,
+        "pinyin": "kuài",
+        "vietnamese": [
+            "Nhanh, mau"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "火车快要来了。",
+        "eg_pinyin": "Huǒchē kuài yào lái le",
+        "eg_vietnamese": "Tàu hỏa sắp đến rồi."
+    },
+    "块": {
+        "id": 204,
+        "pinyin": "kuài",
+        "vietnamese": [
+            "Viên, thỏi, miếng",
+            "Khối, miếng, chiếc",
+            "tờ, đồng (tiền)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢吃糖块儿。",
+        "eg_pinyin": "Wǒ xǐhuan chī táng kuàir",
+        "eg_vietnamese": "Tôi thích ăn kẹo viên."
+    },
+    "来": {
+        "id": 205,
+        "pinyin": "lái",
+        "vietnamese": [
+            "Đến, tới"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你什么时候来我家?",
+        "eg_pinyin": "Nǐ shénme shíhòu lái wǒ jiā",
+        "eg_vietnamese": "Khi nào bạn đến nhà tôi?"
+    },
+    "来到": {
+        "id": 206,
+        "pinyin": "láidào",
+        "vietnamese": [
+            "Đến, đi đến"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他来到公司了。",
+        "eg_pinyin": "Tā láidào gōngsī le",
+        "eg_vietnamese": "Anh ấy đến công ty rồi."
+    },
+    "老": {
+        "id": 207,
+        "pinyin": "lǎo",
+        "vietnamese": [
+            "Già, cũ"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这辆车太老了。",
+        "eg_pinyin": "Zhè liàng chē tài lǎo le",
+        "eg_vietnamese": "Chiếc xe này quá cũ rồi."
+    },
+    "老人": {
+        "id": 208,
+        "pinyin": "lǎorén",
+        "vietnamese": [
+            "Người già"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "老人喜欢在公园散步。",
+        "eg_pinyin": "Lǎorén xǐhuan zài gōngyuán sànbù",
+        "eg_vietnamese": "Các cụ già thích đi dạo trong công viên."
+    },
+    "老师": {
+        "id": 209,
+        "pinyin": "lǎoshī",
+        "vietnamese": [
+            "Giáo viên, thầy cô"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她是我们的汉语老师。",
+        "eg_pinyin": "Tā shì wǒmen de Hànyǔ lǎoshī",
+        "eg_vietnamese": "Cô ấy là giáo viên tiếng Trung của chúng tôi."
+    },
+    "了": {
+        "id": 210,
+        "pinyin": "le",
+        "vietnamese": [
+            "Rồi (biểu thị hành động đã hoàn thành)"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "我吃了一个苹果。",
+        "eg_pinyin": "Wǒ chī le yīgè píngguǒ",
+        "eg_vietnamese": "Tôi đã ăn một quả táo."
+    },
+    "累": {
+        "id": 211,
+        "pinyin": "lèi",
+        "vietnamese": [
+            "Mệt, mệt mỏi"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "今天工作很累。",
+        "eg_pinyin": "Jīntiān gōngzuò hěn lèi",
+        "eg_vietnamese": "Hôm nay công việc rất mệt."
+    },
+    "冷": {
+        "id": 212,
+        "pinyin": "lěng",
+        "vietnamese": [
+            "Lạnh"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "外面很冷，多穿点衣服。",
+        "eg_pinyin": "Wàimiàn hěn lěng, duō chuān diǎn yīfu",
+        "eg_vietnamese": "Bên ngoài rất lạnh, mặc thêm áo vào."
+    },
+    "里": {
+        "id": 213,
+        "pinyin": "lǐ",
+        "vietnamese": [
+            "Trong, bên trong"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "房间里有很多书。",
+        "eg_pinyin": "Fángjiān lǐ yǒu hěn duō shū",
+        "eg_vietnamese": "Trong phòng có rất nhiều sách."
+    },
+    "里边": {
+        "id": 214,
+        "pinyin": "lǐbian",
+        "vietnamese": [
+            "Bên trong"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你在里边等我。",
+        "eg_pinyin": "Nǐ zài lǐbiān děng wǒ",
+        "eg_vietnamese": "Bạn đợi tôi ở bên trong nhé."
+    },
+    "两": {
+        "id": 215,
+        "pinyin": "liǎng",
+        "vietnamese": [
+            "Hai (chỉ số lượng)"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我有两个姐姐。",
+        "eg_pinyin": "Wǒ yǒu liǎng gè jiějie",
+        "eg_vietnamese": "Tôi có hai chị gái."
+    },
+    "零": {
+        "id": 216,
+        "pinyin": "líng",
+        "vietnamese": [
+            "Số không"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "这个数字是零。",
+        "eg_pinyin": "Zhège shùzì shì líng",
+        "eg_vietnamese": "Số này là số không."
+    },
+    "六": {
+        "id": 217,
+        "pinyin": "liù",
+        "vietnamese": [
+            "Số sáu"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我家有六口人。",
+        "eg_pinyin": "Wǒ jiā yǒu liù kǒu rén",
+        "eg_vietnamese": "Nhà tôi có sáu người."
+    },
+    "楼": {
+        "id": 218,
+        "pinyin": "lóu",
+        "vietnamese": [
+            "Tòa nhà, lầu"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他们住在五楼。",
+        "eg_pinyin": "Tāmen zhù zài wǔ lóu",
+        "eg_vietnamese": "Họ sống ở tầng năm."
+    },
+    "楼上": {
+        "id": 219,
+        "pinyin": "lóu shàng",
+        "vietnamese": [
+            "Tầng trên"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我哥哥在楼上睡觉。",
+        "eg_pinyin": "Wǒ gēge zài lóu shàng shuìjiào",
+        "eg_vietnamese": "Anh trai tôi đang ngủ trên tầng."
+    },
+    "楼下": {
+        "id": 220,
+        "pinyin": "lóu xià",
+        "vietnamese": [
+            "Tầng dưới"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我在楼下等你。",
+        "eg_pinyin": "Wǒ zài lóu xià děng nǐ",
+        "eg_vietnamese": "Tôi đang đợi bạn ở tầng dưới."
+    },
+    "路": {
+        "id": 221,
+        "pinyin": "lù",
+        "vietnamese": [
+            "Con đường, đường phố"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这条路很长。",
+        "eg_pinyin": "Zhè tiáo lù hěn cháng",
+        "eg_vietnamese": "Con đường này rất dài."
+    },
+    "路口": {
+        "id": 222,
+        "pinyin": "lùkǒu",
+        "vietnamese": [
+            "Giao lộ, ngã tư"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个路口有很多车。",
+        "eg_pinyin": "Zhège lùkǒu yǒu hěn duō chē",
+        "eg_vietnamese": "Ngã tư này có rất nhiều xe."
+    },
+    "路上": {
+        "id": 223,
+        "pinyin": "lùshàng",
+        "vietnamese": [
+            "Trên đường"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我在路上，看见了你。",
+        "eg_pinyin": "Wǒ zài lùshàng, kànjiàn le nǐ",
+        "eg_vietnamese": "Tôi trên đường, nhìn thấy bạn."
+    },
+    "妈妈 | 妈": {
+        "id": 224,
+        "pinyin": "māma | mā",
+        "vietnamese": [
+            "Mẹ, má"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我妈妈做饭很好吃。",
+        "eg_pinyin": "Wǒ māma zuò fàn hěn hǎo chī",
+        "eg_vietnamese": "Mẹ tôi nấu ăn rất ngon."
+    },
+    "马路": {
+        "id": 225,
+        "pinyin": "mǎlù",
+        "vietnamese": [
+            "Đường cái, đường lớn"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个马路很长。",
+        "eg_pinyin": "Zhège mǎlù hěn cháng",
+        "eg_vietnamese": "Con đường này rất dài."
+    },
+    "马上": {
+        "id": 226,
+        "pinyin": "mǎshàng",
+        "vietnamese": [
+            "Ngay lập tức"
+        ],
+        "english": [],
+        "type": "Trạng từ",
+        "eg_chinese": "我马上回来。",
+        "eg_pinyin": "Wǒ mǎshàng huílái",
+        "eg_vietnamese": "Tôi sẽ quay lại ngay lập tức."
+    },
+    "吗": {
+        "id": 227,
+        "pinyin": "ma",
+        "vietnamese": [
+            "Trợ từ nghi vấn"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "你喜欢中国菜吗？",
+        "eg_pinyin": "Nǐ xǐhuan Zhōngguó cài ma",
+        "eg_vietnamese": "Bạn có thích món ăn Trung Quốc không?"
+    },
+    "买": {
+        "id": 228,
+        "pinyin": "mǎi",
+        "vietnamese": [
+            "Mua"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我想买一件衣服。",
+        "eg_pinyin": "Wǒ xiǎng mǎi yí jiàn yīfu",
+        "eg_vietnamese": "Tôi muốn mua một cái áo."
+    },
+    "慢": {
+        "id": 229,
+        "pinyin": "màn",
+        "vietnamese": [
+            "Chậm"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "请说慢一点儿。",
+        "eg_pinyin": "Qǐng shuō màn yìdiǎnr",
+        "eg_vietnamese": "Xin hãy nói chậm một chút."
+    },
+    "忙": {
+        "id": 230,
+        "pinyin": "máng",
+        "vietnamese": [
+            "Bận rộn"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "他最近很忙。",
+        "eg_pinyin": "Tā zuìjìn hěn máng",
+        "eg_vietnamese": "Dạo này anh ấy rất bận."
+    },
+    "毛": {
+        "id": 231,
+        "pinyin": "máo",
+        "vietnamese": [
+            "Lông, tóc",
+            "Hào (đơn vị tiền tệ trung quốc)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "小狗的毛很软。",
+        "eg_pinyin": "Xiǎogǒu de máo hěn ruǎn",
+        "eg_vietnamese": "Lông của chú chó con rất mềm."
+    },
+    "没": {
+        "id": 232,
+        "pinyin": "méi",
+        "vietnamese": [
+            "Không có, chưa"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我今天没时间。",
+        "eg_pinyin": "Wǒ jīntiān méi shíjiān",
+        "eg_vietnamese": "Hôm nay tôi không có thời gian (không rảnh)."
+    },
+    "没关系": {
+        "id": 233,
+        "pinyin": "méi guānxi",
+        "vietnamese": [
+            "Không sao đâu"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "没关系，我没生气。",
+        "eg_pinyin": "Méiguānxi, wǒ méi shēngqì",
+        "eg_vietnamese": "Không sao, tôi không giận đâu."
+    },
+    "没什么": {
+        "id": 234,
+        "pinyin": "méi shénme",
+        "vietnamese": [
+            "Không có gì"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "没什么好担心的。",
+        "eg_pinyin": "Méi shénme hǎo dānxīn de",
+        "eg_vietnamese": "Không có gì đáng lo lắng cả."
+    },
+    "没事儿": {
+        "id": 235,
+        "pinyin": "méi shìr",
+        "vietnamese": [
+            "Không có chuyện gì, không sao đâu"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "没事儿，我帮你。",
+        "eg_pinyin": "Méi shìr, wǒ bāng nǐ",
+        "eg_vietnamese": "Không sao đâu, tôi giúp bạn."
+    },
+    "没有": {
+        "id": 236,
+        "pinyin": "méi yǒu",
+        "vietnamese": [
+            "Không có"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我没有钱。",
+        "eg_pinyin": "Wǒ méiyǒu qián",
+        "eg_vietnamese": "Tôi không có tiền."
+    },
+    "妹妹 | 妹": {
+        "id": 237,
+        "pinyin": "mèimei | mèi",
+        "vietnamese": [
+            "Em gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我有一个妹妹。",
+        "eg_pinyin": "Wǒ yǒu yīgè mèimei",
+        "eg_vietnamese": "Tôi có một người em gái."
+    },
+    "门": {
+        "id": 238,
+        "pinyin": "mén",
+        "vietnamese": [
+            "Cửa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我把门关上了。",
+        "eg_pinyin": "Wǒ bǎ mén guānshàng le",
+        "eg_vietnamese": "Tôi đã đóng cửa lại."
+    },
+    "门口": {
+        "id": 239,
+        "pinyin": "ménkǒu",
+        "vietnamese": [
+            "Cổng, cửa ra vào"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我在门口等你。",
+        "eg_pinyin": "Wǒ zài ménkǒu děng nǐ",
+        "eg_vietnamese": "Tôi đang đợi bạn ở cửa ra vào."
+    },
+    "门票": {
+        "id": 240,
+        "pinyin": "ménpiào",
+        "vietnamese": [
+            "Vé vào cửa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这张门票多少钱？",
+        "eg_pinyin": "Zhè zhāng ménpiào duōshǎo qián",
+        "eg_vietnamese": ""
+    },
+    "们（朋友们）": {
+        "id": 241,
+        "pinyin": "men (péngyǒumen)",
+        "vietnamese": [
+            "Dùng để chỉ số nhiều (các bạn, các anh...)"
+        ],
+        "english": [],
+        "type": "Hậu tố",
+        "eg_chinese": "我们是好朋友。",
+        "eg_pinyin": "Wǒmen shì hǎo péngyǒu",
+        "eg_vietnamese": "Chúng tôi là bạn tốt."
+    },
+    "米饭": {
+        "id": 242,
+        "pinyin": "mǐfàn",
+        "vietnamese": [
+            "Cơm"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我每天都吃米饭。",
+        "eg_pinyin": "Wǒ měitiān dōu chī mǐfàn",
+        "eg_vietnamese": "Ngày nào tôi cũng ăn cơm."
+    },
+    "面包": {
+        "id": 243,
+        "pinyin": "miànbāo",
+        "vietnamese": [
+            "Bánh mì"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你想吃面包吗？",
+        "eg_pinyin": "Nǐ xiǎng chī miànbāo ma",
+        "eg_vietnamese": "Bạn có muốn ăn bánh mì không?"
+    },
+    "面条儿": {
+        "id": 244,
+        "pinyin": "miàntiáor",
+        "vietnamese": [
+            "Mì sợi"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这碗面条儿很好吃。",
+        "eg_pinyin": "Zhè wǎn miàntiáor hěn hǎochī",
+        "eg_vietnamese": "Tô mì này rất ngon."
+    },
+    "名字": {
+        "id": 245,
+        "pinyin": "míngzi",
+        "vietnamese": [
+            "Tên gọi"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你的名字是什么？",
+        "eg_pinyin": "Nǐ de míngzi shì shénme",
+        "eg_vietnamese": "Tên của bạn là gì?"
+    },
+    "明白": {
+        "id": 246,
+        "pinyin": "míngbai",
+        "vietnamese": [
+            "Hiểu rõ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我明白你的意思。",
+        "eg_pinyin": "Wǒ míngbai nǐ de yìsi",
+        "eg_vietnamese": "Tôi hiểu ý của bạn."
+    },
+    "明年": {
+        "id": 247,
+        "pinyin": "míngnián",
+        "vietnamese": [
+            "Năm sau"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "明年我想去中国。",
+        "eg_pinyin": "Míngnián wǒ xiǎng qù Zhōngguó",
+        "eg_vietnamese": "Năm sau tôi muốn đi Trung Quốc."
+    },
+    "明天": {
+        "id": 248,
+        "pinyin": "míngtiān",
+        "vietnamese": [
+            "Ngày mai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "明天是星期几？",
+        "eg_pinyin": "Míngtiān shì xīngqī jǐ",
+        "eg_vietnamese": "Ngày mai là thứ mấy?"
+    },
+    "拿": {
+        "id": 249,
+        "pinyin": "ná",
+        "vietnamese": [
+            "Cầm, nắm, lấy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请帮我拿一下。",
+        "eg_pinyin": "Qǐng bāng wǒ ná yíxià",
+        "eg_vietnamese": "Làm ơn giúp tôi cầm cái này một chút."
+    },
+    "哪": {
+        "id": 250,
+        "pinyin": "nǎ",
+        "vietnamese": [
+            "Nào"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你喜欢哪本书？",
+        "eg_pinyin": "Nǐ xǐhuān nǎ běn shū",
+        "eg_vietnamese": "Bạn thích quyển sách nào?"
+    },
+    "哪里": {
+        "id": 251,
+        "pinyin": "nǎ lǐ",
+        "vietnamese": [
+            "Ở đâu"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你住在哪里？",
+        "eg_pinyin": "Nǐ zhù zài nǎlǐ",
+        "eg_vietnamese": "Bạn sống ở đâu?"
+    },
+    "哪儿": {
+        "id": 252,
+        "pinyin": "nǎr",
+        "vietnamese": [
+            "Đâu, chỗ nào (phương ngữ bắc kinh)"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "那部电影是在哪儿拍的？",
+        "eg_pinyin": "Nà bù diànyǐng shì zài nǎr pāi de",
+        "eg_vietnamese": "Bộ phim đó được quay ở đâu vậy?"
+    },
+    "哪些": {
+        "id": 253,
+        "pinyin": "nǎxiē",
+        "vietnamese": [
+            "Những cái nào, người nào"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你见过哪些名人？",
+        "eg_pinyin": "Nǐ jiànguò nǎxiē míngrén",
+        "eg_vietnamese": "Bạn đã gặp những người nổi tiếng nào?"
+    },
+    "那": {
+        "id": 254,
+        "pinyin": "nà",
+        "vietnamese": [
+            "Đó, kia"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "那是我的书。",
+        "eg_pinyin": "Nà shì wǒ de shū",
+        "eg_vietnamese": "Đó là sách của tôi."
+    },
+    "那边": {
+        "id": 255,
+        "pinyin": "nàbiān",
+        "vietnamese": [
+            "Bên đó"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你看到那边的猫了吗？",
+        "eg_pinyin": "Nǐ kàn dào nà bian de māo le ma",
+        "eg_vietnamese": "Bạn có thấy con mèo bên đó không?"
+    },
+    "那里": {
+        "id": 256,
+        "pinyin": "nà lǐ",
+        "vietnamese": [
+            "Ở đó, chỗ đó, nơi đó"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "我刚从那里回来。",
+        "eg_pinyin": "Wǒ gāng cóng nàlǐ húilái",
+        "eg_vietnamese": "Tôi vừa từ chỗ đó trở về."
+    },
+    "那儿": {
+        "id": 257,
+        "pinyin": "nàr",
+        "vietnamese": [
+            "Ở đó (phương ngữ bắc kinh)"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你要去那儿做什么？",
+        "eg_pinyin": "Nǐ yào qù nàr zuò shénme",
+        "eg_vietnamese": "Bạn muốn đến đó làm gì?"
+    },
+    "那些": {
+        "id": 258,
+        "pinyin": "nàxiē",
+        "vietnamese": [
+            "Những cái đó"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "那些书都送给你吧。",
+        "eg_pinyin": "Nàxiē shū dōu sòng gěi nǐ ba",
+        "eg_vietnamese": "Những cuốn sách này đều cho cậu."
+    },
+    "奶奶 | 奶": {
+        "id": 259,
+        "pinyin": "nǎinai | nǎi",
+        "vietnamese": [
+            "Bà nội"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我奶奶今年八十岁。",
+        "eg_pinyin": "Wǒ nǎinai jīnnián bāshí suì",
+        "eg_vietnamese": "Bà nội tôi năm nay 80 tuổi."
+    },
+    "男": {
+        "id": 260,
+        "pinyin": "nán",
+        "vietnamese": [
+            "Nam, con trai"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我们班有很多男同学。",
+        "eg_pinyin": "Wǒmen bān yǒu hěnduō nán tóngxué",
+        "eg_vietnamese": "Lớp chúng tôi có rất nhiều bạn học sinh nam."
+    },
+    "男孩儿": {
+        "id": 261,
+        "pinyin": "nánháir",
+        "vietnamese": [
+            "Bé trai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "男孩儿在公园里踢足球。",
+        "eg_pinyin": "Nánháir zài gōngyuán lǐ tī zúqiú",
+        "eg_vietnamese": "Cậu bé đang đá bóng trong công viên."
+    },
+    "男朋友": {
+        "id": 262,
+        "pinyin": "nánpéngyou",
+        "vietnamese": [
+            "Bạn trai"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她的男朋友很帅。",
+        "eg_pinyin": "Tā de nánpéngyou hěn shuài",
+        "eg_vietnamese": "Bạn trai của cô ấy rất đẹp trai."
+    },
+    "男人": {
+        "id": 263,
+        "pinyin": "nánrén",
+        "vietnamese": [
+            "Đàn ông"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "那个男人在看手机。",
+        "eg_pinyin": "Nàgè nánrén zài kàn shǒujī",
+        "eg_vietnamese": "Người đàn ông đó đang xem điện thoại."
+    },
+    "男生": {
+        "id": 264,
+        "pinyin": "nánshēng",
+        "vietnamese": [
+            "Nam sinh, học sinh nam"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个班的男生比女生多。",
+        "eg_pinyin": "Zhège bān de nánshēng bǐ nǚshēng duō",
+        "eg_vietnamese": "Nam sinh trong lớp này nhiều hơn nữ sinh."
+    },
+    "南": {
+        "id": 266,
+        "pinyin": "nán",
+        "vietnamese": [
+            "Phía nam"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢南方的美食。",
+        "eg_pinyin": "Wǒ xǐhuan nánfāng de měishí",
+        "eg_vietnamese": "Tôi thích ẩm thực miền Nam."
+    },
+    "南边": {
+        "id": 267,
+        "pinyin": "nánbiān",
+        "vietnamese": [
+            "Phía nam"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家在学校南边。",
+        "eg_pinyin": "Wǒ jiā zài xuéxiào nánbiān",
+        "eg_vietnamese": "Nhà tôi ở phía nam của trường."
+    },
+    "难": {
+        "id": 268,
+        "pinyin": "nán",
+        "vietnamese": [
+            "Khó"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这个问题很难回答。",
+        "eg_pinyin": "Zhège wèntí hěn nán huídá",
+        "eg_vietnamese": "Câu hỏi này rất khó trả lời."
+    },
+    "呢": {
+        "id": 269,
+        "pinyin": "ne",
+        "vietnamese": [
+            "Thế, nhỉ, ư"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "我是学生，你呢？",
+        "eg_pinyin": "Wǒ shì xuéshēng, nǐ ne",
+        "eg_vietnamese": "Tớ là học sinh, còn cậu thì sao?"
+    },
+    "能": {
+        "id": 270,
+        "pinyin": "néng",
+        "vietnamese": [
+            "Có thể"
+        ],
+        "english": [],
+        "type": "Động từ năng nguyện",
+        "eg_chinese": "咱们一定能完成任务。",
+        "eg_pinyin": "Zánmen yídìng néng wánchéng rènwù",
+        "eg_vietnamese": "Chúng ta nhất định có thể hoàn thành nhiệm vụ."
+    },
+    "你": {
+        "id": 271,
+        "pinyin": "nǐ",
+        "vietnamese": [
+            "Bạn, anh, chị"
+        ],
+        "english": [],
+        "type": "Đại từ nhân xưng",
+        "eg_chinese": "你喜欢吃什么？",
+        "eg_pinyin": "Nǐ xǐhuan chī shénme",
+        "eg_vietnamese": "Bạn thích ăn gì?"
+    },
+    "你们": {
+        "id": 272,
+        "pinyin": "nǐmen",
+        "vietnamese": [
+            "Các bạn, các anh, các chị"
+        ],
+        "english": [],
+        "type": "Đại từ nhân xưng (số nhiều)",
+        "eg_chinese": "你们要去哪儿？",
+        "eg_pinyin": "Nǐmen yào qù nǎr",
+        "eg_vietnamese": "Các bạn muốn đi đâu?"
+    },
+    "年级": {
+        "id": 273,
+        "pinyin": "niánjí",
+        "vietnamese": [
+            "Niên khóa, cấp lớp"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你是几年级的学生？",
+        "eg_pinyin": "Nǐ shì jǐ niánjí de xuéshēng",
+        "eg_vietnamese": "Bạn là học sinh lớp mấy?"
+    },
+    "您": {
+        "id": 274,
+        "pinyin": "nín",
+        "vietnamese": [
+            "Ngài, ông, bà"
+        ],
+        "english": [],
+        "type": "Đại từ nhân xưng",
+        "eg_chinese": "您喜欢喝茶还是喝咖啡？",
+        "eg_pinyin": "Nín xǐhuan hē chá háishì hē kāfēi",
+        "eg_vietnamese": "Ngài thích uống trà hay cà phê?"
+    },
+    "牛奶": {
+        "id": 275,
+        "pinyin": "niúnǎi",
+        "vietnamese": [
+            "Sữa bò"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢喝牛奶。",
+        "eg_pinyin": "Wǒ xǐhuan hē niúnǎi",
+        "eg_vietnamese": "Tôi thích uống sữa."
+    },
+    "女": {
+        "id": 276,
+        "pinyin": "nǚ",
+        "vietnamese": [
+            "Nữ, con gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的女儿非常可爱。",
+        "eg_pinyin": "Wǒ de nǚ ér fēicháng kě ài",
+        "eg_vietnamese": "Con gái tôi rất dễ thương."
+    },
+    "女儿": {
+        "id": 277,
+        "pinyin": "nǚ’ér",
+        "vietnamese": [
+            "Con gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "女孩儿": {
+        "id": 278,
+        "pinyin": "nǚháir",
+        "vietnamese": [
+            "Bé gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你家女孩儿几岁了？",
+        "eg_pinyin": "Nǐ jiā nǚháir jǐ suì le",
+        "eg_vietnamese": "Con gái nhà bạn mấy tuổi rồi?"
+    },
+    "女朋友": {
+        "id": 279,
+        "pinyin": "nǚpéngyou",
+        "vietnamese": [
+            "Bạn gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你有女朋友吗？",
+        "eg_pinyin": "Nǐ yǒu nǚ péngyǒu ma",
+        "eg_vietnamese": "Cậu có bạn gái chưa?"
+    },
+    "女人": {
+        "id": 280,
+        "pinyin": "nǚrén",
+        "vietnamese": [
+            "Phụ nữ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "女人都喜欢买漂亮的衣服。",
+        "eg_pinyin": "Nǚrén dōu xǐhuān mǎi piàoliang de yīfu",
+        "eg_vietnamese": "Phụ nữ đều thích mua quần áo đẹp."
+    },
+    "女生": {
+        "id": 281,
+        "pinyin": "nǚshēng",
+        "vietnamese": [
+            "Nữ sinh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这些女生喜欢画画。",
+        "eg_pinyin": "Zhèxiē nǚshēng xǐhuān huà huà",
+        "eg_vietnamese": "Những nữ sinh này thích vẽ."
+    },
+    "旁边": {
+        "id": 282,
+        "pinyin": "pángbiān",
+        "vietnamese": [
+            "Cạnh, bên cạnh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "厨房在客厅的旁边。",
+        "eg_pinyin": "Chúfáng zài kètīng de pángbiān",
+        "eg_vietnamese": "Nhà bếp ở bên cạnh phòng khách."
+    },
+    "跑": {
+        "id": 283,
+        "pinyin": "pǎo",
+        "vietnamese": [
+            "Chạy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他每天早上都跑步。",
+        "eg_pinyin": "Tā měitiān zǎoshang dōu pǎobù",
+        "eg_vietnamese": "Anh ấy chạy bộ mỗi sáng."
+    },
+    "朋友": {
+        "id": 284,
+        "pinyin": "péngyou",
+        "vietnamese": [
+            "Bạn bè"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我有很多朋友。",
+        "eg_pinyin": "Wǒ yǒu hěn duō péngyou",
+        "eg_vietnamese": "Tôi có rất nhiều bạn."
+    },
+    "漂亮": {
+        "id": 285,
+        "pinyin": "piàoliang",
+        "vietnamese": [
+            "Đẹp, xinh đẹp"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这件衣服很漂亮。",
+        "eg_pinyin": "Zhè jiàn yīfu hěn piàoliang",
+        "eg_vietnamese": "Bộ quần áo này rất đẹp."
+    },
+    "七": {
+        "id": 286,
+        "pinyin": "qī",
+        "vietnamese": [
+            "Số bảy"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我有七本书。",
+        "eg_pinyin": "Wǒ yǒu qī běn shū",
+        "eg_vietnamese": "Tôi có bảy quyển sách."
+    },
+    "起": {
+        "id": 287,
+        "pinyin": "qǐ",
+        "vietnamese": [
+            "Dậy, thức dậy, đứng dậy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "今天睡到上午10点才起。",
+        "eg_pinyin": "Jīntiān shuì dào shàngwǔ 10 diǎn cái qǐ",
+        "eg_vietnamese": "Nay ngủ đến 10 giờ mới dậy."
+    },
+    "起床": {
+        "id": 288,
+        "pinyin": "qǐchuáng",
+        "vietnamese": [
+            "Thức dậy (ra khỏi giường)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我每天六点起床。",
+        "eg_pinyin": "Wǒ měitiān liù diǎn qǐchuáng",
+        "eg_vietnamese": "Mỗi ngày tôi thức dậy lúc 6 giờ."
+    },
+    "起来": {
+        "id": 289,
+        "pinyin": "qǐlái",
+        "vietnamese": [
+            "Đứng dậy, ngồi dậy, thức dậy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他站起来了。",
+        "eg_pinyin": "Tā zhàn qǐlái le",
+        "eg_vietnamese": "Anh ấy đứng dậy rồi."
+    },
+    "汽车": {
+        "id": 290,
+        "pinyin": "qìchē",
+        "vietnamese": [
+            "Xe hơi, ô tô"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这辆汽车是我爸爸的。",
+        "eg_pinyin": "Zhè liàng qìchē shì wǒ bàba de",
+        "eg_vietnamese": "Hai chiếc ô tô này là của bố tôi."
+    },
+    "前": {
+        "id": 291,
+        "pinyin": "qián",
+        "vietnamese": [
+            "Trước"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他12号前会回来。",
+        "eg_pinyin": "Tā 12 hào qián huì huílái",
+        "eg_vietnamese": "Anh ấy sẽ trở lại trước ngày 12."
+    },
+    "前边": {
+        "id": 292,
+        "pinyin": "qiánbiān",
+        "vietnamese": [
+            "Phía trước"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "学校就在前边。",
+        "eg_pinyin": "Xuéxiào jiù zài qiánbiān",
+        "eg_vietnamese": "Trường học ở ngay phía trước."
+    },
+    "前天": {
+        "id": 293,
+        "pinyin": "qiántiān",
+        "vietnamese": [
+            "Hôm kia"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我前天去了上海。",
+        "eg_pinyin": "Wǒ qiántiān qù le Shànghǎi",
+        "eg_vietnamese": "Hôm kia tôi đã đi Thượng Hải."
+    },
+    "钱": {
+        "id": 294,
+        "pinyin": "qián",
+        "vietnamese": [
+            "Tiền"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我没钱。",
+        "eg_pinyin": "Wǒ méi qián",
+        "eg_vietnamese": "Tôi không có tiền."
+    },
+    "钱包": {
+        "id": 295,
+        "pinyin": "qiánbāo",
+        "vietnamese": [
+            "Ví tiền, bóp tiền"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的钱包不见了。",
+        "eg_pinyin": "Wǒ de qiánbāo bú jiàn le",
+        "eg_vietnamese": "Ví tiền của tôi bị mất rồi."
+    },
+    "请": {
+        "id": 296,
+        "pinyin": "qǐng",
+        "vietnamese": [
+            "Mời, xin vui lòng"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请给我一杯水。",
+        "eg_pinyin": "Qǐng gěi wǒ yì bēi shuǐ",
+        "eg_vietnamese": "Xin hãy cho tôi một cốc nước."
+    },
+    "请假": {
+        "id": 297,
+        "pinyin": "qǐngjià",
+        "vietnamese": [
+            "Xin nghỉ phép"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "老师，今天我想请假。",
+        "eg_pinyin": "Lǎoshī, jīntiān wǒ xiǎng qǐngjià",
+        "eg_vietnamese": "Thầy ơi, hôm nay em muốn xin nghỉ."
+    },
+    "请进": {
+        "id": 298,
+        "pinyin": "qǐng jìn",
+        "vietnamese": [
+            "Mời vào"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "请进，大家都在等你。",
+        "eg_pinyin": "Qǐng jìn, dàjiā dōu zài děng nǐ",
+        "eg_vietnamese": "Mời vào, mọi người đang chờ bạn."
+    },
+    "请问": {
+        "id": 299,
+        "pinyin": "qǐngwèn",
+        "vietnamese": [
+            "Xin hỏi"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "请问您有空吗？",
+        "eg_pinyin": "Qǐngwèn nín yǒu kòng ma",
+        "eg_vietnamese": "Xin hỏi anh có rảnh không ạ?"
+    },
+    "请坐": {
+        "id": 300,
+        "pinyin": "qǐng zuò",
+        "vietnamese": [
+            "Mời ngồi"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "欢迎光临，请坐。",
+        "eg_pinyin": "Huānyíng guānglín, qǐng zuò",
+        "eg_vietnamese": "Chào mừng quý khách, mời ngồi."
+    },
+    "球": {
+        "id": 301,
+        "pinyin": "qiú",
+        "vietnamese": [
+            "Quả bóng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他喜欢踢足球。",
+        "eg_pinyin": "Tā xǐhuan tī zúqiú",
+        "eg_vietnamese": "Anh ấy thích đá bóng."
+    },
+    "去": {
+        "id": 302,
+        "pinyin": "qù",
+        "vietnamese": [
+            "Đi, rời đi, rời khỏi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他吃完饭就去了。",
+        "eg_pinyin": "Tā chī wán fàn jiù qù le",
+        "eg_vietnamese": "Anh ấy ăn xong rồi đi ngay."
+    },
+    "去年": {
+        "id": 303,
+        "pinyin": "qùnián",
+        "vietnamese": [
+            "Năm ngoái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "去年我买了一辆新车。",
+        "eg_pinyin": "Qùnián wǒ mǎi le yī liàng xīnchē",
+        "eg_vietnamese": "Năm ngoái tôi đã mua một chiếc xe mới."
+    },
+    "热": {
+        "id": 304,
+        "pinyin": "rè",
+        "vietnamese": [
+            "Nóng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "今天的天气很热。",
+        "eg_pinyin": "Jīntiān de tiānqì hěn rè",
+        "eg_vietnamese": "Thời tiết của hôm nay rất nóng."
+    },
+    "人": {
+        "id": 305,
+        "pinyin": "rén",
+        "vietnamese": [
+            "Người"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个世界上有很多好人。",
+        "eg_pinyin": "Zhège shìjiè shàng yǒu hěn duō hǎorén",
+        "eg_vietnamese": "Trên thế giới này có rất nhiều người tốt."
+    },
+    "认识": {
+        "id": 306,
+        "pinyin": "rènshi",
+        "vietnamese": [
+            "Quen biết"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我认识他。",
+        "eg_pinyin": "Wǒ rènshi tā",
+        "eg_vietnamese": "Tôi quen biết anh ấy."
+    },
+    "认真": {
+        "id": 307,
+        "pinyin": "rènzhēn",
+        "vietnamese": [
+            "Chăm chỉ, nghiêm túc"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "他学习很认真。",
+        "eg_pinyin": "Tā xuéxí hěn rènzhēn",
+        "eg_vietnamese": "Anh ấy học rất chăm chỉ."
+    },
+    "日": {
+        "id": 308,
+        "pinyin": "rì",
+        "vietnamese": [
+            "Ngày, mỗi ngày",
+            "mặt trời"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他的生日在六月。\n\n日出的时候很美。",
+        "eg_pinyin": "Tā de shēngrì zài liù yuè/\n\n/Rì chū de shíhòu hěn měi",
+        "eg_vietnamese": "Ngày sinh nhật của anh ấy vào tháng sáu.\n\nLúc mặt trời mọc rất đẹp."
+    },
+    "日期": {
+        "id": 309,
+        "pinyin": "rìqī",
+        "vietnamese": [
+            "Ngày tháng, thời gian"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "文件的日期写错了。",
+        "eg_pinyin": "Wénjiàn de rìqí xiě cuò le",
+        "eg_vietnamese": "Ngày tháng trên tài liệu bị sai rồi."
+    },
+    "肉": {
+        "id": 310,
+        "pinyin": "ròu",
+        "vietnamese": [
+            "Thịt"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢吃鸡肉。",
+        "eg_pinyin": "Wǒ xǐhuan chī jīròu",
+        "eg_vietnamese": "Tôi thích ăn thịt gà."
+    },
+    "三": {
+        "id": 311,
+        "pinyin": "sān",
+        "vietnamese": [
+            "Số ba"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我有三个好朋友。",
+        "eg_pinyin": "Wǒ yǒu sān gè hǎo péngyǒu",
+        "eg_vietnamese": "Tôi có ba người bạn tốt."
+    },
+    "山": {
+        "id": 312,
+        "pinyin": "shān",
+        "vietnamese": [
+            "Núi"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "那座山很高。",
+        "eg_pinyin": "Nà zuò shān hěn gāo",
+        "eg_vietnamese": "Ngọn núi đó rất cao."
+    },
+    "商场": {
+        "id": 313,
+        "pinyin": "shāngchǎng",
+        "vietnamese": [
+            "Trung tâm thương mại"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们去商场买衣服吧。",
+        "eg_pinyin": "Wǒmen qù shāngchǎng mǎi yīfú ba",
+        "eg_vietnamese": "Chúng ta đi trung tâm thương mại mua quần áo đi."
+    },
+    "商店": {
+        "id": 314,
+        "pinyin": "shāngdiàn",
+        "vietnamese": [
+            "Cửa hàng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个商店很大。",
+        "eg_pinyin": "Zhège shāngdiàn hěn dà",
+        "eg_vietnamese": "Cửa hàng này rất lớn."
+    },
+    "上": {
+        "id": 315,
+        "pinyin": "shàng",
+        "vietnamese": [
+            "Trên, lên"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "书在桌子上。",
+        "eg_pinyin": "Shū zài zhuōzi shàng",
+        "eg_vietnamese": "Quyển sách ở trên bàn."
+    },
+    "上班": {
+        "id": 316,
+        "pinyin": "shàngbān",
+        "vietnamese": [
+            "Đi làm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他每天八点上班。",
+        "eg_pinyin": "Tā měitiān bā diǎn shàngbān",
+        "eg_vietnamese": "Mỗi ngày anh ấy đi làm lúc 8 giờ."
+    },
+    "上边": {
+        "id": 317,
+        "pinyin": "shàngbiān",
+        "vietnamese": [
+            "Phía trên"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "笔在书的上边。",
+        "eg_pinyin": "Bǐ zài shū de shàngbiān",
+        "eg_vietnamese": "Cây bút ở phía trên quyển sách."
+    },
+    "上车": {
+        "id": 318,
+        "pinyin": "shàng chē",
+        "vietnamese": [
+            "Lên xe"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们快上车吧。",
+        "eg_pinyin": "Wǒmen kuài shàng chē ba",
+        "eg_vietnamese": "Chúng ta mau lên xe đi."
+    },
+    "上次": {
+        "id": 319,
+        "pinyin": "shàng cì",
+        "vietnamese": [
+            "Lần trước"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "上次我们去上海了。",
+        "eg_pinyin": "Shàng cì wǒmen qù Shànghǎi le",
+        "eg_vietnamese": "Lần trước chúng tôi đã đi Thượng Hải."
+    },
+    "上课": {
+        "id": 320,
+        "pinyin": "shàng kè",
+        "vietnamese": [
+            "Lên lớp, đi học"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "现在是上课时间。",
+        "eg_pinyin": "Xiànzài shì shàngkè shíjiān",
+        "eg_vietnamese": "Bây giờ là thời gian lên lớp."
+    },
+    "上网": {
+        "id": 321,
+        "pinyin": "shàng wǎng",
+        "vietnamese": [
+            "Lên mạng"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他喜欢上网买东西。",
+        "eg_pinyin": "Tā xǐhuan shàng wǎng mǎi dōngxi",
+        "eg_vietnamese": "Anh ấy thích mua hàng online."
+    },
+    "上午": {
+        "id": 322,
+        "pinyin": "shàngwǔ",
+        "vietnamese": [
+            "Buổi sáng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我上午有一个会议。",
+        "eg_pinyin": "Wǒ shàngwǔ yǒu yī gè huìyì",
+        "eg_vietnamese": "Tôi có một cuộc họp vào buổi sáng."
+    },
+    "上学": {
+        "id": 323,
+        "pinyin": "shàng xué",
+        "vietnamese": [
+            "Đi học"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "孩子们七点上学。",
+        "eg_pinyin": "Háizimen qī diǎn shàng xué",
+        "eg_vietnamese": "Bọn trẻ đi học lúc 7 giờ."
+    },
+    "少": {
+        "id": 324,
+        "pinyin": "shǎo",
+        "vietnamese": [
+            "Ít"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这里的人很少。",
+        "eg_pinyin": "Zhèlǐ de rén hěn shǎo",
+        "eg_vietnamese": "Ở đây rất ít người."
+    },
+    "谁": {
+        "id": 325,
+        "pinyin": "shéi",
+        "vietnamese": [
+            "Ai"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "这是谁的书？",
+        "eg_pinyin": "Zhè shì shéi de shū",
+        "eg_vietnamese": "Đây là sách của ai?"
+    },
+    "身上": {
+        "id": 326,
+        "pinyin": "shēnshang",
+        "vietnamese": [
+            "Trên người"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你身上有钱吗？",
+        "eg_pinyin": "Nǐ shēnshang yǒu qián ma",
+        "eg_vietnamese": "Bạn có tiền trong người không?"
+    },
+    "身体": {
+        "id": 327,
+        "pinyin": "shēntǐ",
+        "vietnamese": [
+            "Cơ thể, sức khỏe"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你身体好吗？",
+        "eg_pinyin": "Nǐ shēntǐ hǎo ma",
+        "eg_vietnamese": "Sức khỏe của bạn có tốt không?"
+    },
+    "什么": {
+        "id": 328,
+        "pinyin": "shénme",
+        "vietnamese": [
+            "Gì, cái gì"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你想吃什么？",
+        "eg_pinyin": "Nǐ xiǎng chī shénme",
+        "eg_vietnamese": "Bạn muốn ăn gì?"
+    },
+    "生病": {
+        "id": 329,
+        "pinyin": "shēng bìng",
+        "vietnamese": [
+            "Bị bệnh"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他昨天生病了。",
+        "eg_pinyin": "Tā zuótiān shēng bìng le",
+        "eg_vietnamese": "Hôm qua anh ấy bị bệnh."
+    },
+    "生气": {
+        "id": 330,
+        "pinyin": "shēng qì",
+        "vietnamese": [
+            "Giận, tức giận"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "妈妈生气了。",
+        "eg_pinyin": "Māmā shēngqì le",
+        "eg_vietnamese": "Mẹ giận rồi."
+    },
+    "生日": {
+        "id": 331,
+        "pinyin": "shēngrì",
+        "vietnamese": [
+            "Sinh nhật"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你的生日是几月几号？",
+        "eg_pinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào",
+        "eg_vietnamese": "Sinh nhật của bạn là ngày mấy tháng mấy?"
+    },
+    "十": {
+        "id": 332,
+        "pinyin": "shí",
+        "vietnamese": [
+            "Số mười"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "他十岁就会游泳。",
+        "eg_pinyin": "Tā shí suì jiù huì yóuyǒng",
+        "eg_vietnamese": "Anh ấy mười tuổi đã biết bơi."
+    },
+    "时候": {
+        "id": 333,
+        "pinyin": "shíhou",
+        "vietnamese": [
+            "Thời gian, lúc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你什么时候去北京？",
+        "eg_pinyin": "Nǐ shénme shíhòu qù Běijīng",
+        "eg_vietnamese": "Khi nào bạn đi Bắc Kinh?"
+    },
+    "时间": {
+        "id": 334,
+        "pinyin": "shíjiān",
+        "vietnamese": [
+            "Thời gian"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "时间过得真快。",
+        "eg_pinyin": "Shíjiān guò dé zhēn kuài",
+        "eg_vietnamese": "Thời gian trôi qua thật nhanh."
+    },
+    "事": {
+        "id": 335,
+        "pinyin": "shì",
+        "vietnamese": [
+            "Việc, sự việc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这是一件重要的事。",
+        "eg_pinyin": "Zhè shì yī jiàn zhòngyào de shì",
+        "eg_vietnamese": "Đây là một việc quan trọng."
+    },
+    "试": {
+        "id": 336,
+        "pinyin": "shì",
+        "vietnamese": [
+            "Thử, thử nghiệm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我可以试一试吗？",
+        "eg_pinyin": "Wǒ kěyǐ shì yī shì ma?",
+        "eg_vietnamese": "Tôi có thể thử một chút không?"
+    },
+    "是": {
+        "id": 337,
+        "pinyin": "shì",
+        "vietnamese": [
+            "Là"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他是我的好朋友。",
+        "eg_pinyin": "Tā shì wǒ de hǎo péngyǒu",
+        "eg_vietnamese": "Anh ấy là bạn tốt của tôi."
+    },
+    "是不是": {
+        "id": 338,
+        "pinyin": "shì bùshì",
+        "vietnamese": [
+            "Có phải không?"
+        ],
+        "english": [],
+        "type": "Câu hỏi",
+        "eg_chinese": "这件事是不是你做的？",
+        "eg_pinyin": "Zhè jiàn shì shì bùshì nǐ zuò de",
+        "eg_vietnamese": "Việc này có phải cậu làm không?"
+    },
+    "手": {
+        "id": 339,
+        "pinyin": "shǒu",
+        "vietnamese": [
+            "Tay"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请把手洗干净。",
+        "eg_pinyin": "Qǐng bǎ shǒu xǐ gānjìng",
+        "eg_vietnamese": "Hãy rửa tay sạch sẽ."
+    },
+    "手机": {
+        "id": 340,
+        "pinyin": "shǒujī",
+        "vietnamese": [
+            "Điện thoại di động"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的手机在那里。",
+        "eg_pinyin": "Wǒ de shǒujī zài nàlǐ",
+        "eg_vietnamese": "Điện thoại của tôi ở đằng kia."
+    },
+    "书": {
+        "id": 341,
+        "pinyin": "shū",
+        "vietnamese": [
+            "Sách"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢看书。",
+        "eg_pinyin": "Wǒ xǐhuan kàn shū",
+        "eg_vietnamese": "Tôi thích đọc sách."
+    },
+    "书包": {
+        "id": 342,
+        "pinyin": "shūbāo",
+        "vietnamese": [
+            "Cặp sách"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我的书包里有苹果。",
+        "eg_pinyin": "Wǒ de shūbāo lǐ yǒu píngguǒ",
+        "eg_vietnamese": "Trong cặp sách của tôi có một quả táo."
+    },
+    "书店": {
+        "id": 343,
+        "pinyin": "shūdiàn",
+        "vietnamese": [
+            "Hiệu sách"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我喜欢去书店。",
+        "eg_pinyin": "Wǒ xǐhuan qù shūdiàn",
+        "eg_vietnamese": "Tôi thích đi nhà sách."
+    },
+    "树": {
+        "id": 344,
+        "pinyin": "shù",
+        "vietnamese": [
+            "Cây, cây cối"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这里有一棵大树。",
+        "eg_pinyin": "Zhè lǐ yǒu yī kē dà shù",
+        "eg_vietnamese": "Ở đây có một cái cây lớn."
+    },
+    "水": {
+        "id": 345,
+        "pinyin": "shuǐ",
+        "vietnamese": [
+            "Nước"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我想喝水。",
+        "eg_pinyin": "Wǒ xiǎng hē shuǐ",
+        "eg_vietnamese": "Tôi muốn uống nước."
+    },
+    "水果": {
+        "id": 346,
+        "pinyin": "shuǐguǒ",
+        "vietnamese": [
+            "Trái cây"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我每天都吃水果。",
+        "eg_pinyin": "Wǒ měitiān dōu chī shuǐguǒ",
+        "eg_vietnamese": "Tôi ăn trái cây mỗi ngày."
+    },
+    "睡": {
+        "id": 347,
+        "pinyin": "shuì",
+        "vietnamese": [
+            "Ngủ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他昨天晚上睡得很早。",
+        "eg_pinyin": "Tā zuótiān wǎnshàng shuì de hěn zǎo",
+        "eg_vietnamese": "Tối qua anh ấy ngủ rất sớm."
+    },
+    "睡觉": {
+        "id": 348,
+        "pinyin": "shuìjiào",
+        "vietnamese": [
+            "Ngủ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "孩子们都去睡觉了。",
+        "eg_pinyin": "Háizǐmen dōu qù shuìjiào le",
+        "eg_vietnamese": "Bọn trẻ đều đi ngủ rồi."
+    },
+    "说": {
+        "id": 349,
+        "pinyin": "shuō",
+        "vietnamese": [
+            "Nói"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我会说汉语。",
+        "eg_pinyin": "Wǒ huì shuō Hànyǔ",
+        "eg_vietnamese": "Tôi biết nói tiếng Trung."
+    },
+    "说话": {
+        "id": 350,
+        "pinyin": "shuōhuà",
+        "vietnamese": [
+            "Nói chuyện"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请不要大声说话。",
+        "eg_pinyin": "Qǐng bùyào dàshēng shuōhuà",
+        "eg_vietnamese": "Vui lòng đừng nói chuyện lớn tiếng."
+    },
+    "四": {
+        "id": 351,
+        "pinyin": "sì",
+        "vietnamese": [
+            "Số bốn"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "他家有四口人。",
+        "eg_pinyin": "Tā jiā yǒu sì kǒu rén",
+        "eg_vietnamese": "Gia đình anh ấy có bốn người."
+    },
+    "送": {
+        "id": 352,
+        "pinyin": "sòng",
+        "vietnamese": [
+            "Tặng, đưa"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我送你一本书。",
+        "eg_pinyin": "Wǒ sòng nǐ yī běn shū",
+        "eg_vietnamese": "Tôi tặng bạn một quyển sách."
+    },
+    "岁": {
+        "id": 353,
+        "pinyin": "suì",
+        "vietnamese": [
+            "Tuổi"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她今年二十岁了。",
+        "eg_pinyin": "Tā jīnnián èrshí suì le",
+        "eg_vietnamese": "Cô ấy năm nay 20 tuổi rồi."
+    },
+    "他": {
+        "id": 354,
+        "pinyin": "tā",
+        "vietnamese": [
+            "Anh ấy, ông ấy"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "他是我的朋友。",
+        "eg_pinyin": "Tā shì wǒ de péngyǒu",
+        "eg_vietnamese": "Anh ấy là bạn của tôi."
+    },
+    "他们": {
+        "id": 355,
+        "pinyin": "tāmen",
+        "vietnamese": [
+            "Họ, bọn họ (nam)"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "他们在学校学习。",
+        "eg_pinyin": "Tāmen zài xuéxiào xuéxí",
+        "eg_vietnamese": "Họ đang học ở trường."
+    },
+    "她": {
+        "id": 356,
+        "pinyin": "tā",
+        "vietnamese": [
+            "Cô ấy, bà ấy"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "她喜欢听音乐。",
+        "eg_pinyin": "Tā xǐhuan tīng yīnyuè",
+        "eg_vietnamese": "Cô ấy thích nghe nhạc."
+    },
+    "她们": {
+        "id": 357,
+        "pinyin": "tāmen",
+        "vietnamese": [
+            "Họ, bọn họ (nữ)"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "她们正在看书。",
+        "eg_pinyin": "Tāmen zhèngzài kàn shū",
+        "eg_vietnamese": "Họ đang đọc sách."
+    },
+    "太": {
+        "id": 358,
+        "pinyin": "tài",
+        "vietnamese": [
+            "Quá, rất"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "这个菜太好吃了。",
+        "eg_pinyin": "Zhège cài tài hǎochī le",
+        "eg_vietnamese": "Món ăn này quá ngon."
+    },
+    "天": {
+        "id": 359,
+        "pinyin": "tiān",
+        "vietnamese": [
+            "Ngày",
+            "trời, bầu trời"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天是星期天。\n\n我喜欢看天上的星星。",
+        "eg_pinyin": "Jīntiān shì xīngqītiān/\n\n/Wǒ xǐhuān kàn tiānshàng de xīngxīng",
+        "eg_vietnamese": "Hôm nay là Chủ nhật.\n\nTôi thích ngắm sao trên trời."
+    },
+    "天气": {
+        "id": 360,
+        "pinyin": "tiānqì",
+        "vietnamese": [
+            "Thời tiết"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天天气很好。",
+        "eg_pinyin": "Jīntiān tiānqì hěn hǎo",
+        "eg_vietnamese": "Hôm nay thời tiết rất đẹp."
+    },
+    "听": {
+        "id": 361,
+        "pinyin": "tīng",
+        "vietnamese": [
+            "Nghe"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他在听歌。",
+        "eg_pinyin": "Tā zài tīng gē",
+        "eg_vietnamese": "Anh ấy đang nghe nhạc."
+    },
+    "听到": {
+        "id": 362,
+        "pinyin": "tīngdào",
+        "vietnamese": [
+            "Nghe thấy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我听到了你的声音。",
+        "eg_pinyin": "Wǒ tīngdào le nǐ de shēngyīn",
+        "eg_vietnamese": "Tôi đã nghe thấy giọng của bạn."
+    },
+    "听见": {
+        "id": 363,
+        "pinyin": "tīngjiàn",
+        "vietnamese": [
+            "Nghe được"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你听见了吗？",
+        "eg_pinyin": "Nǐ tīngjiàn le ma",
+        "eg_vietnamese": "Bạn có nghe thấy không?"
+    },
+    "听写": {
+        "id": 364,
+        "pinyin": "tīngxiě",
+        "vietnamese": [
+            "Nghe viết (chính tả)"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们今天有听写考试。",
+        "eg_pinyin": "Wǒmen jīntiān yǒu tīngxiě kǎoshì",
+        "eg_vietnamese": "Hôm nay chúng tôi có bài kiểm tra chính tả."
+    },
+    "同学": {
+        "id": 365,
+        "pinyin": "tóngxué",
+        "vietnamese": [
+            "Bạn học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这是我的同学。",
+        "eg_pinyin": "Zhè shì wǒ de tóngxué",
+        "eg_vietnamese": "Đây là bạn học của tôi."
+    },
+    "图书馆": {
+        "id": 366,
+        "pinyin": "túshūguǎn",
+        "vietnamese": [
+            "Thư viện"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "学校里有三个图书馆。",
+        "eg_pinyin": "Xuéxiào li yǒu sān gè túshū guǎn",
+        "eg_vietnamese": "Trường có ba thư viện."
+    },
+    "外": {
+        "id": 367,
+        "pinyin": "wài",
+        "vietnamese": [
+            "Bên ngoài"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们去外面吃饭吧。",
+        "eg_pinyin": "Wǒmen qù wàimiàn chīfàn ba",
+        "eg_vietnamese": "Chúng ta ra ngoài ăn đi."
+    },
+    "外边": {
+        "id": 368,
+        "pinyin": "wàibian",
+        "vietnamese": [
+            "Bên ngoài"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "外边有很多漂亮的花。",
+        "eg_pinyin": "Wàibian yǒu hěnduō piàoliang de huā",
+        "eg_vietnamese": "Bên ngoài có rất nhiều hoa đẹp."
+    },
+    "外国": {
+        "id": 369,
+        "pinyin": "wàiguó",
+        "vietnamese": [
+            "Nước ngoài"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他是外国人。",
+        "eg_pinyin": "Tā shì wàiguó rén",
+        "eg_vietnamese": "Anh ấy là người nước ngoài."
+    },
+    "外语": {
+        "id": 370,
+        "pinyin": "wàiyǔ",
+        "vietnamese": [
+            "Ngoại ngữ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你会说几种外语？",
+        "eg_pinyin": "Nǐ huì shuō jǐ zhǒng wàiyǔ",
+        "eg_vietnamese": "Bạn biết nói mấy thứ tiếng nước ngoài?"
+    },
+    "玩儿": {
+        "id": 371,
+        "pinyin": "wánr",
+        "vietnamese": [
+            "Chơi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "孩子们喜欢玩儿游戏。",
+        "eg_pinyin": "Háizimen xǐhuān wánr yóuxì",
+        "eg_vietnamese": "Bọn trẻ thích chơi trò chơi."
+    },
+    "晚": {
+        "id": 372,
+        "pinyin": "wǎn",
+        "vietnamese": [
+            "Muộn, trễ"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "现在太晚了，快睡吧。",
+        "eg_pinyin": "Xiànzài tài wǎn le, kuài shuì ba",
+        "eg_vietnamese": "Bây giờ quá muộn rồi, mau ngủ đi."
+    },
+    "晚饭": {
+        "id": 373,
+        "pinyin": "wǎnfàn",
+        "vietnamese": [
+            "Bữa tối"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们一起吃晚饭吧。",
+        "eg_pinyin": "Wǒmen yìqǐ chī wǎnfàn ba",
+        "eg_vietnamese": "Chúng ta cùng đi ăn tối nhé."
+    },
+    "晚上": {
+        "id": 374,
+        "pinyin": "wǎnshàng",
+        "vietnamese": [
+            "Buổi tối"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "晚上我们一起去看电影吧。",
+        "eg_pinyin": "Wǎnshàng wǒmen yìqǐ qù kàn diànyǐng ba",
+        "eg_vietnamese": "Buổi tối chúng ta cùng đi xem phim nhé."
+    },
+    "网上": {
+        "id": 375,
+        "pinyin": "wǎngshàng",
+        "vietnamese": [
+            "Trên mạng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "现在很多人喜欢在网上买东西。",
+        "eg_pinyin": "Xiànzài hěnduō rén xǐhuān zài wǎngshàng mǎi dōngxī",
+        "eg_vietnamese": "Hiện nay nhiều người thích mua đồ trên mạng."
+    },
+    "网友": {
+        "id": 376,
+        "pinyin": "wǎngyǒu",
+        "vietnamese": [
+            "Bạn trên mạng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我有很多网友。",
+        "eg_pinyin": "Wǒ yǒu hěnduō wǎngyǒu",
+        "eg_vietnamese": "Tôi có nhiều bạn trên mạng."
+    },
+    "忘": {
+        "id": 377,
+        "pinyin": "wàng",
+        "vietnamese": [
+            "Quên"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我忘了带钱包。",
+        "eg_pinyin": "Wǒ wàng le dài qiánbāo",
+        "eg_vietnamese": "Tôi quên mang ví tiền rồi."
+    },
+    "忘记": {
+        "id": 378,
+        "pinyin": "wàngjì",
+        "vietnamese": [
+            "Quên"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请不要忘记明天的会议。",
+        "eg_pinyin": "Qǐng bú yào wàngjì míngtiān de huìyì",
+        "eg_vietnamese": "Xin đừng quên cuộc họp ngày mai."
+    },
+    "问": {
+        "id": 379,
+        "pinyin": "wèn",
+        "vietnamese": [
+            "Hỏi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你可以问问老师这个问题。",
+        "eg_pinyin": "Nǐ kěyǐ wèn wèn lǎoshī zhège wèntí",
+        "eg_vietnamese": "Bạn có thể hỏi giáo viên câu hỏi này."
+    },
+    "我": {
+        "id": 380,
+        "pinyin": "wǒ",
+        "vietnamese": [
+            "Tôi, mình"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "我是学生。",
+        "eg_pinyin": "Wǒ shì xuéshēng",
+        "eg_vietnamese": "Tôi là học sinh."
+    },
+    "我们": {
+        "id": 381,
+        "pinyin": "wǒmen",
+        "vietnamese": [
+            "Chúng tôi, chúng ta"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "我们是好朋友。",
+        "eg_pinyin": "Wǒmen shì hǎo péngyǒu",
+        "eg_vietnamese": "Chúng tôi là bạn tốt của nhau."
+    },
+    "五": {
+        "id": 382,
+        "pinyin": "wǔ",
+        "vietnamese": [
+            "Số năm"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "她今天买了五个苹果。",
+        "eg_pinyin": "Tā jīntiān mǎi le wǔ gè píngguǒ",
+        "eg_vietnamese": "Hôm nay cô ấy đã mua năm quả táo."
+    },
+    "午饭": {
+        "id": 383,
+        "pinyin": "wǔfàn",
+        "vietnamese": [
+            "Bữa trưa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们一起去吃午饭吧。",
+        "eg_pinyin": "Wǒmen yīqǐ qù chī wǔfàn ba",
+        "eg_vietnamese": "Chúng ta cùng đi ăn trưa nhé."
+    },
+    "西": {
+        "id": 384,
+        "pinyin": "xī",
+        "vietnamese": [
+            "Phía tây"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家在学校西边。",
+        "eg_pinyin": "Wǒ jiā zài xuéxiào xībiān",
+        "eg_vietnamese": "Nhà tôi ở phía tây của trường."
+    },
+    "西边": {
+        "id": 385,
+        "pinyin": "xībiān",
+        "vietnamese": [],
+        "english": [],
+        "type": "",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "洗": {
+        "id": 386,
+        "pinyin": "xǐ",
+        "vietnamese": [
+            "Giặt, rửa, tắm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "现在我要洗衣服。",
+        "eg_pinyin": "Xiànzài wǒ yào xǐ yīfu",
+        "eg_vietnamese": "Bây giờ tôi phải giặt quần áo."
+    },
+    "洗手间": {
+        "id": 387,
+        "pinyin": "xǐshǒujiān",
+        "vietnamese": [
+            "Nhà vệ sinh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请问，洗手间在哪里？",
+        "eg_pinyin": "Qǐngwèn, xǐshǒujiān zài nǎlǐ",
+        "eg_vietnamese": "Xin hỏi, nhà vệ sinh ở đâu?"
+    },
+    "喜欢": {
+        "id": 388,
+        "pinyin": "xǐhuan",
+        "vietnamese": [
+            "Thích"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我很喜欢吃中国菜。",
+        "eg_pinyin": "Wǒ hěn xǐhuan chī Zhōngguó cài",
+        "eg_vietnamese": "Tôi rất thích ăn món Trung Quốc."
+    },
+    "下": {
+        "id": 389,
+        "pinyin": "xià",
+        "vietnamese": [
+            "Dưới, phía dưới, bên dưới",
+            "Xuống"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "上有父母，下有儿女。",
+        "eg_pinyin": "Shàng yǒu fùmǔ, xià yǒu érnǚ",
+        "eg_vietnamese": "Trên có cha mẹ, dưới có con cái."
+    },
+    "下班": {
+        "id": 390,
+        "pinyin": "xiàbān",
+        "vietnamese": [
+            "Tan làm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我今晚八点下班。",
+        "eg_pinyin": "Wǒ jīn wǎn bā diǎn xiàbān",
+        "eg_vietnamese": "Tối nay tôi tan làm lúc 8 giờ."
+    },
+    "下边": {
+        "id": 391,
+        "pinyin": "xiàbian",
+        "vietnamese": [
+            "Bên dưới"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "桌子下边有一只猫。",
+        "eg_pinyin": "Zhuōzi xiàbian yǒu yī zhī māo",
+        "eg_vietnamese": "Dưới bàn có một con mèo."
+    },
+    "下车": {
+        "id": 392,
+        "pinyin": "xià chē",
+        "vietnamese": [
+            "Xuống xe"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我要在这一站下车。",
+        "eg_pinyin": "Wǒ yào zài zhè yí zhàn xià chē",
+        "eg_vietnamese": "Tôi muốn xuống xe ở trạm này."
+    },
+    "下次": {
+        "id": 393,
+        "pinyin": "xià cì",
+        "vietnamese": [
+            "Lần sau"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "下次我们一起去看电影吧。",
+        "eg_pinyin": "Xià cì wǒmen yīqǐ qù kàn diànyǐng ba",
+        "eg_vietnamese": "Lần sau chúng ta cùng đi xem phim nhé."
+    },
+    "下课": {
+        "id": 394,
+        "pinyin": "xiàkè",
+        "vietnamese": [
+            "Tan học"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "下课后，我们去喝奶茶吧。",
+        "eg_pinyin": "Xiàkè hòu, wǒmen qù hē nǎichá ba",
+        "eg_vietnamese": "Tan học xong, chúng ta đi uống trà sữa nhé."
+    },
+    "下午": {
+        "id": 395,
+        "pinyin": "xiàwǔ",
+        "vietnamese": [
+            "Buổi chiều"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我下午三点有个会议。",
+        "eg_pinyin": "Wǒ xiàwǔ sān diǎn yǒu gè huìyì",
+        "eg_vietnamese": "Tôi có một cuộc họp vào lúc 3 giờ chiều."
+    },
+    "下雨": {
+        "id": 396,
+        "pinyin": "xià yǔ",
+        "vietnamese": [
+            "Mưa rơi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "今天会下雨，你带伞了吗？",
+        "eg_pinyin": "Jīntiān huì xiàyǔ, nǐ dài sǎn le ma",
+        "eg_vietnamese": "Hôm nay trời sẽ mưa, bạn đã mang ô chưa?"
+    },
+    "先": {
+        "id": 397,
+        "pinyin": "xiān",
+        "vietnamese": [
+            "Trước tiên"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "你先去，我等一下再去。",
+        "eg_pinyin": "Nǐ xiān qù, wǒ děng yīxià zài qù",
+        "eg_vietnamese": "Bạn đi trước đi, tôi sẽ đi sau."
+    },
+    "先生": {
+        "id": 398,
+        "pinyin": "xiānsheng",
+        "vietnamese": [
+            "Ông, thầy, tiên sinh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这位是李先生。",
+        "eg_pinyin": "Zhè wèi shì Lǐ xiānsheng",
+        "eg_vietnamese": "Đây là ông Lý."
+    },
+    "现在": {
+        "id": 399,
+        "pinyin": "xiànzài",
+        "vietnamese": [
+            "Bây giờ"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我现在就去做。",
+        "eg_pinyin": "Wǒ xiànzài jiù qù zuò",
+        "eg_vietnamese": "Tôi đi làm bây giờ đây."
+    },
+    "想": {
+        "id": 400,
+        "pinyin": "xiǎng",
+        "vietnamese": [
+            "Nghĩ, muốn"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我想去日本旅游。",
+        "eg_pinyin": "Wǒ xiǎng qù Rìběn lǚyóu",
+        "eg_vietnamese": "Tôi muốn đi du lịch Nhật Bản."
+    },
+    "小": {
+        "id": 401,
+        "pinyin": "xiǎo",
+        "vietnamese": [
+            "Nhỏ, bé"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这只狗很小，很可爱。",
+        "eg_pinyin": "Zhè zhī gǒu hěn xiǎo, hěn kě'ài",
+        "eg_vietnamese": "Con chó này rất nhỏ, rất đáng yêu."
+    },
+    "小孩儿": {
+        "id": 402,
+        "pinyin": "xiǎoháir",
+        "vietnamese": [
+            "Đứa trẻ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "小孩儿喜欢玩游戏。",
+        "eg_pinyin": "Xiǎoháir xǐhuan wán yóuxì",
+        "eg_vietnamese": "Trẻ con thích chơi trò chơi."
+    },
+    "小姐": {
+        "id": 403,
+        "pinyin": "xiǎojiě",
+        "vietnamese": [
+            "Tiểu thư, cô gái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "王小姐是我的同事。",
+        "eg_pinyin": "Wáng xiǎojiě shì wǒ de tóngshì",
+        "eg_vietnamese": "Cô Vương là đồng nghiệp của tôi."
+    },
+    "小朋友": {
+        "id": 404,
+        "pinyin": "xiǎopéngyǒu",
+        "vietnamese": [
+            "Bạn nhỏ, trẻ em"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "小朋友们都喜欢听故事。",
+        "eg_pinyin": "Xiǎopéngyǒu men dōu xǐhuan tīng gùshì",
+        "eg_vietnamese": "Các bạn nhỏ đều thích nghe kể chuyện."
+    },
+    "小时": {
+        "id": 405,
+        "pinyin": "xiǎoshí",
+        "vietnamese": [
+            "Giờ (đơn vị thời gian)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我等了一个小时。",
+        "eg_pinyin": "Wǒ děng le yí gè xiǎoshí",
+        "eg_vietnamese": "Tôi đã đợi 1 tiếng."
+    },
+    "小学": {
+        "id": 406,
+        "pinyin": "xiǎoxué",
+        "vietnamese": [
+            "Trường tiểu học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我弟弟上小学二年级。",
+        "eg_pinyin": "Wǒ dìdi shàng xiǎoxué èr niánjí",
+        "eg_vietnamese": "Em trai tôi học lớp 2 tiểu học."
+    },
+    "小学生": {
+        "id": 407,
+        "pinyin": "xiǎoxuéshēng",
+        "vietnamese": [
+            "Học sinh tiểu học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她是个聪明的小学生。",
+        "eg_pinyin": "Tā shì gè cōngmíng de xiǎoxuéshēng",
+        "eg_vietnamese": "Cô bé ấy là một học sinh tiểu học thông minh."
+    },
+    "笑": {
+        "id": 408,
+        "pinyin": "xiào",
+        "vietnamese": [
+            "Cười"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "她的笑容很美。",
+        "eg_pinyin": "Tā de xiàoróng hěn měi",
+        "eg_vietnamese": "Nụ cười của cô ấy rất đẹp."
+    },
+    "写": {
+        "id": 409,
+        "pinyin": "xiě",
+        "vietnamese": [
+            "Viết"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请写下你的名字。",
+        "eg_pinyin": "Qǐng xiě xià nǐ de míngzi",
+        "eg_vietnamese": "Vui lòng viết tên của bạn xuống."
+    },
+    "谢谢": {
+        "id": 410,
+        "pinyin": "xièxie",
+        "vietnamese": [
+            "Cảm ơn"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "谢谢你的帮助。",
+        "eg_pinyin": "Xièxie nǐ de bāngzhù",
+        "eg_vietnamese": "Cảm ơn sự giúp đỡ của bạn."
+    },
+    "新": {
+        "id": 411,
+        "pinyin": "xīn",
+        "vietnamese": [
+            "Mới"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我买了一件新衣服。",
+        "eg_pinyin": "Wǒ mǎi le yí jiàn xīn yīfú",
+        "eg_vietnamese": "Tôi đã mua một bộ quần áo mới."
+    },
+    "新年": {
+        "id": 412,
+        "pinyin": "xīnnián",
+        "vietnamese": [
+            "Năm mới"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "新年快乐！",
+        "eg_pinyin": "Xīnnián kuài lè",
+        "eg_vietnamese": "Năm mới vui vẻ!"
+    },
+    "星期": {
+        "id": 413,
+        "pinyin": "xīngqī",
+        "vietnamese": [
+            "Tuần"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个星期很忙。",
+        "eg_pinyin": "Zhège xīngqī hěn máng",
+        "eg_vietnamese": "Tuần này rất bận."
+    },
+    "星期日": {
+        "id": 414,
+        "pinyin": "xīngqīrì",
+        "vietnamese": [
+            "Chủ nhật"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "星期日我们去公园吧。",
+        "eg_pinyin": "Xīngqīrì wǒmen qù gōngyuán ba",
+        "eg_vietnamese": "Chủ nhật chúng ta đi công viên nhé."
+    },
+    "星期天": {
+        "id": 415,
+        "pinyin": "xīngqītiān",
+        "vietnamese": [
+            "Chủ nhật"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "星期天我喜欢睡懒觉。",
+        "eg_pinyin": "Xīngqītiān wǒ xǐhuan shuì lǎnjiào",
+        "eg_vietnamese": "Chủ nhật tôi thích ngủ nướng."
+    },
+    "行": {
+        "id": 416,
+        "pinyin": "xíng",
+        "vietnamese": [
+            "Được, ổn"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "这样做行不行？",
+        "eg_pinyin": "Zhèyàng zuò xíng bù xíng",
+        "eg_vietnamese": "Làm như thế này được không?"
+    },
+    "休息": {
+        "id": 417,
+        "pinyin": "xiūxi",
+        "vietnamese": [
+            "Nghỉ ngơi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我每天都要休息一小时。",
+        "eg_pinyin": "Wǒ měitiān dōu yào xiūxi yī xiǎoshí",
+        "eg_vietnamese": "Tôi phải nghỉ ngơi một giờ mỗi ngày."
+    },
+    "学": {
+        "id": 418,
+        "pinyin": "xué",
+        "vietnamese": [
+            "Học"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我在学汉语。",
+        "eg_pinyin": "Wǒ zài xué Hànyǔ",
+        "eg_vietnamese": "Tôi đang học tiếng Trung."
+    },
+    "学生": {
+        "id": 419,
+        "pinyin": "xuéshēng",
+        "vietnamese": [
+            "Học sinh"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她是我的学生。",
+        "eg_pinyin": "Tā shì wǒ de xuéshēng",
+        "eg_vietnamese": "Cô ấy là học sinh của tôi."
+    },
+    "学习": {
+        "id": 420,
+        "pinyin": "xuéxí",
+        "vietnamese": [
+            "Học tập"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们应该认真学习。",
+        "eg_pinyin": "Wǒmen yīnggāi rènzhēn xuéxí",
+        "eg_vietnamese": "Chúng ta nên học tập chăm chỉ."
+    },
+    "学校": {
+        "id": 421,
+        "pinyin": "xuéxiào",
+        "vietnamese": [
+            "Trường học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们学校很大。",
+        "eg_pinyin": "Wǒmen xuéxiào hěn dà",
+        "eg_vietnamese": "Trường của chúng tôi rất lớn."
+    },
+    "学院": {
+        "id": 422,
+        "pinyin": "xuéyuàn",
+        "vietnamese": [
+            "Học viện"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这个学院很大很漂亮。",
+        "eg_pinyin": "Zhège xuéyuàn hěn dà hěn piàoliang",
+        "eg_vietnamese": "Học viện này rất lớn và đẹp."
+    },
+    "要（动）": {
+        "id": 423,
+        "pinyin": "yào",
+        "vietnamese": [
+            "Muốn, cần"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我想要一杯咖啡。",
+        "eg_pinyin": "Wǒ xiǎng yào yī bēi kāfēi",
+        "eg_vietnamese": "Tôi muốn một ly cà phê."
+    },
+    "爷爷": {
+        "id": 424,
+        "pinyin": "yéye",
+        "vietnamese": [
+            "Ông nội"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我爷爷每天去公园散步。",
+        "eg_pinyin": "Wǒ yéye měitiān qù gōngyuán sànbù",
+        "eg_vietnamese": "Mỗi ngày ông nội tôi đi dạo trong công viên."
+    },
+    "也": {
+        "id": 425,
+        "pinyin": "yě",
+        "vietnamese": [
+            "Cũng"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我也喜欢吃苹果。",
+        "eg_pinyin": "Wǒ yě xǐhuan chī píngguǒ",
+        "eg_vietnamese": "Tôi cũng thích ăn táo."
+    },
+    "页": {
+        "id": 426,
+        "pinyin": "yè",
+        "vietnamese": [
+            "Trang (sách, giấy)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请翻到第五页。",
+        "eg_pinyin": "Qǐng fān dào dì wǔ yè",
+        "eg_vietnamese": "Vui lòng lật đến trang 5."
+    },
+    "一": {
+        "id": 427,
+        "pinyin": "yī",
+        "vietnamese": [
+            "Một"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我只有一个妹妹。",
+        "eg_pinyin": "Wǒ zhǐ yǒu yī gè mèimei",
+        "eg_vietnamese": "Tôi chỉ có một em gái."
+    },
+    "衣服": {
+        "id": 428,
+        "pinyin": "yīfu",
+        "vietnamese": [
+            "Quần áo"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这件衣服很漂亮。",
+        "eg_pinyin": "Zhè jiàn yīfu hěn piàoliang",
+        "eg_vietnamese": "Bộ quần áo này rất đẹp."
+    },
+    "医生": {
+        "id": 429,
+        "pinyin": "yīshēng",
+        "vietnamese": [
+            "Bác sĩ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我爸爸是一名医生。",
+        "eg_pinyin": "Wǒ bàba shì yī míng yīshēng",
+        "eg_vietnamese": "Bố tôi là một bác sĩ."
+    },
+    "医院": {
+        "id": 430,
+        "pinyin": "yīyuàn",
+        "vietnamese": [
+            "Bệnh viện"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他生病了，要去医院。",
+        "eg_pinyin": "Tā shēngbìng le, yào qù yīyuàn",
+        "eg_vietnamese": "Anh ấy bị ốm, cần đến bệnh viện."
+    },
+    "一半": {
+        "id": 431,
+        "pinyin": "yíbàn",
+        "vietnamese": [
+            "Một nửa"
+        ],
+        "english": [],
+        "type": "Số từ",
+        "eg_chinese": "我们班一半是男生。",
+        "eg_pinyin": "Wǒmen bān yíbàn shì nánshēng",
+        "eg_vietnamese": "Một nửa lớp chúng tôi là nam sinh."
+    },
+    "一会儿": {
+        "id": 432,
+        "pinyin": "yíhuìr",
+        "vietnamese": [
+            "Một lát, một chút"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请等我一会儿。",
+        "eg_pinyin": "Qǐng děng wǒ yíhuìr",
+        "eg_vietnamese": "Vui lòng đợi tôi một lát."
+    },
+    "一块儿": {
+        "id": 433,
+        "pinyin": "yíkuàir",
+        "vietnamese": [
+            "Cùng nhau"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我们一块儿去公园吧。",
+        "eg_pinyin": "Wǒmen yíkuàir qù gōngyuán ba",
+        "eg_vietnamese": "Chúng ta cùng đi công viên nhé."
+    },
+    "一下儿": {
+        "id": 434,
+        "pinyin": "yíxiàr",
+        "vietnamese": [
+            "Một chút, một lát"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "你等我一下儿。",
+        "eg_pinyin": "Nǐ děng wǒ yíxiàr",
+        "eg_vietnamese": "Đợi tôi một chút."
+    },
+    "一样": {
+        "id": 435,
+        "pinyin": "yíyàng",
+        "vietnamese": [
+            "Giống nhau"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这两件衣服一样。",
+        "eg_pinyin": "Zhè liǎng jiàn yīfu yíyàng",
+        "eg_vietnamese": "Hai bộ quần áo này giống nhau."
+    },
+    "一边": {
+        "id": 436,
+        "pinyin": "yìbiān",
+        "vietnamese": [
+            "Một phía, một bên"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她一边吃饭，一边看书。",
+        "eg_pinyin": "Tā yìbiān chīfàn, yìbiān kànshū",
+        "eg_vietnamese": "Cô ấy vừa ăn vừa đọc sách."
+    },
+    "一点儿": {
+        "id": 437,
+        "pinyin": "yìdiǎnr",
+        "vietnamese": [
+            "Một chút, một ít"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "我想喝一点儿水。",
+        "eg_pinyin": "Wǒ xiǎng hē yìdiǎnr shuǐ",
+        "eg_vietnamese": "Tôi muốn uống một chút nước."
+    },
+    "一起": {
+        "id": 438,
+        "pinyin": "yìqǐ",
+        "vietnamese": [
+            "Cùng nhau"
+        ],
+        "english": [],
+        "type": "Trạng từ",
+        "eg_chinese": "我们一起去看电影吧。",
+        "eg_pinyin": "Wǒmen yìqǐ qù kàn diànyǐng ba",
+        "eg_vietnamese": "Chúng ta cùng đi xem phim nhé."
+    },
+    "一些": {
+        "id": 439,
+        "pinyin": "yìxiē",
+        "vietnamese": [
+            "Một số, một ít"
+        ],
+        "english": [],
+        "type": "Lượng từ",
+        "eg_chinese": "这里有一些苹果。",
+        "eg_pinyin": "Zhèlǐ yǒu yìxiē píngguǒ",
+        "eg_vietnamese": "Ở đây có một vài quả táo."
+    },
+    "用": {
+        "id": 440,
+        "pinyin": "yòng",
+        "vietnamese": [
+            "Dùng, sử dụng"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你可以用我的手机。",
+        "eg_pinyin": "Nǐ kěyǐ yòng wǒ de shǒujī",
+        "eg_vietnamese": "Bạn có thể dùng điện thoại của tôi."
+    },
+    "有": {
+        "id": 441,
+        "pinyin": "yǒu",
+        "vietnamese": [
+            "Có, tồn tại"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我有一个好朋友。",
+        "eg_pinyin": "Wǒ yǒu yī gè hǎo péngyǒu",
+        "eg_vietnamese": "Tôi có một người bạn tốt."
+    },
+    "有的": {
+        "id": 442,
+        "pinyin": "yǒude",
+        "vietnamese": [
+            "Một số, có cái thì…"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "有的人喜欢喝咖啡,有的人喜欢喝茶。",
+        "eg_pinyin": "Yǒude rén xǐhuan hē kāfēi，yǒude rén xǐhuan hē chá",
+        "eg_vietnamese": "Có người thích uống cà phê, có người thích uống trà."
+    },
+    "有名": {
+        "id": 443,
+        "pinyin": "yǒumíng",
+        "vietnamese": [
+            "Nổi tiếng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这家餐厅很有名。",
+        "eg_pinyin": "Zhè jiā cāntīng hěn yǒumíng",
+        "eg_vietnamese": "Nhà hàng này rất nổi tiếng."
+    },
+    "有时候 | 有时": {
+        "id": 444,
+        "pinyin": "yǒu shíhòu |yǒu shí",
+        "vietnamese": [
+            "Đôi khi, có lúc"
+        ],
+        "english": [],
+        "type": "Trạng từ",
+        "eg_chinese": "我有时候去图书馆学习。",
+        "eg_pinyin": "Wǒ yǒu shíhòu qù túshūguǎn xuéxí",
+        "eg_vietnamese": "Đôi khi tôi đến thư viện học."
+    },
+    "有（一）些": {
+        "id": 445,
+        "pinyin": "yǒu (yì) xiē",
+        "vietnamese": [
+            "Một vài, một số"
+        ],
+        "english": [],
+        "type": "Lượng từ",
+        "eg_chinese": "这里有一些书。",
+        "eg_pinyin": "Zhèlǐ yǒu yìxiē shū",
+        "eg_vietnamese": "Ở đây có một vài cuốn sách."
+    },
+    "有用": {
+        "id": 446,
+        "pinyin": "yǒuyòng",
+        "vietnamese": [
+            "Hữu ích, có ích"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这本书很有用。",
+        "eg_pinyin": "Zhè běn shū hěn yǒuyòng",
+        "eg_vietnamese": "Cuốn sách này rất hữu ích."
+    },
+    "右": {
+        "id": 447,
+        "pinyin": "yòu",
+        "vietnamese": [
+            "Bên phải"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "商店在银行的右边。",
+        "eg_pinyin": "Shāngdiàn zài yínháng de yòubian",
+        "eg_vietnamese": "Cửa hàng ở bên phải ngân hàng."
+    },
+    "右边": {
+        "id": 448,
+        "pinyin": "yòubian",
+        "vietnamese": [
+            "Phía bên phải"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "",
+        "eg_pinyin": "",
+        "eg_vietnamese": ""
+    },
+    "雨": {
+        "id": 449,
+        "pinyin": "yǔ",
+        "vietnamese": [
+            "Mưa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今天下雨了。",
+        "eg_pinyin": "Jīntiān xià yǔ le",
+        "eg_vietnamese": "Hôm nay trời mưa rồi."
+    },
+    "元": {
+        "id": 450,
+        "pinyin": "yuán",
+        "vietnamese": [
+            "Đồng (đơn vị tiền tệ)"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "这本书五十元。",
+        "eg_pinyin": "Zhè běn shū wǔshí yuán",
+        "eg_vietnamese": "Cuốn sách này giá 50 tệ."
+    },
+    "远": {
+        "id": 451,
+        "pinyin": "yuǎn",
+        "vietnamese": [
+            "Xa"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "我家离学校很远。",
+        "eg_pinyin": "Wǒ jiā lí xuéxiào hěn yuǎn",
+        "eg_vietnamese": "Nhà tôi cách trường học rất xa."
+    },
+    "月": {
+        "id": 452,
+        "pinyin": "yuè",
+        "vietnamese": [
+            "Tháng",
+            "mặt trăng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "今年的二月有二十九天。\n\n今天的月亮很漂亮。",
+        "eg_pinyin": "Jīnnián de èryuè yǒu èrshíjiǔ tiān/\n\n/Jīntiān de yuèliàng hěn piàoliang",
+        "eg_vietnamese": "Tháng Hai năm nay có 29 ngày.\n\nMặt trăng hôm nay rất đẹp."
+    },
+    "再": {
+        "id": 453,
+        "pinyin": "zài",
+        "vietnamese": [
+            "Lại, lần nữa"
+        ],
+        "english": [],
+        "type": "Trạng từ",
+        "eg_chinese": "请再说一遍。",
+        "eg_pinyin": "Qǐng zài shuō yí biàn",
+        "eg_vietnamese": "Xin hãy nói lại một lần nữa."
+    },
+    "再见": {
+        "id": 454,
+        "pinyin": "zàijiàn",
+        "vietnamese": [
+            "Tạm biệt"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "A: 明天见！\nB: 再见！",
+        "eg_pinyin": "A:/Míngtiān jiàn!/ \nB: /Zàijiàn!/",
+        "eg_vietnamese": "A: Hẹn gặp lại ngày mai! \nB: Tạm biệt!"
+    },
+    "在": {
+        "id": 455,
+        "pinyin": "zài",
+        "vietnamese": [
+            "Ở, tại"
+        ],
+        "english": [],
+        "type": "Giới từ",
+        "eg_chinese": "我在家看电视。",
+        "eg_pinyin": "Wǒ zài jiā kàn diànshì",
+        "eg_vietnamese": "Tôi ở nhà xem tivi."
+    },
+    "在家": {
+        "id": 456,
+        "pinyin": "zàijiā",
+        "vietnamese": [
+            "Ở nhà"
+        ],
+        "english": [],
+        "type": "Trạng từ",
+        "eg_chinese": "周末我一般在家休息。",
+        "eg_pinyin": "Zhōumò wǒ yībān zàijiā xiūxi",
+        "eg_vietnamese": "Cuối tuần tôi thường ở nhà nghỉ ngơi."
+    },
+    "早": {
+        "id": 457,
+        "pinyin": "zǎo",
+        "vietnamese": [
+            "Sớm"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "今天你起得很早。",
+        "eg_pinyin": "Jīntiān nǐ qǐ de hěn zǎo",
+        "eg_vietnamese": "Hôm nay bạn dậy rất sớm."
+    },
+    "早饭": {
+        "id": 458,
+        "pinyin": "zǎofàn",
+        "vietnamese": [
+            "Bữa sáng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你今天吃早饭了吗？",
+        "eg_pinyin": "Nǐ jīntiān chī zǎofàn le ma",
+        "eg_vietnamese": "Hôm nay bạn đã ăn sáng chưa?"
+    },
+    "早上": {
+        "id": 459,
+        "pinyin": "zǎoshang",
+        "vietnamese": [
+            "Buổi sáng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "早上空气很好。",
+        "eg_pinyin": "Zǎoshang kōngqì hěn hǎo",
+        "eg_vietnamese": "Không khí buổi sáng rất tốt."
+    },
+    "怎么": {
+        "id": 460,
+        "pinyin": "zěnme",
+        "vietnamese": [
+            "Như thế nào"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你怎么来学校的？",
+        "eg_pinyin": "Nǐ zěnme lái xuéxiào de",
+        "eg_vietnamese": "Bạn đến trường bằng cách nào?"
+    },
+    "站": {
+        "id": 461,
+        "pinyin": "zhàn",
+        "vietnamese": [
+            "Đứng",
+            "Trạm, ga"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请站在这儿。",
+        "eg_pinyin": "Qǐng zhàn zài zhèr",
+        "eg_vietnamese": "Xin hãy đứng ở đây."
+    },
+    "找": {
+        "id": 462,
+        "pinyin": "zhǎo",
+        "vietnamese": [
+            "Tìm kiếm"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我在找我的手机。",
+        "eg_pinyin": "Wǒ zài zhǎo wǒ de shǒujī",
+        "eg_vietnamese": "Tôi đang tìm điện thoại của tôi."
+    },
+    "找到": {
+        "id": 463,
+        "pinyin": "zhǎodào",
+        "vietnamese": [
+            "Tìm thấy"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我找到钥匙了。",
+        "eg_pinyin": "Wǒ zhǎodào yàoshi le",
+        "eg_vietnamese": "Tôi tìm thấy chìa khóa rồi."
+    },
+    "这": {
+        "id": 464,
+        "pinyin": "zhè",
+        "vietnamese": [
+            "Này, đây"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "这是我的书。",
+        "eg_pinyin": "Zhè shì wǒ de shū",
+        "eg_vietnamese": "Đây là sách của tôi."
+    },
+    "这边": {
+        "id": 465,
+        "pinyin": "zhèbiān",
+        "vietnamese": [
+            "Bên này, phía này"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你坐这边吧。",
+        "eg_pinyin": "Nǐ zuò zhèbiān ba",
+        "eg_vietnamese": "Bạn ngồi bên này đi."
+    },
+    "这里": {
+        "id": 466,
+        "pinyin": "zhè lǐ",
+        "vietnamese": [
+            "Ở đây, chỗ này"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "这里的风景很美。",
+        "eg_pinyin": "Zhè lǐ de fēngjǐng hěn měi",
+        "eg_vietnamese": "Phong cảnh ở đây rất đẹp."
+    },
+    "这儿": {
+        "id": 467,
+        "pinyin": "zhèr",
+        "vietnamese": [
+            "Ở đây"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "你来这儿看看吧。",
+        "eg_pinyin": "Nǐ lái zhèr kànkan ba",
+        "eg_vietnamese": "Bạn đến chỗ này xem thử đi."
+    },
+    "这些": {
+        "id": 468,
+        "pinyin": "zhèxiē",
+        "vietnamese": [
+            "Những cái này"
+        ],
+        "english": [],
+        "type": "Đại từ",
+        "eg_chinese": "这些水果很好吃。",
+        "eg_pinyin": "Zhèxiē shuǐguǒ hěn hǎochī",
+        "eg_vietnamese": "Những loại trái cây này rất ngon."
+    },
+    "着": {
+        "id": 469,
+        "pinyin": "zhe",
+        "vietnamese": [
+            "Đang (dùng để chỉ trạng thái tiếp diễn)"
+        ],
+        "english": [],
+        "type": "Trợ từ",
+        "eg_chinese": "他笑着说话。",
+        "eg_pinyin": "Tā xiào zhe shuōhuà",
+        "eg_vietnamese": "Anh ấy vừa cười vừa nói."
+    },
+    "真": {
+        "id": 470,
+        "pinyin": "zhēn",
+        "vietnamese": [
+            "Thật, rất"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "这个地方真美。",
+        "eg_pinyin": "Zhège dìfāng zhēn měi",
+        "eg_vietnamese": "Nơi này thật đẹp!"
+    },
+    "真的": {
+        "id": 471,
+        "pinyin": "zhēn de",
+        "vietnamese": [
+            "Thật sự, thực sự"
+        ],
+        "english": [],
+        "type": "Cụm từ",
+        "eg_chinese": "你真的要去吗？",
+        "eg_pinyin": "Nǐ zhēnde yào qù ma",
+        "eg_vietnamese": "Bạn thật sự muốn đi à?"
+    },
+    "正": {
+        "id": 472,
+        "pinyin": "zhèng",
+        "vietnamese": [
+            "vừa hay, đúng lúc"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我正好要去找你。",
+        "eg_pinyin": "Wǒ zhènghǎo yào qù zhǎo nǐ",
+        "eg_vietnamese": "Tôi vừa hay định đi tìm bạn."
+    },
+    "正在": {
+        "id": 473,
+        "pinyin": "zhèngzài",
+        "vietnamese": [
+            "Đang (chỉ hành động xảy ra trong hiện tại)"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "我正在写作业。",
+        "eg_pinyin": "Wǒ zhèngzài xiě zuòyè",
+        "eg_vietnamese": "Tôi đang làm bài tập."
+    },
+    "知道": {
+        "id": 474,
+        "pinyin": "zhī dào",
+        "vietnamese": [
+            "Biết, hiểu biết"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你知道他的名字吗？",
+        "eg_pinyin": "Nǐ zhīdào tā de míngzi ma?",
+        "eg_vietnamese": "Bạn có biết tên của anh ấy không?"
+    },
+    "知识": {
+        "id": 475,
+        "pinyin": "zhīshi",
+        "vietnamese": [
+            "Kiến thức"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "学习知识很重要。",
+        "eg_pinyin": "Xuéxí zhīshi hěn zhòngyào",
+        "eg_vietnamese": "Việc học rất quan trọng."
+    },
+    "中": {
+        "id": 476,
+        "pinyin": "zhōng",
+        "vietnamese": [
+            "Ở giữa, trung tâm"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "她站在房间中间。",
+        "eg_pinyin": "Tā zhàn zài fángjiān de zhōngjiān",
+        "eg_vietnamese": "Cô ấy đứng ở giữa phòng."
+    },
+    "中国": {
+        "id": 477,
+        "pinyin": "Zhōngguó",
+        "vietnamese": [
+            "Trung quốc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "中国是一个美丽的国家。",
+        "eg_pinyin": "Zhōngguó shì yī gè měilì de guójiā",
+        "eg_vietnamese": "Trung Quốc là một đất nước xinh đẹp."
+    },
+    "中间": {
+        "id": 478,
+        "pinyin": "zhōngjiān",
+        "vietnamese": [
+            "Ở giữa, trung gian"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家在学校和公司中间。",
+        "eg_pinyin": "Wǒ jiā zài xuéxiào hé gōngsī zhōngjiān",
+        "eg_vietnamese": "Nhà tôi nằm giữa trường học và công ty."
+    },
+    "中文": {
+        "id": 479,
+        "pinyin": "Zhōngwén",
+        "vietnamese": [
+            "Tiếng trung quốc"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "你的中文很好。",
+        "eg_pinyin": "Nǐ de Zhōngwén hěn hǎo",
+        "eg_vietnamese": "Tiếng Trung của bạn rất tốt"
+    },
+    "中午": {
+        "id": 480,
+        "pinyin": "zhōngwǔ",
+        "vietnamese": [
+            "Buổi trưa"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我们中午去吃饭吧。",
+        "eg_pinyin": "Wǒmen zhōngwǔ qù chīfàn ba",
+        "eg_vietnamese": "Chúng ta đi ăn trưa nhé."
+    },
+    "中学": {
+        "id": 481,
+        "pinyin": "zhōngxué",
+        "vietnamese": [
+            "Trường trung học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他是我中学同学。",
+        "eg_pinyin": "Tā shì wǒ zhōngxué tóngxué",
+        "eg_vietnamese": "Anh ấy là bạn học của tôi ở trường trung học."
+    },
+    "中学生": {
+        "id": 482,
+        "pinyin": "zhōngxuéshēng",
+        "vietnamese": [
+            "Học sinh trung học"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "他是一个中学生。",
+        "eg_pinyin": "Tā shì yí gè zhōngxuéshēng",
+        "eg_vietnamese": "Cậu ấy là một học sinh trung học."
+    },
+    "重": {
+        "id": 483,
+        "pinyin": "zhòng",
+        "vietnamese": [
+            "Nặng",
+            "trọng yếu, quan trọng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "这个箱子很重。\n\n这是个重大决定。",
+        "eg_pinyin": "Zhège xiāngzi hěn zhòng/\n\n/Zhè shìgè zhòngdà juédìng",
+        "eg_vietnamese": "Chiếc hộp này rất nặng.\n\nĐây là một quyết định quan trọng."
+    },
+    "重要": {
+        "id": 484,
+        "pinyin": "zhòngyào",
+        "vietnamese": [
+            "Quan trọng"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "学习汉语对我来说很重要。",
+        "eg_pinyin": "Xuéxí Hànyǔ duì wǒ lái shuō hěn zhòngyào",
+        "eg_vietnamese": "Học tiếng Trung rất quan trọng đối với tôi."
+    },
+    "住": {
+        "id": 485,
+        "pinyin": "zhù",
+        "vietnamese": [
+            "Ở, cư trú, sống"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "你住在哪个城市？",
+        "eg_pinyin": "Nǐ zhù zài nǎge chéngshì",
+        "eg_vietnamese": "Bạn sống ở thành phố nào?"
+    },
+    "准备": {
+        "id": 486,
+        "pinyin": "zhǔnbèi",
+        "vietnamese": [
+            "Chuẩn bị"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "A: 你准备好了吗？\nB: 我们要出发了。",
+        "eg_pinyin": "A: /Nǐ zhǔnbèi hǎo le ma/\nB: /Wǒmen yào chūfā le/",
+        "eg_vietnamese": "A: Bạn chuẩn bị xong chưa? \nB: Chúng ta sắp xuất phát rồi."
+    },
+    "桌子": {
+        "id": 487,
+        "pinyin": "zhuōzi",
+        "vietnamese": [
+            "Cái bàn"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "书在桌子上，你看见了吗？",
+        "eg_pinyin": "Shū zài zhuōzi shàng, nǐ kànjiàn le ma",
+        "eg_vietnamese": "Quyển sách ở trên bàn, bạn thấy chưa?"
+    },
+    "字": {
+        "id": 488,
+        "pinyin": "zì",
+        "vietnamese": [
+            "Chữ, từ"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我不认识这个字。",
+        "eg_pinyin": "Wǒ bù rènshi zhège zì",
+        "eg_vietnamese": "Tôi không biết chữ này."
+    },
+    "子（桌子）": {
+        "id": 489,
+        "pinyin": "zi (zhuōzi)",
+        "vietnamese": [
+            "Hậu tố dùng trong danh từ"
+        ],
+        "english": [],
+        "type": "Hậu tố",
+        "eg_chinese": "你的桌子很大，很好看。",
+        "eg_pinyin": "Nǐ de zhuōzi hěn dà, hěn hǎokàn",
+        "eg_vietnamese": "Cái bàn của bạn rất lớn, rất đẹp."
+    },
+    "走": {
+        "id": 490,
+        "pinyin": "zǒu",
+        "vietnamese": [
+            "Đi, rời đi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我们一起走吧，太晚了。",
+        "eg_pinyin": "Wǒmen yīqǐ zǒu ba, tài wǎn le",
+        "eg_vietnamese": "Chúng ta cùng đi thôi, trễ quá rồi."
+    },
+    "走路": {
+        "id": 491,
+        "pinyin": "zǒu lù",
+        "vietnamese": [
+            "Đi bộ"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "他每天早上都走路去学校。",
+        "eg_pinyin": "Tā měitiān zǎoshang dōu zǒulù qù xuéxiào",
+        "eg_vietnamese": "Mỗi sáng anh ấy đều đi bộ đến trường."
+    },
+    "最": {
+        "id": 492,
+        "pinyin": "zuì",
+        "vietnamese": [
+            "Nhất (chỉ mức độ cao nhất)"
+        ],
+        "english": [],
+        "type": "Phó từ",
+        "eg_chinese": "你最喜欢吃什么水果？",
+        "eg_pinyin": "Nǐ zuì xǐhuan chī shénme shuǐguǒ",
+        "eg_vietnamese": "Bạn thích ăn loại trái cây nào nhất?"
+    },
+    "最好": {
+        "id": 493,
+        "pinyin": "zuìhǎo",
+        "vietnamese": [
+            "Tốt nhất"
+        ],
+        "english": [],
+        "type": "Tính từ",
+        "eg_chinese": "下雨了，你最好带伞。",
+        "eg_pinyin": "Xiàyǔ le, nǐ zuìhǎo dài sǎn",
+        "eg_vietnamese": "Trời mưa rồi, tốt nhất bạn nên mang ô."
+    },
+    "最后": {
+        "id": 494,
+        "pinyin": "zuìhòu",
+        "vietnamese": [
+            "Cuối cùng"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "最后一个问题，你听好了。",
+        "eg_pinyin": "Zuìhòu yī gè wèntí, nǐ tīng hǎo le",
+        "eg_vietnamese": "Câu hỏi cuối cùng, bạn nghe kỹ nhé."
+    },
+    "昨天": {
+        "id": 495,
+        "pinyin": "zuótiān",
+        "vietnamese": [
+            "Hôm qua"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "昨天天气很好，我们去公园了。",
+        "eg_pinyin": "Zuótiān tiānqì hěn hǎo, wǒmen qù gōngyuán le",
+        "eg_vietnamese": "Hôm qua thời tiết rất đẹp, chúng tôi đã đi công viên."
+    },
+    "左": {
+        "id": 496,
+        "pinyin": "zuǒ",
+        "vietnamese": [
+            "Bên trái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "请往左走，那边有商店。",
+        "eg_pinyin": "Qǐng wǎng zuǒ zǒu, nàbiān yǒu shāngdiàn",
+        "eg_vietnamese": "Hãy đi về bên trái, bên đó có cửa hàng."
+    },
+    "左边": {
+        "id": 497,
+        "pinyin": "zuǒbian",
+        "vietnamese": [
+            "Phía bên trái"
+        ],
+        "english": [],
+        "type": "Danh từ",
+        "eg_chinese": "我家在学校左边。",
+        "eg_pinyin": "Wǒ jiā zài xuéxiào zuǒbian",
+        "eg_vietnamese": "Nhà tôi ở bên trái trường học."
+    },
+    "坐": {
+        "id": 498,
+        "pinyin": "zuò",
+        "vietnamese": [
+            "Ngồi"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "请坐这里，老师马上来。",
+        "eg_pinyin": "Qǐng zuò zhèlǐ, lǎoshī mǎshàng lái",
+        "eg_vietnamese": "Mời ngồi đây, thầy giáo sẽ đến ngay."
+    },
+    "坐下": {
+        "id": 499,
+        "pinyin": "zuòxia",
+        "vietnamese": [
+            "Ngồi xuống"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "咱们坐下谈吧。",
+        "eg_pinyin": "Zánmen zuòxia tán ba",
+        "eg_vietnamese": "Chúng ta ngồi xuống nói chuyện."
+    },
+    "做": {
+        "id": 500,
+        "pinyin": "zuò",
+        "vietnamese": [
+            "Làm, thực hiện"
+        ],
+        "english": [],
+        "type": "Động từ",
+        "eg_chinese": "我妈做中国菜非常好吃。",
+        "eg_pinyin": "Wǒ mā zuò Zhōngguó cài fēicháng hǎochī",
+        "eg_vietnamese": "Mẹ tôi làm đồ ăn Trung Quốc rất ngon."
+    }
+}

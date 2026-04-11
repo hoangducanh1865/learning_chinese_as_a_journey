@@ -1,0 +1,1578 @@
+{
+    "一个": {
+        "id": 1,
+        "pinyin": "yígè",
+        "vietnamese": [
+            "một",
+            "một cái"
+        ],
+        "english": [
+            "an",
+            "a",
+            "one"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một cái",
+                "eg_chinese": "我想要一个苹果。",
+                "eg_pinyin": "Wǒ xiǎng yào yígè píngguǒ.",
+                "eg_vietnamese": "Tôi muốn một cái táo."
+            }
+        ]
+    },
+    "很多": {
+        "id": 2,
+        "pinyin": "hěnduō",
+        "vietnamese": [
+            "rất nhiều"
+        ],
+        "english": [
+            "many",
+            "a lot"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất nhiều",
+                "eg_chinese": "这里有很多人。",
+                "eg_pinyin": "Zhèlǐ yǒu hěnduō rén.",
+                "eg_vietnamese": "Ở đây có rất nhiều người."
+            }
+        ]
+    },
+    "这个": {
+        "id": 3,
+        "pinyin": "zhège",
+        "vietnamese": [
+            "cái này"
+        ],
+        "english": [
+            "this"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "cái này",
+                "eg_chinese": "这个好吃吗？",
+                "eg_pinyin": "Zhège hǎochī ma?",
+                "eg_vietnamese": "Cái này có ngon không?"
+            }
+        ]
+    },
+    "不是": {
+        "id": 4,
+        "pinyin": "búshì",
+        "vietnamese": [
+            "không phải"
+        ],
+        "english": [
+            "is not"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "không phải",
+                "eg_chinese": "我不是老师。",
+                "eg_pinyin": "Wǒ búshì lǎoshī.",
+                "eg_vietnamese": "Tôi không phải là giáo viên."
+            }
+        ]
+    },
+    "一件": {
+        "id": 5,
+        "pinyin": "yījiàn",
+        "vietnamese": [
+            "một chiếc",
+            "một món"
+        ],
+        "english": [
+            "one item",
+            "one piece"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một món",
+                "eg_chinese": "我买了一件衣服。",
+                "eg_pinyin": "Wǒ mǎile yījiàn yīfú.",
+                "eg_vietnamese": "Tôi đã mua một món áo."
+            }
+        ]
+    },
+    "送礼物": {
+        "id": 6,
+        "pinyin": "sònglǐwù",
+        "vietnamese": [
+            "tặng quà"
+        ],
+        "english": [
+            "give a gift"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "tặng quà",
+                "eg_chinese": "我想送礼物给她。",
+                "eg_pinyin": "Wǒ xiǎng sòng lǐwù gěi tā.",
+                "eg_vietnamese": "Tôi muốn tặng quà cho cô ấy."
+            }
+        ]
+    },
+    "你好": {
+        "id": 7,
+        "pinyin": "nǐhǎo",
+        "vietnamese": [
+            "xin chào"
+        ],
+        "english": [
+            "hello"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "xin chào",
+                "eg_chinese": "你好，我叫小明。",
+                "eg_pinyin": "Nǐ hǎo, wǒ jiào Xiǎomíng.",
+                "eg_vietnamese": "Xin chào, tôi tên là Tiểu Minh."
+            }
+        ]
+    },
+    "嗯": {
+        "id": 8,
+        "pinyin": "ń",
+        "vietnamese": [
+            "ừ",
+            "dạ"
+        ],
+        "english": [
+            "uh",
+            "yes"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "ừ",
+                "eg_chinese": "你要喝水吗？嗯。",
+                "eg_pinyin": "Nǐ yào hē shuǐ ma? Ń.",
+                "eg_vietnamese": "Bạn có muốn uống nước không? Ừ."
+            }
+        ]
+    },
+    "有点儿": {
+        "id": 9,
+        "pinyin": "yǒudiǎnér",
+        "vietnamese": [
+            "một ít",
+            "một chút",
+            "hơi"
+        ],
+        "english": [
+            "somewhat",
+            "a little"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một chút",
+                "eg_chinese": "我有点儿累。",
+                "eg_pinyin": "Wǒ yǒudiǎnér lèi.",
+                "eg_vietnamese": "Tôi hơi mệt."
+            },
+            {
+                "meaning": "hơi",
+                "eg_chinese": "这道菜有点儿咸。",
+                "eg_pinyin": "Zhè dào cài yǒudiǎnér xián.",
+                "eg_vietnamese": "Món ăn này hơi mặn."
+            }
+        ]
+    },
+    "王雨": {
+        "id": 10,
+        "pinyin": "wángyǔ",
+        "vietnamese": [
+            "Vương Vũ"
+        ],
+        "english": [
+            "Wang Yu"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "Vương Vũ",
+                "eg_chinese": "王雨是我的朋友。",
+                "eg_pinyin": "Wáng Yǔ shì wǒ de péngyǒu.",
+                "eg_vietnamese": "Vương Vũ là bạn của tôi."
+            }
+        ]
+    },
+    "那个": {
+        "id": 11,
+        "pinyin": "nàge",
+        "vietnamese": [
+            "cái đó",
+            "những cái đó"
+        ],
+        "english": [
+            "that",
+            "those"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "cái đó",
+                "eg_chinese": "那个是我的书。",
+                "eg_pinyin": "Nàgè shì wǒ de shū.",
+                "eg_vietnamese": "Cái đó là sách của tôi."
+            },
+            {
+                "meaning": "những cái đó",
+                "eg_chinese": "那些是我的铅笔。",
+                "eg_pinyin": "Nàxiē shì wǒ de qiānbǐ.",
+                "eg_vietnamese": "Những cái đó là bút chì của tôi."
+            }
+        ]
+    },
+    "太好了": {
+        "id": 12,
+        "pinyin": "tàihǎole",
+        "vietnamese": [
+            "tuyệt quá",
+            "quá tốt"
+        ],
+        "english": [
+            "great",
+            "excellent"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "quá tốt",
+                "eg_chinese": "这个消息太好了！",
+                "eg_pinyin": "Zhège xiāoxī tàihǎole!",
+                "eg_vietnamese": "Tin này quá tốt!"
+            },
+            {
+                "meaning": "tuyệt quá",
+                "eg_chinese": "你的成绩太好了！",
+                "eg_pinyin": "Nǐ de chéngjī tàihǎole!",
+                "eg_vietnamese": "Điểm của bạn tuyệt quá!"
+            }
+        ]
+    },
+    "一种": {
+        "id": 13,
+        "pinyin": "yīzhǒng",
+        "vietnamese": [
+            "một hình thức",
+            "một loại"
+        ],
+        "english": [
+            "a kind",
+            "a type"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một loại",
+                "eg_chinese": "这是一种花。",
+                "eg_pinyin": "Zhè shì yī zhǒng huā.",
+                "eg_vietnamese": "Đây là một loại hoa."
+            },
+            {
+                "meaning": "một hình thức",
+                "eg_chinese": "这是一种艺术。",
+                "eg_pinyin": "Zhè shì yī zhǒng yìshù.",
+                "eg_vietnamese": "Đây là một hình thức nghệ thuật."
+            }
+        ]
+    },
+    "李明": {
+        "id": 14,
+        "pinyin": "lǐmíng",
+        "vietnamese": [
+            "Lý Minh"
+        ],
+        "english": [
+            "Li Ming"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "Lý Minh",
+                "eg_chinese": "李明喜欢打篮球。",
+                "eg_pinyin": "Lǐ Míng xǐhuān dǎ lánqiú.",
+                "eg_vietnamese": "Lý Minh thích chơi bóng rổ."
+            }
+        ]
+    },
+    "非常高兴": {
+        "id": 15,
+        "pinyin": "fēichánggāoxìng",
+        "vietnamese": [
+            "rất vui",
+            "vô cùng hạnh phúc"
+        ],
+        "english": [
+            "very happy",
+            "extremely delighted"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất vui",
+                "eg_chinese": "我非常高兴见到你。",
+                "eg_pinyin": "Wǒ fēicháng gāoxìng jiàn dào nǐ.",
+                "eg_vietnamese": "Tôi rất vui khi gặp bạn."
+            },
+            {
+                "meaning": "vô cùng hạnh phúc",
+                "eg_chinese": "她非常高兴收到礼物。",
+                "eg_pinyin": "Tā fēicháng gāoxìng shōu dào lǐwù.",
+                "eg_vietnamese": "Cô ấy vô cùng hạnh phúc khi nhận được quà."
+            }
+        ]
+    },
+    "学到": {
+        "id": 16,
+        "pinyin": "xuédào",
+        "vietnamese": [
+            "học được",
+            "tiếp thu"
+        ],
+        "english": [
+            "to learn",
+            "to acquire knowledge"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "học được",
+                "eg_chinese": "我在课堂上学到很多。",
+                "eg_pinyin": "Wǒ zài kètáng shàng xuédào hěn duō.",
+                "eg_vietnamese": "Tôi học được nhiều trong lớp học."
+            },
+            {
+                "meaning": "tiếp thu",
+                "eg_chinese": "他学到新知识。",
+                "eg_pinyin": "Tā xuédào xīn zhīshì.",
+                "eg_vietnamese": "Anh ấy tiếp thu được kiến thức mới."
+            }
+        ]
+    },
+    "一次": {
+        "id": 17,
+        "pinyin": "yīcì",
+        "vietnamese": [
+            "một lần"
+        ],
+        "english": [
+            "one time"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một lần",
+                "eg_chinese": "我只去过一次。",
+                "eg_pinyin": "Wǒ zhǐ qùguò yīcì.",
+                "eg_vietnamese": "Tôi chỉ đi một lần."
+            }
+        ]
+    },
+    "这是": {
+        "id": 18,
+        "pinyin": "zhèshì",
+        "vietnamese": [
+            "đây là"
+        ],
+        "english": [
+            "this is"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "đây là",
+                "eg_chinese": "这是我的书。",
+                "eg_pinyin": "Zhè shì wǒ de shū.",
+                "eg_vietnamese": "Đây là quyển sách của tôi."
+            }
+        ]
+    },
+    "一本": {
+        "id": 19,
+        "pinyin": "yīběn",
+        "vietnamese": [
+            "một quyển"
+        ],
+        "english": [
+            "one book"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một quyển",
+                "eg_chinese": "我买了一本书。",
+                "eg_pinyin": "Wǒ mǎile yī běn shū.",
+                "eg_vietnamese": "Tôi đã mua một quyển sách."
+            }
+        ]
+    },
+    "做错": {
+        "id": 20,
+        "pinyin": "zuòcuò",
+        "vietnamese": [
+            "làm sai"
+        ],
+        "english": [
+            "to do wrong"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "làm sai",
+                "eg_chinese": "我做错了这个题。",
+                "eg_pinyin": "Wǒ zuòcuòle zhège tí.",
+                "eg_vietnamese": "Tôi đã làm sai bài này."
+            }
+        ]
+    },
+    "小月": {
+        "id": 21,
+        "pinyin": "xiǎoyuè",
+        "vietnamese": [
+            "Tiểu Nguyệt"
+        ],
+        "english": [
+            "Xiao Yue (a name)"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "Tiểu Nguyệt",
+                "eg_chinese": "小月是我的朋友。",
+                "eg_pinyin": "Xiǎo Yuè shì wǒ de péngyǒu.",
+                "eg_vietnamese": "Tiểu Nguyệt là bạn của tôi."
+            }
+        ]
+    },
+    "还要": {
+        "id": 22,
+        "pinyin": "háiyào",
+        "vietnamese": [
+            "còn muốn"
+        ],
+        "english": [
+            "still want"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "còn muốn",
+                "eg_chinese": "我还要一杯水。",
+                "eg_pinyin": "Wǒ háiyào yī bēi shuǐ.",
+                "eg_vietnamese": "Tôi còn muốn một cốc nước."
+            }
+        ]
+    },
+    "很大": {
+        "id": 23,
+        "pinyin": "hěndà",
+        "vietnamese": [
+            "rất lớn"
+        ],
+        "english": [
+            "very big"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất lớn",
+                "eg_chinese": "这个房间很大。",
+                "eg_pinyin": "Zhège fángjiān hěn dà.",
+                "eg_vietnamese": "Căn phòng này rất lớn."
+            }
+        ]
+    },
+    "小小的": {
+        "id": 24,
+        "pinyin": "xiǎoxiǎode",
+        "vietnamese": [
+            "nhỏ bé"
+        ],
+        "english": [
+            "tiny"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nhỏ bé",
+                "eg_chinese": "她有一个小小的狗。",
+                "eg_pinyin": "Tā yǒu yīgè xiǎo xiǎo de gǒu.",
+                "eg_vietnamese": "Cô ấy có một con chó nhỏ bé."
+            }
+        ]
+    },
+    "听过": {
+        "id": 25,
+        "pinyin": "tīngguò",
+        "vietnamese": [
+            "đã nghe",
+            "nghe qua"
+        ],
+        "english": [
+            "heard before",
+            "have heard"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "đã nghe",
+                "eg_chinese": "我听过这首歌。",
+                "eg_pinyin": "Wǒ tīngguò zhè shǒu gē.",
+                "eg_vietnamese": "Tôi đã nghe bài hát này."
+            }
+        ]
+    },
+    "小张": {
+        "id": 26,
+        "pinyin": "xiǎozhāng",
+        "vietnamese": [
+            "người tên Trương",
+            "Tiểu Trương"
+        ],
+        "english": [
+            "Little Zhang",
+            "a person named Zhang"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "Tiểu Trương",
+                "eg_chinese": "小张今天来学校了。",
+                "eg_pinyin": "Xiǎozhāng jīntiān lái xuéxiào le.",
+                "eg_vietnamese": "Tiểu Trương hôm nay đã đến trường."
+            }
+        ]
+    },
+    "这句": {
+        "id": 27,
+        "pinyin": "zhèjù",
+        "vietnamese": [
+            "câu này"
+        ],
+        "english": [
+            "this sentence"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "câu này",
+                "eg_chinese": "我不太明白这句。",
+                "eg_pinyin": "Wǒ bù tài míngbái zhè jù.",
+                "eg_vietnamese": "Tôi không hiểu câu này lắm."
+            }
+        ]
+    },
+    "不能": {
+        "id": 28,
+        "pinyin": "bùnéng",
+        "vietnamese": [
+            "không thể",
+            "không được"
+        ],
+        "english": [
+            "cannot",
+            "must not"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "không thể",
+                "eg_chinese": "你不能迟到。",
+                "eg_pinyin": "Nǐ bùnéng chídào.",
+                "eg_vietnamese": "Bạn không thể đến trễ."
+            }
+        ]
+    },
+    "小事": {
+        "id": 29,
+        "pinyin": "xiǎoshì",
+        "vietnamese": [
+            "chuyện nhỏ",
+            "việc nhỏ"
+        ],
+        "english": [
+            "trivial thing",
+            "small matter"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "việc nhỏ",
+                "eg_chinese": "这只是小事。",
+                "eg_pinyin": "Zhè zhǐ shì xiǎoshì.",
+                "eg_vietnamese": "Ðây chỉ là việc nhỏ."
+            }
+        ]
+    },
+    "一句": {
+        "id": 30,
+        "pinyin": "yījù",
+        "vietnamese": [
+            "một câu"
+        ],
+        "english": [
+            "one sentence"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một câu",
+                "eg_chinese": "你能告诉我一句吗？",
+                "eg_pinyin": "Nǐ néng gàosù wǒ yī jù ma?",
+                "eg_vietnamese": "Bạn có thể cho tôi một câu không?"
+            }
+        ]
+    },
+    "聊到": {
+        "id": 31,
+        "pinyin": "liáodào",
+        "vietnamese": [
+            "thảo luận về",
+            "nói về"
+        ],
+        "english": [
+            "talk about",
+            "discuss about"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nói về",
+                "eg_chinese": "我们聊到了这个话题。",
+                "eg_pinyin": "Wǒmen liáodào le zhège huàtí.",
+                "eg_vietnamese": "Chúng tôi đã nói về chủ đề này."
+            }
+        ]
+    },
+    "太高兴": {
+        "id": 32,
+        "pinyin": "tàigāoxìng",
+        "vietnamese": [
+            "vui mừng quá",
+            "quá vui"
+        ],
+        "english": [
+            "very happy",
+            "extremely joyful"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "quá vui",
+                "eg_chinese": "我太高兴了！",
+                "eg_pinyin": "Wǒ tàigāoxìng le!",
+                "eg_vietnamese": "Tôi quá vui!"
+            }
+        ]
+    },
+    "很漂亮": {
+        "id": 33,
+        "pinyin": "hěnpiàoliàng",
+        "vietnamese": [
+            "rất đẹp",
+            "xinh đẹp"
+        ],
+        "english": [
+            "very beautiful"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất đẹp",
+                "eg_chinese": "她的衣服很漂亮。",
+                "eg_pinyin": "Tā de yīfú hěn piàoliàng.",
+                "eg_vietnamese": "Cái áo của cô ấy rất đẹp."
+            }
+        ]
+    },
+    "放在": {
+        "id": 34,
+        "pinyin": "fàngzài",
+        "vietnamese": [
+            "đặt ở",
+            "cho vào"
+        ],
+        "english": [
+            "place at",
+            "put in"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "đặt ở",
+                "eg_chinese": "你可以把书放在桌子上。",
+                "eg_pinyin": "Nǐ kěyǐ bǎ shū fàng zài zhuōzi shàng.",
+                "eg_vietnamese": "Bạn có thể đặt sách ở trên bàn."
+            }
+        ]
+    },
+    "说说话": {
+        "id": 35,
+        "pinyin": "shuōshuōhuà",
+        "vietnamese": [
+            "nói chuyện",
+            "đàm luận"
+        ],
+        "english": [
+            "to talk",
+            "to chat"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nói chuyện",
+                "eg_chinese": "我们可以找个地方说说话。",
+                "eg_pinyin": "Wǒmen kěyǐ zhǎo gè dìfāng shuō shuōhuà.",
+                "eg_vietnamese": "Chúng ta có thể tìm một chỗ để nói chuyện."
+            }
+        ]
+    },
+    "送个": {
+        "id": 36,
+        "pinyin": "sònggè",
+        "vietnamese": [
+            "tặng một"
+        ],
+        "english": [
+            "give a",
+            "send a"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "tặng một",
+                "eg_chinese": "我想送个礼物给你。",
+                "eg_pinyin": "Wǒ xiǎng sòng gè lǐwù gěi nǐ.",
+                "eg_vietnamese": "Tôi muốn tặng một món quà cho bạn."
+            }
+        ]
+    },
+    "不会": {
+        "id": 37,
+        "pinyin": "búhuì",
+        "vietnamese": [
+            "không biết",
+            "không thể"
+        ],
+        "english": [
+            "cannot",
+            "don't know"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "không biết",
+                "eg_chinese": "我不会游泳。",
+                "eg_pinyin": "Wǒ bù huì yóuyǒng.",
+                "eg_vietnamese": "Tôi không biết bơi."
+            }
+        ]
+    },
+    "先说": {
+        "id": 38,
+        "pinyin": "xiānshuō",
+        "vietnamese": [
+            "nói trước"
+        ],
+        "english": [
+            "speak first"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nói trước",
+                "eg_chinese": "请你先说。",
+                "eg_pinyin": "Qǐng nǐ xiān shuō.",
+                "eg_vietnamese": "Xin bạn hãy nói trước."
+            }
+        ]
+    },
+    "花钱买": {
+        "id": 39,
+        "pinyin": "huāqiánmǎi",
+        "vietnamese": [
+            "dùng tiền mua",
+            "chi tiền"
+        ],
+        "english": [
+            "spend money to buy",
+            "pay for"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "dùng tiền mua",
+                "eg_chinese": "我花钱买了很多书。",
+                "eg_pinyin": "Wǒ huā qián mǎile hěn duō shū.",
+                "eg_vietnamese": "Tôi đã dùng tiền mua rất nhiều sách."
+            }
+        ]
+    },
+    "两三次": {
+        "id": 40,
+        "pinyin": "liǎngsāncì",
+        "vietnamese": [
+            "hai ba lần"
+        ],
+        "english": [
+            "a couple of times"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "hai ba lần",
+                "eg_chinese": "我去过那儿两三次。",
+                "eg_pinyin": "Wǒ qùguò nàr liǎng sān cì.",
+                "eg_vietnamese": "Tôi đã đi đến đó hai ba lần."
+            }
+        ]
+    },
+    "收下": {
+        "id": 41,
+        "pinyin": "shōuxià",
+        "vietnamese": [
+            "nhận",
+            "tiếp nhận"
+        ],
+        "english": [
+            "to accept",
+            "to receive"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nhận",
+                "eg_chinese": "请收下我的礼物。",
+                "eg_pinyin": "Qǐng shōuxià wǒ de lǐwù.",
+                "eg_vietnamese": "Xin hãy nhận món quà của tôi."
+            }
+        ]
+    },
+    "很小": {
+        "id": 42,
+        "pinyin": "hěnxiǎo",
+        "vietnamese": [
+            "rất nhỏ",
+            "quá nhỏ"
+        ],
+        "english": [
+            "very small"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất nhỏ",
+                "eg_chinese": "这个盒子很小。",
+                "eg_pinyin": "Zhège hézi hěn xiǎo.",
+                "eg_vietnamese": "Cái hộp này rất nhỏ."
+            }
+        ]
+    },
+    "生日快乐": {
+        "id": 43,
+        "pinyin": "shēngrìkuàilè",
+        "vietnamese": [
+            "chúc mừng sinh nhật"
+        ],
+        "english": [
+            "happy birthday"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "chúc mừng sinh nhật",
+                "eg_chinese": "生日快乐！祝你有美好的一天。",
+                "eg_pinyin": "Shēngrì kuàilè! Zhù nǐ yǒu měihǎo de yītiān.",
+                "eg_vietnamese": "Chúc mừng sinh nhật! Chúc bạn có một ngày tuyệt vời."
+            }
+        ]
+    },
+    "这太多": {
+        "id": 44,
+        "pinyin": "zhètàiduō",
+        "vietnamese": [
+            "cái này quá nhiều",
+            "quá nhiều"
+        ],
+        "english": [
+            "this is too much"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "quá nhiều",
+                "eg_chinese": "这太多了，我无法吃完。",
+                "eg_pinyin": "Zhè tàiduōle, wǒ wúfǎ chī wán.",
+                "eg_vietnamese": "Cái này quá nhiều, tôi không thể ăn hết."
+            }
+        ]
+    },
+    "想会": {
+        "id": 45,
+        "pinyin": "xiǎnghuì",
+        "vietnamese": [
+            "mong gặp",
+            "muốn gặp"
+        ],
+        "english": [
+            "to want to meet"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "muốn gặp",
+                "eg_chinese": "我想会见你。",
+                "eg_pinyin": "Wǒ xiǎng huìjiàn nǐ.",
+                "eg_vietnamese": "Tôi muốn gặp bạn."
+            }
+        ]
+    },
+    "每天": {
+        "id": 46,
+        "pinyin": "měitiān",
+        "vietnamese": [
+            "mỗi ngày",
+            "hàng ngày"
+        ],
+        "english": [
+            "every day"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "mỗi ngày",
+                "eg_chinese": "我每天都去跑步。",
+                "eg_pinyin": "Wǒ měitiān dōu qù pǎobù.",
+                "eg_vietnamese": "Tôi đi chạy bộ mỗi ngày."
+            }
+        ]
+    },
+    "很久以前": {
+        "id": 47,
+        "pinyin": "hěnjiǔyǐqián",
+        "vietnamese": [
+            "lâu lắm rồi",
+            "rất lâu trước đây"
+        ],
+        "english": [
+            "a long time ago"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất lâu trước đây",
+                "eg_chinese": "很久以前，我住在一个小村庄。",
+                "eg_pinyin": "Hěn jiǔ yǐqián, wǒ zhù zài yīgè xiǎo cūnzhuāng.",
+                "eg_vietnamese": "Rất lâu trước đây, tôi sống trong một ngôi làng nhỏ."
+            }
+        ]
+    },
+    "吃吃饭": {
+        "id": 48,
+        "pinyin": "chīchīfàn",
+        "vietnamese": [
+            "ăn uống",
+            "ăn cơm"
+        ],
+        "english": [
+            "to eat (a meal)"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "ăn uống",
+                "eg_chinese": "我们一起吃吃饭吧。",
+                "eg_pinyin": "Wǒmen yīqǐ chīchīfàn ba.",
+                "eg_vietnamese": "Chúng ta cùng ăn cơm nhé."
+            }
+        ]
+    },
+    "一天": {
+        "id": 49,
+        "pinyin": "yītiān",
+        "vietnamese": [
+            "một ngày",
+            "ngày"
+        ],
+        "english": [
+            "a day",
+            "one day"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một ngày",
+                "eg_chinese": "我希望有一天能去旅行。",
+                "eg_pinyin": "Wǒ xīwàng yǒu yītiān néng qù lǚxíng.",
+                "eg_vietnamese": "Tôi hy vọng một ngày nào đó sẽ đi du lịch."
+            }
+        ]
+    },
+    "好不好": {
+        "id": 50,
+        "pinyin": "hǎobùhǎo",
+        "vietnamese": [
+            "như thế nào",
+            "có tốt không"
+        ],
+        "english": [
+            "how is it",
+            "is it good or not"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "có tốt không",
+                "eg_chinese": "这个电影好不好？",
+                "eg_pinyin": "Zhège diànyǐng hǎo bù hǎo?",
+                "eg_vietnamese": "Bộ phim này có tốt không?"
+            }
+        ]
+    },
+    "送来": {
+        "id": 51,
+        "pinyin": "sònglái",
+        "vietnamese": [
+            "đưa tới",
+            "gửi đến"
+        ],
+        "english": [
+            "send over",
+            "bring"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "gửi đến",
+                "eg_chinese": "她送来了一个礼物。",
+                "eg_pinyin": "Tā sòng lái le yīgè lǐwù.",
+                "eg_vietnamese": "Cô ấy đã gửi đến một món quà."
+            }
+        ]
+    },
+    "词真": {
+        "id": 52,
+        "pinyin": "cízhēn",
+        "vietnamese": [
+            "từ thật",
+            "câu đúng"
+        ],
+        "english": [
+            "exact phrase",
+            "true word"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "từ thật",
+                "eg_chinese": "这个词真有意思。",
+                "eg_pinyin": "Zhège cí zhēn yǒu yìsi.",
+                "eg_vietnamese": "Cái từ này thật thú vị."
+            }
+        ]
+    },
+    "好运气": {
+        "id": 53,
+        "pinyin": "hǎoyùnqì",
+        "vietnamese": [
+            "vận may",
+            "may mắn"
+        ],
+        "english": [
+            "fortune",
+            "good luck"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "vận may",
+                "eg_chinese": "祝你好运气！",
+                "eg_pinyin": "Zhù nǐ hǎo yùnqì!",
+                "eg_vietnamese": "Chúc bạn gặp nhiều vận may!"
+            }
+        ]
+    },
+    "有钱": {
+        "id": 54,
+        "pinyin": "yǒuqián",
+        "vietnamese": [
+            "giàu có",
+            "có tiền"
+        ],
+        "english": [
+            "wealthy",
+            "rich"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "có tiền",
+                "eg_chinese": "他很有钱。",
+                "eg_pinyin": "Tā hěn yǒu qián.",
+                "eg_vietnamese": "Anh ấy rất giàu có."
+            }
+        ]
+    },
+    "很多很多": {
+        "id": 55,
+        "pinyin": "hěnduōhěnduō",
+        "vietnamese": [
+            "nhiều",
+            "rất nhiều"
+        ],
+        "english": [
+            "very many",
+            "a lot"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất nhiều",
+                "eg_chinese": "我有很多很多书。",
+                "eg_pinyin": "Wǒ yǒu hěnduō hěnduō shū.",
+                "eg_vietnamese": "Tôi có rất nhiều sách."
+            }
+        ]
+    },
+    "穿衣服": {
+        "id": 56,
+        "pinyin": "chuānyīfú",
+        "vietnamese": [
+            "mặc quần áo",
+            "điều chỉnh trang phục"
+        ],
+        "english": [
+            "wear clothes",
+            "dress up"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "mặc quần áo",
+                "eg_chinese": "我每天都穿衣服。",
+                "eg_pinyin": "Wǒ měitiān dōu chuān yīfú.",
+                "eg_vietnamese": "Tôi mặc quần áo mỗi ngày."
+            }
+        ]
+    },
+    "只学": {
+        "id": 57,
+        "pinyin": "zhǐxué",
+        "vietnamese": [
+            "chỉ học"
+        ],
+        "english": [
+            "only study"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "chỉ học",
+                "eg_chinese": "我只学中文。",
+                "eg_pinyin": "Wǒ zhǐ xué zhōngwén.",
+                "eg_vietnamese": "Tôi chỉ học tiếng Trung."
+            }
+        ]
+    },
+    "要说": {
+        "id": 58,
+        "pinyin": "yàoshuō",
+        "vietnamese": [
+            "cần nói"
+        ],
+        "english": [
+            "need to say"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "cần nói",
+                "eg_chinese": "我有一件事情要说。",
+                "eg_pinyin": "Wǒ yǒu yī jiàn shìqíng yào shuō.",
+                "eg_vietnamese": "Tôi có một việc cần nói."
+            }
+        ]
+    },
+    "很难": {
+        "id": 59,
+        "pinyin": "hěnnán",
+        "vietnamese": [
+            "rất khó"
+        ],
+        "english": [
+            "very difficult"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất khó",
+                "eg_chinese": "这道题很难。",
+                "eg_pinyin": "Zhè dào tí hěn nán.",
+                "eg_vietnamese": "Câu này rất khó."
+            }
+        ]
+    },
+    "很厚": {
+        "id": 60,
+        "pinyin": "hěnhòu",
+        "vietnamese": [
+            "rất dày"
+        ],
+        "english": [
+            "very thick"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "rất dày",
+                "eg_chinese": "这本书很厚。",
+                "eg_pinyin": "Zhè běn shū hěn hòu.",
+                "eg_vietnamese": "Cuốn sách này rất dày."
+            }
+        ]
+    },
+    "只想学": {
+        "id": 61,
+        "pinyin": "zhǐxiǎngxué",
+        "vietnamese": [
+            "chỉ muốn học"
+        ],
+        "english": [
+            "only want to study"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "chỉ muốn học",
+                "eg_chinese": "我只想学语言。",
+                "eg_pinyin": "Wǒ zhǐ xiǎng xué yǔyán.",
+                "eg_vietnamese": "Tôi chỉ muốn học ngôn ngữ."
+            }
+        ]
+    },
+    "更好": {
+        "id": 62,
+        "pinyin": "gènghǎo",
+        "vietnamese": [
+            "còn tốt hơn"
+        ],
+        "english": [
+            "even better"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "còn tốt hơn",
+                "eg_chinese": "我希望明天会更好。",
+                "eg_pinyin": "Wǒ xīwàng míngtiān huì gèng hǎo.",
+                "eg_vietnamese": "Tôi hy vọng ngày mai sẽ còn tốt hơn."
+            }
+        ]
+    },
+    "完全正确": {
+        "id": 63,
+        "pinyin": "wánquánzhèngquè",
+        "vietnamese": [
+            "hoàn toàn đúng"
+        ],
+        "english": [
+            "completely correct"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "hoàn toàn đúng",
+                "eg_chinese": "你的答案完全正确。",
+                "eg_pinyin": "Nǐ de dá'àn wánquán zhèngquè.",
+                "eg_vietnamese": "Câu trả lời của bạn hoàn toàn đúng."
+            }
+        ]
+    },
+    "充满希望": {
+        "id": 64,
+        "pinyin": "chōngmǎnxīwàng",
+        "vietnamese": [
+            "tràn đầy hy vọng"
+        ],
+        "english": [
+            "full of hope"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "tràn đầy hy vọng",
+                "eg_chinese": "他对未来充满希望。",
+                "eg_pinyin": "Tā duì wèilái chōngmǎn xīwàng.",
+                "eg_vietnamese": "Anh ấy tràn đầy hy vọng về tương lai."
+            }
+        ]
+    },
+    "过得": {
+        "id": 65,
+        "pinyin": "guòdé",
+        "vietnamese": [
+            "trải qua",
+            "sống"
+        ],
+        "english": [
+            "to live",
+            "to spend time"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "trải qua",
+                "eg_chinese": "我过得很好。",
+                "eg_pinyin": "Wǒ guòdé hěn hǎo.",
+                "eg_vietnamese": "Tôi sống rất tốt."
+            }
+        ]
+    },
+    "真快": {
+        "id": 66,
+        "pinyin": "zhēnkuài",
+        "vietnamese": [
+            "thật nhanh"
+        ],
+        "english": [
+            "really fast"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "thật nhanh",
+                "eg_chinese": "时间过得真快。",
+                "eg_pinyin": "Shíjiān guò dé zhēnkuài.",
+                "eg_vietnamese": "Thời gian trôi qua thật nhanh."
+            }
+        ]
+    },
+    "一下": {
+        "id": 67,
+        "pinyin": "yīxià",
+        "vietnamese": [
+            "một lần",
+            "một chút"
+        ],
+        "english": [
+            "once",
+            "a little"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "một chút",
+                "eg_chinese": "等我一下。",
+                "eg_pinyin": "Děng wǒ yīxià.",
+                "eg_vietnamese": "Đợi tôi một chút."
+            }
+        ]
+    },
+    "几个": {
+        "id": 68,
+        "pinyin": "jǐgè",
+        "vietnamese": [
+            "mấy cái"
+        ],
+        "english": [
+            "several",
+            "a few"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "mấy cái",
+                "eg_chinese": "你有几个苹果？",
+                "eg_pinyin": "Nǐ yǒu jǐgè píngguǒ?",
+                "eg_vietnamese": "Bạn có mấy cái táo?"
+            }
+        ]
+    },
+    "还学": {
+        "id": 69,
+        "pinyin": "háixué",
+        "vietnamese": [
+            "vẫn học"
+        ],
+        "english": [
+            "still learn"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "vẫn học",
+                "eg_chinese": "我还学中文。",
+                "eg_pinyin": "Wǒ háixué zhōngwén.",
+                "eg_vietnamese": "Tôi vẫn học tiếng Trung."
+            }
+        ]
+    },
+    "两个": {
+        "id": 70,
+        "pinyin": "liǎnggè",
+        "vietnamese": [
+            "hai cái"
+        ],
+        "english": [
+            "two"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "hai cái",
+                "eg_chinese": "我买了两个书。",
+                "eg_pinyin": "Wǒ mǎile liǎnggè shū.",
+                "eg_vietnamese": "Tôi đã mua hai cái sách."
+            }
+        ]
+    },
+    "用作": {
+        "id": 71,
+        "pinyin": "yòngzuò",
+        "vietnamese": [
+            "được sử dụng như"
+        ],
+        "english": [
+            "used as"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "được sử dụng như",
+                "eg_chinese": "这个字可以用作名词。",
+                "eg_pinyin": "Zhège zì kěyǐ yòngzuò míngcí.",
+                "eg_vietnamese": "Chữ này có thể được sử dụng như danh từ."
+            }
+        ]
+    },
+    "表示感谢": {
+        "id": 72,
+        "pinyin": "biǎoshìgǎnxiè",
+        "vietnamese": [
+            "bày tỏ cảm ơn"
+        ],
+        "english": [
+            "to express gratitude"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "bày tỏ cảm ơn",
+                "eg_chinese": "我想表示感谢。",
+                "eg_pinyin": "Wǒ xiǎng biǎoshì gǎnxiè.",
+                "eg_vietnamese": "Tôi muốn bày tỏ cảm ơn."
+            }
+        ]
+    },
+    "聊天": {
+        "id": 73,
+        "pinyin": "liáotiān",
+        "vietnamese": [
+            "giao tiếp",
+            "trò chuyện"
+        ],
+        "english": [
+            "chat",
+            "talk"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "trò chuyện",
+                "eg_chinese": "我们可以在咖啡店聊天。",
+                "eg_pinyin": "Wǒmen kěyǐ zài kāfēi diàn liáotiān.",
+                "eg_vietnamese": "Chúng ta có thể trò chuyện tại quán cà phê."
+            }
+        ]
+    },
+    "播客": {
+        "id": 74,
+        "pinyin": "bōkè",
+        "vietnamese": [
+            "podcast"
+        ],
+        "english": [
+            "podcast"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "podcast",
+                "eg_chinese": "我喜欢听科技播客。",
+                "eg_pinyin": "Wǒ xǐhuān tīng kējì bōkè.",
+                "eg_vietnamese": "Tôi thích nghe podcast về công nghệ."
+            }
+        ]
+    },
+    "问问": {
+        "id": 75,
+        "pinyin": "wènwèn",
+        "vietnamese": [
+            "hỏi"
+        ],
+        "english": [
+            "ask"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "hỏi",
+                "eg_chinese": "我想问问你关于这个问题的看法。",
+                "eg_pinyin": "Wǒ xiǎng wènwèn nǐ guānyú zhège wèntí de kànfǎ.",
+                "eg_vietnamese": "Tôi muốn hỏi bạn về quan điểm của bạn về vấn đề này."
+            }
+        ]
+    },
+    "再聊": {
+        "id": 76,
+        "pinyin": "zàiliáo",
+        "vietnamese": [
+            "nói chuyện sau",
+            "trò chuyện tiếp"
+        ],
+        "english": [
+            "talk later"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nói chuyện sau",
+                "eg_chinese": "我们今天暂时再聊。",
+                "eg_pinyin": "Wǒmen jīntiān zànshí zàiliáo.",
+                "eg_vietnamese": "Hôm nay chúng ta tạm thời nói chuyện sau."
+            }
+        ]
+    },
+    "拜拜": {
+        "id": 77,
+        "pinyin": "bàibài",
+        "vietnamese": [
+            "chào tạm biệt",
+            "tạm biệt"
+        ],
+        "english": [
+            "bye",
+            "goodbye"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "tạm biệt",
+                "eg_chinese": "我得走了，拜拜！",
+                "eg_pinyin": "Wǒ dé zǒule, bàibài!",
+                "eg_vietnamese": "Tôi phải đi rồi, tạm biệt!"
+            }
+        ]
+    }
+}
