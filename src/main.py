@@ -1,5 +1,10 @@
 import os
 import sys
+import warnings
+
+# Suppress annoying deprecated UserWarning from third-party libs like jieba
+warnings.filterwarnings("ignore", category=UserWarning, module="pkg_resources")
+warnings.filterwarnings("ignore", category=UserWarning, module="jieba")
 
 # Add project root to path for imports
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))

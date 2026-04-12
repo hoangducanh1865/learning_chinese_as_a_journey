@@ -5,6 +5,7 @@ import wave
 import numpy as np
 import librosa
 import unicodedata
+from tqdm import tqdm
 from piper.voice import PiperVoice
 
 # --- CONFIGURATION ---
@@ -75,7 +76,7 @@ class TTS:
     def create_silence(self, duration_sec):
         return np.zeros(int(duration_sec * SAMPLE_RATE), dtype=np.int16)
 
-    def process_vocab(self, json_path, output_path, limit="all"):
+    def process_vocab(self, json_path, output_path, start_idx=1, end_idx=None):
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
@@ -88,15 +89,23 @@ class TTS:
         pause_short = self.create_silence(pause_short_val)
         pause_long = self.create_silence(pause_long_val)
 
-        print(f"Generating audio for: {json_path} (Limit: {limit})")
-        
-        # Apply limit if it's a number
+        # Apply range
         items = list(data.items())
-        if str(limit).lower() != "all":
-            items = items[:int(limit)]
+        max_idx = len(items)
+        
+        if end_idx is None or end_idx > max_idx:
+            end_idx = max_idx
             
+        # 1-based to 0-based indexing
+        start_idx = max(1, start_idx)
+        items = items[start_idx-1 : end_idx]
+
+        print(f"Generating audio for: {json_path} (Range: {start_idx} to {end_idx} / {max_idx})")
+        
         # Process word by word
-        for hanzi, info in items:
+        pbar = tqdm(items, desc="Generating Audio", unit="word")
+        for hanzi, info in pbar:
+            pbar.set_postfix({"current": hanzi})
             # Mark the start of a new word
             timestamps.append(f"{current_time:.2f} - {hanzi}")
             
