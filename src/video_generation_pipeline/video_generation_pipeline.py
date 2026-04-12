@@ -1,6 +1,7 @@
 import os
 import json
 import numpy as np
+from tqdm import tqdm
 from moviepy import AudioFileClip, ColorClip, TextClip, CompositeVideoClip, ImageClip
 from PIL import Image, ImageDraw, ImageFont
 
@@ -113,7 +114,9 @@ class VideoGenerator:
         clips = []
         total_duration = audio.duration
         
-        for i, (start_time, hanzi) in enumerate(timestamps):
+        pbar = tqdm(enumerate(timestamps), total=len(timestamps), desc="Creating Video Frames", unit="frame")
+        for i, (start_time, hanzi) in pbar:
+            pbar.set_postfix({"word": hanzi})
             end_time = timestamps[i+1][0] if i+1 < len(timestamps) else total_duration
             duration = end_time - start_time
             
@@ -135,7 +138,7 @@ class VideoGenerator:
         final_video.audio = audio
         
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        final_video.write_videofile(output_path, fps=self.fps, codec="libx264", audio_codec="aac")
+        final_video.write_videofile(output_path, fps=self.fps, codec="libx264", audio_codec="aac", logger="bar")
         print(f"✅ Video saved: {output_path}")
 
 def test():
