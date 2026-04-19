@@ -213,3 +213,5 @@ bak/
 *.onnx
 *.wav
 *.mp4
+notebook/data/
+*.m4a

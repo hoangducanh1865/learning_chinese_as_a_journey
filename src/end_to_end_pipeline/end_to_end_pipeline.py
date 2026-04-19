@@ -2,20 +2,34 @@ import os
 import sys
 import json
 
-# Add project root to path for imports
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
-from transcript_preprocessing_pipeline.transcript_preprocessing_pipeline import TranscriptPreprocessor
-from tts_pipeline.tts_pipeline import TTS
-from video_generation_pipeline.video_generation_pipeline import VideoGenerator
-
 class EndToEndPipeline:
-    def __init__(self):
-        self.preprocessor = TranscriptPreprocessor()
-        self.tts = TTS()
-        self.video_gen = VideoGenerator()
+    def __init__(self, mode="tts"):
+        self.mode = mode
+        # Add project root to path for imports
+        root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+        if root not in sys.path:
+            sys.path.append(root)
+
+        if mode == "tts":
+            from transcript_preprocessing_pipeline.transcript_preprocessing_pipeline import TranscriptPreprocessor
+            from tts_pipeline.tts_pipeline import TTS
+            from video_generation_pipeline.video_generation_pipeline import VideoGenerator
+            self.preprocessor = TranscriptPreprocessor()
+            self.tts = TTS()
+            self.video_gen = VideoGenerator()
+        else:
+            from asr_pipeline.asr_pipeline import ASR
+            self.ASR_class = ASR
 
     def run(self):
+        if self.mode == "asr":
+            file_type = input("Enter file type (m4a/mp4): ")
+            doc_type = input("Enter type (podcast/audiobook): ")
+            file_num = input("Enter file number: ")
+            asr = self.ASR_class(file_type=file_type, type=doc_type, file_number=file_num)
+            asr.run_pipeline()
+            return
+
         print("\n" + "="*60)
         print("🚀 STARTING CHINESE LEARNING END-TO-END PIPELINE")
         print("="*60)
@@ -83,5 +97,5 @@ def test():
     pipeline.run()
 
 if __name__ == "__main__":
-    test()
+    # test()
     pass
