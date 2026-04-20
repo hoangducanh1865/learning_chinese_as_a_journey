@@ -106,11 +106,12 @@ class TTS:
         pbar = tqdm(items, desc="Generating Audio", unit="word")
         for hanzi, info in pbar:
             pbar.set_postfix({"current": hanzi})
-            # Mark the start of a new word
-            timestamps.append(f"{current_time:.2f} - {hanzi}")
             
             vi_word = info.get("vietnamese", [""])[0]
             egs = info.get("eg", [])
+
+            # Mark the start of a new word
+            timestamps.append(f"{current_time:.2f} - {hanzi}")
 
             # Audio Sequence logic
             sequence = [
@@ -131,14 +132,21 @@ class TTS:
                     current_time += pause_duration
 
             # Examples
-            for eg in egs:
+            for eg_idx, eg in enumerate(egs):
                 eg_zh = eg.get("eg_chinese", "")
                 eg_vi = eg.get("eg_vietnamese", "")
                 
+                # Logic: If it's the 3rd or 5th example (index 2, 4, ...), mark a sub-timestamp
+                # This helps VideoGenerator know when to switch to the next page of examples
+                if eg_idx > 0 and eg_idx % 2 == 0:
+                    timestamps.append(f"{current_time:.2f} - {hanzi}_page_{eg_idx//2 + 1}")
+
                 eg_sequence = [
                     (eg_vi, self.vn_speaker, pause_short_val),
                     (eg_zh, self.cn_male, pause_short_val),
-                    (eg_zh, self.cn_female, pause_long_val)
+                    (eg_zh, self.cn_female, pause_long_val),
+                    (eg_vi, self.vn_speaker, pause_short_val),
+                    (eg_zh, self.cn_male, pause_short_val),
                 ]
                 for text, speaker, pause_duration in eg_sequence:
                     audio = speaker.speak(text)
