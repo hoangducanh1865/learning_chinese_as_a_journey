@@ -1,0 +1,38 @@
+# Python 3.11
+# Core
+numpy==2.4.4
+pandas==3.0.2
+
+# PyTorch
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+
+# ASR (Speech-to-Text)
+faster-whisper==1.2.1
+ctranslate2==4.7.1
+whisperx==3.8.5
+
+# Audio processing
+av==17.0.1
+
+# Diarization (speaker separation)
+pyannote-audio==4.0.4
+pyannote-core==6.0.1
+pyannote-pipeline==4.0.0
+
+# NLP (Chinese processing)
+jieba==0.42.1
+pypinyin==0.55.0
+
+# HuggingFace
+transformers==4.57.6
+tokenizers==0.22.2
+huggingface_hub==0.36.2
+safetensors==0.7.0
+
+# Utils
+tqdm==4.67.3
+rich==15.0.0
+requests==2.33.1
+PyYAML==6.0.3
