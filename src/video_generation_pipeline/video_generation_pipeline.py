@@ -10,9 +10,14 @@ class VideoGenerator:
         self.width = width
         self.height = height
         self.fps = fps
-        # Fixed font paths for macOS with better Chinese/Vietnamese support
-        self.font_path = "/System/Library/Fonts/Supplemental/Arial Unicode.ttf" 
-        self.font_bold = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
+        # Detect platform and set appropriate font paths
+        if os.name == 'nt': # Windows
+            self.font_path = "C:/Windows/Fonts/arial.ttf" 
+            self.font_bold = "C:/Windows/Fonts/arialbd.ttf"
+        else: # macOS/Linux
+            self.font_path = "/System/Library/Fonts/Supplemental/Arial Unicode.ttf" 
+            self.font_bold = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
+        
         # High-quality handwritten-style/textbook font for Chinese learners
         self.font_handwritten = os.path.join(os.getcwd(), "fonts/LXGWWenKai-Regular.ttf")
 
@@ -44,7 +49,10 @@ class VideoGenerator:
             if os.path.exists(self.font_handwritten):
                 f_huge = ImageFont.truetype(self.font_handwritten, 280)
                 f_eg_zh = ImageFont.truetype(self.font_handwritten, 75)
-            else:
+            elif os.name == 'nt': # Windows fallback
+                f_huge = ImageFont.truetype("C:/Windows/Fonts/simsun.ttc", 280, index=0)
+                f_eg_zh = ImageFont.truetype("C:/Windows/Fonts/simsun.ttc", 75, index=0)
+            else: # macOS fallback
                 f_huge = ImageFont.truetype("/System/Library/Fonts/Supplemental/Songti.ttc", 280, index=0)
                 f_eg_zh = ImageFont.truetype("/System/Library/Fonts/Supplemental/Songti.ttc", 75, index=0)
                 
@@ -52,7 +60,8 @@ class VideoGenerator:
             f_vi_main = ImageFont.truetype(self.font_bold, 70)
             f_eg_vi = ImageFont.truetype(self.font_path, 35)
             f_small = ImageFont.truetype(self.font_path, 35)
-        except:
+        except Exception as e:
+            print(f"Font loading error: {e}. Falling back to default.")
             f_huge = f_pinyin = f_vi_main = f_eg_zh = f_eg_vi = f_small = ImageFont.load_default()
 
         # --- SIDEBAR CONTENT (Vietnamese & Info) ---

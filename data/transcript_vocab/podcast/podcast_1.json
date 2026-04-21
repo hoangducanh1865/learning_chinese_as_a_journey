@@ -801,27 +801,8 @@
         "hsk_level": "hsk_1",
         "freq": 8
     },
-    "看": {
-        "id": 39,
-        "pinyin": "kàn",
-        "vietnamese": [
-            "nhìn, xem, ngắm"
-        ],
-        "english": [
-            "see, look, watch"
-        ],
-        "eg": [
-            {
-                "eg_chinese": "我喜欢看电影。",
-                "eg_pinyin": "Wǒ xǐhuān kàn diànyǐng.",
-                "eg_vietnamese": "Tôi thích xem phim."
-            }
-        ],
-        "hsk_level": "hsk_1",
-        "freq": 8
-    },
     "中文": {
-        "id": 40,
+        "id": 39,
         "pinyin": "zhōngwén",
         "vietnamese": [
             "(văn tự) Tiếng Trung"
@@ -841,7 +822,7 @@
         "freq": 8
     },
     "东西": {
-        "id": 41,
+        "id": 40,
         "pinyin": "dōngxi",
         "vietnamese": [
             "đồ đạc, đồ, vật"
@@ -860,7 +841,7 @@
         "freq": 8
     },
     "重要": {
-        "id": 42,
+        "id": 41,
         "pinyin": "zhòngyào",
         "vietnamese": [
             "quan trọng"
@@ -880,7 +861,7 @@
         "freq": 8
     },
     "老师": {
-        "id": 43,
+        "id": 42,
         "pinyin": "lǎoshī",
         "vietnamese": [
             "thầy, cô giáo"
@@ -899,7 +880,7 @@
         "freq": 8
     },
     "怎么": {
-        "id": 44,
+        "id": 43,
         "pinyin": "zěnme",
         "vietnamese": [
             "làm sao, thế nào"
@@ -919,7 +900,7 @@
         "freq": 7
     },
     "喜欢": {
-        "id": 45,
+        "id": 44,
         "pinyin": "xǐhuɑn",
         "vietnamese": [
             "thích, được yêu thích"
@@ -945,7 +926,7 @@
         "freq": 7
     },
     "现在": {
-        "id": 46,
+        "id": 45,
         "pinyin": "xiànzài",
         "vietnamese": [
             "hiện tại, bây giờ"
@@ -971,7 +952,7 @@
         "freq": 7
     },
     "吃": {
-        "id": 47,
+        "id": 46,
         "pinyin": "chī",
         "vietnamese": [
             "ăn"
@@ -990,7 +971,7 @@
         "freq": 7
     },
     "非常": {
-        "id": 48,
+        "id": 47,
         "pinyin": "fēicháng",
         "vietnamese": [
             "vô cùng, hết sức, rất"
@@ -1009,7 +990,7 @@
         "freq": 7
     },
     "给": {
-        "id": 49,
+        "id": 48,
         "pinyin": "gěi",
         "vietnamese": [
             "cho"
@@ -1028,7 +1009,7 @@
         "freq": 6
     },
     "太": {
-        "id": 50,
+        "id": 49,
         "pinyin": "tài",
         "vietnamese": [
             "quá"
@@ -1048,7 +1029,7 @@
         "freq": 5
     },
     "告诉": {
-        "id": 51,
+        "id": 50,
         "pinyin": "gàosù",
         "vietnamese": [
             "nói, kể lại"
@@ -1067,7 +1048,7 @@
         "freq": 5
     },
     "还有": {
-        "id": 52,
+        "id": 51,
         "pinyin": "hái yǒu",
         "vietnamese": [
             "còn có, còn nữa là"
@@ -1086,7 +1067,7 @@
         "freq": 5
     },
     "听": {
-        "id": 53,
+        "id": 52,
         "pinyin": "tīng",
         "vietnamese": [
             "nghe"
@@ -1106,7 +1087,7 @@
         "freq": 5
     },
     "都": {
-        "id": 54,
+        "id": 53,
         "pinyin": "dōu",
         "vietnamese": [
             "đều"
@@ -1125,7 +1106,7 @@
         "freq": 5
     },
     "你们": {
-        "id": 55,
+        "id": 54,
         "pinyin": "nǐmen",
         "vietnamese": [
             "các anh, các chị, các bạn"
@@ -1145,7 +1126,7 @@
         "freq": 5
     },
     "笑": {
-        "id": 56,
+        "id": 55,
         "pinyin": "xiào",
         "vietnamese": [
             "cười"
@@ -1165,7 +1146,7 @@
         "freq": 4
     },
     "再见": {
-        "id": 57,
+        "id": 56,
         "pinyin": "zàijiàn",
         "vietnamese": [
             "hẹn gặp lại"
@@ -1185,7 +1166,7 @@
         "freq": 4
     },
     "比": {
-        "id": 58,
+        "id": 57,
         "pinyin": "bǐ",
         "vietnamese": [
             "so, so với"
@@ -1205,7 +1186,7 @@
         "freq": 4
     },
     "还": {
-        "id": 59,
+        "id": 58,
         "pinyin": "huán",
         "vietnamese": [
             "trả lại"
@@ -1224,7 +1205,7 @@
         "freq": 4
     },
     "里": {
-        "id": 60,
+        "id": 59,
         "pinyin": "lǐ",
         "vietnamese": [
             "trong, bên trong"
@@ -1243,7 +1224,7 @@
         "freq": 4
     },
     "能": {
-        "id": 61,
+        "id": 60,
         "pinyin": "néng",
         "vietnamese": [
             "có thể"
@@ -1263,7 +1244,7 @@
         "freq": 4
     },
     "没": {
-        "id": 62,
+        "id": 61,
         "pinyin": "méi",
         "vietnamese": [
             "không"
@@ -1282,7 +1263,7 @@
         "freq": 3
     },
     "马上": {
-        "id": 63,
+        "id": 62,
         "pinyin": "mǎshàng",
         "vietnamese": [
             "lập tức, ngay"
@@ -1301,7 +1282,7 @@
         "freq": 3
     },
     "是不是": {
-        "id": 64,
+        "id": 63,
         "pinyin": "shì bùshì",
         "vietnamese": [
             "có phải hay không"
@@ -1321,7 +1302,7 @@
         "freq": 3
     },
     "没有": {
-        "id": 65,
+        "id": 64,
         "pinyin": "méiyǒu",
         "vietnamese": [
             "không có"
@@ -1340,7 +1321,7 @@
         "freq": 3
     },
     "来": {
-        "id": 66,
+        "id": 65,
         "pinyin": "lái",
         "vietnamese": [
             "đến, tới"
@@ -1359,7 +1340,7 @@
         "freq": 3
     },
     "回答": {
-        "id": 67,
+        "id": 66,
         "pinyin": "huídá",
         "vietnamese": [
             "trả lời"
@@ -1378,7 +1359,7 @@
         "freq": 3
     },
     "话": {
-        "id": 68,
+        "id": 67,
         "pinyin": "huà",
         "vietnamese": [
             "lời nói"
@@ -1397,7 +1378,7 @@
         "freq": 3
     },
     "最": {
-        "id": 69,
+        "id": 68,
         "pinyin": "zuì",
         "vietnamese": [
             "nhất, số một"
@@ -1417,7 +1398,7 @@
         "freq": 3
     },
     "下次": {
-        "id": 70,
+        "id": 69,
         "pinyin": "xià cì",
         "vietnamese": [
             "lần kế tiếp, lần sau"
@@ -1443,7 +1424,7 @@
         "freq": 3
     },
     "们": {
-        "id": 71,
+        "id": 70,
         "pinyin": "men",
         "vietnamese": [
             "từ chỉ số nhiều"
@@ -1462,7 +1443,7 @@
         "freq": 3
     },
     "累": {
-        "id": 72,
+        "id": 71,
         "pinyin": "lèi",
         "vietnamese": [
             "mệt mỏi"
@@ -1481,7 +1462,7 @@
         "freq": 3
     },
     "看到": {
-        "id": 73,
+        "id": 72,
         "pinyin": "kàn dào",
         "vietnamese": [
             "nhìn thấy"
@@ -1500,7 +1481,7 @@
         "freq": 3
     },
     "穿": {
-        "id": 74,
+        "id": 73,
         "pinyin": "chuān",
         "vietnamese": [
             "mặc"
@@ -1519,7 +1500,7 @@
         "freq": 3
     },
     "说话": {
-        "id": 75,
+        "id": 74,
         "pinyin": "shuōhuà",
         "vietnamese": [
             "nói, trò chuyện"
@@ -1545,7 +1526,7 @@
         "freq": 3
     },
     "从": {
-        "id": 76,
+        "id": 75,
         "pinyin": "cóng",
         "vietnamese": [
             "từ, qua, theo"
@@ -1564,7 +1545,7 @@
         "freq": 3
     },
     "事": {
-        "id": 77,
+        "id": 76,
         "pinyin": "shì",
         "vietnamese": [
             "chuyện, việc"
@@ -1590,7 +1571,7 @@
         "freq": 2
     },
     "生日": {
-        "id": 78,
+        "id": 77,
         "pinyin": "shēngrì",
         "vietnamese": [
             "ngày sinh nhật"
@@ -1610,7 +1591,7 @@
         "freq": 2
     },
     "书": {
-        "id": 79,
+        "id": 78,
         "pinyin": "shū",
         "vietnamese": [
             "sách"
@@ -1630,7 +1611,7 @@
         "freq": 2
     },
     "常常": {
-        "id": 80,
+        "id": 79,
         "pinyin": "chángcháng",
         "vietnamese": [
             "thường thường"
@@ -1649,7 +1630,7 @@
         "freq": 2
     },
     "一样": {
-        "id": 81,
+        "id": 80,
         "pinyin": "yīyàng",
         "vietnamese": [
             "giống nhau, như nhau"
@@ -1669,7 +1650,7 @@
         "freq": 2
     },
     "还是": {
-        "id": 82,
+        "id": 81,
         "pinyin": "háishì",
         "vietnamese": [
             "hay là"
@@ -1688,7 +1669,7 @@
         "freq": 2
     },
     "地": {
-        "id": 83,
+        "id": 82,
         "pinyin": "de",
         "vietnamese": [
             "đất, lục địa; trái đất"
@@ -1707,7 +1688,7 @@
         "freq": 2
     },
     "这些": {
-        "id": 84,
+        "id": 83,
         "pinyin": "zhèxiē",
         "vietnamese": [
             "những cái này"
@@ -1727,7 +1708,7 @@
         "freq": 2
     },
     "再": {
-        "id": 85,
+        "id": 84,
         "pinyin": "zài",
         "vietnamese": [
             "lại (chưa xảy ra)"
@@ -1747,7 +1728,7 @@
         "freq": 2
     },
     "同学": {
-        "id": 86,
+        "id": 85,
         "pinyin": "tóngxué",
         "vietnamese": [
             "bạn học"
@@ -1767,7 +1748,7 @@
         "freq": 2
     },
     "您": {
-        "id": 87,
+        "id": 86,
         "pinyin": "nín",
         "vietnamese": [
             "ngài, ông, bà (thể hiệntrọng)"
@@ -1787,7 +1768,7 @@
         "freq": 2
     },
     "有用": {
-        "id": 88,
+        "id": 87,
         "pinyin": "yǒuyòng",
         "vietnamese": [
             "có ích, có tác dụng"
@@ -1807,7 +1788,7 @@
         "freq": 2
     },
     "别人": {
-        "id": 89,
+        "id": 88,
         "pinyin": "biérén",
         "vietnamese": [
             "người khác, người ta"
@@ -1826,7 +1807,7 @@
         "freq": 2
     },
     "新年": {
-        "id": 90,
+        "id": 89,
         "pinyin": "xīnnián",
         "vietnamese": [
             "năm mới"
@@ -1846,7 +1827,7 @@
         "freq": 2
     },
     "去": {
-        "id": 91,
+        "id": 90,
         "pinyin": "qù",
         "vietnamese": [
             "đi"
@@ -1866,7 +1847,7 @@
         "freq": 2
     },
     "做": {
-        "id": 92,
+        "id": 91,
         "pinyin": "zuò",
         "vietnamese": [
             "làm"
@@ -1886,7 +1867,7 @@
         "freq": 2
     },
     "吧": {
-        "id": 93,
+        "id": 92,
         "pinyin": "ba",
         "vietnamese": [
             "nào, nhé, chứ, đi (trợ từ)"
@@ -1905,7 +1886,7 @@
         "freq": 2
     },
     "到": {
-        "id": 94,
+        "id": 93,
         "pinyin": "dào",
         "vietnamese": [
             "đến, tới"
@@ -1924,7 +1905,7 @@
         "freq": 2
     },
     "月": {
-        "id": 95,
+        "id": 94,
         "pinyin": "yuè",
         "vietnamese": [
             "mặt trăng, tháng"
@@ -1950,7 +1931,7 @@
         "freq": 1
     },
     "桌子": {
-        "id": 96,
+        "id": 95,
         "pinyin": "zhuōzi",
         "vietnamese": [
             "cái bàn"
@@ -1970,7 +1951,7 @@
         "freq": 1
     },
     "上": {
-        "id": 97,
+        "id": 96,
         "pinyin": "shàng",
         "vietnamese": [
             "trên"
@@ -1990,7 +1971,7 @@
         "freq": 1
     },
     "先": {
-        "id": 98,
+        "id": 97,
         "pinyin": "xiān",
         "vietnamese": [
             "trước"
@@ -2010,7 +1991,7 @@
         "freq": 1
     },
     "跟": {
-        "id": 99,
+        "id": 98,
         "pinyin": "gēn",
         "vietnamese": [
             "và, cùng"
@@ -2029,7 +2010,7 @@
         "freq": 1
     },
     "国家": {
-        "id": 100,
+        "id": 99,
         "pinyin": "guójiā",
         "vietnamese": [
             "đất nước, Quốc Gia"
@@ -2048,7 +2029,7 @@
         "freq": 1
     },
     "打开": {
-        "id": 101,
+        "id": 100,
         "pinyin": "dǎkāi",
         "vietnamese": [
             "mở, mở ra"
@@ -2067,7 +2048,7 @@
         "freq": 1
     },
     "新": {
-        "id": 102,
+        "id": 101,
         "pinyin": "xīn",
         "vietnamese": [
             "mới"
@@ -2087,7 +2068,7 @@
         "freq": 1
     },
     "难": {
-        "id": 103,
+        "id": 102,
         "pinyin": "nán",
         "vietnamese": [
             "khó"
@@ -2106,7 +2087,7 @@
         "freq": 1
     },
     "汉字": {
-        "id": 104,
+        "id": 103,
         "pinyin": "Hànzì",
         "vietnamese": [
             "chữ Hán"
@@ -2125,7 +2106,7 @@
         "freq": 1
     },
     "天": {
-        "id": 105,
+        "id": 104,
         "pinyin": "tiān",
         "vietnamese": [
             "trời"
@@ -2145,7 +2126,7 @@
         "freq": 1
     },
     "外国": {
-        "id": 106,
+        "id": 105,
         "pinyin": "wàiguó",
         "vietnamese": [
             "nước ngoài"
@@ -2165,7 +2146,7 @@
         "freq": 1
     },
     "一点儿": {
-        "id": 107,
+        "id": 106,
         "pinyin": "yīdiǎnr",
         "vietnamese": [
             "một chút"
@@ -2185,7 +2166,7 @@
         "freq": 1
     },
     "米饭": {
-        "id": 108,
+        "id": 107,
         "pinyin": "mǐfàn",
         "vietnamese": [
             "cơm"
@@ -2204,7 +2185,7 @@
         "freq": 1
     },
     "中": {
-        "id": 109,
+        "id": 108,
         "pinyin": "zhōng",
         "vietnamese": [
             "giữa"
@@ -2224,7 +2205,7 @@
         "freq": 1
     },
     "见面": {
-        "id": 110,
+        "id": 109,
         "pinyin": "jiànmiàn",
         "vietnamese": [
             "gặp mặt"
@@ -2243,7 +2224,7 @@
         "freq": 1
     },
     "饭": {
-        "id": 111,
+        "id": 110,
         "pinyin": "fàn",
         "vietnamese": [
             "cơm"
@@ -2262,7 +2243,7 @@
         "freq": 1
     },
     "别的": {
-        "id": 112,
+        "id": 111,
         "pinyin": "bié de",
         "vietnamese": [
             "cái khác"
@@ -2281,7 +2262,7 @@
         "freq": 1
     },
     "下课": {
-        "id": 113,
+        "id": 112,
         "pinyin": "xiàkè",
         "vietnamese": [
             "tan học"
@@ -2301,7 +2282,7 @@
         "freq": 1
     },
     "听见": {
-        "id": 114,
+        "id": 113,
         "pinyin": "tīngjiàn",
         "vietnamese": [
             "nghe thấy"
@@ -2321,7 +2302,7 @@
         "freq": 1
     },
     "上课": {
-        "id": 115,
+        "id": 114,
         "pinyin": "shàngkè",
         "vietnamese": [
             "vào lớp, đi học"
@@ -2347,7 +2328,7 @@
         "freq": 1
     },
     "开车": {
-        "id": 116,
+        "id": 115,
         "pinyin": "kāichē",
         "vietnamese": [
             "lái xe"
@@ -2366,7 +2347,7 @@
         "freq": 1
     },
     "送": {
-        "id": 117,
+        "id": 116,
         "pinyin": "sòng",
         "vietnamese": [
             "tặng, đưa cho"
@@ -2392,7 +2373,7 @@
         "freq": 1
     },
     "回家": {
-        "id": 118,
+        "id": 117,
         "pinyin": "huí jiā",
         "vietnamese": [
             "quay về"
@@ -2411,7 +2392,7 @@
         "freq": 1
     },
     "工作": {
-        "id": 119,
+        "id": 118,
         "pinyin": "gōngzuò",
         "vietnamese": [
             "công việc"
@@ -2430,7 +2411,7 @@
         "freq": 1
     },
     "孩子": {
-        "id": 120,
+        "id": 119,
         "pinyin": "háizi",
         "vietnamese": [
             "đứa trẻ, con (tôi)"
@@ -2449,7 +2430,7 @@
         "freq": 1
     },
     "写": {
-        "id": 121,
+        "id": 120,
         "pinyin": "xiě",
         "vietnamese": [
             "viết"
@@ -2469,7 +2450,7 @@
         "freq": 1
     },
     "字": {
-        "id": 122,
+        "id": 121,
         "pinyin": "zì",
         "vietnamese": [
             "chữ, chữ viết, văn tự"
@@ -2489,7 +2470,7 @@
         "freq": 1
     },
     "真": {
-        "id": 123,
+        "id": 122,
         "pinyin": "zhēn",
         "vietnamese": [
             "thật là"
@@ -2509,7 +2490,7 @@
         "freq": 1
     },
     "大": {
-        "id": 124,
+        "id": 123,
         "pinyin": "dà",
         "vietnamese": [
             "to, lớn"
@@ -2528,7 +2509,7 @@
         "freq": 1
     },
     "哪里": {
-        "id": 125,
+        "id": 124,
         "pinyin": "nǎlǐ",
         "vietnamese": [
             "đâu, ở đâu, ở chỗ nào"
@@ -2547,7 +2528,7 @@
         "freq": 1
     },
     "买": {
-        "id": 126,
+        "id": 125,
         "pinyin": "mǎi",
         "vietnamese": [
             "mua"
@@ -2566,7 +2547,7 @@
         "freq": 1
     },
     "个": {
-        "id": 127,
+        "id": 126,
         "pinyin": "gè",
         "vietnamese": [
             "cái"
@@ -2585,7 +2566,7 @@
         "freq": 1
     },
     "不用": {
-        "id": 128,
+        "id": 127,
         "pinyin": "bùyòng",
         "vietnamese": [
             "không cần"
@@ -2604,7 +2585,7 @@
         "freq": 1
     },
     "时间": {
-        "id": 129,
+        "id": 128,
         "pinyin": "shíjiān",
         "vietnamese": [
             "thời gian"
@@ -2624,7 +2605,7 @@
         "freq": 1
     },
     "正在": {
-        "id": 130,
+        "id": 129,
         "pinyin": "zhèngzài",
         "vietnamese": [
             "đang"
@@ -2644,7 +2625,7 @@
         "freq": 1
     },
     "听到": {
-        "id": 131,
+        "id": 130,
         "pinyin": "tīng dào",
         "vietnamese": [
             "nghe thấy"
@@ -2664,7 +2645,7 @@
         "freq": 1
     },
     "这里": {
-        "id": 132,
+        "id": 131,
         "pinyin": "zhèlǐ",
         "vietnamese": [
             "nơi đây"
@@ -2684,7 +2665,7 @@
         "freq": 1
     },
     "为什么": {
-        "id": 133,
+        "id": 132,
         "pinyin": "wèishénme",
         "vietnamese": [
             "tại sao, vì sao"
@@ -2704,7 +2685,7 @@
         "freq": 17
     },
     "对": {
-        "id": 134,
+        "id": 133,
         "pinyin": "duì",
         "vietnamese": [
             "đối với, đối đãi"
@@ -2730,7 +2711,7 @@
         "freq": 16
     },
     "礼物": {
-        "id": 135,
+        "id": 134,
         "pinyin": "lǐwù",
         "vietnamese": [
             "lễ vật, quà"
@@ -2750,7 +2731,7 @@
         "freq": 15
     },
     "红色": {
-        "id": 136,
+        "id": 135,
         "pinyin": "hóng sè",
         "vietnamese": [
             "màu đỏ"
@@ -2770,7 +2751,7 @@
         "freq": 13
     },
     "可以": {
-        "id": 137,
+        "id": 136,
         "pinyin": "kěyǐ",
         "vietnamese": [
             "có thể"
@@ -2790,7 +2771,7 @@
         "freq": 12
     },
     "不要": {
-        "id": 138,
+        "id": 137,
         "pinyin": "bú yào",
         "vietnamese": [
             "không cần, đừng"
@@ -2810,7 +2791,7 @@
         "freq": 11
     },
     "那": {
-        "id": 139,
+        "id": 138,
         "pinyin": "nà",
         "vietnamese": [
             "vậy, còn"
@@ -2836,7 +2817,7 @@
         "freq": 9
     },
     "问题": {
-        "id": 140,
+        "id": 139,
         "pinyin": "wèntí",
         "vietnamese": [
             "vấn đề, câu hỏi"
@@ -2862,7 +2843,7 @@
         "freq": 9
     },
     "它": {
-        "id": 141,
+        "id": 140,
         "pinyin": "tā",
         "vietnamese": [
             "nó, con"
@@ -2882,7 +2863,7 @@
         "freq": 9
     },
     "意思": {
-        "id": 142,
+        "id": 141,
         "pinyin": "yìsi",
         "vietnamese": [
             "ý nghĩa"
@@ -2902,7 +2883,7 @@
         "freq": 9
     },
     "然后": {
-        "id": 143,
+        "id": 142,
         "pinyin": "ránhòu",
         "vietnamese": [
             "sau đó"
@@ -2922,7 +2903,7 @@
         "freq": 8
     },
     "但是": {
-        "id": 144,
+        "id": 143,
         "pinyin": "dàn shì",
         "vietnamese": [
             "nhưng mà"
@@ -2942,7 +2923,7 @@
         "freq": 8
     },
     "事情": {
-        "id": 145,
+        "id": 144,
         "pinyin": "shìqing",
         "vietnamese": [
             "sự tình, sự việc"
@@ -2968,7 +2949,7 @@
         "freq": 7
     },
     "语言": {
-        "id": 146,
+        "id": 145,
         "pinyin": "yǔyán",
         "vietnamese": [
             "ngôn ngữ"
@@ -2988,7 +2969,7 @@
         "freq": 7
     },
     "词": {
-        "id": 147,
+        "id": 146,
         "pinyin": "cí",
         "vietnamese": [
             "từ"
@@ -3008,7 +2989,7 @@
         "freq": 7
     },
     "所以": {
-        "id": 148,
+        "id": 147,
         "pinyin": "suǒ yǐ",
         "vietnamese": [
             "vậy nên, thế nên"
@@ -3028,7 +3009,7 @@
         "freq": 7
     },
     "这样": {
-        "id": 149,
+        "id": 148,
         "pinyin": "zhè yàng",
         "vietnamese": [
             "như vậy, như thế, như này"
@@ -3060,7 +3041,7 @@
         "freq": 7
     },
     "过": {
-        "id": 150,
+        "id": 149,
         "pinyin": "guò",
         "vietnamese": [
             "đã, từng"
@@ -3080,7 +3061,7 @@
         "freq": 6
     },
     "有意思": {
-        "id": 151,
+        "id": 150,
         "pinyin": "yǒu yì si",
         "vietnamese": [
             "có ý nghĩa, hay"
@@ -3100,7 +3081,7 @@
         "freq": 6
     },
     "颜色": {
-        "id": 152,
+        "id": 151,
         "pinyin": "yánsè",
         "vietnamese": [
             "màu sắc"
@@ -3120,7 +3101,7 @@
         "freq": 6
     },
     "好像": {
-        "id": 153,
+        "id": 152,
         "pinyin": "hǎoxiàng",
         "vietnamese": [
             "hình như"
@@ -3140,7 +3121,7 @@
         "freq": 5
     },
     "如果": {
-        "id": 154,
+        "id": 153,
         "pinyin": "rúguǒ",
         "vietnamese": [
             "nếu như"
@@ -3160,7 +3141,7 @@
         "freq": 5
     },
     "帮助": {
-        "id": 155,
+        "id": 154,
         "pinyin": "bāngzhù",
         "vietnamese": [
             "giúp đỡ"
@@ -3180,7 +3161,7 @@
         "freq": 5
     },
     "这么": {
-        "id": 156,
+        "id": 155,
         "pinyin": "zhè me",
         "vietnamese": [
             "như thế, như vậy, như này"
@@ -3212,7 +3193,7 @@
         "freq": 5
     },
     "可能": {
-        "id": 157,
+        "id": 156,
         "pinyin": "kěnéng",
         "vietnamese": [
             "khả năng"
@@ -3232,7 +3213,7 @@
         "freq": 4
     },
     "让": {
-        "id": 158,
+        "id": 157,
         "pinyin": "ràng",
         "vietnamese": [
             "để, làm cho, khiến cho"
@@ -3252,7 +3233,7 @@
         "freq": 4
     },
     "因为": {
-        "id": 159,
+        "id": 158,
         "pinyin": "yīn wèi",
         "vietnamese": [
             "bởi vì"
@@ -3272,7 +3253,7 @@
         "freq": 4
     },
     "懂": {
-        "id": 160,
+        "id": 159,
         "pinyin": "dǒng",
         "vietnamese": [
             "hiểu"
@@ -3292,7 +3273,7 @@
         "freq": 4
     },
     "关心": {
-        "id": 161,
+        "id": 160,
         "pinyin": "guānxīn",
         "vietnamese": [
             "quan tâm"
@@ -3312,7 +3293,7 @@
         "freq": 4
     },
     "多": {
-        "id": 162,
+        "id": 161,
         "pinyin": "duō",
         "vietnamese": [
             "bao nhiêu, to nhường nào"
@@ -3338,7 +3319,7 @@
         "freq": 4
     },
     "习惯": {
-        "id": 163,
+        "id": 162,
         "pinyin": "xíguàn",
         "vietnamese": [
             "thói quen"
@@ -3358,7 +3339,7 @@
         "freq": 3
     },
     "或者": {
-        "id": 164,
+        "id": 163,
         "pinyin": "huòzhě",
         "vietnamese": [
             "hoặc là"
@@ -3378,7 +3359,7 @@
         "freq": 3
     },
     "应该": {
-        "id": 165,
+        "id": 164,
         "pinyin": "yīnggāi",
         "vietnamese": [
             "nên, đáng"
@@ -3404,7 +3385,7 @@
         "freq": 3
     },
     "词语": {
-        "id": 166,
+        "id": 165,
         "pinyin": "cíyǔ",
         "vietnamese": [
             "từ ngữ"
@@ -3424,7 +3405,7 @@
         "freq": 3
     },
     "比如": {
-        "id": 167,
+        "id": 166,
         "pinyin": "bǐrú",
         "vietnamese": [
             "ví dụ"
@@ -3444,7 +3425,7 @@
         "freq": 3
     },
     "努力": {
-        "id": 168,
+        "id": 167,
         "pinyin": "nǔlì",
         "vietnamese": [
             "nỗ lực, cố gắng"
@@ -3464,7 +3445,7 @@
         "freq": 3
     },
     "感谢": {
-        "id": 169,
+        "id": 168,
         "pinyin": "gǎnxiè",
         "vietnamese": [
             "cảm ơn, lời cảm ơn"
@@ -3490,7 +3471,7 @@
         "freq": 3
     },
     "故事": {
-        "id": 170,
+        "id": 169,
         "pinyin": "gùshi",
         "vietnamese": [
             "truyện, câu chuyện"
@@ -3510,7 +3491,7 @@
         "freq": 3
     },
     "小": {
-        "id": 171,
+        "id": 170,
         "pinyin": "xiǎo",
         "vietnamese": [
             "Tiểu + Tên"
@@ -3530,7 +3511,7 @@
         "freq": 2
     },
     "心里": {
-        "id": 172,
+        "id": 171,
         "pinyin": "xīn lǐ",
         "vietnamese": [
             "trong lòng"
@@ -3549,28 +3530,8 @@
         "hsk_level": "hsk_2",
         "freq": 2
     },
-    "当": {
-        "id": 173,
-        "pinyin": "dāng",
-        "vietnamese": [
-            "làm, đảm nhiệm"
-        ],
-        "english": [
-            "(v) work as, serve as, be (prep) when, while"
-        ],
-        "eg": [
-            {
-                "meaning": "làm, đảm nhiệm",
-                "eg_chinese": "他当了班长。",
-                "eg_pinyin": "Tā dāng le bānzhǎng.",
-                "eg_vietnamese": "Anh ấy đã làm lớp trưởng."
-            }
-        ],
-        "hsk_level": "hsk_2",
-        "freq": 2
-    },
     "以后": {
-        "id": 174,
+        "id": 172,
         "pinyin": "yǐ hòu",
         "vietnamese": [
             "sau này"
@@ -3590,7 +3551,7 @@
         "freq": 2
     },
     "原来": {
-        "id": 175,
+        "id": 173,
         "pinyin": "yuánlái",
         "vietnamese": [
             "ban đầu, thì ra, hóa ra"
@@ -3622,7 +3583,7 @@
         "freq": 2
     },
     "那么": {
-        "id": 176,
+        "id": 174,
         "pinyin": "nà me",
         "vietnamese": [
             "vậy thì, đến vậy, như thế"
@@ -3654,7 +3615,7 @@
         "freq": 2
     },
     "一般": {
-        "id": 177,
+        "id": 175,
         "pinyin": "yìbān",
         "vietnamese": [
             "thông thường, phổ biến"
@@ -3680,7 +3641,7 @@
         "freq": 2
     },
     "例子": {
-        "id": 178,
+        "id": 176,
         "pinyin": "lì zi",
         "vietnamese": [
             "ví dụ"
@@ -3700,7 +3661,7 @@
         "freq": 2
     },
     "更": {
-        "id": 179,
+        "id": 177,
         "pinyin": "gèng",
         "vietnamese": [
             "càng, thêm, hơn nữa"
@@ -3732,7 +3693,7 @@
         "freq": 2
     },
     "蓝色": {
-        "id": 180,
+        "id": 178,
         "pinyin": "lán sè",
         "vietnamese": [
             "màu xanh lam"
@@ -3752,7 +3713,7 @@
         "freq": 2
     },
     "特别": {
-        "id": 181,
+        "id": 179,
         "pinyin": "tèbié",
         "vietnamese": [
             "đặc biệt, vô cùng"
@@ -3778,7 +3739,7 @@
         "freq": 2
     },
     "的话": {
-        "id": 182,
+        "id": 180,
         "pinyin": "de huà",
         "vietnamese": [
             "nếu…."
@@ -3798,7 +3759,7 @@
         "freq": 2
     },
     "漂亮": {
-        "id": 183,
+        "id": 181,
         "pinyin": "piàoliang",
         "vietnamese": [
             "đẹp, xinh đẹp"
@@ -3824,7 +3785,7 @@
         "freq": 2
     },
     "送给": {
-        "id": 184,
+        "id": 182,
         "pinyin": "sòng gěi",
         "vietnamese": [
             "gửi cho, tặng cho"
@@ -3850,7 +3811,7 @@
         "freq": 1
     },
     "好事": {
-        "id": 185,
+        "id": 183,
         "pinyin": "hǎo shì",
         "vietnamese": [
             "chuyện tốt"
@@ -3870,7 +3831,7 @@
         "freq": 1
     },
     "可是": {
-        "id": 186,
+        "id": 184,
         "pinyin": "kěshì",
         "vietnamese": [
             "nhưng mà"
@@ -3890,7 +3851,7 @@
         "freq": 1
     },
     "一直": {
-        "id": 187,
+        "id": 185,
         "pinyin": "yìzhí",
         "vietnamese": [
             "luôn luôn, suốt, liên tục"
@@ -3916,7 +3877,7 @@
         "freq": 1
     },
     "不好意思": {
-        "id": 188,
+        "id": 186,
         "pinyin": "bù hǎo yì sī",
         "vietnamese": [
             "ngại quá, thật ngại quá"
@@ -3936,7 +3897,7 @@
         "freq": 1
     },
     "好多": {
-        "id": 189,
+        "id": 187,
         "pinyin": "hǎo duō",
         "vietnamese": [
             "rất nhiều"
@@ -3956,7 +3917,7 @@
         "freq": 1
     },
     "不过": {
-        "id": 190,
+        "id": 188,
         "pinyin": "búguò",
         "vietnamese": [
             "chẳng qua, nhưng mà"
@@ -3976,7 +3937,7 @@
         "freq": 1
     },
     "已经": {
-        "id": 191,
+        "id": 189,
         "pinyin": "yǐjīng",
         "vietnamese": [
             "đã, từng"
@@ -3996,7 +3957,7 @@
         "freq": 1
     },
     "完全": {
-        "id": 192,
+        "id": 190,
         "pinyin": "wánquán",
         "vietnamese": [
             "đầy đủ, hoàn toàn"
@@ -4016,7 +3977,7 @@
         "freq": 1
     },
     "大家": {
-        "id": 193,
+        "id": 191,
         "pinyin": "dàjiā",
         "vietnamese": [
             "mọi người"
@@ -4035,34 +3996,8 @@
         "hsk_level": "hsk_2",
         "freq": 1
     },
-    "成": {
-        "id": 194,
-        "pinyin": "chéng",
-        "vietnamese": [
-            "thành, hoàn thành"
-        ],
-        "english": [
-            "become; finish"
-        ],
-        "eg": [
-            {
-                "meaning": "thành",
-                "eg_chinese": "他终于成了医生。",
-                "eg_pinyin": "Tā zhōngyú chéngle yīshēng.",
-                "eg_vietnamese": "Cuối cùng anh ấy đã thành bác sĩ."
-            },
-            {
-                "meaning": "hoàn thành",
-                "eg_chinese": "我们已经成了这个项目。",
-                "eg_pinyin": "Wǒmen yǐjīng chéngle zhège xiàngmù.",
-                "eg_vietnamese": "Chúng tôi đã hoàn thành dự án này."
-            }
-        ],
-        "hsk_level": "hsk_2",
-        "freq": 1
-    },
     "当时": {
-        "id": 195,
+        "id": 192,
         "pinyin": "dāngshí",
         "vietnamese": [
             "lúc đó, khi đó"
@@ -4082,7 +4017,7 @@
         "freq": 1
     },
     "不但": {
-        "id": 196,
+        "id": 193,
         "pinyin": "bú dàn",
         "vietnamese": [
             "không những…, không chỉ…."
@@ -4102,7 +4037,7 @@
         "freq": 1
     },
     "表示": {
-        "id": 197,
+        "id": 194,
         "pinyin": "biǎoshì",
         "vietnamese": [
             "bày tỏ, thể hiện"
@@ -4122,7 +4057,7 @@
         "freq": 1
     },
     "开心": {
-        "id": 198,
+        "id": 195,
         "pinyin": "kāixīn",
         "vietnamese": [
             "vui vẻ"
@@ -4142,7 +4077,7 @@
         "freq": 1
     },
     "以前": {
-        "id": 199,
+        "id": 196,
         "pinyin": "yǐqián",
         "vietnamese": [
             "trước kia, trước đây"
@@ -4162,7 +4097,7 @@
         "freq": 1
     },
     "白色": {
-        "id": 200,
+        "id": 197,
         "pinyin": "bái sè",
         "vietnamese": [
             "màu trắng"
@@ -4182,7 +4117,7 @@
         "freq": 1
     },
     "春节": {
-        "id": 201,
+        "id": 198,
         "pinyin": "chūn jié",
         "vietnamese": [
             "Tết âm lịch, tết Nguyên Đán"
@@ -4208,7 +4143,7 @@
         "freq": 1
     },
     "不同": {
-        "id": 202,
+        "id": 199,
         "pinyin": "bù tóng",
         "vietnamese": [
             "không giống nhau"
@@ -4228,7 +4163,7 @@
         "freq": 1
     },
     "到处": {
-        "id": 203,
+        "id": 200,
         "pinyin": "dàochù",
         "vietnamese": [
             "khắp nơi, mọi nơi"
@@ -4248,7 +4183,7 @@
         "freq": 1
     },
     "收到": {
-        "id": 204,
+        "id": 201,
         "pinyin": "shōu dào",
         "vietnamese": [
             "nhận được (mặt vật chất)"
@@ -4268,7 +4203,7 @@
         "freq": 1
     },
     "成为": {
-        "id": 205,
+        "id": 202,
         "pinyin": "chéngwéi",
         "vietnamese": [
             "trở thành, biến thành"
@@ -4294,7 +4229,7 @@
         "freq": 1
     },
     "真正": {
-        "id": 206,
+        "id": 203,
         "pinyin": "zhēnzhèng",
         "vietnamese": [
             "chân chính"
@@ -4314,7 +4249,7 @@
         "freq": 1
     },
     "正是": {
-        "id": 207,
+        "id": 204,
         "pinyin": "zhèng shì",
         "vietnamese": [
             "đúng là, chính là"
@@ -4340,7 +4275,7 @@
         "freq": 1
     },
     "身边": {
-        "id": 208,
+        "id": 205,
         "pinyin": "shēn biān",
         "vietnamese": [
             "bên cạnh, ngay cạnh"
@@ -4366,7 +4301,7 @@
         "freq": 1
     },
     "直接": {
-        "id": 209,
+        "id": 206,
         "pinyin": "zhíjiē",
         "vietnamese": [
             "trực tiếp"
@@ -4386,7 +4321,7 @@
         "freq": 1
     },
     "说明": {
-        "id": 210,
+        "id": 207,
         "pinyin": "shuōmíng",
         "vietnamese": [
             "nói rõ"
@@ -4406,7 +4341,7 @@
         "freq": 1
     },
     "自己": {
-        "id": 211,
+        "id": 208,
         "pinyin": "zìjǐ",
         "vietnamese": [
             "tự mình, tự bản thân"
@@ -4426,7 +4361,7 @@
         "freq": 1
     },
     "机会": {
-        "id": 212,
+        "id": 209,
         "pinyin": "jīhuì",
         "vietnamese": [
             "cơ hội"
@@ -4446,7 +4381,7 @@
         "freq": 1
     },
     "句子": {
-        "id": 213,
+        "id": 210,
         "pinyin": "jùzi",
         "vietnamese": [
             "câu"
@@ -4466,7 +4401,7 @@
         "freq": 1
     },
     "欢迎": {
-        "id": 214,
+        "id": 211,
         "pinyin": "huānyíng",
         "vietnamese": [
             "hoan nghênh"
@@ -4486,7 +4421,7 @@
         "freq": 1
     },
     "了": {
-        "id": 215,
+        "id": 212,
         "pinyin": "liăo",
         "vietnamese": [
             "dùng sau động từ biểu thị có thể hoặc không thể"
@@ -4506,7 +4441,7 @@
         "freq": 64
     },
     "文化": {
-        "id": 216,
+        "id": 213,
         "pinyin": "wénhuà",
         "vietnamese": [
             "văn hóa"
@@ -4526,7 +4461,7 @@
         "freq": 32
     },
     "就是": {
-        "id": 217,
+        "id": 214,
         "pinyin": "jiùshì",
         "vietnamese": [
             "đúng, chính xác, chính là"
@@ -4546,7 +4481,7 @@
         "freq": 7
     },
     "当然": {
-        "id": 218,
+        "id": 215,
         "pinyin": "dāngrán",
         "vietnamese": [
             "đương nhiên, tất nhiên"
@@ -4572,7 +4507,7 @@
         "freq": 6
     },
     "开始": {
-        "id": 219,
+        "id": 216,
         "pinyin": "kāishǐ",
         "vietnamese": [
             "bắt đầu"
@@ -4592,7 +4527,7 @@
         "freq": 6
     },
     "关系": {
-        "id": 220,
+        "id": 217,
         "pinyin": "guānxi",
         "vietnamese": [
             "quan hệ"
@@ -4612,7 +4547,7 @@
         "freq": 5
     },
     "只是": {
-        "id": 221,
+        "id": 218,
         "pinyin": "zhǐshì",
         "vietnamese": [
             "chỉ là, chẳng qua là"
@@ -4632,7 +4567,7 @@
         "freq": 4
     },
     "简单": {
-        "id": 222,
+        "id": 219,
         "pinyin": "jiǎndān",
         "vietnamese": [
             "đơn giản"
@@ -4652,7 +4587,7 @@
         "freq": 3
     },
     "需要": {
-        "id": 223,
+        "id": 220,
         "pinyin": "xūyào",
         "vietnamese": [
             "yêu cầu, cần"
@@ -4672,7 +4607,7 @@
         "freq": 3
     },
     "只": {
-        "id": 224,
+        "id": 221,
         "pinyin": "zhī",
         "vietnamese": [
             "đơn độc, lẻ loi"
@@ -4692,7 +4627,7 @@
         "freq": 3
     },
     "把": {
-        "id": 225,
+        "id": 222,
         "pinyin": "bǎ",
         "vietnamese": [
             "con, cây, chiếc"
@@ -4712,7 +4647,7 @@
         "freq": 2
     },
     "奇怪": {
-        "id": 226,
+        "id": 223,
         "pinyin": "qíguài",
         "vietnamese": [
             "kì quặc, kì quái"
@@ -4738,7 +4673,7 @@
         "freq": 2
     },
     "复杂": {
-        "id": 227,
+        "id": 224,
         "pinyin": "fùzá",
         "vietnamese": [
             "phức tạp"
@@ -4758,7 +4693,7 @@
         "freq": 2
     },
     "代表": {
-        "id": 228,
+        "id": 225,
         "pinyin": "dàibiǎo",
         "vietnamese": [
             "đại diện, thay mặt"
@@ -4778,7 +4713,7 @@
         "freq": 2
     },
     "害怕": {
-        "id": 229,
+        "id": 226,
         "pinyin": "hàipà",
         "vietnamese": [
             "sợ hãi"
@@ -4798,7 +4733,7 @@
         "freq": 2
     },
     "心": {
-        "id": 230,
+        "id": 227,
         "pinyin": "xīn",
         "vietnamese": [
             "trái tim, trung tâm"
@@ -4824,7 +4759,7 @@
         "freq": 2
     },
     "每": {
-        "id": 231,
+        "id": 228,
         "pinyin": "měi",
         "vietnamese": [
             "mỗi"
@@ -4844,7 +4779,7 @@
         "freq": 2
     },
     "看起来": {
-        "id": 232,
+        "id": 229,
         "pinyin": "kàn qǐlái",
         "vietnamese": [
             "xem ra, trông có vẻ"
@@ -4864,7 +4799,7 @@
         "freq": 1
     },
     "发生": {
-        "id": 233,
+        "id": 230,
         "pinyin": "fāshēng",
         "vietnamese": [
             "phát sinh"
@@ -4884,7 +4819,7 @@
         "freq": 1
     },
     "叫": {
-        "id": 234,
+        "id": 231,
         "pinyin": "jiào",
         "vietnamese": [
             "kêu, gọi"
@@ -4910,7 +4845,7 @@
         "freq": 1
     },
     "话题": {
-        "id": 235,
+        "id": 232,
         "pinyin": "huàtí",
         "vietnamese": [
             "đề tài, chủ đề"
@@ -4930,7 +4865,7 @@
         "freq": 1
     },
     "后面": {
-        "id": 236,
+        "id": 233,
         "pinyin": "hòumiàn",
         "vietnamese": [
             "mặt sau"
@@ -4950,7 +4885,7 @@
         "freq": 1
     },
     "为": {
-        "id": 237,
+        "id": 234,
         "pinyin": "wéi",
         "vietnamese": [
             "để, vì, với"
@@ -4970,7 +4905,7 @@
         "freq": 1
     },
     "祝": {
-        "id": 238,
+        "id": 235,
         "pinyin": "zhù",
         "vietnamese": [
             "chúc, cầu chúc"
@@ -4990,7 +4925,7 @@
         "freq": 1
     },
     "苹果": {
-        "id": 239,
+        "id": 236,
         "pinyin": "píngguǒ",
         "vietnamese": [
             "quả táo"
@@ -5010,7 +4945,7 @@
         "freq": 1
     },
     "方式": {
-        "id": 240,
+        "id": 237,
         "pinyin": "fāngshì",
         "vietnamese": [
             "phương thức, cách thức"
@@ -5030,7 +4965,7 @@
         "freq": 1
     },
     "温暖": {
-        "id": 241,
+        "id": 238,
         "pinyin": "wēnnuǎn",
         "vietnamese": [
             "ấm áp"
@@ -5050,7 +4985,7 @@
         "freq": 1
     },
     "员": {
-        "id": 242,
+        "id": 239,
         "pinyin": "yuán",
         "vietnamese": [
             "nhân viên, thành viên"
@@ -5076,7 +5011,7 @@
         "freq": 1
     },
     "并且": {
-        "id": 243,
+        "id": 240,
         "pinyin": "bìngqiě",
         "vietnamese": [
             "đồng thời, cũng"
@@ -5102,7 +5037,7 @@
         "freq": 1
     },
     "感情": {
-        "id": 244,
+        "id": 241,
         "pinyin": "gǎnqíng",
         "vietnamese": [
             "tình cảm"
@@ -5122,7 +5057,7 @@
         "freq": 1
     },
     "结婚": {
-        "id": 245,
+        "id": 242,
         "pinyin": "jiéhūn",
         "vietnamese": [
             "kết hôn"
@@ -5142,7 +5077,7 @@
         "freq": 1
     },
     "里面": {
-        "id": 246,
+        "id": 243,
         "pinyin": "lǐmiàn",
         "vietnamese": [
             "bên trong"
@@ -5162,7 +5097,7 @@
         "freq": 1
     },
     "麻烦": {
-        "id": 247,
+        "id": 244,
         "pinyin": "máfan",
         "vietnamese": [
             "làm phiền, phiền phức"
@@ -5188,7 +5123,7 @@
         "freq": 1
     },
     "解决": {
-        "id": 248,
+        "id": 245,
         "pinyin": "jiějué",
         "vietnamese": [
             "giải quyết"
@@ -5208,7 +5143,7 @@
         "freq": 1
     },
     "建议": {
-        "id": 249,
+        "id": 246,
         "pinyin": "jiànyì",
         "vietnamese": [
             "kiến nghị"
@@ -5228,7 +5163,7 @@
         "freq": 1
     },
     "主意": {
-        "id": 250,
+        "id": 247,
         "pinyin": "zhǔyì",
         "vietnamese": [
             "chủ ý, ý kiến"
@@ -5248,7 +5183,7 @@
         "freq": 1
     },
     "不仅": {
-        "id": 251,
+        "id": 248,
         "pinyin": "bùjǐn",
         "vietnamese": [
             "không chỉ"
@@ -5268,7 +5203,7 @@
         "freq": 1
     },
     "总结": {
-        "id": 252,
+        "id": 249,
         "pinyin": "zǒngjié",
         "vietnamese": [
             "tổng kết"
@@ -5288,7 +5223,7 @@
         "freq": 1
     },
     "希望": {
-        "id": 253,
+        "id": 250,
         "pinyin": "xīwàng",
         "vietnamese": [
             "hy vọng, mong ước"
@@ -5308,7 +5243,7 @@
         "freq": 1
     },
     "好": {
-        "id": 254,
+        "id": 251,
         "pinyin": "hào",
         "vietnamese": [
             "thích, yêu thích"
@@ -5328,7 +5263,7 @@
         "freq": 14
     },
     "啊": {
-        "id": 255,
+        "id": 252,
         "pinyin": "a",
         "vietnamese": [
             "a , oh"
@@ -5354,7 +5289,7 @@
         "freq": 6
     },
     "误会": {
-        "id": 256,
+        "id": 253,
         "pinyin": "wùhuì",
         "vietnamese": [
             "hiểu nhầm"
@@ -5374,7 +5309,7 @@
         "freq": 6
     },
     "遇到": {
-        "id": 257,
+        "id": 254,
         "pinyin": "yùdào",
         "vietnamese": [
             "gặp phải"
@@ -5394,7 +5329,7 @@
         "freq": 4
     },
     "得": {
-        "id": 258,
+        "id": 255,
         "pinyin": "děi",
         "vietnamese": [
             "phải, cần"
@@ -5414,7 +5349,7 @@
         "freq": 4
     },
     "了解": {
-        "id": 259,
+        "id": 256,
         "pinyin": "liǎojiě",
         "vietnamese": [
             "hiểu rõ, biết rõ"
@@ -5434,7 +5369,7 @@
         "freq": 4
     },
     "要": {
-        "id": 260,
+        "id": 257,
         "pinyin": "yào",
         "vietnamese": [
             "nếu, nếu như"
@@ -5454,7 +5389,7 @@
         "freq": 4
     },
     "红包": {
-        "id": 261,
+        "id": 258,
         "pinyin": "hóng bāo",
         "vietnamese": [
             "lì xì"
@@ -5474,7 +5409,7 @@
         "freq": 3
     },
     "语法": {
-        "id": 262,
+        "id": 259,
         "pinyin": "yǔfǎ",
         "vietnamese": [
             "ngữ pháp"
@@ -5494,7 +5429,7 @@
         "freq": 2
     },
     "关于": {
-        "id": 263,
+        "id": 260,
         "pinyin": "guānyú",
         "vietnamese": [
             "về , liên quan tới"
@@ -5514,7 +5449,7 @@
         "freq": 2
     },
     "地方": {
-        "id": 264,
+        "id": 261,
         "pinyin": "dìfang",
         "vietnamese": [
             "địa bàn, địa phương"
@@ -5534,7 +5469,7 @@
         "freq": 1
     },
     "并": {
-        "id": 265,
+        "id": 262,
         "pinyin": "bìng",
         "vietnamese": [
             "hợp lại, hơn thế, và"
@@ -5560,7 +5495,7 @@
         "freq": 1
     },
     "之间": {
-        "id": 266,
+        "id": 263,
         "pinyin": "zhī jiān",
         "vietnamese": [
             "giữa"
@@ -5580,7 +5515,7 @@
         "freq": 1
     },
     "付出": {
-        "id": 267,
+        "id": 264,
         "pinyin": "fù chū",
         "vietnamese": [
             "trả giá, đánh đổi"
@@ -5600,7 +5535,7 @@
         "freq": 1
     },
     "快递": {
-        "id": 268,
+        "id": 265,
         "pinyin": "kuài dì",
         "vietnamese": [
             "chuyển phát nhanh"
@@ -5620,7 +5555,7 @@
         "freq": 1
     },
     "没错": {
-        "id": 269,
+        "id": 266,
         "pinyin": "méi cuò",
         "vietnamese": [
             "không sai, đúng rồi"
@@ -5640,7 +5575,7 @@
         "freq": 1
     },
     "新娘": {
-        "id": 270,
+        "id": 267,
         "pinyin": "xīnniáng",
         "vietnamese": [
             "cô dâu"
@@ -5660,7 +5595,7 @@
         "freq": 1
     },
     "祝福": {
-        "id": 271,
+        "id": 268,
         "pinyin": "zhùfú",
         "vietnamese": [
             "chúc phúc"
@@ -5680,7 +5615,7 @@
         "freq": 1
     },
     "运气": {
-        "id": 272,
+        "id": 269,
         "pinyin": "yùnqi",
         "vietnamese": [
             "vận khí, vận may"
@@ -5700,7 +5635,7 @@
         "freq": 1
     },
     "反而": {
-        "id": 273,
+        "id": 270,
         "pinyin": "fǎn’ér",
         "vietnamese": [
             "trái lại, ngược lại"
@@ -5720,7 +5655,7 @@
         "freq": 1
     },
     "着": {
-        "id": 274,
+        "id": 271,
         "pinyin": "zháo",
         "vietnamese": [
             "sáng, bốc cháy; được, trúng"
@@ -5758,7 +5693,7 @@
         "freq": 1
     },
     "呀": {
-        "id": 275,
+        "id": 272,
         "pinyin": "ya",
         "vietnamese": [
             "a, ô, úi"
@@ -5778,7 +5713,7 @@
         "freq": 1
     },
     "轻松": {
-        "id": 276,
+        "id": 273,
         "pinyin": "qīngsōng",
         "vietnamese": [
             "thư giãn, thoải mái, nhẹ nhõm"
@@ -5804,7 +5739,7 @@
         "freq": 1
     },
     "期待": {
-        "id": 277,
+        "id": 274,
         "pinyin": "qīdài",
         "vietnamese": [
             "kỳ vọng"
@@ -5824,7 +5759,7 @@
         "freq": 1
     },
     "辛苦": {
-        "id": 278,
+        "id": 275,
         "pinyin": "xīnkǔ",
         "vietnamese": [
             "vất vả, cực nhọc"
@@ -5845,7 +5780,7 @@
         "freq": 9
     },
     "客气": {
-        "id": 279,
+        "id": 276,
         "pinyin": "kèqì",
         "vietnamese": [
             "khách sáo, khách khí"
@@ -5866,7 +5801,7 @@
         "freq": 5
     },
     "认识": {
-        "id": 280,
+        "id": 277,
         "pinyin": "rènshí",
         "vietnamese": [
             "nhận thức"
@@ -5887,7 +5822,7 @@
         "freq": 3
     },
     "礼貌": {
-        "id": 281,
+        "id": 278,
         "pinyin": "lǐmào",
         "vietnamese": [
             "lễ phép, lịch sự"
@@ -5914,7 +5849,7 @@
         "freq": 1
     },
     "猜": {
-        "id": 282,
+        "id": 279,
         "pinyin": "cāi",
         "vietnamese": [
             "đoán, suy đoán"
@@ -5934,8 +5869,29 @@
         "hsk_level": "hsk_5",
         "freq": 1
     },
+    "看": {
+        "id": 280,
+        "pinyin": "kān",
+        "vietnamese": [
+            "nhìn, xem, đọc"
+        ],
+        "english": [
+            "look after, keep watch over"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "nhìn, xem, đọc",
+                "eg_chinese": "我想看一部电影。",
+                "eg_pinyin": "Wǒ xiǎng kàn yī bù diànyǐng.",
+                "eg_vietnamese": "Tôi muốn xem một bộ phim."
+            }
+        ],
+        "hsk_level": "hsk_6",
+        "freq": 8
+    },
     "有没有": {
-        "id": 283,
+        "id": 281,
         "pinyin": "yǒu méi yǒu",
         "vietnamese": [
             "có hay không"
@@ -5955,8 +5911,29 @@
         "hsk_level": "hsk_6",
         "freq": 3
     },
+    "当": {
+        "id": 282,
+        "pinyin": "dāng",
+        "vietnamese": [
+            "tương đương, cho rằng"
+        ],
+        "english": [
+            "be equal to; regard as; think; pawn"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "tương đương, cho rằng",
+                "eg_chinese": "我当他是我的朋友。",
+                "eg_pinyin": "wǒ dāng tā shì wǒ de péngyǒu.",
+                "eg_vietnamese": "Tôi cho rằng anh ấy là bạn của tôi."
+            }
+        ],
+        "hsk_level": "hsk_6",
+        "freq": 2
+    },
     "一模一样": {
-        "id": 284,
+        "id": 283,
         "pinyin": "yì mú yí yàng",
         "vietnamese": [
             "giống y như đúc"
@@ -5971,6 +5948,33 @@
                 "eg_chinese": "这件衣服和那件一模一样。",
                 "eg_pinyin": "zhè jiàn yīfú hé nà jiàn yì mú yí yàng.",
                 "eg_vietnamese": "Cái áo này giống y như đúc cái kia."
+            }
+        ],
+        "hsk_level": "hsk_6",
+        "freq": 1
+    },
+    "成": {
+        "id": 284,
+        "pinyin": "chéng",
+        "vietnamese": [
+            "thành, phần (lượng từ)"
+        ],
+        "english": [
+            "one teeth"
+        ],
+        "num_appear": 0,
+        "eg": [
+            {
+                "meaning": "thành",
+                "eg_chinese": "这个城市越来越成气候。",
+                "eg_pinyin": "Zhège chéngshì yuè lái yuè chéng qìhòu.",
+                "eg_vietnamese": "Thành phố này ngày càng phát triển."
+            },
+            {
+                "meaning": "phần (lượng từ)",
+                "eg_chinese": "请给我一成牛肉。",
+                "eg_pinyin": "Qǐng gěi wǒ yī chéng niúròu.",
+                "eg_vietnamese": "Xin hãy cho tôi một phần thịt bò."
             }
         ],
         "hsk_level": "hsk_6",
